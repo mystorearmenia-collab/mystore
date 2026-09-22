@@ -12,7 +12,8 @@ export type ProductArt =
   | "earbuds"
   | "speaker"
   | "camera"
-  | "drone";
+  | "drone"
+  | "accessory";
 
 type Props = {
   art: ProductArt;
@@ -76,6 +77,7 @@ const viewBox: Record<ProductArt, string> = {
   speaker: "54 42 92 116",
   camera: "30 46 140 108",
   drone: "25 41 150 118",
+  accessory: "58 62 84 76",
 };
 
 const shapes: Record<ProductArt, ReactNode> = {
@@ -204,6 +206,15 @@ const shapes: Record<ProductArt, ReactNode> = {
       <circle cx="44" cy="140" r="15" fill="none" stroke={EDGE} strokeWidth="1.4" />
       <circle cx="156" cy="140" r="15" fill="none" stroke={EDGE} strokeWidth="1.4" />
       <circle cx="100" cy="122" r="7" fill={SCREEN} stroke={ORANGE} strokeWidth="1.3" opacity="0.9" />
+    </g>
+  ),
+  accessory: (
+    <g>
+      <rect x="62" y="66" width="76" height="68" rx="14" fill={BODY} stroke={EDGE} />
+      <rect x="72" y="76" width="56" height="34" rx="6" fill={SCREEN} stroke={EDGE} strokeWidth="0.8" />
+      <circle cx="100" cy="122" r="5" fill={BODY_DARK} stroke={EDGE} strokeWidth="0.8" />
+      <path d="M92 122h16" stroke={ORANGE} strokeWidth="1.6" strokeLinecap="round" opacity="0.85" />
+      <path d="M78 90h44" stroke={EDGE} strokeWidth="1" opacity="0.6" />
     </g>
   ),
 };
