@@ -1,0 +1,5841 @@
+{
+  "meta": {
+    "generated_from": "yerevanmobile.am export (facts only: model names + specifications)",
+    "warning": "PRICES ARE PLACEHOLDERS copied from a competitor — replace with MyStore pricing before launch.",
+    "product_count": 40
+  },
+  "categories": [
+    {
+      "id": "iphone",
+      "name": {
+        "hy": "iPhone",
+        "ru": "iPhone",
+        "en": "iPhone"
+      },
+      "href": "/iphone",
+      "art": "iphone",
+      "count": 27
+    },
+    {
+      "id": "samsung",
+      "name": {
+        "hy": "Samsung",
+        "ru": "Samsung",
+        "en": "Samsung"
+      },
+      "href": "/samsung",
+      "art": "galaxy",
+      "count": 30
+    },
+    {
+      "id": "mac",
+      "name": {
+        "hy": "Mac",
+        "ru": "Mac",
+        "en": "Mac"
+      },
+      "href": "/mac",
+      "art": "macbook",
+      "count": 75
+    },
+    {
+      "id": "ipad",
+      "name": {
+        "hy": "iPad",
+        "ru": "iPad",
+        "en": "iPad"
+      },
+      "href": "/ipad",
+      "art": "ipad",
+      "count": 15
+    },
+    {
+      "id": "gaming",
+      "name": {
+        "hy": "PlayStation",
+        "ru": "PlayStation",
+        "en": "PlayStation"
+      },
+      "href": "/gaming",
+      "art": "playstation",
+      "count": 145
+    },
+    {
+      "id": "audio",
+      "name": {
+        "hy": "Աուդիո",
+        "ru": "Аудио",
+        "en": "Audio"
+      },
+      "href": "/audio",
+      "art": "headphones",
+      "count": 18
+    },
+    {
+      "id": "dyson",
+      "name": {
+        "hy": "Dyson",
+        "ru": "Dyson",
+        "en": "Dyson"
+      },
+      "href": "/dyson",
+      "art": "dyson",
+      "count": 55
+    },
+    {
+      "id": "accessories",
+      "name": {
+        "hy": "Աքսեսուարներ",
+        "ru": "Аксессуары",
+        "en": "Accessories"
+      },
+      "href": "/accessories",
+      "art": "earbuds",
+      "count": 75
+    }
+  ],
+  "products": [
+    {
+      "id": "iphone-15",
+      "brand": "Apple",
+      "name": "iPhone 15",
+      "config": {
+        "hy": "6.1 inch",
+        "ru": "6.1 inch",
+        "en": "6.1 inch"
+      },
+      "price": 299000,
+      "oldPrice": null,
+      "monthly": 6650,
+      "availability": "in-stock",
+      "art": "iphone",
+      "image": null,
+      "sourceRef": {
+        "sku": "2632_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/y/u/yuiop.jpg",
+          "https://yerevanmobile.am/media/catalog/product/i/p/iphone_15_plus_pink_pdp_image_position-1_alt__ww-en.jpg",
+          "https://yerevanmobile.am/media/catalog/product/i/p/iphone_15_plus_pink_pdp_image_position-2__ww-en.jpg",
+          "https://yerevanmobile.am/media/catalog/product/i/p/iphone_15_plus_black_pdp_image_position-1__ww-en.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Օպերացիոն համակարգ",
+                "ru": "Операционная система",
+                "en": "Operating system"
+              },
+              "value": {
+                "hy": "IOS",
+                "ru": "IOS",
+                "en": "IOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2023",
+                "ru": "2023",
+                "en": "2023"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Ստանդարտ ցանց",
+                "ru": "Стандарт сети",
+                "en": "Network standard"
+              },
+              "value": {
+                "hy": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                "ru": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                "en": "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.1 inch",
+                "ru": "6.1 inch",
+                "en": "6.1 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Super Retina XDR OLED",
+                "ru": "Super Retina XDR OLED",
+                "en": "Super Retina XDR OLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1179 x 2556",
+                "ru": "1179 x 2556",
+                "en": "1179 x 2556"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-17-pro-max",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro Max",
+      "config": {
+        "hy": "eSIM",
+        "ru": "eSIM",
+        "en": "eSIM"
+      },
+      "price": 525000,
+      "oldPrice": null,
+      "monthly": 11230,
+      "availability": "in-stock",
+      "art": "iphone",
+      "image": null,
+      "sourceRef": {
+        "sku": "8709_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/d/e/deep_blue_1_11.jpg",
+          "https://yerevanmobile.am/media/catalog/product/c/o/cosmic_orange_7.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver_pro_11.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iOS 26",
+                "ru": "iOS 26",
+                "en": "iOS 26"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.9 inch",
+                "ru": "6.9 inch",
+                "en": "6.9 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "LTPO Super Retina XDR OLED",
+                "ru": "LTPO Super Retina XDR OLED",
+                "en": "LTPO Super Retina XDR OLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1320x2868",
+                "ru": "1320x2868",
+                "en": "1320x2868"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP + 48MP + 48MP",
+                "ru": "48MP + 48MP + 48MP",
+                "en": "48MP + 48MP + 48MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-17e",
+      "brand": "Apple",
+      "name": "iPhone 17e",
+      "config": {
+        "hy": "6.1 inch",
+        "ru": "6.1 inch",
+        "en": "6.1 inch"
+      },
+      "price": 429000,
+      "oldPrice": null,
+      "monthly": 9360,
+      "availability": "on-request",
+      "art": "iphone",
+      "image": null,
+      "sourceRef": {
+        "sku": "9907_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61y6zvm2hbl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61jsnuo7ocl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61cawqbanml._ac_uf894_1000_ql80_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/1/7/17e.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iOS 26.3",
+                "ru": "iOS 26.3",
+                "en": "iOS 26.3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.1 inch",
+                "ru": "6.1 inch",
+                "en": "6.1 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Super Retina XDR OLED",
+                "ru": "Super Retina XDR OLED",
+                "en": "Super Retina XDR OLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1170 x 2532",
+                "ru": "1170 x 2532",
+                "en": "1170 x 2532"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP",
+                "ru": "48MP",
+                "en": "48MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "brand": "Apple",
+      "name": "iPhone 18 Pro Max",
+      "config": {
+        "hy": "Nano-SIM",
+        "ru": "Nano-SIM",
+        "en": "Nano-SIM"
+      },
+      "price": 929000,
+      "oldPrice": null,
+      "monthly": 19780,
+      "availability": "in-stock",
+      "art": "iphone",
+      "image": null,
+      "sourceRef": {
+        "sku": "11300_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/a/0/a07cigke2m5o4xrfmqpt720stfg2xr2h_2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/n/d/ndtfoen3lkqto1426lvf26ceutrehfyi_2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/d/rd8r5p4auxtekfcdgqshu0s0l4depo1z_2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/c/7/c7juee926lwp02pbd2x1ucacmnt6neow_2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iOS 27",
+                "ru": "iOS 27",
+                "en": "iOS 27"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.9 inch",
+                "ru": "6.9 inch",
+                "en": "6.9 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "LTPO Super Retina XDR OLED",
+                "ru": "LTPO Super Retina XDR OLED",
+                "en": "LTPO Super Retina XDR OLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1320 x 2868",
+                "ru": "1320 x 2868",
+                "en": "1320 x 2868"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP + 48MP + 48MP",
+                "ru": "48MP + 48MP + 48MP",
+                "en": "48MP + 48MP + 48MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-17-pro",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro",
+      "config": {
+        "hy": "Nano-SIM",
+        "ru": "Nano-SIM",
+        "en": "Nano-SIM"
+      },
+      "price": 519000,
+      "oldPrice": null,
+      "monthly": 11030,
+      "availability": "in-stock",
+      "art": "iphone",
+      "image": null,
+      "sourceRef": {
+        "sku": "8681_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/c/o/cosmic_orange.jpg",
+          "https://yerevanmobile.am/media/catalog/product/d/e/deep_blue.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver_pro.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iOS 26",
+                "ru": "iOS 26",
+                "en": "iOS 26"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.3 inch",
+                "ru": "6.3 inch",
+                "en": "6.3 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "LTPO Super Retina XDR OLED, 120Hz",
+                "ru": "LTPO Super Retina XDR OLED, 120Hz",
+                "en": "LTPO Super Retina XDR OLED, 120Hz"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1206 x 2622",
+                "ru": "1206 x 2622",
+                "en": "1206 x 2622"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP + 48MP + 48MP",
+                "ru": "48MP + 48MP + 48MP",
+                "en": "48MP + 48MP + 48MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iphone-17",
+      "brand": "Apple",
+      "name": "iPhone 17",
+      "config": {
+        "hy": "6.3 inch",
+        "ru": "6.3 inch",
+        "en": "6.3 inch"
+      },
+      "price": 429000,
+      "oldPrice": null,
+      "monthly": 9360,
+      "availability": "in-stock",
+      "art": "iphone",
+      "image": null,
+      "sourceRef": {
+        "sku": "8656_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/b/l/blue151512.jpg",
+          "https://yerevanmobile.am/media/catalog/product/1/_/1_39.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/a/sage.jpg",
+          "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__3.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iOS 26",
+                "ru": "iOS 26",
+                "en": "iOS 26"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.3 inch",
+                "ru": "6.3 inch",
+                "en": "6.3 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "LTPO Super Retina XDR OLED, 120Hz",
+                "ru": "LTPO Super Retina XDR OLED, 120Hz",
+                "en": "LTPO Super Retina XDR OLED, 120Hz"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1206 x 2622",
+                "ru": "1206 x 2622",
+                "en": "1206 x 2622"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP + 48MP",
+                "ru": "48MP + 48MP",
+                "en": "48MP + 48MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-neo-13-0",
+      "brand": "Apple",
+      "name": "MacBook Neo 13.0\"",
+      "config": {
+        "hy": "8GB · 256GB · Silver",
+        "ru": "8GB · 256GB · Silver",
+        "en": "8GB · 256GB · Silver"
+      },
+      "price": 309000,
+      "oldPrice": null,
+      "monthly": 6440,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10325",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61jgoj4sc_l._ac_sl1500_.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Արծաթագույն",
+                "ru": "Серебристый",
+                "en": "Silver"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple A18 Pro (3 nm)",
+                "ru": "Apple A18 Pro (3 nm)",
+                "en": "Apple A18 Pro (3 nm)"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "5-Core GPU",
+                "ru": "5-Core GPU",
+                "en": "5-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "6 Core CPU",
+                "ru": "6 Core CPU",
+                "en": "6 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-pro-14-2",
+      "brand": "Apple",
+      "name": "MacBook Pro 14.2\"",
+      "config": {
+        "hy": "M4 Pro · 24GB RAM · 512GB SSD · Silver",
+        "ru": "M4 Pro · 24GB RAM · 512GB SSD · Silver",
+        "en": "M4 Pro · 24GB RAM · 512GB SSD · Silver"
+      },
+      "price": 2109000,
+      "oldPrice": null,
+      "monthly": 43940,
+      "availability": "on-request",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "9087",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver2_3.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver3_1_3.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Արծաթագույն",
+                "ru": "Серебристый",
+                "en": "Silver"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2024",
+                "ru": "2024",
+                "en": "2024"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M4 Pro",
+                "ru": "Apple M4 Pro",
+                "en": "Apple M4 Pro"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "10-Core GPU",
+                "ru": "10-Core GPU",
+                "en": "10-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "10 Core CPU",
+                "ru": "10 Core CPU",
+                "en": "10 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-pro-16",
+      "brand": "Apple",
+      "name": "MacBook Pro 16\"",
+      "config": {
+        "hy": "M5 Max · 48GB RAM · 2TB · Space Black",
+        "ru": "M5 Max · 48GB RAM · 2TB · Space Black",
+        "en": "M5 Max · 48GB RAM · 2TB · Space Black"
+      },
+      "price": 2109000,
+      "oldPrice": null,
+      "monthly": 43940,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "9701",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_2_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Space Black",
+                "ru": "Space Black",
+                "en": "Space Black"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5 Max",
+                "ru": "Apple M5 Max",
+                "en": "Apple M5 Max"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "32-Core GPU",
+                "ru": "32-Core GPU",
+                "en": "32-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "18 Core CPU",
+                "ru": "18 Core CPU",
+                "en": "18 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-pro-14",
+      "brand": "Apple",
+      "name": "MacBook Pro 14\"",
+      "config": {
+        "hy": "M5 Max · 36GB RAM · 2TB · Space Black",
+        "ru": "M5 Max · 36GB RAM · 2TB · Space Black",
+        "en": "M5 Max · 36GB RAM · 2TB · Space Black"
+      },
+      "price": 1859000,
+      "oldPrice": null,
+      "monthly": 38730,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10354",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_5.jpg",
+          "https://yerevanmobile.am/media/catalog/product/b/l/black_macbook_5_1_4.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Space Black",
+                "ru": "Space Black",
+                "en": "Space Black"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5 Max",
+                "ru": "Apple M5 Max",
+                "en": "Apple M5 Max"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "32-Core GPU",
+                "ru": "32-Core GPU",
+                "en": "32-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "18 Core CPU",
+                "ru": "18 Core CPU",
+                "en": "18 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macbook-pro-16-2",
+      "brand": "Apple",
+      "name": "MacBook Pro 16.2\"",
+      "config": {
+        "hy": "24GB · 1TB · Silver",
+        "ru": "24GB · 1TB · Silver",
+        "en": "24GB · 1TB · Silver"
+      },
+      "price": 1299000,
+      "oldPrice": null,
+      "monthly": 27070,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10357",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_3.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver2_3_3.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Արծաթագույն",
+                "ru": "Серебристый",
+                "en": "Silver"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5 Pro",
+                "ru": "Apple M5 Pro",
+                "en": "Apple M5 Pro"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "20-Core GPU",
+                "ru": "20-Core GPU",
+                "en": "20-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "18 Core CPU",
+                "ru": "18 Core CPU",
+                "en": "18 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ipad-air-13",
+      "brand": "Apple",
+      "name": "iPad Air 13",
+      "config": {
+        "hy": "M4 · Wi-Fi + Cellular",
+        "ru": "M4 · Wi-Fi + Cellular",
+        "en": "M4 · Wi-Fi + Cellular"
+      },
+      "price": 499000,
+      "oldPrice": null,
+      "monthly": 10400,
+      "availability": "in-stock",
+      "art": "ipad",
+      "image": null,
+      "sourceRef": {
+        "sku": "10532",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/a/i/air11_1_1_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "ru": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "en": "iPadOS 26.3, upgradable to iPadOS 26.4"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "2048 x 2732",
+                "ru": "2048 x 2732",
+                "en": "2048 x 2732"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "13 inch",
+                "ru": "13 inch",
+                "en": "13 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Liquid Retina IPS LCD",
+                "ru": "Liquid Retina IPS LCD",
+                "en": "Liquid Retina IPS LCD"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ",
+                "ru": "ОС",
+                "en": "OS"
+              },
+              "value": {
+                "hy": "12GB",
+                "ru": "12GB",
+                "en": "12GB"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M4",
+                "ru": "Apple M4",
+                "en": "Apple M4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ipad-air-11",
+      "brand": "Apple",
+      "name": "iPad Air 11",
+      "config": {
+        "hy": "M4 · Wi-Fi + Cellular",
+        "ru": "M4 · Wi-Fi + Cellular",
+        "en": "M4 · Wi-Fi + Cellular"
+      },
+      "price": 399000,
+      "oldPrice": null,
+      "monthly": 8320,
+      "availability": "in-stock",
+      "art": "ipad",
+      "image": null,
+      "sourceRef": {
+        "sku": "10531",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/a/i/air11_1_2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "ru": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "en": "iPadOS 26.3, upgradable to iPadOS 26.4"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1640 x 2360",
+                "ru": "1640 x 2360",
+                "en": "1640 x 2360"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "11 inch",
+                "ru": "11 inch",
+                "en": "11 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Liquid Retina IPS LCD",
+                "ru": "Liquid Retina IPS LCD",
+                "en": "Liquid Retina IPS LCD"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ",
+                "ru": "ОС",
+                "en": "OS"
+              },
+              "value": {
+                "hy": "12GB",
+                "ru": "12GB",
+                "en": "12GB"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M4",
+                "ru": "Apple M4",
+                "en": "Apple M4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ipad-mini-7-wi-fi-cellular",
+      "brand": "Apple",
+      "name": "iPad mini 7 Wi-Fi + Cellular",
+      "config": {
+        "hy": "128GB · Մոխրագույն",
+        "ru": "128GB · Серый",
+        "en": "128GB · Space Grey"
+      },
+      "price": 289000,
+      "oldPrice": null,
+      "monthly": 6030,
+      "availability": "in-stock",
+      "art": "ipad",
+      "image": null,
+      "sourceRef": {
+        "sku": "10482",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71d9vedmtsl._ac_sl1500__1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500__3.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80__2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71yhrd0k2ul._ac_sl1500__2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "iPadOS 18, upgradable to iPadOS 18.1",
+                "ru": "iPadOS 18, upgradable to iPadOS 18.1",
+                "en": "iPadOS 18, upgradable to iPadOS 18.1"
+              }
+            },
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Մոխրագույն",
+                "ru": "Серый",
+                "en": "Space Grey"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2024",
+                "ru": "2024",
+                "en": "2024"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1488 x 2266",
+                "ru": "1488 x 2266",
+                "en": "1488 x 2266"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "8.3inch",
+                "ru": "8.3inch",
+                "en": "8.3inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Liquid Retina IPS LCD",
+                "ru": "Liquid Retina IPS LCD",
+                "en": "Liquid Retina IPS LCD"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ",
+                "ru": "ОС",
+                "en": "OS"
+              },
+              "value": {
+                "hy": "8GB",
+                "ru": "8GB",
+                "en": "8GB"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-pro-3",
+      "brand": "Apple",
+      "name": "AirPods Pro 3",
+      "config": {
+        "hy": "Սպիտակ",
+        "ru": "Белый",
+        "en": "White"
+      },
+      "price": 99000,
+      "oldPrice": null,
+      "monthly": 2070,
+      "availability": "in-stock",
+      "art": "earbuds",
+      "image": null,
+      "sourceRef": {
+        "sku": "9103",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beats-solo-4-wireless",
+      "brand": "Apple",
+      "name": "Beats Solo 4 Wireless",
+      "config": {
+        "hy": "Black",
+        "ru": "Black",
+        "en": "Black"
+      },
+      "price": 89000,
+      "oldPrice": null,
+      "monthly": 1860,
+      "availability": "in-stock",
+      "art": "headphones",
+      "image": null,
+      "sourceRef": {
+        "sku": "6957",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/s/s/sss.jpg",
+          "https://yerevanmobile.am/media/catalog/product/3/_/3_28_2_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/4/_/4_26_2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Black",
+                "ru": "Black",
+                "en": "Black"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airpods-pro-2",
+      "brand": "Apple",
+      "name": "AirPods Pro 2",
+      "config": {
+        "hy": "Type-C",
+        "ru": "Type-C",
+        "en": "Type-C"
+      },
+      "price": 84000,
+      "oldPrice": null,
+      "monthly": 1960,
+      "availability": "in-stock",
+      "art": "earbuds",
+      "image": null,
+      "sourceRef": {
+        "sku": "9300",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av1_result_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av3_result_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av4_result.jpg",
+          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av5_result.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-se-2-44mm",
+      "brand": "Apple",
+      "name": "Watch SE 2 44mm",
+      "config": {
+        "hy": "32GB · 1.78 inch",
+        "ru": "32GB · 1.78 inch",
+        "en": "32GB · 1.78 inch"
+      },
+      "price": 94000,
+      "oldPrice": null,
+      "monthly": 1960,
+      "availability": "in-stock",
+      "art": "watch",
+      "image": null,
+      "sourceRef": {
+        "sku": "5828_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/0/600284844060_1_2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/0/600284844061_1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/0/600284844062_1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/m/p/mplv3ref_vw_34fr_watch-44-alum-starlight-nc-se_vw_34fr_wf_co_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2022",
+                "ru": "2022",
+                "en": "2022"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիշողություն",
+                "ru": "Память",
+                "en": "Memory"
+              },
+              "value": {
+                "hy": "32GB",
+                "ru": "32GB",
+                "en": "32GB"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "Li-Ion",
+                "ru": "Li-Ion",
+                "en": "Li-Ion"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Մարտկոցի հզորություն",
+                "ru": "Ёмкость аккумулятора",
+                "en": "Battery capacity"
+              },
+              "value": {
+                "hy": "296 mAh",
+                "ru": "296 mAh",
+                "en": "296 mAh"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "DUAL-CORE",
+                "ru": "DUAL-CORE",
+                "en": "DUAL-CORE"
+              }
+            },
+            {
+              "label": {
+                "hy": "Օպերացիոն համակարգ",
+                "ru": "Операционная система",
+                "en": "Operating system"
+              },
+              "value": {
+                "hy": "WatchOS 9.0",
+                "ru": "WatchOS 9.0",
+                "en": "WatchOS 9.0"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "448 x 368",
+                "ru": "448 x 368",
+                "en": "448 x 368"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "1.78 inch",
+                "ru": "1.78 inch",
+                "en": "1.78 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Retina LTPO OLED",
+                "ru": "Retina LTPO OLED",
+                "en": "Retina LTPO OLED"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watch-ultra-3",
+      "brand": "Apple",
+      "name": "Watch Ultra 3",
+      "config": {
+        "hy": "64GB · 1.98 inch",
+        "ru": "64GB · 1.98 inch",
+        "en": "64GB · 1.98 inch"
+      },
+      "price": 319000,
+      "oldPrice": null,
+      "monthly": 6650,
+      "availability": "in-stock",
+      "art": "watch",
+      "image": null,
+      "sourceRef": {
+        "sku": "8780_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/q/w/qwe.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61brxzilc_l_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/2/5/250915140013114513_1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/p/apple_watch_ultra_3_49mm_lte_black_titanium_alpine_loop_black_pdp_image_position_1__ce-ww_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիշողություն",
+                "ru": "Память",
+                "en": "Memory"
+              },
+              "value": {
+                "hy": "64GB",
+                "ru": "64GB",
+                "en": "64GB"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "Li-Ion",
+                "ru": "Li-Ion",
+                "en": "Li-Ion"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "DUAL-CORE",
+                "ru": "DUAL-CORE",
+                "en": "DUAL-CORE"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "514 x 422",
+                "ru": "514 x 422",
+                "en": "514 x 422"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "1.98 inch",
+                "ru": "1.98 inch",
+                "en": "1.98 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Retina LTPO OLED",
+                "ru": "Retina LTPO OLED",
+                "en": "Retina LTPO OLED"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galaxy-s26-fe",
+      "brand": "Samsung",
+      "name": "Galaxy S26 FE",
+      "config": {
+        "hy": "256GB · 6.7 inch",
+        "ru": "256GB · 6.7 inch",
+        "en": "256GB · 6.7 inch"
+      },
+      "price": 289000,
+      "oldPrice": null,
+      "monthly": 6030,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "11288",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61q1djxgowl._ac_uf894_1000_ql80__1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 17, up to 7 major Android upgrades, One UI 9",
+                "ru": "Android 17, up to 7 major Android upgrades, One UI 9",
+                "en": "Android 17, up to 7 major Android upgrades, One UI 9"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.7 inch",
+                "ru": "6.7 inch",
+                "en": "6.7 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "ru": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "en": "Dynamic LTPO AMOLED 2X, 120Hz"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2340",
+                "ru": "1080 x 2340",
+                "en": "1080 x 2340"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+8MP+12MP",
+                "ru": "50MP+8MP+12MP",
+                "en": "50MP+8MP+12MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galaxy-s24",
+      "brand": "Samsung",
+      "name": "Galaxy S24",
+      "config": {
+        "hy": "6.2 inch",
+        "ru": "6.2 inch",
+        "en": "6.2 inch"
+      },
+      "price": 279000,
+      "oldPrice": null,
+      "monthly": 6230,
+      "availability": "on-request",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "6480_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/s/m/sm-s921_galaxys24_front_marblegray_231110.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/m/sm-s921_galaxys24_front2_marblegray_231110.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/m/sm-s921_galaxys24_back_marblegray_231110.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/m/sm-s921_galaxys24_frontl30_marblegray_231110.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2024",
+                "ru": "2024",
+                "en": "2024"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Ստանդարտ ցանց",
+                "ru": "Стандарт сети",
+                "en": "Network standard"
+              },
+              "value": {
+                "hy": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                "ru": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                "en": "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 14, One UI 6.1",
+                "ru": "Android 14, One UI 6.1",
+                "en": "Android 14, One UI 6.1"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.2 inch",
+                "ru": "6.2 inch",
+                "en": "6.2 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "ru": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "en": "Dynamic LTPO AMOLED 2X, 120Hz"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2340",
+                "ru": "1080 x 2340",
+                "en": "1080 x 2340"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galaxy-s25-plus",
+      "brand": "Samsung",
+      "name": "Galaxy S25 Plus",
+      "config": {
+        "hy": "6.7 inch",
+        "ru": "6.7 inch",
+        "en": "6.7 inch"
+      },
+      "price": 279000,
+      "oldPrice": null,
+      "monthly": 6230,
+      "availability": "on-request",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "7715_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/s/2/s25_plus_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61suspvkypl._ac_sl1500__1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61yvmost47l._ac_sl1500__1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, up to 7 major Android upgrades, One UI 7",
+                "ru": "Android 15, up to 7 major Android upgrades, One UI 7",
+                "en": "Android 15, up to 7 major Android upgrades, One UI 7"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.7 inch",
+                "ru": "6.7 inch",
+                "en": "6.7 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "ru": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "en": "Dynamic LTPO AMOLED 2X, 120Hz"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1440 x 3120",
+                "ru": "1440 x 3120",
+                "en": "1440 x 3120"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+10MP+12MP",
+                "ru": "50MP+10MP+12MP",
+                "en": "50MP+10MP+12MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galaxy-s25",
+      "brand": "Samsung",
+      "name": "Galaxy S25",
+      "config": {
+        "hy": "6.2 inch",
+        "ru": "6.2 inch",
+        "en": "6.2 inch"
+      },
+      "price": 279000,
+      "oldPrice": null,
+      "monthly": 6230,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "7714_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/s/2/s25.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/6101p9g3gsl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61suspvkypl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500_.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, up to 7 major Android upgrades, One UI 7",
+                "ru": "Android 15, up to 7 major Android upgrades, One UI 7",
+                "en": "Android 15, up to 7 major Android upgrades, One UI 7"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.2 inch",
+                "ru": "6.2 inch",
+                "en": "6.2 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "ru": "Dynamic LTPO AMOLED 2X, 120Hz",
+                "en": "Dynamic LTPO AMOLED 2X, 120Hz"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2340",
+                "ru": "1080 x 2340",
+                "en": "1080 x 2340"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+10MP+12MP",
+                "ru": "50MP+10MP+12MP",
+                "en": "50MP+10MP+12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galaxy-tab-a11-plus-wi-fi",
+      "brand": "Samsung",
+      "name": "Galaxy Tab A11 Plus Wi-Fi",
+      "config": {
+        "hy": "128GB · Մոխրագույն",
+        "ru": "128GB · Серый",
+        "en": "128GB · Space Grey"
+      },
+      "price": 109000,
+      "oldPrice": null,
+      "monthly": 2280,
+      "availability": "in-stock",
+      "art": "ipad",
+      "image": null,
+      "sourceRef": {
+        "sku": "9535",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, up to 7 major Android upgrades, One UI 8",
+                "ru": "Android 16, up to 7 major Android upgrades, One UI 8",
+                "en": "Android 16, up to 7 major Android upgrades, One UI 8"
+              }
+            },
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Մոխրագույն",
+                "ru": "Серый",
+                "en": "Space Grey"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1200 x 1920",
+                "ru": "1200 x 1920",
+                "en": "1200 x 1920"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "11 inch",
+                "ru": "11 inch",
+                "en": "11 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "TFT",
+                "ru": "TFT",
+                "en": "TFT"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "8MP",
+                "ru": "8MP",
+                "en": "8MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "5MP",
+                "ru": "5MP",
+                "en": "5MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ",
+                "ru": "ОС",
+                "en": "OS"
+              },
+              "value": {
+                "hy": "6GB",
+                "ru": "6GB",
+                "en": "6GB"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galaxy-tab-a11-plus-wi-fi-5g",
+      "brand": "Samsung",
+      "name": "Galaxy Tab A11 Plus Wi-Fi + 5G",
+      "config": {
+        "hy": "256GB · Մոխրագույն",
+        "ru": "256GB · Серый",
+        "en": "256GB · Space Grey"
+      },
+      "price": 299000,
+      "oldPrice": null,
+      "monthly": 6230,
+      "availability": "on-request",
+      "art": "ipad",
+      "image": null,
+      "sourceRef": {
+        "sku": "9536",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_3.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, up to 7 major Android upgrades, One UI 8",
+                "ru": "Android 16, up to 7 major Android upgrades, One UI 8",
+                "en": "Android 16, up to 7 major Android upgrades, One UI 8"
+              }
+            },
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Մոխրագույն",
+                "ru": "Серый",
+                "en": "Space Grey"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1200 x 1920",
+                "ru": "1200 x 1920",
+                "en": "1200 x 1920"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "11 inch",
+                "ru": "11 inch",
+                "en": "11 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "TFT",
+                "ru": "TFT",
+                "en": "TFT"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "8MP",
+                "ru": "8MP",
+                "en": "8MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "5MP",
+                "ru": "5MP",
+                "en": "5MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ",
+                "ru": "ОС",
+                "en": "OS"
+              },
+              "value": {
+                "hy": "8GB",
+                "ru": "8GB",
+                "en": "8GB"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17-ultra",
+      "brand": "Xiaomi",
+      "name": "17 Ultra",
+      "config": {
+        "hy": "6.9 inch",
+        "ru": "6.9 inch",
+        "en": "6.9 inch"
+      },
+      "price": 575000,
+      "oldPrice": null,
+      "monthly": 11980,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "9551_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/8/78903-xiaomi-17-ultra-1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi_17_ultra_leca_edition.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi_17_ultra_leca.jpg",
+          "https://yerevanmobile.am/media/catalog/product/g/1/g11.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.9 inch",
+                "ru": "6.9 inch",
+                "en": "6.9 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "LTPO AMOLED",
+                "ru": "LTPO AMOLED",
+                "en": "LTPO AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1200 x 2608",
+                "ru": "1200 x 2608",
+                "en": "1200 x 2608"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+200MP+50MP",
+                "ru": "50MP+200MP+50MP",
+                "en": "50MP+200MP+50MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "redmi-note-15-pro-4g",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 15 Pro 4G",
+      "config": {
+        "hy": "6.77 inch",
+        "ru": "6.77 inch",
+        "en": "6.77 inch"
+      },
+      "price": 134000,
+      "oldPrice": null,
+      "monthly": 2800,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "9474_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro-.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro-1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+                "ru": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+                "en": "Android 15, up to 4 major Android upgrades, HyperOS 2"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.77 inch",
+                "ru": "6.77 inch",
+                "en": "6.77 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2392",
+                "ru": "1080 x 2392",
+                "en": "1080 x 2392"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "200MP+8MP",
+                "ru": "200MP+8MP",
+                "en": "200MP+8MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "32MP",
+                "ru": "32MP",
+                "en": "32MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poco-m8",
+      "brand": "Xiaomi",
+      "name": "Poco M8",
+      "config": {
+        "hy": "6.77 inch",
+        "ru": "6.77 inch",
+        "en": "6.77 inch"
+      },
+      "price": 109000,
+      "oldPrice": null,
+      "monthly": 2280,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "9670_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71etpl4aofl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71eszgv75wl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71jpy8sli6l._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/p/o/pocoi_8.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, upgradable to Android 16, HyperOS 3",
+                "ru": "Android 15, upgradable to Android 16, HyperOS 3",
+                "en": "Android 15, upgradable to Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.77 inch",
+                "ru": "6.77 inch",
+                "en": "6.77 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2392",
+                "ru": "1080 x 2392",
+                "en": "1080 x 2392"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP",
+                "ru": "50MP",
+                "en": "50MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "20MP",
+                "ru": "20MP",
+                "en": "20MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17-pro-max",
+      "brand": "Xiaomi",
+      "name": "17 Pro Max",
+      "config": {
+        "hy": "6.9 inch",
+        "ru": "6.9 inch",
+        "en": "6.9 inch"
+      },
+      "price": 559000,
+      "oldPrice": null,
+      "monthly": 11650,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "8892_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi_17_pro_max-_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi_17_pro_max_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi_17_pro_max-1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi_17_pro_max-3_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.9 inch",
+                "ru": "6.9 inch",
+                "en": "6.9 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "LTPO AMOLED",
+                "ru": "LTPO AMOLED",
+                "en": "LTPO AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1200 x 2608",
+                "ru": "1200 x 2608",
+                "en": "1200 x 2608"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+50MP+50MP",
+                "ru": "50MP+50MP+50MP",
+                "en": "50MP+50MP+50MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "360-vis-nav-robot-vacuum",
+      "brand": "Dyson",
+      "name": "360 Vis Nav™ robot vacuum",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 489000,
+      "oldPrice": null,
+      "monthly": 10190,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": null,
+      "sourceRef": {
+        "sku": "7303",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/s/2/s2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/d/y/dyusjasgd.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v15s-detect-submarine-yellow-nicke",
+      "brand": "Dyson",
+      "name": "V15s Detect Submarine Yellow Nicke",
+      "config": {
+        "hy": "660W",
+        "ru": "660W",
+        "en": "660W"
+      },
+      "price": 139000,
+      "oldPrice": null,
+      "monthly": 2900,
+      "availability": "on-request",
+      "art": "dyson",
+      "image": null,
+      "sourceRef": {
+        "sku": "6807",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/y/e/yelow_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/u/submarine2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/u/sub3.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
+              },
+              "value": {
+                "hy": "660W",
+                "ru": "660W",
+                "en": "660W"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vacuum-v8-focus-mattress",
+      "brand": "Dyson",
+      "name": "Vacuum V8 Focus Mattress",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 139000,
+      "oldPrice": null,
+      "monthly": 2900,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": null,
+      "sourceRef": {
+        "sku": "7416",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/v/8/v8_focus_matrress.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Քաշ",
+                "ru": "Вес",
+                "en": "Weight"
+              },
+              "value": {
+                "hy": "1.54 kg",
+                "ru": "1.54 kg",
+                "en": "1.54 kg"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v15-detect-absolute",
+      "brand": "Dyson",
+      "name": "V15 Detect Absolute",
+      "config": {
+        "hy": "750W",
+        "ru": "750W",
+        "en": "750W"
+      },
+      "price": 47000,
+      "oldPrice": null,
+      "monthly": 980,
+      "availability": "on-request",
+      "art": "dyson",
+      "image": null,
+      "sourceRef": {
+        "sku": "6808",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61vfezea8hl._ac_uf894_1000_ql80_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/v/1/v15.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
+              },
+              "value": {
+                "hy": "750W",
+                "ru": "750W",
+                "en": "750W"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airwrap-i-d",
+      "brand": "Dyson",
+      "name": "Airwrap i.d.",
+      "config": {
+        "hy": "Straight+Wavy · Kanzan Pink",
+        "ru": "Straight+Wavy · Kanzan Pink",
+        "en": "Straight+Wavy · Kanzan Pink"
+      },
+      "price": 229000,
+      "oldPrice": null,
+      "monthly": 4780,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": null,
+      "sourceRef": {
+        "sku": "8730",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/p/i/pinl_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
+              },
+              "value": {
+                "hy": "1300W",
+                "ru": "1300W",
+                "en": "1300W"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mini-4-pro",
+      "brand": "DJI",
+      "name": "Mini 4 Pro",
+      "config": {
+        "hy": "34 ր",
+        "ru": "34 мин",
+        "en": "34 min"
+      },
+      "price": 419000,
+      "oldPrice": 249000,
+      "monthly": 9570,
+      "availability": "in-stock",
+      "art": "drone",
+      "image": null,
+      "sourceRef": {
+        "sku": "9767",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/d/r/dron.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի հեռավորություն",
+                "ru": "Дальность полёта",
+                "en": "Flight range"
+              },
+              "value": {
+                "hy": "18 կմ",
+                "ru": "18 կմ",
+                "en": "18 կմ"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի տևողություն",
+                "ru": "Время полёта",
+                "en": "Flight time"
+              },
+              "value": {
+                "hy": "34 ր",
+                "ru": "34 мин",
+                "en": "34 min"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի բարձրություն",
+                "ru": "Высота полёта",
+                "en": "Flight ceiling"
+              },
+              "value": {
+                "hy": "4000 մ",
+                "ru": "4000 м",
+                "en": "4000 m"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP",
+                "ru": "48MP",
+                "en": "48MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Քաշ",
+                "ru": "Вес",
+                "en": "Weight"
+              },
+              "value": {
+                "hy": "249 g",
+                "ru": "249 g",
+                "en": "249 g"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avata-2-fly-more-combo",
+      "brand": "DJI",
+      "name": "Avata 2 Fly More Combo",
+      "config": {
+        "hy": "Three battery",
+        "ru": "Three battery",
+        "en": "Three battery"
+      },
+      "price": 599000,
+      "oldPrice": 249000,
+      "monthly": 12480,
+      "availability": "in-stock",
+      "art": "drone",
+      "image": null,
+      "sourceRef": {
+        "sku": "9766",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/1/2/123_3.jpg",
+          "https://yerevanmobile.am/media/catalog/product/1/2/12345.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի հեռավորություն",
+                "ru": "Дальность полёта",
+                "en": "Flight range"
+              },
+              "value": {
+                "hy": "13 կմ",
+                "ru": "13 կմ",
+                "en": "13 կմ"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի բարձրություն",
+                "ru": "Высота полёта",
+                "en": "Flight ceiling"
+              },
+              "value": {
+                "hy": "5000 մ",
+                "ru": "5000 м",
+                "en": "5000 m"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "48MP",
+                "ru": "48MP",
+                "en": "48MP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-3s-fly-more-combo",
+      "brand": "DJI",
+      "name": "Air 3S Fly More Combo",
+      "config": {
+        "hy": "46 ր",
+        "ru": "46 мин",
+        "en": "46 min"
+      },
+      "price": 799000,
+      "oldPrice": null,
+      "monthly": 16650,
+      "availability": "in-stock",
+      "art": "drone",
+      "image": null,
+      "sourceRef": {
+        "sku": "9765",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61xqjkxj2nl._ac_uf894_1000_ql80_.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի հեռավորություն",
+                "ru": "Дальность полёта",
+                "en": "Flight range"
+              },
+              "value": {
+                "hy": "20 կմ",
+                "ru": "20 կմ",
+                "en": "20 կմ"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի տևողություն",
+                "ru": "Время полёта",
+                "en": "Flight time"
+              },
+              "value": {
+                "hy": "46 ր",
+                "ru": "46 мин",
+                "en": "46 min"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի բարձրություն",
+                "ru": "Высота полёта",
+                "en": "Flight ceiling"
+              },
+              "value": {
+                "hy": "6000 մ",
+                "ru": "6000 м",
+                "en": "6000 m"
+              }
+            },
+            {
+              "label": {
+                "hy": "Քաշ",
+                "ru": "Вес",
+                "en": "Weight"
+              },
+              "value": {
+                "hy": "724 g",
+                "ru": "724 g",
+                "en": "724 g"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps5-slim-digital-edition-games",
+      "brand": "PlayStation",
+      "name": "PS5 Slim Digital Edition + Games",
+      "config": {
+        "hy": "1 TB · Սպիտակ",
+        "ru": "1 TB · Белый",
+        "en": "1 TB · White"
+      },
+      "price": 285000,
+      "oldPrice": null,
+      "monthly": 6360,
+      "availability": "in-stock",
+      "art": "playstation",
+      "image": null,
+      "sourceRef": {
+        "sku": "7686",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/p/s/ps53_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիշողություն",
+                "ru": "Память",
+                "en": "Memory"
+              },
+              "value": {
+                "hy": "1 TB",
+                "ru": "1 TB",
+                "en": "1 TB"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps5-slim-digital-edition-1tb",
+      "brand": "PlayStation",
+      "name": "PS5 Slim Digital Edition 1TB",
+      "config": {
+        "hy": "1 TB · Սպիտակ",
+        "ru": "1 TB · Белый",
+        "en": "1 TB · White"
+      },
+      "price": 275000,
+      "oldPrice": 159000,
+      "monthly": 6150,
+      "availability": "in-stock",
+      "art": "playstation",
+      "image": null,
+      "sourceRef": {
+        "sku": "7582",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/p/s/ps53.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիշողություն",
+                "ru": "Память",
+                "en": "Memory"
+              },
+              "value": {
+                "hy": "1 TB",
+                "ru": "1 TB",
+                "en": "1 TB"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps5-dualsense-nacon-revolution-5-pro",
+      "brand": "PlayStation",
+      "name": "PS5 Dualsense Nacon Revolution 5 pro",
+      "config": {
+        "hy": "Black",
+        "ru": "Black",
+        "en": "Black"
+      },
+      "price": 99000,
+      "oldPrice": null,
+      "monthly": 2280,
+      "availability": "in-stock",
+      "art": "playstation",
+      "image": null,
+      "sourceRef": {
+        "sku": "7976",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/5/1/51wqnkgbqwl.jpg",
+          "https://yerevanmobile.am/media/catalog/product/5/1/513ndtxlf8l._ac_sl1500_.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Black",
+                "ru": "Black",
+                "en": "Black"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
