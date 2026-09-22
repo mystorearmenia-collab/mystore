@@ -68,6 +68,36 @@ export const products: Product[] = catalog.products;
 export const featuredProducts: Product[] = products.slice(0, 8);
 export const newArrivals: Product[] = products.slice(8, 14);
 
+export function getCategory(id: string): Category | undefined {
+  return categories.find((c) => c.id === id);
+}
+
+/** Same brand/art rules the catalog generator used to count each category. */
+export function productsForCategory(id: string): Product[] {
+  switch (id) {
+    case "iphone":
+      return products.filter((p) => p.brand === "Apple" && p.art === "iphone");
+    case "samsung":
+      return products.filter((p) => p.brand === "Samsung");
+    case "mac":
+      return products.filter((p) => p.brand === "Apple" && p.art === "macbook");
+    case "ipad":
+      return products.filter((p) => p.brand === "Apple" && p.art === "ipad");
+    case "gaming":
+      return products.filter((p) => p.brand === "PlayStation");
+    case "audio":
+      return products.filter((p) =>
+        (["headphones", "earbuds", "speaker"] as ProductArt[]).includes(p.art),
+      );
+    case "dyson":
+      return products.filter((p) => p.brand === "Dyson");
+    case "accessories":
+      return products.filter((p) => p.art === "earbuds" && p.brand !== "Apple");
+    default:
+      return [];
+  }
+}
+
 export const brands = [
   "Apple",
   "Samsung",
