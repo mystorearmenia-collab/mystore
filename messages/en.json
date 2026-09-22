@@ -60,6 +60,11 @@
     "specs": "Specifications",
     "models": "models"
   },
+  "category": {
+    "backHome": "Back to home",
+    "empty": "No products in this category yet — check back soon.",
+    "count": "products"
+  },
   "promo": {
     "eyebrow": "Trade-in programme",
     "title": "Upgrade your technology.",
