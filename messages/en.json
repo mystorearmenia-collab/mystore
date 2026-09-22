@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "MyStore — premium electronics in Yerevan",
+    "description": "iPhone, Samsung, Mac, iPad, PlayStation, Dyson and audio. Original stock, official warranty. Komitas 9, Yerevan."
+  },
+  "locale": { "hy": "Հայերեն", "ru": "Русский", "en": "English", "switch": "Language" },
+  "nav": {
+    "home": "Home",
+    "iphone": "iPhone",
+    "samsung": "Samsung",
+    "mac": "Mac",
+    "ipad": "iPad",
+    "gaming": "Gaming",
+    "audio": "Audio",
+    "dyson": "Dyson",
+    "accessories": "Accessories"
+  },
+  "header": {
+    "search": "Search",
+    "account": "Account",
+    "favorites": "Favorites",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "shopNow": "Shop now"
+  },
+  "hero": {
+    "eyebrow": "New · Flagship 2026",
+    "titleTop": "Technology.",
+    "titleBottom": "Selected better.",
+    "lede": "Original stock, official warranty and expert setup — from the MyStore counter on Komitas 9.",
+    "shopNow": "Shop now",
+    "viewProducts": "View products",
+    "from": "From",
+    "instalment": "Instalments",
+    "instalmentValue": "0%",
+    "instalmentNote": "for 12 months",
+    "tradeIn": "Trade-in",
+    "tradeInNote": "up to"
+  },
+  "sections": {
+    "browseEyebrow": "Browse",
+    "categoriesTitle": "Shop by category",
+    "categoriesLede": "Every category is stocked with original, warranty-backed hardware.",
+    "categoriesAction": "All categories",
+    "featuredEyebrow": "Hand-picked",
+    "featuredTitle": "Featured products",
+    "featuredLede": "What the MyStore team is recommending this month.",
+    "featuredAction": "All products",
+    "newEyebrow": "Just landed",
+    "newTitle": "New arrivals",
+    "newLede": "The latest additions to the MyStore floor.",
+    "newAction": "All new"
+  },
+  "product": {
+    "close": "Close",
+    "inStock": "In stock",
+    "onRequest": "On request",
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites",
+    "specs": "Specifications",
+    "models": "models"
+  },
+  "promo": {
+    "eyebrow": "Trade-in programme",
+    "title": "Upgrade your technology.",
+    "lede": "Trade in your old device and get your next one for less. Free valuation in store, instant discount at checkout.",
+    "primary": "Start trade-in",
+    "secondary": "See eligible devices"
+  },
+  "benefits": {
+    "warrantyTitle": "Official warranty",
+    "warrantyText": "Up to 2 years, honoured in store on Komitas 9.",
+    "deliveryTitle": "Fast delivery",
+    "deliveryText": "Same-day across Yerevan, 1–2 days Armenia-wide.",
+    "originalTitle": "Original products",
+    "originalText": "Authorised stock only, every unit serial-checked.",
+    "paymentTitle": "Secure payment",
+    "paymentText": "Card, bank transfer or 0% instalments up to 12 months."
+  },
+  "store": {
+    "eyebrow": "Visit us",
+    "title": "The MyStore counter.",
+    "lede": "Try every device before you buy it. Setup, data transfer and trade-in valuation are done at the counter, while you wait.",
+    "flagship": "Flagship store · Open daily",
+    "address": "Address",
+    "hours": "Working hours",
+    "phone": "Phone",
+    "email": "Email",
+    "directions": "Get directions",
+    "openMaps": "Open in maps",
+    "call": "Call the store",
+    "weekdays": "Monday — Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "footer": {
+    "tagline": "Premium electronics, officially sourced. Komitas 9, Yerevan.",
+    "products": "Products",
+    "service": "Customer service",
+    "information": "Information",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "reseller": "Official reseller · Apple · Samsung · Sony · Dyson",
+    "serviceLinks": ["Warranty", "Repairs", "Trade-in", "Delivery", "Returns", "Support"],
+    "infoLinks": ["About MyStore", "Instalments", "Corporate sales", "Careers", "Terms", "Privacy"]
+  }
+}
