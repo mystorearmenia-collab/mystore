@@ -1,0 +1,378 @@
+@import "tailwindcss";
+
+/* ============================================================
+   MyStore — global design system
+   Matte black · white · bright orange
+   ============================================================ */
+
+:root {
+  /* Canonical MyStore color system */
+  --background: #050505;
+  --surface: #0d0d0d;
+  --surface-secondary: #121212;
+  --surface-elevated: #161616;
+  --text: #ffffff;
+  --text-secondary: #a0a0a0;
+  --orange: #ff6500;
+  --orange-hover: #ff7a00;
+  --border: #252525;
+
+  /* Derived accents — always sourced from --orange */
+  --orange-soft: rgba(255, 101, 0, 0.12);
+  --orange-line: rgba(255, 101, 0, 0.35);
+  --orange-glow: rgba(255, 101, 0, 0.28);
+
+  /* Geometry */
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 20px;
+
+  /* Rhythm */
+  --section-y: clamp(4.5rem, 9vw, 9rem);
+  --gutter: clamp(1.25rem, 4vw, 3.5rem);
+  --page-max: 1440px;
+}
+
+/* Expose the system to Tailwind's utility layer */
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-secondary: var(--surface-secondary);
+  --color-surface-elevated: var(--surface-elevated);
+  --color-ink: var(--text);
+  --color-muted: var(--text-secondary);
+  --color-orange: var(--orange);
+  --color-orange-hover: var(--orange-hover);
+  --color-line: var(--border);
+
+  --radius-card: var(--radius-md);
+
+  /* Armenian falls back to Noto Sans Armenian per-glyph; Inter has no Armenian coverage */
+  --font-sans: "Inter", "Noto Sans Armenian", -apple-system, BlinkMacSystemFont,
+    "SF Pro Display", "Segoe UI", system-ui, sans-serif;
+}
+
+/* ---------- Base ---------- */
+* {
+  border-color: var(--border);
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-feature-settings: "cv11", "ss01";
+  letter-spacing: -0.011em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: var(--orange);
+  color: #050505;
+}
+
+:focus-visible {
+  outline: 2px solid var(--orange);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ---------- Layout primitives ---------- */
+.shell {
+  width: 100%;
+  max-width: var(--page-max);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.section {
+  padding-block: var(--section-y);
+}
+
+.hairline {
+  border-top: 1px solid var(--border);
+}
+
+/* ---------- Typography ---------- */
+.display {
+  font-size: clamp(2.75rem, 7.2vw, 6rem);
+  line-height: 0.95;
+  letter-spacing: -0.045em;
+  font-weight: 600;
+}
+
+.h2 {
+  font-size: clamp(1.85rem, 3.4vw, 3rem);
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+  font-weight: 600;
+}
+
+.h3 {
+  font-size: clamp(1.25rem, 2vw, 1.6rem);
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  font-weight: 600;
+}
+
+.eyebrow {
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+.lede {
+  color: var(--text-secondary);
+  font-size: clamp(0.975rem, 1.15vw, 1.125rem);
+  line-height: 1.6;
+  letter-spacing: -0.005em;
+}
+
+.price {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  --btn-bg: transparent;
+  --btn-fg: var(--text);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 3rem;
+  padding-inline: 1.75rem;
+  border-radius: 999px;
+  background: var(--btn-bg);
+  color: var(--btn-fg);
+  font-size: 0.9375rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 0.25s ease, color 0.25s ease,
+    border-color 0.25s ease, box-shadow 0.35s ease, transform 0.25s ease;
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn-primary {
+  --btn-bg: var(--orange);
+  --btn-fg: #0a0500;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  --btn-bg: var(--orange-hover);
+  box-shadow: 0 0 0 1px var(--orange-line), 0 14px 44px -18px var(--orange-glow);
+}
+
+.btn-secondary {
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.btn-secondary:hover {
+  border-color: color-mix(in srgb, var(--text) 26%, transparent);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.btn-quiet {
+  height: 2.75rem;
+  padding-inline: 1.25rem;
+  border: 1px solid var(--border);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.btn-quiet:hover {
+  color: var(--text);
+  border-color: var(--orange-line);
+}
+
+/* ---------- Surfaces ---------- */
+.card {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  transition: border-color 0.35s ease, background-color 0.35s ease,
+    box-shadow 0.45s ease, transform 0.45s ease;
+}
+
+.card-lift:hover {
+  transform: translateY(-4px);
+  border-color: var(--orange-line);
+  background: var(--surface-secondary);
+  box-shadow: 0 0 0 1px rgba(255, 101, 0, 0.06),
+    0 30px 60px -40px var(--orange-glow);
+}
+
+/* Product / category image stage — the lit plinth every product sits on */
+.stage {
+  position: relative;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      120% 85% at 50% 0%,
+      rgba(255, 255, 255, 0.045),
+      transparent 62%
+    ),
+    var(--surface-elevated);
+}
+
+.stage::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 -34% 0;
+  height: 62%;
+  background: radial-gradient(
+    closest-side,
+    var(--orange-glow),
+    transparent 74%
+  );
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+}
+
+.group:hover .stage::after,
+.stage:hover::after {
+  opacity: 0.55;
+}
+
+.stage-media {
+  transition: transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+.group:hover .stage-media {
+  transform: scale(1.055);
+}
+
+/* ---------- Navigation ---------- */
+.nav-link {
+  position: relative;
+  font-size: 0.875rem;
+  font-weight: 450;
+  color: var(--text-secondary);
+  transition: color 0.22s ease;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.55rem;
+  height: 1.5px;
+  background: var(--orange);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.nav-link:hover {
+  color: var(--text);
+}
+
+.nav-link:hover::after,
+.nav-link[data-active="true"]::after {
+  transform: scaleX(1);
+}
+
+.nav-link[data-active="true"] {
+  color: var(--text);
+}
+
+.icon-button {
+  display: inline-grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 999px;
+  color: var(--text-secondary);
+  transition: color 0.22s ease, background-color 0.22s ease;
+}
+
+.icon-button:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* ---------- Motion ---------- */
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity 0.75s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.75s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.reveal[data-visible="true"] {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal,
+  .stage-media,
+  .card {
+    transition-duration: 0.01ms;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ---------- Utilities ---------- */
+.rail {
+  display: flex;
+  gap: clamp(1rem, 1.6vw, 1.5rem);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.rail::-webkit-scrollbar {
+  display: none;
+}
+
+.rail > * {
+  scroll-snap-align: start;
+  flex: none;
+}
+
+.edge-fade {
+  -webkit-mask-image: linear-gradient(
+    90deg,
+    transparent,
+    #000 4%,
+    #000 96%,
+    transparent
+  );
+  mask-image: linear-gradient(
+    90deg,
+    transparent,
+    #000 4%,
+    #000 96%,
+    transparent
+  );
+}
