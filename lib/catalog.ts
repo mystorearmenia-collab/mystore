@@ -92,7 +92,7 @@ export function productsForCategory(id: string): Product[] {
     case "dyson":
       return products.filter((p) => p.brand === "Dyson");
     case "accessories":
-      return products.filter((p) => p.art === "earbuds" && p.brand !== "Apple");
+      return products.filter((p) => p.art === "accessory" && p.brand === "Apple");
     default:
       return [];
   }
