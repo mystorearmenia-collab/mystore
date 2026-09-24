@@ -46,7 +46,14 @@ export default function ProductVisual({
   if (image) {
     return (
       // eslint-disable-next-line @next/next/no-img-element
-      <img src={image} alt={alt} className={className} style={style} loading="lazy" />
+      <img
+        src={image}
+        alt={alt}
+        className={`${className} object-contain`}
+        style={{ mixBlendMode: "multiply", ...style }}
+        loading="lazy"
+        referrerPolicy="no-referrer"
+      />
     );
   }
 

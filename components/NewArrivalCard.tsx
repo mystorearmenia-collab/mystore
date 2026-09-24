@@ -21,7 +21,7 @@ export default function NewArrivalCard({
       onClick={() => open(product)}
       className="group card card-lift w-[min(78vw,380px)] overflow-hidden text-left"
     >
-      <div className="stage aspect-[4/4.6]">
+      <div className={`stage ${product.image ? "stage-light" : ""} aspect-[4/4.6]`}>
         <ProductVisual
           art={product.art}
           image={product.image}
@@ -39,7 +39,7 @@ export default function NewArrivalCard({
           </h3>
           <p className="mt-1 text-[0.8rem] text-muted">{pick(product.config, locale)}</p>
         </div>
-        <div className="shrink-0 min-w-[9.5rem]"><Prices product={product} /></div>
+        <div className="shrink-0 min-w-[9.5rem]"><Prices price={product.price} credit={product.creditPrice} /></div>
       </div>
     </button>
   );

@@ -2,15 +2,16 @@
 
 import { useLocale, useTranslations } from "next-intl";
 import { formatPrice } from "@/lib/format";
-import type { Product } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
 
 /** Cash price always; credit price only when the shops actually offer credit on the item. */
 export default function Prices({
-  product,
+  price,
+  credit,
   size = "md",
 }: {
-  product: Product;
+  price: number;
+  credit: number | null;
   size?: "md" | "lg";
 }) {
   const locale = useLocale() as Locale;
@@ -23,18 +24,14 @@ export default function Prices({
         <span className="text-[0.72rem] uppercase tracking-[0.12em] text-muted">
           {t("cash")}
         </span>
-        <span className={`price ${main} font-semibold`}>
-          {formatPrice(product.price, locale)}
-        </span>
+        <span className={`price ${main} font-semibold`}>{formatPrice(price, locale)}</span>
       </div>
-      {product.creditPrice && (
+      {credit && (
         <div className="flex items-baseline justify-between gap-3">
           <span className="text-[0.72rem] uppercase tracking-[0.12em] text-muted">
             {t("credit")}
           </span>
-          <span className="price text-[0.95rem] text-muted">
-            {formatPrice(product.creditPrice, locale)}
-          </span>
+          <span className="price text-[0.95rem] text-muted">{formatPrice(credit, locale)}</span>
         </div>
       )}
     </div>

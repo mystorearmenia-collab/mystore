@@ -5,6 +5,8 @@ import { useLocale, useTranslations } from "next-intl";
 import ProductVisual from "./ProductVisual";
 import { CloseIcon } from "./icons";
 import Prices from "./Prices";
+import VariantPicker from "./VariantPicker";
+import { findVariant, type Selection } from "@/lib/variants";
 import { pick } from "@/lib/format";
 import type { Availability, Product } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
@@ -25,11 +27,23 @@ export function useProductModal(): Ctx {
 
 export function ProductModalProvider({ children }: { children: ReactNode }) {
   const [product, setProduct] = useState<Product | null>(null);
+  const [selection, setSelection] = useState<Selection>({});
   const locale = useLocale() as Locale;
   const t = useTranslations("product");
 
   useEffect(() => {
     if (!product) return;
+    const first = findVariant(product, {});
+    setSelection(
+      first
+        ? {
+            ...(first.color ? { color: first.color } : {}),
+            ...(first.storage ? { storage: first.storage } : {}),
+            ...(first.ram ? { ram: first.ram } : {}),
+            ...(first.sim ? { sim: first.sim } : {}),
+          }
+        : {},
+    );
     document.body.style.overflow = "hidden";
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && setProduct(null);
     window.addEventListener("keydown", onKey);
@@ -38,6 +52,11 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
       window.removeEventListener("keydown", onKey);
     };
   }, [product]);
+
+  const variant = product ? findVariant(product, selection) : undefined;
+  const photo = variant?.image ?? product?.image ?? null;
+  const shownPrice = variant?.price ?? product?.price ?? 0;
+  const shownCredit = variant ? variant.credit : (product?.creditPrice ?? null);
 
   return (
     <ProductModalContext.Provider value={{ open: setProduct }}>
@@ -68,10 +87,11 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
               <CloseIcon className="h-5 w-5" />
             </button>
 
-            <div className="stage flex aspect-square items-center justify-center p-8 sm:aspect-auto sm:w-[42%] sm:shrink-0">
+            <div className={`stage ${photo ? "stage-light" : ""} flex aspect-square items-center justify-center p-8 sm:aspect-auto sm:w-[42%] sm:shrink-0`}>
               <ProductVisual
                 art={product.art}
-                image={product.image}
+                key={photo ?? "vector"}
+                image={photo}
                 alt={`${product.brand} ${product.name}`}
                 className="h-[80%] w-auto"
               />
@@ -92,8 +112,12 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
                 )}
               </div>
 
+              {product.variants && product.variants.length > 1 && (
+                <VariantPicker product={product} selection={selection} onChange={setSelection} />
+              )}
+
               <div className="flex items-end justify-between gap-6 border-y border-line py-4">
-                <div className="min-w-[52%]"><Prices product={product} size="lg" /></div>
+                <div className="min-w-[52%]"><Prices price={shownPrice} credit={shownCredit} size="lg" /></div>
                 <p className="ml-auto flex items-center gap-2 text-[0.8rem] text-muted">
                   <span
                     className="h-1.5 w-1.5 rounded-full"

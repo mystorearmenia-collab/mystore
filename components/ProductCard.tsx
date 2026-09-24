@@ -30,7 +30,7 @@ export default function ProductCard({ product }: { product: Product }) {
       onKeyDown={(e) => e.key === "Enter" && open(product)}
       className="group card card-lift flex h-full cursor-pointer flex-col overflow-hidden"
     >
-      <div className="stage aspect-square">
+      <div className={`stage ${product.image ? "stage-light" : ""} aspect-square`}>
         <button
           onClick={(e) => {
             e.stopPropagation();
@@ -67,7 +67,7 @@ export default function ProductCard({ product }: { product: Product }) {
         </div>
 
         <div className="mt-auto">
-          <Prices product={product} />
+          <Prices price={product.price} credit={product.creditPrice} />
 
           <div className="mt-3 flex items-center justify-between gap-2">
             <p className="flex items-center gap-2 text-[0.775rem] text-muted">
