@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import Logo from "./Logo";
 import LocaleSwitch from "./LocaleSwitch";
-import { navigation } from "@/lib/catalog";
+import { navigation } from "@/lib/nav";
 import {
   CloseIcon,
   HeartIcon,
@@ -48,7 +48,7 @@ export default function Header() {
             <Logo className="text-[1.35rem]" />
           </Link>
 
-          <nav className="hidden items-center gap-7 xl:flex">
+          <nav className="hidden items-center gap-4 2xl:gap-6 xl:flex">
             {navigation.map((item, index) => (
               <Link
                 key={item.href}

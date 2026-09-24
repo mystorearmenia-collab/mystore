@@ -4,8 +4,10 @@ import { useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import ProductVisual from "./ProductVisual";
 import { HeartIcon } from "./icons";
+import Prices from "./Prices";
 import { useProductModal } from "./ProductModal";
-import { formatPrice, pick, type Availability, type Product } from "@/lib/catalog";
+import { pick } from "@/lib/format";
+import type { Availability, Product } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
 
 const dotColor: Record<Availability, string> = {
@@ -65,18 +67,9 @@ export default function ProductCard({ product }: { product: Product }) {
         </div>
 
         <div className="mt-auto">
-          <div className="flex items-baseline gap-2.5">
-            <p className="price text-[1.15rem] font-semibold">
-              {formatPrice(product.price, locale)}
-            </p>
-            {product.oldPrice && (
-              <p className="price text-[0.85rem] text-muted line-through">
-                {formatPrice(product.oldPrice, locale)}
-              </p>
-            )}
-          </div>
+          <Prices product={product} />
 
-          <div className="mt-2 flex items-center justify-between gap-2">
+          <div className="mt-3 flex items-center justify-between gap-2">
             <p className="flex items-center gap-2 text-[0.775rem] text-muted">
               <span
                 className="h-1.5 w-1.5 rounded-full"

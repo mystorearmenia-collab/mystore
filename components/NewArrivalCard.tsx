@@ -2,7 +2,9 @@
 
 import ProductVisual from "./ProductVisual";
 import { useProductModal } from "./ProductModal";
-import { formatPrice, pick, type Product } from "@/lib/catalog";
+import Prices from "./Prices";
+import { pick } from "@/lib/format";
+import type { Product } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
 
 export default function NewArrivalCard({
@@ -37,9 +39,7 @@ export default function NewArrivalCard({
           </h3>
           <p className="mt-1 text-[0.8rem] text-muted">{pick(product.config, locale)}</p>
         </div>
-        <p className="price shrink-0 text-[1.05rem] font-semibold">
-          {formatPrice(product.price, locale)}
-        </p>
+        <div className="shrink-0 min-w-[9.5rem]"><Prices product={product} /></div>
       </div>
     </button>
   );

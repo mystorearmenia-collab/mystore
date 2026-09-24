@@ -4,7 +4,9 @@ import { createContext, useContext, useEffect, useState, type ReactNode } from "
 import { useLocale, useTranslations } from "next-intl";
 import ProductVisual from "./ProductVisual";
 import { CloseIcon } from "./icons";
-import { formatPrice, pick, type Availability, type Product } from "@/lib/catalog";
+import Prices from "./Prices";
+import { pick } from "@/lib/format";
+import type { Availability, Product } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
 
 const dotColor: Record<Availability, string> = {
@@ -90,15 +92,8 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
                 )}
               </div>
 
-              <div className="flex items-center gap-3 border-y border-line py-4">
-                <p className="price text-[1.3rem] font-semibold">
-                  {formatPrice(product.price, locale)}
-                </p>
-                {product.oldPrice && (
-                  <p className="price text-[0.9rem] text-muted line-through">
-                    {formatPrice(product.oldPrice, locale)}
-                  </p>
-                )}
+              <div className="flex items-end justify-between gap-6 border-y border-line py-4">
+                <div className="min-w-[52%]"><Prices product={product} size="lg" /></div>
                 <p className="ml-auto flex items-center gap-2 text-[0.8rem] text-muted">
                   <span
                     className="h-1.5 w-1.5 rounded-full"
