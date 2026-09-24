@@ -2,7 +2,7 @@ import type { ProductArt } from "@/components/ProductVisual";
 import type { Locale } from "@/i18n/routing";
 import catalogData from "@/data/catalog.json";
 
-import type { Tri } from "./format";
+import { pick, type Tri } from "./format";
 
 export { pick, formatPrice } from "./format";
 export type { Tri } from "./format";
