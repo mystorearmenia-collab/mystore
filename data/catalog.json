@@ -1243,14 +1243,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 1299300,
+      "price": 1389000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "drone",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -1263,6 +1263,18 @@
       ],
       "cats": [
         "dji"
+      ],
+      "variants": [
+        {
+          "color": null,
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 1389000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
+          "inStock": true
+        }
       ]
     },
     {
@@ -4458,12 +4470,12 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 799600,
+      "price": 889000,
       "oldPrice": null,
       "monthly": 19780,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/61631/image/2-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "11300_1",
         "imageUrls": [
@@ -4664,10 +4676,322 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 839900,
+      "priceSource": "redstore",
+      "creditPrice": 909000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 819000,
+          "credit": 839000,
+          "image": "https://admin.redstore.am/storage/products/61615/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 819000,
+          "credit": 839000,
+          "image": "https://admin.redstore.am/storage/products/61617/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 819000,
+          "credit": 839000,
+          "image": "https://admin.redstore.am/storage/products/61616/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 819000,
+          "credit": 839000,
+          "image": "https://admin.redstore.am/storage/products/61614/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 889000,
+          "credit": 909000,
+          "image": "https://admin.redstore.am/storage/products/61631/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 889000,
+          "credit": 909000,
+          "image": "https://admin.redstore.am/storage/products/61633/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 889000,
+          "credit": 909000,
+          "image": "https://admin.redstore.am/storage/products/61632/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 889000,
+          "credit": 909000,
+          "image": "https://admin.redstore.am/storage/products/61630/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 989000,
+          "credit": 1009000,
+          "image": "https://admin.redstore.am/storage/products/61619/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 989000,
+          "credit": 1009000,
+          "image": "https://admin.redstore.am/storage/products/61621/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 989000,
+          "credit": 1009000,
+          "image": "https://admin.redstore.am/storage/products/61620/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 989000,
+          "credit": 1009000,
+          "image": "https://admin.redstore.am/storage/products/61618/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1089000,
+          "credit": 1109000,
+          "image": "https://admin.redstore.am/storage/products/61635/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1089000,
+          "credit": 1109000,
+          "image": "https://admin.redstore.am/storage/products/61637/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1089000,
+          "credit": 1109000,
+          "image": "https://admin.redstore.am/storage/products/61636/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1089000,
+          "credit": 1109000,
+          "image": "https://admin.redstore.am/storage/products/61634/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1149000,
+          "credit": 1169000,
+          "image": "https://admin.redstore.am/storage/products/61623/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1149000,
+          "credit": 1169000,
+          "image": "https://admin.redstore.am/storage/products/61625/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1149000,
+          "credit": 1169000,
+          "image": "https://admin.redstore.am/storage/products/61624/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1149000,
+          "credit": 1169000,
+          "image": "https://admin.redstore.am/storage/products/61622/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1229000,
+          "credit": 1249000,
+          "image": "https://admin.redstore.am/storage/products/61639/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1229000,
+          "credit": 1249000,
+          "image": "https://admin.redstore.am/storage/products/61641/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1229000,
+          "credit": 1249000,
+          "image": "https://admin.redstore.am/storage/products/61640/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1229000,
+          "credit": 1249000,
+          "image": "https://admin.redstore.am/storage/products/61638/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1329000,
+          "credit": 1349000,
+          "image": "https://admin.redstore.am/storage/products/61629/image/88-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1329000,
+          "credit": 1349000,
+          "image": "https://admin.redstore.am/storage/products/61628/image/99-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1329000,
+          "credit": 1349000,
+          "image": "https://admin.redstore.am/storage/products/61626/image/100-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1389000,
+          "credit": 1419000,
+          "image": "https://admin.redstore.am/storage/products/61643/image/101-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1389000,
+          "credit": 1419000,
+          "image": "https://admin.redstore.am/storage/products/61645/image/88-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1389000,
+          "credit": 1419000,
+          "image": "https://admin.redstore.am/storage/products/61644/image/99-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1389000,
+          "credit": 1419000,
+          "image": "https://admin.redstore.am/storage/products/61642/image/100-montaznaia-oblast-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -4808,14 +5132,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 659600,
+      "price": 655000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 729900,
+      "creditPrice": 679000,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/61274/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -4828,6 +5152,88 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Cream",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 655000,
+          "credit": 679000,
+          "image": "https://admin.redstore.am/storage/products/61274/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 655000,
+          "credit": 679000,
+          "image": "https://admin.redstore.am/storage/products/61273/image/5.webp",
+          "inStock": false
+        },
+        {
+          "color": "Violet Shadow",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 655000,
+          "credit": 679000,
+          "image": "https://admin.redstore.am/storage/products/61275/image/5-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 775000,
+          "credit": 809000,
+          "image": "https://admin.redstore.am/storage/products/61276/image/5.webp",
+          "inStock": false
+        },
+        {
+          "color": "Violet Shadow",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 775000,
+          "credit": 879000,
+          "image": "https://admin.redstore.am/storage/products/61277/image/5-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cream",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 1039000,
+          "credit": 1059000,
+          "image": "https://admin.redstore.am/storage/products/60840/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 1039000,
+          "credit": 1059000,
+          "image": "https://admin.redstore.am/storage/products/60841/image/4-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Violet Shadow",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 1039000,
+          "credit": 1059000,
+          "image": "https://admin.redstore.am/storage/products/60842/image/5-montaznaia-oblast-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -5074,12 +5480,12 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 629600,
+      "price": 699000,
       "oldPrice": null,
       "monthly": 17690,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/61599/image/2-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "11164_1",
         "imageUrls": [
@@ -5289,10 +5695,332 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 639900,
+      "priceSource": "redstore",
+      "creditPrice": 719000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 669000,
+          "credit": 689000,
+          "image": "https://admin.redstore.am/storage/products/61583/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 669000,
+          "credit": 689000,
+          "image": "https://admin.redstore.am/storage/products/61585/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 669000,
+          "credit": 689000,
+          "image": "https://admin.redstore.am/storage/products/61584/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 669000,
+          "credit": 689000,
+          "image": "https://admin.redstore.am/storage/products/61582/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 699000,
+          "credit": 719000,
+          "image": "https://admin.redstore.am/storage/products/61599/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 699000,
+          "credit": 719000,
+          "image": "https://admin.redstore.am/storage/products/61601/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 699000,
+          "credit": 719000,
+          "image": "https://admin.redstore.am/storage/products/61600/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 699000,
+          "credit": 719000,
+          "image": "https://admin.redstore.am/storage/products/61598/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 789000,
+          "credit": 809000,
+          "image": "https://admin.redstore.am/storage/products/61587/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 789000,
+          "credit": 809000,
+          "image": "https://admin.redstore.am/storage/products/61589/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 789000,
+          "credit": 809000,
+          "image": "https://admin.redstore.am/storage/products/61588/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 789000,
+          "credit": 809000,
+          "image": "https://admin.redstore.am/storage/products/61586/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 839000,
+          "credit": 859000,
+          "image": "https://admin.redstore.am/storage/products/61603/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 839000,
+          "credit": 859000,
+          "image": "https://admin.redstore.am/storage/products/61605/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 839000,
+          "credit": 859000,
+          "image": "https://admin.redstore.am/storage/products/61604/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 839000,
+          "credit": 859000,
+          "image": "https://admin.redstore.am/storage/products/61602/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1049000,
+          "credit": 1069000,
+          "image": "https://admin.redstore.am/storage/products/61591/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1049000,
+          "credit": 1069000,
+          "image": "https://admin.redstore.am/storage/products/61593/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1049000,
+          "credit": 1069000,
+          "image": "https://admin.redstore.am/storage/products/61592/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1049000,
+          "credit": 1069000,
+          "image": "https://admin.redstore.am/storage/products/61590/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1129000,
+          "credit": 1149000,
+          "image": "https://admin.redstore.am/storage/products/61607/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1129000,
+          "credit": 1149000,
+          "image": "https://admin.redstore.am/storage/products/61609/image/15-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1129000,
+          "credit": 1149000,
+          "image": "https://admin.redstore.am/storage/products/61608/image/102-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1129000,
+          "credit": 1149000,
+          "image": "https://admin.redstore.am/storage/products/61606/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1229000,
+          "credit": 1309000,
+          "image": "https://admin.redstore.am/storage/products/61595/image/101-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1229000,
+          "credit": 1309000,
+          "image": "https://admin.redstore.am/storage/products/61597/image/88-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1229000,
+          "credit": 1309000,
+          "image": "https://admin.redstore.am/storage/products/61596/image/99-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 1229000,
+          "credit": 1309000,
+          "image": "https://admin.redstore.am/storage/products/61594/image/100-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1299000,
+          "credit": 1329000,
+          "image": "https://admin.redstore.am/storage/products/61611/image/100-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Burgundy",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1299000,
+          "credit": 1329000,
+          "image": "https://admin.redstore.am/storage/products/61613/image/88-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Glacier",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1299000,
+          "credit": 1329000,
+          "image": "https://admin.redstore.am/storage/products/61612/image/99-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1299000,
+          "credit": 1329000,
+          "image": "https://admin.redstore.am/storage/products/61610/image/101-montaznaia-oblast-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -5304,14 +6032,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 619600,
+      "price": 619000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 649900,
+      "creditPrice": 639000,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/61318/image/1-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -5324,6 +6052,88 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Cream",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 619000,
+          "credit": 639000,
+          "image": "https://admin.redstore.am/storage/products/61318/image/1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 619000,
+          "credit": 639000,
+          "image": "https://admin.redstore.am/storage/products/61314/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Lavender",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 619000,
+          "credit": 639000,
+          "image": "https://admin.redstore.am/storage/products/61268/image/10-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 655000,
+          "credit": 679000,
+          "image": "https://admin.redstore.am/storage/products/61315/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Lavender",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 655000,
+          "credit": 679000,
+          "image": "https://admin.redstore.am/storage/products/61272/image/10-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cream",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1069000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60847/image/2.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1069000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60860/image/bgcdtyujk-montaznaia-oblast-1jpg.webp",
+          "inStock": false
+        },
+        {
+          "color": "Lavender",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 1069000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60861/image/lavender-montaznaia-oblast-1jpg.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -5489,7 +6299,7 @@
       "monthly": 11980,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60580/image/tw-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "9551_1",
         "imageUrls": [
@@ -5690,10 +6500,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 575000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60580/image/tw-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 575000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60581/image/waw-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -5741,7 +6573,7 @@
       "monthly": 11150,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/23/img-7002.jpg",
       "sourceRef": {
         "sku": "7531",
         "imageUrls": [
@@ -5808,6 +6640,18 @@
       "creditPrice": 599000,
       "cats": [
         "gaming"
+      ],
+      "variants": [
+        {
+          "color": null,
+          "storage": "2TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 579000,
+          "credit": 599000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/23/img-7002.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -5824,7 +6668,7 @@
       "monthly": 11650,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/58700/image/gtdop-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "8892_1",
         "imageUrls": [
@@ -6025,10 +6869,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 559000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/58700/image/gtdop-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Green",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 559000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60342/image/err-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -6484,12 +7350,12 @@
         "ru": "eSIM",
         "en": "eSIM"
       },
-      "price": 525500,
+      "price": 559000,
       "oldPrice": null,
       "monthly": 11230,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/26/img-4502.jpg",
       "sourceRef": {
         "sku": "8709_1",
         "imageUrls": [
@@ -6689,10 +7555,252 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 539900,
+      "priceSource": "redstore",
+      "creditPrice": 565000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Cosmic Orange",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 515000,
+          "credit": 525000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/14/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 515000,
+          "credit": 525000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/14/img-4503.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 515000,
+          "credit": 525000,
+          "image": "https://admin.redstore.am/storage/products/55110/image/swdf-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 559000,
+          "credit": 565000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/26/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 559000,
+          "credit": 565000,
+          "image": "https://admin.redstore.am/storage/products/10314/image/img-4503-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 559000,
+          "credit": 565000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/26/img-4500.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 609000,
+          "credit": 629000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 609000,
+          "credit": 629000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 609000,
+          "credit": 629000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vcfyuj-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 639000,
+          "credit": 649000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 639000,
+          "credit": 649000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 639000,
+          "credit": 649000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vcfyuj-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 689000,
+          "credit": 709000,
+          "image": "https://admin.redstore.am/storage/products/58601/image/85666-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 689000,
+          "credit": 709000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4503.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 689000,
+          "credit": 709000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4500.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 749000,
+          "credit": 759000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 749000,
+          "credit": 759000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/23/img-4503.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 749000,
+          "credit": 759000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4500.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 809000,
+          "credit": 849000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 809000,
+          "credit": 849000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/24/8uh-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 809000,
+          "credit": 849000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/24/8iu8-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 939000,
+          "credit": 949000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/24/7uy7-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 939000,
+          "credit": 949000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/24/8uh-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "2TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 939000,
+          "credit": 949000,
+          "image": "https://admin.redstore.am/storage/products/59621/image/36f97bbf-3906-43cb-941a-d04419d0a31f.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -6864,7 +7972,7 @@
       "monthly": 10400,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/13/evyhf-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "9124_1",
         "imageUrls": [
@@ -7081,10 +8189,42 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Space Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/13/evyhf-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 559000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59667/image/fu-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 639000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/06/mnbvf-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -7096,12 +8236,12 @@
         "ru": "M4 · Wi-Fi + Cellular",
         "en": "M4 · Wi-Fi + Cellular"
       },
-      "price": 499000,
+      "price": 399000,
       "oldPrice": null,
       "monthly": 10400,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/06/874-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "10532",
         "imageUrls": [
@@ -7299,10 +8439,42 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 409000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5617.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 399000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/06/874-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 499000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5617.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -7377,12 +8549,12 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 488500,
+      "price": 509000,
       "oldPrice": null,
       "monthly": 11030,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/10311/image/img-4500.webp",
       "sourceRef": {
         "sku": "8681_1",
         "imageUrls": [
@@ -7582,10 +8754,112 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 518900,
+      "priceSource": "redstore",
+      "creditPrice": 519000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Cosmic Orange",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 559000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vvvvv-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 509000,
+          "credit": 519000,
+          "image": "https://admin.redstore.am/storage/products/10311/image/img-4500.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 559000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vvvvv-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 559000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 559000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vcfyuj-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cosmic Orange",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 589000,
+          "credit": 599000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/13/img-4502.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 589000,
+          "credit": 599000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/13/img-4503.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 589000,
+          "credit": 599000,
+          "image": "https://admin.redstore.am/storage/products/58470/image/img-4500.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 669000,
+          "credit": 689000,
+          "image": "https://admin.redstore.am/storage/products/58718/image/img-4500.webp",
+          "inStock": false
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 699000,
+          "credit": 709000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
+          "inStock": false
+        }
       ]
     },
     {
@@ -8042,7 +9316,7 @@
       "creditPrice": 469000,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/61316/image/2-montaznaia-oblast-1.webp",
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
@@ -8056,6 +9330,78 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Cream",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 445000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/products/61316/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 445000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/products/61269/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Pink",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 445000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/products/61317/image/4-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cream",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 569000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60848/image/55-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 569000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60844/image/1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Mint",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 569000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60851/image/oo-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Pink",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 569000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60849/image/555-montaznaia-oblast-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -8774,12 +10120,12 @@
         "ru": "M4 · Wi-Fi + Cellular",
         "en": "M4 · Wi-Fi + Cellular"
       },
-      "price": 399000,
+      "price": 329000,
       "oldPrice": null,
       "monthly": 8320,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60079/image/gui-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10531",
         "imageUrls": [
@@ -8977,10 +10323,52 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60079/image/gui-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": "128GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60078/image/sdfre-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61067/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61066/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -9473,7 +10861,7 @@
       "monthly": 9360,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4481.jpg",
       "sourceRef": {
         "sku": "8656_1",
         "imageUrls": [
@@ -9678,6 +11066,78 @@
       "creditPrice": 449000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "esim",
+          "price": 419000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/products/59068/image/img-4477.webp",
+          "inStock": false
+        },
+        {
+          "color": "Lavender",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "esim",
+          "price": 419000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/products/59070/image/zzz-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Sage",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "esim",
+          "price": 419000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/products/59071/image/zsdfdw-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "esim",
+          "price": 419000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/products/59072/image/zds-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 429000,
+          "credit": 449000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4481.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Sage",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 429000,
+          "credit": 449000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4484.jpg",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 429000,
+          "credit": 449000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4479.jpg",
+          "inStock": false
+        }
       ]
     },
     {
@@ -9689,12 +11149,12 @@
         "ru": "6.5 inch",
         "en": "6.5 inch"
       },
-      "price": 395500,
+      "price": 395000,
       "oldPrice": null,
       "monthly": 8530,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/40157/image/img-4496.webp",
       "sourceRef": {
         "sku": "8733_1",
         "imageUrls": [
@@ -9895,10 +11355,92 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 409900,
+      "priceSource": "redstore",
+      "creditPrice": 409000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Cloud White",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 395000,
+          "credit": 409000,
+          "image": "https://admin.redstore.am/storage/products/40157/image/img-4496.webp",
+          "inStock": false
+        },
+        {
+          "color": "Light Gold",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 395000,
+          "credit": 409000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4494.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 395000,
+          "credit": 409000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4686.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Space Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 395000,
+          "credit": 409000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4489.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Cloud White",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 449000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4496.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Light Gold",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 449000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/21155-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 449000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4686.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Space Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 449000,
+          "credit": 469000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/1111-montaznaia-oblast-1.jpg",
+          "inStock": false
+        }
       ]
     },
     {
@@ -9991,14 +11533,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 379900,
+      "price": 375000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 392900,
+      "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/60367/image/we-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -10011,6 +11553,28 @@
       ],
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Icy Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 375000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60367/image/we-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 375000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60366/image/aswe-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -10022,12 +11586,12 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 379600,
+      "price": 399000,
       "oldPrice": null,
       "monthly": 8730,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/59936/image/img-4759.webp",
       "sourceRef": {
         "sku": "9642_1",
         "imageUrls": [
@@ -10228,10 +11792,122 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 409900,
+      "priceSource": "redstore",
+      "creditPrice": 419000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": 419000,
+          "image": "https://admin.redstore.am/storage/products/59936/image/img-4759.webp",
+          "inStock": false
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": 419000,
+          "image": "https://admin.redstore.am/storage/products/59967/image/img-4758-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": 419000,
+          "image": "https://admin.redstore.am/storage/products/59937/image/bezymiannyi-4-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": 419000,
+          "image": "https://admin.redstore.am/storage/products/59938/image/sew-montaznaia-oblast-1-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 479000,
+          "credit": 499000,
+          "image": "https://admin.redstore.am/storage/products/59921/image/img-4759.webp",
+          "inStock": false
+        },
+        {
+          "color": "Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 479000,
+          "credit": 499000,
+          "image": "https://admin.redstore.am/storage/products/59922/image/img-4758.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 479000,
+          "credit": 499000,
+          "image": "https://admin.redstore.am/storage/products/60040/image/jk-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 479000,
+          "credit": 499000,
+          "image": "https://admin.redstore.am/storage/products/60041/image/nj-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 629000,
+          "credit": 649000,
+          "image": "https://admin.redstore.am/storage/products/60104/image/gy-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": 649000,
+          "image": "https://admin.redstore.am/storage/products/60213/image/img-4759.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": 649000,
+          "image": "https://admin.redstore.am/storage/products/60214/image/bezymiannyi-4-montaznaia-oblast-1-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -11105,12 +12781,12 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 349700,
+      "price": 369000,
       "oldPrice": null,
       "monthly": 6230,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "9664_1",
         "imageUrls": [
@@ -11311,10 +12987,32 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 369000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 369000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60291/image/wew-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -11388,12 +13086,12 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 349600,
+      "price": 359000,
       "oldPrice": null,
       "monthly": 7480,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5078.jpg",
       "sourceRef": {
         "sku": "7713_1",
         "imageUrls": [
@@ -11594,10 +13292,62 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 369900,
+      "priceSource": "redstore",
+      "creditPrice": 379000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Titanium Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 359000,
+          "credit": 379000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5078.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Silver Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5076.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Titanium Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5078.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Titanium Grey",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5075.jpg",
+          "inStock": true
+        },
+        {
+          "color": "White Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 439000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5077.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -11614,7 +13364,7 @@
       "monthly": 6570,
       "availability": "in-stock",
       "art": "playstation",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/9211/image/asdrf-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "6319",
         "imageUrls": [
@@ -11660,6 +13410,28 @@
       "creditPrice": 319000,
       "cats": [
         "gaming"
+      ],
+      "variants": [
+        {
+          "color": null,
+          "storage": "825GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 299000,
+          "credit": 319000,
+          "image": "https://admin.redstore.am/storage/products/9211/image/asdrf-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": null,
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 319000,
+          "credit": 339000,
+          "image": "https://admin.redstore.am/storage/products/59364/image/whatsapp-image-2026-03-23-at-133909.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -11752,12 +13524,12 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 335000,
+      "price": 319000,
       "oldPrice": null,
       "monthly": 6650,
       "availability": "on-request",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10524_1",
         "imageUrls": [
@@ -11958,10 +13730,42 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60575/image/asvoedzph-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Deep Violet",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60576/image/sew2e-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -12250,7 +14054,7 @@
       "monthly": 6860,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5103.jpg",
       "sourceRef": {
         "sku": "8296_1",
         "imageUrls": [
@@ -12455,6 +14259,18 @@
       "creditPrice": 409000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Titanium Jetblack",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 389000,
+          "credit": 409000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5103.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -12708,7 +14524,7 @@
       "monthly": 6440,
       "availability": "in-stock",
       "art": "macbook",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10326",
         "imageUrls": [
@@ -12906,10 +14722,92 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "mac"
+      ],
+      "variants": [
+        {
+          "color": "Blush",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Citrus",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60042/image/5-montaznaia-oblast.webp",
+          "inStock": false
+        },
+        {
+          "color": "Indigo",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60043/image/sw-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60044/image/sww-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": null,
+          "storage": "512GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60283/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Citrus",
+          "storage": "512GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60045/image/5-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Indigo",
+          "storage": "512GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60046/image/jfdu-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60047/image/sww-montaznaia-oblast-1.jpg",
+          "inStock": false
+        }
       ]
     },
     {
@@ -12983,12 +14881,12 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 319000,
+      "price": 299000,
       "oldPrice": null,
       "monthly": 6650,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60236/image/w-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "8801_1",
         "imageUrls": [
@@ -13197,10 +15095,42 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 299000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60236/image/w-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/16/4567uv-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 299000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60341/image/sdrftyujk-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -13444,7 +15374,7 @@
       "monthly": 6650,
       "availability": "on-request",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/16/xcfvghjk-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "8800_1",
         "imageUrls": [
@@ -13649,6 +15579,18 @@
       "creditPrice": 249000,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Gold",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 229000,
+          "credit": 249000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/16/xcfvghjk-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -13825,12 +15767,12 @@
         "ru": "6.1 inch",
         "en": "6.1 inch"
       },
-      "price": 308500,
+      "price": 365000,
       "oldPrice": null,
       "monthly": 8110,
       "availability": "in-stock",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4460.jpg",
       "sourceRef": {
         "sku": "7367_1",
         "imageUrls": [
@@ -14031,10 +15973,32 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 334900,
+      "priceSource": "redstore",
+      "creditPrice": 385000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Pink",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 365000,
+          "credit": 385000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4460.jpg",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 365000,
+          "credit": 385000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4461.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -14759,12 +16723,12 @@
         "ru": "6.3 inch",
         "en": "6.3 inch"
       },
-      "price": 295600,
+      "price": 319000,
       "oldPrice": null,
       "monthly": 7070,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/59964/image/img-4801.webp",
       "sourceRef": {
         "sku": "9877_1",
         "imageUrls": [
@@ -14974,10 +16938,132 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 314900,
+      "priceSource": "redstore",
+      "creditPrice": 339000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": 339000,
+          "image": "https://admin.redstore.am/storage/products/59964/image/img-4801.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": 339000,
+          "image": "https://admin.redstore.am/storage/products/59983/image/img-4804.webp",
+          "inStock": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": 339000,
+          "image": "https://admin.redstore.am/storage/products/59965/image/87-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": 339000,
+          "image": "https://admin.redstore.am/storage/products/60210/image/swq-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 349000,
+          "credit": 369000,
+          "image": "https://admin.redstore.am/storage/products/60103/image/img-4804.webp",
+          "inStock": false
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 359000,
+          "credit": 379000,
+          "image": "https://admin.redstore.am/storage/products/59966/image/img-4801.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 429000,
+          "image": "https://admin.redstore.am/storage/products/60318/image/img-4804.webp",
+          "inStock": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 429000,
+          "image": "https://admin.redstore.am/storage/products/60293/image/img-4803.webp",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 409000,
+          "credit": 429000,
+          "image": "https://admin.redstore.am/storage/products/61694/image/1-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 359000,
+          "credit": 379000,
+          "image": "https://admin.redstore.am/storage/products/60100/image/img-4804.webp",
+          "inStock": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 359000,
+          "credit": 379000,
+          "image": "https://admin.redstore.am/storage/products/60101/image/87-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 359000,
+          "credit": 379000,
+          "image": "https://admin.redstore.am/storage/products/60102/image/swq-montaznaia-oblast-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -14989,12 +17075,12 @@
         "ru": "256GB · 6.7 inch",
         "en": "256GB · 6.7 inch"
       },
-      "price": 294600,
+      "price": 269000,
       "oldPrice": null,
       "monthly": 6030,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/61696/image/2-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "11288",
         "imageUrls": [
@@ -15192,10 +17278,72 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 326900,
+      "priceSource": "redstore",
+      "creditPrice": 289000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Blueberry",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 269000,
+          "credit": 289000,
+          "image": "https://admin.redstore.am/storage/products/61696/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 269000,
+          "credit": 289000,
+          "image": "https://admin.redstore.am/storage/products/61695/image/3-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Pistachio",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 269000,
+          "credit": 289000,
+          "image": "https://admin.redstore.am/storage/products/61697/image/4-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Blueberry",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 289000,
+          "credit": 319000,
+          "image": "https://admin.redstore.am/storage/products/61579/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 289000,
+          "credit": 319000,
+          "image": "https://admin.redstore.am/storage/products/61570/image/3-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Pistachio",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 289000,
+          "credit": 319000,
+          "image": "https://admin.redstore.am/storage/products/61580/image/4-montaznaia-oblast-1.webp",
+          "inStock": false
+        }
       ]
     },
     {
@@ -15320,12 +17468,12 @@
         "ru": "M3",
         "en": "M3"
       },
-      "price": 289000,
+      "price": 329000,
       "oldPrice": null,
       "monthly": 6030,
       "availability": "on-request",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60079/image/gui-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "8179_1",
         "imageUrls": [
@@ -15535,10 +17683,52 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60079/image/gui-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": "128GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60078/image/sdfre-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61067/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61066/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -15550,12 +17740,12 @@
         "ru": "8.3inch",
         "en": "8.3inch"
       },
-      "price": 289000,
+      "price": 279000,
       "oldPrice": null,
       "monthly": 6030,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5610.jpg",
       "sourceRef": {
         "sku": "7576_1",
         "imageUrls": [
@@ -15765,10 +17955,42 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 279000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5610.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 279000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5609.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 289000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5611.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -16255,7 +18477,7 @@
       "monthly": 9360,
       "availability": "on-request",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60063/image/avoph-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "9907_1",
         "imageUrls": [
@@ -16460,6 +18682,28 @@
       "creditPrice": 369000,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 349000,
+          "credit": 369000,
+          "image": "https://admin.redstore.am/storage/products/60063/image/avoph-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 349000,
+          "credit": 369000,
+          "image": "https://admin.redstore.am/storage/products/60062/image/ghp-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -16621,7 +18865,7 @@
       "monthly": 6230,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5056.jpg",
       "sourceRef": {
         "sku": "7714_1",
         "imageUrls": [
@@ -16826,6 +19070,38 @@
       "creditPrice": 259000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Mint",
+          "storage": "128GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 239000,
+          "credit": 259000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5056.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Mint",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5056.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Navy",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5057.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -16837,12 +19113,12 @@
         "ru": "6.2 inch",
         "en": "6.2 inch"
       },
-      "price": 279000,
+      "price": 229000,
       "oldPrice": null,
       "monthly": 6230,
       "availability": "on-request",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/42546/image/img-5030.webp",
       "sourceRef": {
         "sku": "6480_1",
         "imageUrls": [
@@ -17034,10 +19310,62 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Amber Yellow",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 245000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59553/image/img-4217.webp",
+          "inStock": true
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 229000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/42546/image/img-5030.webp",
+          "inStock": true
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 245000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59457/image/img-5030.webp",
+          "inStock": true
+        },
+        {
+          "color": "Onyx Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 245000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/06/789621-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Cobalt Violet",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 359000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5030.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -18200,14 +20528,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 260500,
+      "price": 189000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8544.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -18220,6 +20548,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8544.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Brown",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8485.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -18744,12 +21094,12 @@
         "ru": "6.1 inch",
         "en": "6.1 inch"
       },
-      "price": 248500,
+      "price": 289000,
       "oldPrice": null,
       "monthly": 8110,
       "availability": "on-request",
       "art": "iphone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60766/image/g-montaznaia-oblast-1-2.webp",
       "sourceRef": {
         "sku": "5854_1",
         "imageUrls": [
@@ -18959,10 +21309,32 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 269900,
+      "priceSource": "redstore",
+      "creditPrice": null,
       "cats": [
         "iphone"
+      ],
+      "variants": [
+        {
+          "color": "Midnight",
+          "storage": "512GB",
+          "ram": "6GB",
+          "sim": "sim-esim",
+          "price": 289000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60766/image/g-montaznaia-oblast-1-2.webp",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "512GB",
+          "ram": "6GB",
+          "sim": "sim-esim",
+          "price": 289000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60768/image/23-montaznaia-oblast-1-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -19036,12 +21408,12 @@
         "ru": "6.59 inch",
         "en": "6.59 inch"
       },
-      "price": 239700,
+      "price": 279000,
       "oldPrice": null,
       "monthly": 5820,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "9449_1",
         "imageUrls": [
@@ -19241,10 +21613,42 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 279000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 279000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59048/image/zadfe-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Titanium Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 279000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59049/image/zsawe-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -19635,12 +22039,12 @@
         "ru": "11.2 inch",
         "en": "11.2 inch"
       },
-      "price": 234800,
+      "price": 234000,
       "oldPrice": null,
       "monthly": 4880,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5729.jpg",
       "sourceRef": {
         "sku": "8193_1",
         "imageUrls": [
@@ -19849,10 +22253,32 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 239900,
+      "priceSource": "redstore",
+      "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 234000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5729.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 234000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/30/img-5728.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -19900,7 +22326,7 @@
       "monthly": 4780,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5065.jpg",
       "sourceRef": {
         "sku": "8741_1",
         "imageUrls": [
@@ -20105,6 +22531,58 @@
       "creditPrice": 219000,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Jetblack",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 209000,
+          "credit": 219000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5065.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Navy",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 209000,
+          "credit": 219000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5066.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Jetblack",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 222000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5065.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Navy",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 222000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5066.jpg",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 222000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5064.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -20378,12 +22856,12 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 219700,
+      "price": 209000,
       "oldPrice": null,
       "monthly": 4360,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10297__1",
         "imageUrls": [
@@ -20584,10 +23062,32 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 209000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 209000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60369/image/cuk-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -20963,14 +23463,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 216690,
+      "price": 239000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/58527/image/photoroom-20251206-110248.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -20983,6 +23483,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/58527/image/photoroom-20251206-110248.webp",
+          "inStock": true
+        },
+        {
+          "color": "Squad",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/58526/image/photoroom-20251206-110146.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -21061,7 +23583,7 @@
       "monthly": 4360,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60374/image/ef-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10390_1",
         "imageUrls": [
@@ -21270,10 +23792,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Green",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60373/image/as-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 209000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60374/image/ef-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -21954,12 +24498,12 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 188700,
+      "price": 159000,
       "oldPrice": null,
       "monthly": 2070,
       "availability": "on-request",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/59589/image/nhy-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "10785_1",
         "imageUrls": [
@@ -22160,10 +24704,42 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 193900,
+      "priceSource": "redstore",
+      "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Mist Purple",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59589/image/nhy-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59595/image/ngh-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59596/image/njik-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -22257,12 +24833,12 @@
         "ru": "128GB · Серый",
         "en": "128GB · Space Grey"
       },
-      "price": 209000,
+      "price": 179000,
       "oldPrice": null,
       "monthly": 3730,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5671.jpg",
       "sourceRef": {
         "sku": "9530",
         "imageUrls": [
@@ -22470,9 +25046,41 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 229000,
+      "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Silver",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5671.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 219000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60202/image/dnvo-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 209000,
+          "credit": 229000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5670.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -23142,12 +25750,12 @@
         "ru": "Type-C",
         "en": "Type-C"
       },
-      "price": 169000,
+      "price": 190000,
       "oldPrice": null,
       "monthly": 3530,
       "availability": "in-stock",
       "art": "earbuds",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5878.png",
       "sourceRef": {
         "sku": "7379_1",
         "imageUrls": [
@@ -23180,10 +25788,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 190000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5878.png",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 219000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5916.png",
+          "inStock": true
+        }
       ]
     },
     {
@@ -23389,12 +26019,12 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 159700,
+      "price": 159000,
       "oldPrice": null,
       "monthly": 3320,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "9665_1",
         "imageUrls": [
@@ -23604,10 +26234,42 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 169900,
+      "priceSource": "redstore",
+      "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Green",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59908/image/q2w3er-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59909/image/e34-montaznaia-oblast-1-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -24127,12 +26789,12 @@
         "ru": "11.2 inch",
         "en": "11.2 inch"
       },
-      "price": 158700,
+      "price": 159000,
       "oldPrice": null,
       "monthly": 3320,
       "availability": "in-stock",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5729.jpg",
       "sourceRef": {
         "sku": "8308_1",
         "imageUrls": [
@@ -24341,10 +27003,32 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5729.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Green",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5730.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -24887,12 +27571,12 @@
         "ru": "6.59 inch",
         "en": "6.59 inch"
       },
-      "price": 154700,
+      "price": 159000,
       "oldPrice": null,
       "monthly": 3320,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10298_1",
         "imageUrls": [
@@ -25092,10 +27776,82 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": 169800,
+      "priceSource": "redstore",
+      "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Mint Green",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60339/image/pro-x8jpg2-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 174000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60139/image/esrw-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Mint Green",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60264/image/dr5-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Mint Green",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 174000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60140/image/dwq-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60234/image/22-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 174000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60141/image/dr322-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -25332,12 +28088,12 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 149600,
+      "price": 142000,
       "oldPrice": null,
       "monthly": 6230,
       "availability": "on-request",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5023.jpg",
       "sourceRef": {
         "sku": "7888_1",
         "imageUrls": [
@@ -25547,10 +28303,112 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Light Gray",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 142000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5023.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Pink",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 142000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5025.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Graphite",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5026.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Graphite",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 169000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5026.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Gray",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5023.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Gray",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 169000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5023.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Olive",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5024.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Olive",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 169000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5024.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Pink",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5025.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Pink",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 169000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5025.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -25562,14 +28420,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 149600,
+      "price": 133000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/61326/image/5-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -25582,6 +28440,38 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Cream",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 133000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61326/image/5-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Graphite",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 133000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61327/image/2-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 143000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61328/image/6-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -25729,14 +28619,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 144900,
+      "price": 139000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8542.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -25749,6 +28639,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 139000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8542.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 139000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8482.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -25760,14 +28672,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 144900,
+      "price": 119000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vgvggh-montaznaia-oblast-1.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -25780,6 +28692,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 119000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vgvggh-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8488.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -25791,12 +28725,12 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 143600,
+      "price": 143000,
       "oldPrice": null,
       "monthly": 3000,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60111/image/hh-montaznaia-oblast-1-1-1.webp",
       "sourceRef": {
         "sku": "10375_1",
         "imageUrls": [
@@ -26006,10 +28940,132 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Grey",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 143000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60111/image/hh-montaznaia-oblast-1-1-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Icyblue",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 143000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60113/image/e32-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Lilac",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 143000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60114/image/se3-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Navy",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 143000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60112/image/sw22-montaznaia-oblast-1-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60298/image/hh-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 167000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60115/image/hh-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Icy Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60299/image/e32-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Icyblue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 167000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60117/image/e32-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Lilac",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60667/image/se3-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Lilac",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 167000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60118/image/se3-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Navy",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 167000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60116/image/sw22-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Navy",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60300/image/sw22-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -26052,14 +29108,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 139900,
+      "price": 159000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -26072,6 +29128,18 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -26083,14 +29151,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 139600,
+      "price": 129000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 143900,
+      "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4094.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -26103,6 +29171,18 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "White",
+          "storage": "64GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 129000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4094.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -26823,14 +29903,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 129900,
+      "price": 149000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/60926/image/1-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -26843,6 +29923,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 149000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60926/image/1-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 149000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60927/image/2-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -27132,7 +30234,7 @@
       "monthly": 2690,
       "availability": "in-stock",
       "art": "headphones",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6052.jpg",
       "sourceRef": {
         "sku": "6519_1",
         "imageUrls": [
@@ -27165,10 +30267,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Deep Brown",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 129000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6052.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Matte White",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 129000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6053.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -27472,12 +30596,12 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 125600,
+      "price": 109000,
       "oldPrice": null,
       "monthly": 2280,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60760/image/b-montaznaia-oblast-1-2.webp",
       "sourceRef": {
         "sku": "10544_1",
         "imageUrls": [
@@ -27687,10 +30811,82 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60760/image/b-montaznaia-oblast-1-2.webp",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61279/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Light Green",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60761/image/k-montaznaia-oblast-1-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 125000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60762/image/b-montaznaia-oblast-1-2.webp",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 125000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60763/image/bl-montaznaia-oblast-1-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Light Green",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 125000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60764/image/k-montaznaia-oblast-1-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Pink",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 125000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60880/image/bezymiannyi-3.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -27764,14 +30960,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 119900,
+      "price": 109000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8462.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -27784,6 +30980,38 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8462.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8463.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Midnight Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8465.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -27795,12 +31023,12 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 119600,
+      "price": 127000,
       "oldPrice": null,
       "monthly": 2650,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60211/image/ffr-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "10367_1",
         "imageUrls": [
@@ -28001,10 +31229,72 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Charcoal",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 127000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60211/image/ffr-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Lavender",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 127000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60245/image/bnh-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 127000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60106/image/hgg-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Charcoal",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60107/image/ffr-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Lavender",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60239/image/bnh-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 144000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60108/image/hgg-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -28122,14 +31412,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 112700,
+      "price": 124000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 119900,
+      "creditPrice": 138000,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/products/59460/image/img-3389.webp",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -28142,6 +31432,88 @@
       ],
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 124000,
+          "credit": 138000,
+          "image": "https://admin.redstore.am/storage/products/59460/image/img-3389.webp",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 124000,
+          "credit": 138000,
+          "image": "https://admin.redstore.am/storage/products/59461/image/img-3391.webp",
+          "inStock": true
+        },
+        {
+          "color": "Mist Purple",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59589/image/nhy-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 134000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59467/image/img-3389.webp",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 134000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59468/image/img-3391.webp",
+          "inStock": true
+        },
+        {
+          "color": "Titanium",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 134000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59469/image/img-3390.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59595/image/ngh-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59596/image/njik-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -28215,14 +31587,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 109600,
+      "price": 99000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4088.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -28235,6 +31607,28 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Graphite",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 99000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4088.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 99000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4089.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -28943,14 +32337,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 108900,
+      "price": 88000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 119900,
+      "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4079.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -28963,6 +32357,18 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Cream",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 88000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4079.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -29140,14 +32546,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 99900,
+      "price": 75000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8473.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -29160,6 +32566,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 75000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8473.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 75000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8474.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -29688,7 +33116,7 @@
       "monthly": 4150,
       "availability": "on-request",
       "art": "ipad",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/25/tgft-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "8407_1",
         "imageUrls": [
@@ -29897,10 +33325,22 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Graphite Gray",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 99000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/25/tgft-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -29974,14 +33414,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 97700,
+      "price": 145000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 99900,
+      "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4887.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -29994,6 +33434,28 @@
       ],
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Frost Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 145000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4887.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Midnight Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 145000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4883.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -30445,12 +33907,12 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 94000,
+      "price": 191000,
       "oldPrice": null,
       "monthly": 1960,
       "availability": "on-request",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "Xiaomi Redmi Note 17 Pro Max",
         "imageUrls": [
@@ -30645,10 +34107,52 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 191000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Cloud Blush",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 191000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61573/image/5-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Green",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 191000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61574/image/3-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 191000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61572/image/002-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -31119,14 +34623,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 89900,
+      "price": 73000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8473.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -31139,6 +34643,68 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 73000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8473.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 75000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8473.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 75000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8474.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Forest Green",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 73000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8475.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Midnight Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 77000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8477.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Sage",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 77000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8476.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -31334,7 +34900,7 @@
       "monthly": 1750,
       "availability": "in-stock",
       "art": "headphones",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5981.png",
       "sourceRef": {
         "sku": "6139_1",
         "imageUrls": [
@@ -31367,10 +34933,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 84000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5981.png",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 84000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5977.png",
+          "inStock": true
+        }
       ]
     },
     {
@@ -31387,7 +34975,7 @@
       "monthly": 1750,
       "availability": "in-stock",
       "art": "headphones",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5991.png",
       "sourceRef": {
         "sku": "5775_1",
         "imageUrls": [
@@ -31420,10 +35008,22 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 84000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5991.png",
+          "inStock": true
+        }
       ]
     },
     {
@@ -32616,14 +36216,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 69900,
+      "price": 59000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -32636,6 +36236,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8489.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -33197,12 +36819,12 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 65600,
+      "price": 72000,
       "oldPrice": null,
       "monthly": 1500,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4542.jpg",
       "sourceRef": {
         "sku": "8598_1",
         "imageUrls": [
@@ -33403,10 +37025,132 @@
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 79000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4542.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 85000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/58933/image/img-4542.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 72000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4542.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 85000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/10049/image/e3q-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 79000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4540.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 72000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4540.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "128GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 85000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4540.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Blue",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 79000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4545.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Blue",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 72000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/07/img-4545.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 99000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/58934/image/img-4542.webp",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4540.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 99000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59044/image/zzx-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -33480,14 +37224,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 59900,
+      "price": 59000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -33500,6 +37244,28 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8489.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -33511,12 +37277,12 @@
         "ru": "",
         "en": ""
       },
-      "price": 59000,
+      "price": 49000,
       "oldPrice": null,
       "monthly": 1550,
       "availability": "in-stock",
       "art": "earbuds",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/12/cdse-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "6039_1",
         "imageUrls": [
@@ -33549,10 +37315,52 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 74000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/fssgf-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 49000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/cdse-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Ivory",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 74000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6068.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Transparent",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 74000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6070.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -33857,14 +37665,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 57900,
+      "price": 53000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8313.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -33877,6 +37685,58 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 53000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8313.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Red",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 53000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8315.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Sand",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 53000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/phdzjtuyevurio-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Squad",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 53000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8371.jpg",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 53000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8317.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -34920,14 +38780,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 49900,
+      "price": 39000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8308.jpeg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -34940,6 +38800,78 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Green",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 42000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8304.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Grey",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 42000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8305.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Martin Garrix",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 42000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8306.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 42000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8307.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Squad",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 39000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8308.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Teal",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 42000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8309.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 42000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8310.jpeg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -34951,14 +38883,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 48600,
+      "price": 52000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4513.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -34971,6 +38903,118 @@
       ],
       "cats": [
         "samsung"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "64GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 52000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4513.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Dark Green",
+          "storage": "64GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 52000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4514.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Violet",
+          "storage": "64GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 52000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4516.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 58000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4513.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 67000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4513.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Dark Green",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 58000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4514.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Dark Green",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 67000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4514.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Lavender",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 63000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60244/image/img-4516.webp",
+          "inStock": true
+        },
+        {
+          "color": "Light Violet",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": null,
+          "price": 58000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4516.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Light Violet",
+          "storage": "128GB",
+          "ram": "6GB",
+          "sim": null,
+          "price": 67000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4516.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "ram": "4GB",
+          "sim": "sim-esim",
+          "price": 63000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60444/image/img-4513.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -35674,7 +39718,7 @@
       "monthly": 940,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/12/tedw4667-montaznaia-oblast-1.jpg",
       "sourceRef": {
         "sku": "8297_1",
         "imageUrls": [
@@ -35705,10 +39749,32 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 45000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/tedw4667-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 45000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/2214-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -36331,7 +40397,7 @@
       "monthly": 5820,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/9211/image/asdrf-montaznaia-oblast-1.webp",
       "sourceRef": {
         "sku": "7153",
         "imageUrls": [
@@ -36367,6 +40433,28 @@
       "creditPrice": 319000,
       "cats": [
         "gaming"
+      ],
+      "variants": [
+        {
+          "color": null,
+          "storage": "825GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 299000,
+          "credit": 319000,
+          "image": "https://admin.redstore.am/storage/products/9211/image/asdrf-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": null,
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 319000,
+          "credit": 339000,
+          "image": "https://admin.redstore.am/storage/products/59364/image/whatsapp-image-2026-03-23-at-133909.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -37180,14 +41268,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 9900,
+      "price": 11000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/16/img-6786.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -37200,6 +41288,18 @@
       ],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 11000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/16/img-6786.jpg",
+          "inStock": true
+        }
       ]
     },
     {
