@@ -55,6 +55,12 @@
     "newAction": "Բոլոր նորույթները"
   },
   "product": {
+    "color": "Գույն",
+    "storage": "Հիշողություն",
+    "ram": "RAM",
+    "sim": "SIM",
+    "simEsim": "SIM + eSIM",
+    "esimOnly": "eSIM + eSIM",
     "cash": "Կանխիկ",
     "credit": "Ապառիկ",
     "close": "Փակել",

@@ -55,6 +55,12 @@
     "newAction": "Все новинки"
   },
   "product": {
+    "color": "Цвет",
+    "storage": "Память",
+    "ram": "ОЗУ",
+    "sim": "SIM",
+    "simEsim": "SIM + eSIM",
+    "esimOnly": "eSIM + eSIM",
     "cash": "Наличными",
     "credit": "В кредит",
     "close": "Закрыть",

@@ -55,6 +55,12 @@
     "newAction": "All new"
   },
   "product": {
+    "color": "Colour",
+    "storage": "Storage",
+    "ram": "RAM",
+    "sim": "SIM",
+    "simEsim": "SIM + eSIM",
+    "esimOnly": "eSIM + eSIM",
     "cash": "Cash",
     "credit": "Credit",
     "close": "Close",
