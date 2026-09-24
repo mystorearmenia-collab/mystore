@@ -2,7 +2,10 @@ import type { ProductArt } from "@/components/ProductVisual";
 import type { Locale } from "@/i18n/routing";
 import catalogData from "@/data/catalog.json";
 
-export type Tri = { hy: string; ru: string; en: string };
+import type { Tri } from "./format";
+
+export { pick, formatPrice } from "./format";
+export type { Tri } from "./format";
 
 export type Availability = "in-stock" | "on-request";
 
@@ -14,13 +17,17 @@ export type Product = {
   brand: string;
   name: string;
   config: Tri;
+  /** Cash price, AMD */
   price: number;
+  /** Instalment / credit price, AMD — null when the shops do not offer credit on the item */
+  creditPrice: number | null;
   oldPrice: number | null;
   monthly: number | null;
   availability: Availability;
   art: ProductArt;
   image?: string | null;
   specs: ProductSpecSection[];
+  cats: string[];
 };
 
 export type Category = {
@@ -39,63 +46,31 @@ type CatalogFile = {
 
 const catalog = catalogData as CatalogFile;
 
-/** Picks the string for the active locale, falling back to English. */
-export function pick(tri: Tri, locale: Locale): string {
-  return tri[locale] || tri.en || tri.hy || tri.ru || "";
-}
-
-export function formatPrice(value: number, locale: Locale): string {
-  const grouped = new Intl.NumberFormat(
-    locale === "hy" ? "hy-AM" : locale === "ru" ? "ru-RU" : "en-US",
-  ).format(value);
-  return `${grouped} ֏`;
-}
-
-export const navigation: { key: string; href: string }[] = [
-  { key: "home", href: "/" },
-  { key: "iphone", href: "/iphone" },
-  { key: "samsung", href: "/samsung" },
-  { key: "mac", href: "/mac" },
-  { key: "ipad", href: "/ipad" },
-  { key: "gaming", href: "/gaming" },
-  { key: "audio", href: "/audio" },
-  { key: "dyson", href: "/dyson" },
-  { key: "accessories", href: "/accessories" },
-];
+export { navigation } from "./nav";
 
 export const categories: Category[] = catalog.categories;
 export const products: Product[] = catalog.products;
-export const featuredProducts: Product[] = products.slice(0, 8);
-export const newArrivals: Product[] = products.slice(8, 14);
+export const featuredProducts: Product[] = pickShowcase(0);
+export const newArrivals: Product[] = pickShowcase(1, 6);
 
 export function getCategory(id: string): Category | undefined {
   return categories.find((c) => c.id === id);
 }
 
-/** Same brand/art rules the catalog generator used to count each category. */
+/** Categories are assigned per product by the catalog generator (`cats`). */
 export function productsForCategory(id: string): Product[] {
-  switch (id) {
-    case "iphone":
-      return products.filter((p) => p.brand === "Apple" && p.art === "iphone");
-    case "samsung":
-      return products.filter((p) => p.brand === "Samsung");
-    case "mac":
-      return products.filter((p) => p.brand === "Apple" && p.art === "macbook");
-    case "ipad":
-      return products.filter((p) => p.brand === "Apple" && p.art === "ipad");
-    case "gaming":
-      return products.filter((p) => p.brand === "PlayStation");
-    case "audio":
-      return products.filter((p) =>
-        (["headphones", "earbuds", "speaker"] as ProductArt[]).includes(p.art),
-      );
-    case "dyson":
-      return products.filter((p) => p.brand === "Dyson");
-    case "accessories":
-      return products.filter((p) => p.art === "accessory" && p.brand === "Apple");
-    default:
-      return [];
+  return products.filter((p) => p.cats.includes(id));
+}
+
+/** The n-th most expensive product of each category, so the homepage shows the whole range. */
+function pickShowcase(rank: number, limit = 8): Product[] {
+  const order = ["iphone", "samsung", "mac", "gaming", "audio", "dyson", "dji", "xiaomi", "ipad", "camera"];
+  const out: Product[] = [];
+  for (const id of order) {
+    const p = productsForCategory(id)[rank];
+    if (p && !out.includes(p)) out.push(p);
   }
+  return out.slice(0, limit);
 }
 
 export const brands = [
@@ -104,8 +79,10 @@ export const brands = [
   "Xiaomi",
   "Dyson",
   "DJI",
+  "JBL",
+  "Marshall",
   "PlayStation",
-  "Sony",
+  "Canon",
 ];
 
 /** Yerevan storefront details — language-neutral facts stay as-is, the rest is translated per locale. */
