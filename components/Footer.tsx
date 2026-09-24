@@ -1,22 +1,17 @@
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import Logo from "./Logo";
-import { navigation, store } from "@/lib/catalog";
-import {
-  FacebookIcon,
-  InstagramIcon,
-  PowerIcon,
-  WhatsAppIcon,
-} from "./icons";
+import { navigation, store, storeAddress } from "@/lib/catalog";
+import type { Locale } from "@/i18n/routing";
+import { PowerIcon, WhatsAppIcon } from "./icons";
 
 const socials = [
-  { label: "Instagram", icon: InstagramIcon, href: "https://instagram.com" },
-  { label: "Facebook", icon: FacebookIcon, href: "https://facebook.com" },
-  { label: "WhatsApp", icon: WhatsAppIcon, href: "https://wa.me/37410500900" },
+  { label: "WhatsApp", icon: WhatsAppIcon, href: store.whatsapp },
 ];
 
 export default function Footer() {
   const t = useTranslations("footer");
+  const locale = useLocale() as Locale;
   const tNav = useTranslations("nav");
   const serviceLinks = t.raw("serviceLinks") as string[];
   const infoLinks = t.raw("infoLinks") as string[];
@@ -80,7 +75,7 @@ export default function Footer() {
               {t("contact")}
             </h3>
             <ul className="mt-5 space-y-3 text-[0.875rem]">
-              <li className="text-muted">{store.address}</li>
+              <li className="text-muted">{storeAddress(locale)}</li>
               <li>
                 <a
                   href={`tel:${store.phone.replace(/\s/g, "")}`}

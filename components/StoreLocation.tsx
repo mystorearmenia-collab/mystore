@@ -1,7 +1,7 @@
 import { useLocale, useTranslations } from "next-intl";
 import Reveal from "./Reveal";
 import Logo from "./Logo";
-import { store, storeCity } from "@/lib/catalog";
+import { store, storeAddress, storeCity } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
 import {
   ArrowUpRightIcon,
@@ -76,7 +76,7 @@ export default function StoreLocation() {
                   {t("address")}
                 </dt>
                 <dd className="mt-2.5 text-[0.95rem]">
-                  {store.address}
+                  {storeAddress(locale)}
                   <span className="block text-muted">{storeCity(locale)}</span>
                 </dd>
               </div>
