@@ -3,6 +3,7 @@ import type { Locale } from "@/i18n/routing";
 import catalogData from "@/data/catalog.json";
 
 import { pick, type Tri } from "./format";
+import type { Variant } from "./variants";
 
 export { pick, formatPrice } from "./format";
 export type { Tri } from "./format";
@@ -28,6 +29,7 @@ export type Product = {
   image?: string | null;
   specs: ProductSpecSection[];
   cats: string[];
+  variants?: Variant[];
 };
 
 export type Category = {
