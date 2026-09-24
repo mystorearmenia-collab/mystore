@@ -8,11 +8,14 @@
     "home": "Главная",
     "iphone": "iPhone",
     "samsung": "Samsung",
+    "xiaomi": "Xiaomi",
     "mac": "Mac",
     "ipad": "iPad",
     "gaming": "Игры",
     "audio": "Аудио",
     "dyson": "Dyson",
+    "dji": "DJI",
+    "camera": "Фото",
     "accessories": "Аксессуары"
   },
   "header": {
@@ -52,6 +55,8 @@
     "newAction": "Все новинки"
   },
   "product": {
+    "cash": "Наличными",
+    "credit": "В кредит",
     "close": "Закрыть",
     "inStock": "В наличии",
     "onRequest": "Под заказ",

@@ -8,11 +8,14 @@
     "home": "Home",
     "iphone": "iPhone",
     "samsung": "Samsung",
+    "xiaomi": "Xiaomi",
     "mac": "Mac",
     "ipad": "iPad",
     "gaming": "Gaming",
     "audio": "Audio",
     "dyson": "Dyson",
+    "dji": "DJI",
+    "camera": "Camera",
     "accessories": "Accessories"
   },
   "header": {
@@ -52,6 +55,8 @@
     "newAction": "All new"
   },
   "product": {
+    "cash": "Cash",
+    "credit": "Credit",
     "close": "Close",
     "inStock": "In stock",
     "onRequest": "On request",

@@ -8,11 +8,14 @@
     "home": "Գլխավոր",
     "iphone": "iPhone",
     "samsung": "Samsung",
+    "xiaomi": "Xiaomi",
     "mac": "Mac",
     "ipad": "iPad",
     "gaming": "Խաղեր",
     "audio": "Աուդիո",
     "dyson": "Dyson",
+    "dji": "DJI",
+    "camera": "Ֆոտո",
     "accessories": "Աքսեսուարներ"
   },
   "header": {
@@ -52,6 +55,8 @@
     "newAction": "Բոլոր նորույթները"
   },
   "product": {
+    "cash": "Կանխիկ",
+    "credit": "Ապառիկ",
     "close": "Փակել",
     "inStock": "Առկա է",
     "onRequest": "Պատվերով",
