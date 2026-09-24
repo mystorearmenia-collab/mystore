@@ -110,12 +110,21 @@ export const brands = [
 
 /** Yerevan storefront details — language-neutral facts stay as-is, the rest is translated per locale. */
 export const store = {
-  address: "Կոմիտասի 9",
+  addressByLocale: {
+    hy: "Կոմիտասի պողոտա 9",
+    ru: "проспект Комитаса, 9",
+    en: "Komitas Ave 9",
+  } as Tri,
   cityByLocale: { hy: "Երևան, Հայաստան", ru: "Ереван, Армения", en: "Yerevan, Armenia" } as Tri,
-  phone: "+374 10 500 900",
-  email: "hello@mystore.am",
-  mapUrl: "https://maps.google.com/?q=Komitas+9,+Yerevan,+Armenia",
+  phone: "+374 93 808 011",
+  whatsapp: "https://wa.me/37493808011",
+  email: "mystorearmenia@gmail.com",
+  mapUrl: "https://www.google.com/maps/search/?api=1&query=Komitas+Ave+9,+Yerevan,+Armenia",
 };
+
+export function storeAddress(locale: Locale): string {
+  return pick(store.addressByLocale, locale);
+}
 
 export function storeCity(locale: Locale): string {
   return pick(store.cityByLocale, locale);
