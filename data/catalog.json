@@ -5736,7 +5736,7 @@
         "ru": "2 TB · Белый",
         "en": "2 TB · White"
       },
-      "price": 559000,
+      "price": 579000,
       "oldPrice": null,
       "monthly": 11150,
       "availability": "in-stock",
@@ -5804,8 +5804,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 599000,
       "cats": [
         "gaming"
       ]
@@ -8036,14 +8036,14 @@
         "ru": "",
         "en": ""
       },
-      "price": 449600,
+      "price": 445000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 469000,
       "availability": "in-stock",
       "art": "accessory",
       "image": null,
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
         "imageUrls": [
@@ -9468,7 +9468,7 @@
         "ru": "6.3 inch",
         "en": "6.3 inch"
       },
-      "price": 395500,
+      "price": 429000,
       "oldPrice": null,
       "monthly": 9360,
       "availability": "in-stock",
@@ -9674,8 +9674,8 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 449000,
       "cats": [
         "iphone"
       ]
@@ -11609,7 +11609,7 @@
         "ru": "EU",
         "en": "EU"
       },
-      "price": 339000,
+      "price": 299000,
       "oldPrice": null,
       "monthly": 6570,
       "availability": "in-stock",
@@ -11656,8 +11656,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 319000,
       "cats": [
         "gaming"
       ]
@@ -12245,7 +12245,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 329000,
+      "price": 389000,
       "oldPrice": null,
       "monthly": 6860,
       "availability": "in-stock",
@@ -12451,8 +12451,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 409000,
       "cats": [
         "samsung"
       ]
@@ -13439,7 +13439,7 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 319000,
+      "price": 229000,
       "oldPrice": null,
       "monthly": 6650,
       "availability": "on-request",
@@ -13645,8 +13645,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 249000,
       "cats": [
         "xiaomi"
       ]
@@ -16250,7 +16250,7 @@
         "ru": "6.1 inch",
         "en": "6.1 inch"
       },
-      "price": 285500,
+      "price": 349000,
       "oldPrice": null,
       "monthly": 9360,
       "availability": "on-request",
@@ -16456,8 +16456,8 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 369000,
       "cats": [
         "iphone"
       ]
@@ -16616,7 +16616,7 @@
         "ru": "6.2 inch",
         "en": "6.2 inch"
       },
-      "price": 279000,
+      "price": 239000,
       "oldPrice": null,
       "monthly": 6230,
       "availability": "in-stock",
@@ -16822,8 +16822,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 259000,
       "cats": [
         "samsung"
       ]
@@ -19895,7 +19895,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 229000,
+      "price": 209000,
       "oldPrice": null,
       "monthly": 4780,
       "availability": "in-stock",
@@ -20101,8 +20101,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 219000,
       "cats": [
         "samsung"
       ]
@@ -22257,7 +22257,7 @@
         "ru": "128GB · Серый",
         "en": "128GB · Space Grey"
       },
-      "price": 179000,
+      "price": 209000,
       "oldPrice": null,
       "monthly": 3730,
       "availability": "in-stock",
@@ -22469,8 +22469,8 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 229000,
       "cats": [
         "samsung"
       ]
@@ -36326,7 +36326,7 @@
         "ru": "PS4 - Thrustmaster T300RS",
         "en": "PS4 - Thrustmaster T300RS"
       },
-      "price": 26900,
+      "price": 299000,
       "oldPrice": null,
       "monthly": 5820,
       "availability": "in-stock",
@@ -36363,8 +36363,8 @@
           ]
         }
       ],
-      "priceSource": "allsell",
-      "creditPrice": null,
+      "priceSource": "redstore",
+      "creditPrice": 319000,
       "cats": [
         "gaming"
       ]
