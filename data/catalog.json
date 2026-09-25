@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 361
+    "product_count": 360
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
       },
       "href": "/samsung",
       "art": "galaxy",
-      "count": 65
+      "count": 64
     },
     {
       "id": "xiaomi",
@@ -1253,14 +1253,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-mavic-4-pro"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ],
@@ -4995,37 +4991,6 @@
       ]
     },
     {
-      "id": "samsung-galaxy-z-fold-6-1tb",
-      "brand": "Samsung",
-      "name": "Galaxy Z Fold 6 1TB",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 699600,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [
-
-        ],
-        "url": "https://allsell.am/am/samsung-galaxy-z-fold-6"
-      },
-      "specs": [
-
-      ],
-      "cats": [
-        "samsung"
-      ]
-    },
-    {
       "id": "air-3s-fly-more-combo",
       "brand": "DJI",
       "name": "Air 3S Fly More Combo",
@@ -5142,14 +5107,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-z-fold-8-ultra"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -5459,14 +5420,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-partybox-ultimate-wifi-speaker-bk"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -6042,14 +5999,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-z-fold-8"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -6547,14 +6500,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-avata-2-fly-more-combo-three-batteries"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -6966,14 +6915,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-mini-5-pro-fly-more-combo-plus-rc2-52mnt"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -6997,14 +6942,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/canon-powershot-g7-x-mark-iii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "camera"
       ]
@@ -7884,14 +7825,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-book-5-360-np750qha-core-ultra-7-16gb-i-512tb"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -7915,14 +7852,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-book-pro-360-2024-model-5g-np935qna-ka2tt-amoled-16gb-i-256gb"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -7946,14 +7879,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-bromley-750-party-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -9320,14 +9249,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-z-flip-8"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -9423,14 +9348,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-partybox-710-portable-bt"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -9986,14 +9907,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s8-5g-sm-x706"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -10017,14 +9934,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s8-plus-sm-x800"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -10048,14 +9961,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-s11-ultra-x930-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -10608,14 +10517,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-bromley-450-party-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -11512,14 +11417,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-mix-flip"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -11543,14 +11444,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-17"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ],
@@ -11980,14 +11877,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-partybox-310-portable-bt"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -12442,14 +12335,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-bar-800-5-1-soundbar-surround-multibeam-d-atmos"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -13034,14 +12923,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s8-sm-x700-wi-fi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -13065,14 +12950,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s11-x736-wifi-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -13503,14 +13384,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-z-flip-7"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -14424,9 +14301,7 @@
       ],
       "priceSource": "allsell",
       "creditPrice": null,
-      "cats": [
-
-      ]
+      "cats": []
     },
     {
       "id": "xiaomi-12-5g",
@@ -14447,14 +14322,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-12"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -16020,14 +15891,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-black-shark-4"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -16671,14 +16538,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-flip-7-fe"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -16702,14 +16565,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s10-fe-plus-x620-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -18451,14 +18310,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-s11-x730-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -18808,14 +18663,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-360-adventure-combo"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -18839,14 +18690,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s10-fe-x626-wifi-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -19658,14 +19505,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-bar-500-pro-5-1-soundbar-with-multibeam-dolby-atmos"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -20538,14 +20381,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-woburn-iii-wireless-stereo"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -21042,14 +20881,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-woburn-ii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -21073,14 +20908,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-pocket-3"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -21356,14 +21187,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-heston-sub200-portable-subwoofer"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -21387,14 +21214,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-action-6"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -22300,14 +22123,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-action-5-pro-adventure-combo"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -23473,14 +23292,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-boombox-4"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -23526,14 +23341,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-nano"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -23557,14 +23368,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-s10-fe-x526-wifi-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -23996,14 +23803,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-boombox-2"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -24027,14 +23830,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s9-fe-plus-sm-x616b"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -24058,14 +23857,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-redmi-pad-8"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -24319,14 +24114,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s9-fe-x610-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -24412,14 +24203,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-rs-4-mini"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -24761,14 +24548,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-4-action-adventure-combo-three-batteries"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -25561,14 +25344,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-stanmore-iv-wireless-poartable-stereo-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -25592,14 +25371,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s10-fe-x520-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -26006,9 +25781,7 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": [
-
-      ]
+      "cats": []
     },
     {
       "id": "poco-m8-pro",
@@ -27050,14 +26823,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s10-lite-x406-wifi-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -27199,9 +26968,7 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": [
-
-      ]
+      "cats": []
     },
     {
       "id": "watch-series-12-46mm",
@@ -27341,9 +27108,7 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": [
-
-      ]
+      "cats": []
     },
     {
       "id": "watch-series-11-42mm",
@@ -27496,9 +27261,7 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": [
-
-      ]
+      "cats": []
     },
     {
       "id": "jbl-jbl-partybox-encore-essential",
@@ -27519,14 +27282,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-partybox-encore-essential-portable"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -27550,14 +27309,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-kilburn-iii-wireless-stereo-speake"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -27873,14 +27628,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-watch-ultra"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -28430,14 +28181,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-watch-9"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -28629,14 +28376,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-stanmore-iii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -28682,14 +28425,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-middleton"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -29087,14 +28826,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-authentics-200-smart-home-speaker-with-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -29118,14 +28853,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-acton-iv"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -29161,14 +28892,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-watch-8-classic-46mm"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -29662,14 +29389,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-s10-lite-x400-wifi"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -29913,14 +29636,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-stockwell-iii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -30544,14 +30263,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-xtreme4-portable-wireless-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -30575,14 +30290,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-redmi-note-14-pro-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -30908,14 +30619,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-pulse-5-portable-bt"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -30939,14 +30646,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-kilburn-ii-bluetooth"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -30970,14 +30673,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-acton-iii-wireless-stereo"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -31422,14 +31121,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-redmi-note-15-pro"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ],
@@ -31535,14 +31230,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-stockwell-2-wireless-stereo-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -31566,14 +31257,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-mic-mini-2s"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -31597,14 +31284,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-watch-8"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -32347,14 +32030,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-watch7"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -32441,14 +32120,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-emberton-iii-wireless-compact-portable-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -32525,14 +32200,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-poco-m8-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -32556,14 +32227,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-emberton-ii-wireless"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -32609,14 +32276,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-a11-plus-x230-wfii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -32869,14 +32532,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-buds4-pro-r640"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -33424,14 +33083,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-redmi-note-14-pro"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ],
@@ -34330,9 +33985,7 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": [
-
-      ]
+      "cats": []
     },
     {
       "id": "redmi-note-17-pro",
@@ -34633,14 +34286,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-emberton-bluetooth-portable-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -34843,14 +34492,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-70mai-true-4k-dash-cam-a800s"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -34874,14 +34519,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-milton-anc-portable-on-ear-headphone"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -35110,14 +34751,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/smartphone-stabilizer-dji-osmo-mobile-8"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -35141,14 +34778,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-live-770nc-wireless-over-ear-noise-cancelling-headphones"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -35329,14 +34962,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-mic-mini-2"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -35872,14 +35501,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-motif-ii-anc-true-wireless-earphones"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -36226,14 +35851,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-willen-ii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -36279,14 +35900,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-tour-pro-tws"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -36310,14 +35927,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-quantum-610-wireless-gaming-headphone"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -36798,14 +36411,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-a11-wifi-5g"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -37172,14 +36781,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/dji-osmo-mobile-6"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "dji"
       ]
@@ -37203,14 +36808,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-charge6-splasproof-portable-bt-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -37234,14 +36835,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-willen-wireless-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -37675,14 +37272,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-flip-7"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -37808,14 +37401,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-minor-ii"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -37839,14 +37428,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-quantum-350"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -38362,14 +37947,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-tab-a11"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -38677,14 +38258,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-live-670nc-wireless-over-ear-noise-cancelling-headphones"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -38759,14 +38336,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-buds-3"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -38790,14 +38363,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-flip-6-waterproof-portable-bt"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -38893,14 +38462,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-a07"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ],
@@ -39101,14 +38666,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-minor-iv-bt-in-ear-headphone"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -39415,14 +38976,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-buds2-pro-r510"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -39446,14 +39003,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/marshall-major-v-wireless-on-ear-headphone"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -40091,14 +39644,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-jr300bt"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -40122,14 +39671,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/samsung-galaxy-buds2-r177"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "samsung"
       ]
@@ -40206,14 +39751,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-neck-massager-mini-m2"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -40476,14 +40017,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-go5"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -40558,14 +40095,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-quantum-100m2-black"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -40589,14 +40122,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-go-4-portable-wireless-speaker"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -40620,14 +40149,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-xiaovv-via-xvv-1120s-a1-usb"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -40651,14 +40176,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-soocas-s3"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -40732,14 +40253,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-enchen-gentleman-5s-electric-shaver"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -41133,14 +40650,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-t310c-usb-c-wired-earphones"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -41164,14 +40677,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-tune-305c-usb-c-wired-in-ear-hi-red-headphone"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -41195,14 +40704,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-xiaovv-via-xvv-620s-usb"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -41278,14 +40783,10 @@
       "priceSource": "redstore",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-jr310-kids-on-ear-headphones"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ],
@@ -41321,14 +40822,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/jbl-tune-110"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -41352,14 +40849,10 @@
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
-        "imageUrls": [
-
-        ],
+        "imageUrls": [],
         "url": "https://allsell.am/am/xiaomi-mi-gel-pen"
       },
-      "specs": [
-
-      ],
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
