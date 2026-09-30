@@ -1,0 +1,610 @@
+{
+  "_note": "Approximate trade-in range in AMD for used iPhones. The final price is set by the technician in store. null = not priced yet → site shows \"assessed in store\".",
+  "models": [
+    {
+      "model": "iPhone 11",
+      "storage": [
+        {
+          "size": "64GB",
+          "min": 20000,
+          "max": 30000
+        },
+        {
+          "size": "128GB",
+          "min": 20000,
+          "max": 30000
+        },
+        {
+          "size": "256GB",
+          "min": 20000,
+          "max": 40000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 11 Pro",
+      "storage": [
+        {
+          "size": "64GB",
+          "min": 20000,
+          "max": 30000
+        },
+        {
+          "size": "256GB",
+          "min": 20000,
+          "max": 30000
+        },
+        {
+          "size": "512GB",
+          "min": 20000,
+          "max": 40000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 11 Pro Max",
+      "storage": [
+        {
+          "size": "64GB",
+          "min": 20000,
+          "max": 40000
+        },
+        {
+          "size": "256GB",
+          "min": 20000,
+          "max": 40000
+        },
+        {
+          "size": "512GB",
+          "min": 20000,
+          "max": 40000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12 mini",
+      "storage": [
+        {
+          "size": "64GB",
+          "min": 30000,
+          "max": 50000
+        },
+        {
+          "size": "128GB",
+          "min": 30000,
+          "max": 50000
+        },
+        {
+          "size": "256GB",
+          "min": 30000,
+          "max": 50000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12",
+      "storage": [
+        {
+          "size": "64GB",
+          "min": 30000,
+          "max": 60000
+        },
+        {
+          "size": "128GB",
+          "min": 30000,
+          "max": 60000
+        },
+        {
+          "size": "256GB",
+          "min": 30000,
+          "max": 60000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12 Pro",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 40000,
+          "max": 60000
+        },
+        {
+          "size": "256GB",
+          "min": 40000,
+          "max": 60000
+        },
+        {
+          "size": "512GB",
+          "min": 40000,
+          "max": 60000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12 Pro Max",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 40000,
+          "max": 70000
+        },
+        {
+          "size": "256GB",
+          "min": 40000,
+          "max": 70000
+        },
+        {
+          "size": "512GB",
+          "min": 40000,
+          "max": 70000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13 mini",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 40000,
+          "max": 80000
+        },
+        {
+          "size": "256GB",
+          "min": 40000,
+          "max": 80000
+        },
+        {
+          "size": "512GB",
+          "min": 40000,
+          "max": 80000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 40000,
+          "max": 70000
+        },
+        {
+          "size": "256GB",
+          "min": 40000,
+          "max": 70000
+        },
+        {
+          "size": "512GB",
+          "min": 40000,
+          "max": 70000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13 Pro",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 50000,
+          "max": 80000
+        },
+        {
+          "size": "256GB",
+          "min": 50000,
+          "max": 80000
+        },
+        {
+          "size": "512GB",
+          "min": 50000,
+          "max": 80000
+        },
+        {
+          "size": "1TB",
+          "min": 50000,
+          "max": 80000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13 Pro Max",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 50000,
+          "max": 90000
+        },
+        {
+          "size": "256GB",
+          "min": 50000,
+          "max": 90000
+        },
+        {
+          "size": "512GB",
+          "min": 50000,
+          "max": 90000
+        },
+        {
+          "size": "1TB",
+          "min": 50000,
+          "max": 90000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 70000,
+          "max": 100000
+        },
+        {
+          "size": "256GB",
+          "min": 70000,
+          "max": 100000
+        },
+        {
+          "size": "512GB",
+          "min": 70000,
+          "max": 100000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14 Plus",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 70000,
+          "max": 120000
+        },
+        {
+          "size": "256GB",
+          "min": 70000,
+          "max": 120000
+        },
+        {
+          "size": "512GB",
+          "min": 70000,
+          "max": 120000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14 Pro",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 80000,
+          "max": 120000
+        },
+        {
+          "size": "256GB",
+          "min": 80000,
+          "max": 120000
+        },
+        {
+          "size": "512GB",
+          "min": 80000,
+          "max": 120000
+        },
+        {
+          "size": "1TB",
+          "min": 80000,
+          "max": 120000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14 Pro Max",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 80000,
+          "max": 130000
+        },
+        {
+          "size": "256GB",
+          "min": 80000,
+          "max": 130000
+        },
+        {
+          "size": "512GB",
+          "min": 80000,
+          "max": 130000
+        },
+        {
+          "size": "1TB",
+          "min": 80000,
+          "max": 130000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 100000,
+          "max": 150000
+        },
+        {
+          "size": "256GB",
+          "min": 100000,
+          "max": 150000
+        },
+        {
+          "size": "512GB",
+          "min": 100000,
+          "max": 150000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 100000,
+          "max": 165000
+        },
+        {
+          "size": "256GB",
+          "min": 100000,
+          "max": 165000
+        },
+        {
+          "size": "512GB",
+          "min": 100000,
+          "max": 165000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 140000,
+          "max": 180000
+        },
+        {
+          "size": "256GB",
+          "min": 140000,
+          "max": 180000
+        },
+        {
+          "size": "512GB",
+          "min": 140000,
+          "max": 180000
+        },
+        {
+          "size": "1TB",
+          "min": 140000,
+          "max": 180000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 150000,
+          "max": 200000
+        },
+        {
+          "size": "512GB",
+          "min": 150000,
+          "max": 200000
+        },
+        {
+          "size": "1TB",
+          "min": 150000,
+          "max": 200000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16e",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 100000,
+          "max": 130000
+        },
+        {
+          "size": "256GB",
+          "min": 100000,
+          "max": 130000
+        },
+        {
+          "size": "512GB",
+          "min": 100000,
+          "max": 130000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 120000,
+          "max": 170000
+        },
+        {
+          "size": "256GB",
+          "min": 120000,
+          "max": 170000
+        },
+        {
+          "size": "512GB",
+          "min": 120000,
+          "max": 170000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 130000,
+          "max": 180000
+        },
+        {
+          "size": "256GB",
+          "min": 130000,
+          "max": 180000
+        },
+        {
+          "size": "512GB",
+          "min": 130000,
+          "max": 180000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "storage": [
+        {
+          "size": "128GB",
+          "min": 180000,
+          "max": 230000
+        },
+        {
+          "size": "256GB",
+          "min": 180000,
+          "max": 230000
+        },
+        {
+          "size": "512GB",
+          "min": 190000,
+          "max": 240000
+        },
+        {
+          "size": "1TB",
+          "min": 200000,
+          "max": 250000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 200000,
+          "max": 240000
+        },
+        {
+          "size": "512GB",
+          "min": 200000,
+          "max": 250000
+        },
+        {
+          "size": "1TB",
+          "min": 200000,
+          "max": 260000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17e",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 130000,
+          "max": 180000
+        },
+        {
+          "size": "512GB",
+          "min": 130000,
+          "max": 180000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 200000,
+          "max": 270000
+        },
+        {
+          "size": "512GB",
+          "min": 220000,
+          "max": 290000
+        }
+      ]
+    },
+    {
+      "model": "iPhone Air",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 230000,
+          "max": 280000
+        },
+        {
+          "size": "512GB",
+          "min": 250000,
+          "max": 290000
+        },
+        {
+          "size": "1TB",
+          "min": 250000,
+          "max": 320000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 250000,
+          "max": 320000
+        },
+        {
+          "size": "512GB",
+          "min": 270000,
+          "max": 330000
+        },
+        {
+          "size": "1TB",
+          "min": 280000,
+          "max": 350000
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17 Pro Max",
+      "storage": [
+        {
+          "size": "256GB",
+          "min": 270000,
+          "max": 350000
+        },
+        {
+          "size": "512GB",
+          "min": 280000,
+          "max": 360000
+        },
+        {
+          "size": "1TB",
+          "min": 280000,
+          "max": 400000
+        },
+        {
+          "size": "2TB",
+          "min": 280000,
+          "max": 400000
+        }
+      ]
+    }
+  ]
+}
