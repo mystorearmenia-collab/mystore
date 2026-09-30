@@ -1,5 +1,6 @@
 export const navigation: { key: string; href: string }[] = [
   { key: "home", href: "/" },
+  { key: "tradein", href: "/trade-in" },
   { key: "iphone", href: "/iphone" },
   { key: "samsung", href: "/samsung" },
   { key: "xiaomi", href: "/xiaomi" },

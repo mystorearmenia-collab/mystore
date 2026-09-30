@@ -16,7 +16,7 @@ export default function Footer() {
   const serviceLinks = t.raw("serviceLinks") as string[];
   const infoLinks = t.raw("infoLinks") as string[];
   const productLinks = navigation
-    .filter((item) => item.key !== "home" && item.key !== "accessories")
+    .filter((item) => item.key !== "home" && item.key !== "tradein" && item.key !== "accessories")
     .map((item) => tNav(item.key));
 
   const columns = [

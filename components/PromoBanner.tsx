@@ -27,7 +27,7 @@ export default function PromoBanner() {
                 <h2 className="h2 mt-5">{t("title")}</h2>
                 <p className="lede mt-5 max-w-[44ch]">{t("lede")}</p>
                 <div className="mt-8 flex flex-wrap gap-3">
-                  <Link href="/#store" className="btn btn-primary">
+                  <Link href="/trade-in" className="btn btn-primary">
                     {t("primary")}
                   </Link>
                   <Link href="/#featured" className="btn btn-secondary group">

@@ -4,6 +4,7 @@ import Reveal from "./Reveal";
 import ProductVisual from "./ProductVisual";
 import { ArrowRightIcon } from "./icons";
 import { formatPrice } from "@/lib/catalog";
+import { tradeInMax } from "@/lib/tradein";
 import type { Locale } from "@/i18n/routing";
 
 export default function Hero() {
@@ -72,7 +73,7 @@ export default function Hero() {
               <div>
                 <dt className="eyebrow">{t("tradeIn")}</dt>
                 <dd className="mt-1.5 text-[1.45rem] font-semibold">
-                  {t("tradeInNote")} <span className="text-orange">{formatPrice(120000, locale)}</span>
+                  {t("tradeInNote")} <span className="text-orange">{formatPrice(tradeInMax, locale)}</span>
                 </dd>
               </div>
             </dl>
