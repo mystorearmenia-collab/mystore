@@ -3076,7 +3076,47 @@
           "inStock": true
         },
         {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
           "color": "Midnight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
@@ -3087,6 +3127,16 @@
         },
         {
           "color": "Starlight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
@@ -3991,7 +4041,37 @@
       ],
       "variants": [
         {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
           "color": "Silver",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
