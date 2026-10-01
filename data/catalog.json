@@ -227,48 +227,27 @@
       ]
     },
     {
-      "id": "macbook-pro-16",
+      "id": "macbook-neo-13",
       "brand": "Apple",
-      "name": "MacBook Pro 16\"",
+      "name": "MacBook Neo 13″",
       "config": {
-        "hy": "M5 Max · 48GB RAM · 2TB · Space Black",
-        "ru": "M5 Max · 48GB RAM · 2TB · Space Black",
-        "en": "M5 Max · 48GB RAM · 2TB · Space Black"
+        "hy": "8GB RAM · 256GB / 512GB SSD",
+        "ru": "8GB RAM · 256GB / 512GB SSD",
+        "en": "8GB RAM · 256GB / 512GB SSD"
       },
-      "price": 2109000,
+      "price": 319000,
       "oldPrice": null,
-      "monthly": 43940,
+      "monthly": 6440,
       "availability": "in-stock",
       "art": "macbook",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
       "sourceRef": {
-        "sku": "9701",
+        "sku": "10326",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_2_1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/6/1/61mxixzyvul._ac_sl1500_.jpg"
         ]
       },
       "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Space Black",
-                "ru": "Space Black",
-                "en": "Space Black"
-              }
-            }
-          ]
-        },
         {
           "title": {
             "hy": "Ընդհանուր բնութագրեր",
@@ -328,9 +307,9 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple M5 Max",
-                "ru": "Apple M5 Max",
-                "en": "Apple M5 Max"
+                "hy": "Apple A18 Pro (3 nm)",
+                "ru": "Apple A18 Pro (3 nm)",
+                "en": "Apple A18 Pro (3 nm)"
               }
             },
             {
@@ -340,9 +319,9 @@
                 "en": "GPU"
               },
               "value": {
-                "hy": "32-Core GPU",
-                "ru": "32-Core GPU",
-                "en": "32-Core GPU"
+                "hy": "5-Core GPU",
+                "ru": "5-Core GPU",
+                "en": "5-Core GPU"
               }
             },
             {
@@ -352,9 +331,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "18 Core CPU",
-                "ru": "18 Core CPU",
-                "en": "18 Core CPU"
+                "hy": "6 Core CPU",
+                "ru": "6 Core CPU",
+                "en": "6 Core CPU"
               }
             }
           ]
@@ -439,9 +418,299 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "3024x1964",
-                "ru": "3024x1964",
-                "en": "3024x1964"
+                "hy": "2408 x 1506",
+                "ru": "2408 x 1506",
+                "en": "2408 x 1506"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Liquid Retina LED",
+                "ru": "Liquid Retina LED",
+                "en": "Liquid Retina LED"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "redstore",
+      "creditPrice": null,
+      "cats": [
+        "mac"
+      ],
+      "variants": [
+        {
+          "color": "Blush",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Citrus",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60042/image/5-montaznaia-oblast.webp",
+          "inStock": false
+        },
+        {
+          "color": "Indigo",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60043/image/sw-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB SSD",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60044/image/sww-montaznaia-oblast-1.jpg",
+          "inStock": false
+        },
+        {
+          "color": "Blush",
+          "storage": "512GB SSD · Touch ID",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60283/image/2-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Citrus",
+          "storage": "512GB SSD · Touch ID",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60045/image/5-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Indigo",
+          "storage": "512GB SSD · Touch ID",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60046/image/jfdu-montaznaia-oblast-1.webp",
+          "inStock": false
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB SSD · Touch ID",
+          "ram": "8GB LPDDR5",
+          "sim": null,
+          "price": 379000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60047/image/sww-montaznaia-oblast-1.jpg",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": "macbook-air-13-6-10336",
+      "brand": "Apple",
+      "name": "MacBook Air 13″ M5",
+      "config": {
+        "hy": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
+      },
+      "price": 629000,
+      "oldPrice": null,
+      "monthly": 13110,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10336",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/3/6/36.._5_2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/_/2/_2025-07-14_175201_2_2.png",
+          "https://yerevanmobile.am/media/catalog/product/_/2/_2025-07-14_175317_1_2.png"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "10 Core CPU",
+                "ru": "10 Core CPU",
+                "en": "10 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "2256 x 1504",
+                "ru": "2256 x 1504",
+                "en": "2256 x 1504"
               }
             }
           ]
@@ -451,6 +720,541 @@
       "creditPrice": null,
       "cats": [
         "mac"
+      ],
+      "variants": [
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "drone",
+      "brand": "DJI",
+      "name": "drone",
+      "config": {
+        "hy": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2",
+        "ru": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2",
+        "en": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2"
+      },
+      "price": 1899000,
+      "oldPrice": null,
+      "monthly": 39570,
+      "availability": "in-stock",
+      "art": "drone",
+      "image": null,
+      "sourceRef": {
+        "sku": "10503",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/d/j/djimavic4profmc.jpg",
+          "https://yerevanmobile.am/media/catalog/product/m/a/mav4pcc_rcpro2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիշողություն",
+                "ru": "Память",
+                "en": "Memory"
+              },
+              "value": {
+                "hy": "512GB",
+                "ru": "512GB",
+                "en": "512GB"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի հեռավորություն",
+                "ru": "Дальность полёта",
+                "en": "Flight range"
+              },
+              "value": {
+                "hy": "13 կմ",
+                "ru": "13 կմ",
+                "en": "13 կմ"
+              }
+            },
+            {
+              "label": {
+                "hy": "Թռիչքի տևողություն",
+                "ru": "Время полёта",
+                "en": "Flight time"
+              },
+              "value": {
+                "hy": "30 ր",
+                "ru": "30 мин",
+                "en": "30 min"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "macbook-air-15",
+      "brand": "Apple",
+      "name": "MacBook Air 15″ M5",
+      "config": {
+        "hy": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
+      },
+      "price": 709000,
+      "oldPrice": null,
+      "monthly": 14780,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10345",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/k/sky_blue_1_1_2.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "10 Core CPU",
+                "ru": "10 Core CPU",
+                "en": "10 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "2880x1864",
+                "ru": "2880x1864",
+                "en": "2880x1864"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "mac"
+      ],
+      "variants": [
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        }
       ]
     },
     {
@@ -683,99 +1487,42 @@
       ]
     },
     {
-      "id": "drone",
+      "id": "dji-mavic-4-pro",
       "brand": "DJI",
-      "name": "drone",
+      "name": "Mavic 4 Pro",
       "config": {
-        "hy": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2",
-        "ru": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2",
-        "en": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 1899000,
+      "price": 1389000,
       "oldPrice": null,
-      "monthly": 39570,
+      "monthly": null,
+      "creditPrice": null,
       "availability": "in-stock",
       "art": "drone",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
+      "priceSource": "redstore",
       "sourceRef": {
-        "sku": "10503",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/d/j/djimavic4profmc.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/a/mav4pcc_rcpro2.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/dji-mavic-4-pro"
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիշողություն",
-                "ru": "Память",
-                "en": "Memory"
-              },
-              "value": {
-                "hy": "512GB",
-                "ru": "512GB",
-                "en": "512GB"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "13 կմ",
-                "ru": "13 կմ",
-                "en": "13 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "30 ր",
-                "ru": "30 мин",
-                "en": "30 min"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "specs": [],
       "cats": [
         "dji"
+      ],
+      "variants": [
+        {
+          "color": null,
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 1389000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
+          "inStock": true
+        }
       ]
     },
     {
@@ -1235,42 +1982,1142 @@
       ]
     },
     {
-      "id": "dji-mavic-4-pro",
-      "brand": "DJI",
-      "name": "Mavic 4 Pro",
+      "id": "macbook-pro-14-10351",
+      "brand": "Apple",
+      "name": "MacBook Pro 14\"",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "hy": "M5 Pro · 24GB RAM · 1TB · Space Black",
+        "ru": "M5 Pro · 24GB RAM · 1TB · Space Black",
+        "en": "M5 Pro · 24GB RAM · 1TB · Space Black"
       },
-      "price": 1389000,
+      "price": 1159000,
       "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
+      "monthly": 24150,
       "availability": "in-stock",
-      "art": "drone",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
-      "priceSource": "redstore",
+      "art": "macbook",
+      "image": null,
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-mavic-4-pro"
+        "sku": "10351",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_3.jpg",
+          "https://yerevanmobile.am/media/catalog/product/b/l/black_macbook_5_1_2.jpg"
+        ]
       },
-      "specs": [],
-      "cats": [
-        "dji"
-      ],
-      "variants": [
+      "specs": [
         {
-          "color": null,
-          "storage": "512GB",
-          "ram": null,
-          "sim": null,
-          "price": 1389000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
-          "inStock": true
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Space Black",
+                "ru": "Space Black",
+                "en": "Space Black"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5 Pro",
+                "ru": "Apple M5 Pro",
+                "en": "Apple M5 Pro"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "10-Core GPU",
+                "ru": "10-Core GPU",
+                "en": "10-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "10 Core CPU",
+                "ru": "10 Core CPU",
+                "en": "10 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "3024x1964",
+                "ru": "3024x1964",
+                "en": "3024x1964"
+              }
+            }
+          ]
         }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "mac"
+      ]
+    },
+    {
+      "id": "macbook-pro-14-2-10352",
+      "brand": "Apple",
+      "name": "MacBook Pro 14.2\"",
+      "config": {
+        "hy": "M5 Pro · 24GB RAM · 1TB · Silver",
+        "ru": "M5 Pro · 24GB RAM · 1TB · Silver",
+        "en": "M5 Pro · 24GB RAM · 1TB · Silver"
+      },
+      "price": 1159000,
+      "oldPrice": null,
+      "monthly": 24150,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10352",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver2_3_1_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Արծաթագույն",
+                "ru": "Серебристый",
+                "en": "Silver"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5 Pro",
+                "ru": "Apple M5 Pro",
+                "en": "Apple M5 Pro"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "20-Core GPU",
+                "ru": "20-Core GPU",
+                "en": "20-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "18 Core CPU",
+                "ru": "18 Core CPU",
+                "en": "18 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "3024x1964",
+                "ru": "3024x1964",
+                "en": "3024x1964"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "mac"
+      ]
+    },
+    {
+      "id": "macbook-pro-14-10483",
+      "brand": "Apple",
+      "name": "MacBook Pro 14\"",
+      "config": {
+        "hy": "M5 · 16GB RAM · 1TB · Space Black",
+        "ru": "M5 · 16GB RAM · 1TB · Space Black",
+        "en": "M5 · 16GB RAM · 1TB · Space Black"
+      },
+      "price": 879000,
+      "oldPrice": null,
+      "monthly": 18320,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "10483",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_3_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/b/l/black_macbook_5_1_2_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Space Black",
+                "ru": "Space Black",
+                "en": "Space Black"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "10-Core GPU",
+                "ru": "10-Core GPU",
+                "en": "10-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "10 Core CPU",
+                "ru": "10 Core CPU",
+                "en": "10 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "3024x1964",
+                "ru": "3024x1964",
+                "en": "3024x1964"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "mac"
+      ]
+    },
+    {
+      "id": "macbook-pro-14-2-9692",
+      "brand": "Apple",
+      "name": "MacBook Pro 14.2\"",
+      "config": {
+        "hy": "M5 · 16GB RAM · 512GB · Silver",
+        "ru": "M5 · 16GB RAM · 512GB · Silver",
+        "en": "M5 · 16GB RAM · 512GB · Silver"
+      },
+      "price": 849000,
+      "oldPrice": null,
+      "monthly": 17690,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "9692",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver2_3_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Արծաթագույն",
+                "ru": "Серебристый",
+                "en": "Silver"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "10-Core GPU",
+                "ru": "10-Core GPU",
+                "en": "10-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "10 Core CPU",
+                "ru": "10 Core CPU",
+                "en": "10 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "3024x1964",
+                "ru": "3024x1964",
+                "en": "3024x1964"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "mac"
+      ]
+    },
+    {
+      "id": "macbook-pro-16",
+      "brand": "Apple",
+      "name": "MacBook Pro 16\"",
+      "config": {
+        "hy": "M5 Max · 48GB RAM · 2TB · Space Black",
+        "ru": "M5 Max · 48GB RAM · 2TB · Space Black",
+        "en": "M5 Max · 48GB RAM · 2TB · Space Black"
+      },
+      "price": 2109000,
+      "oldPrice": null,
+      "monthly": 43940,
+      "availability": "in-stock",
+      "art": "macbook",
+      "image": null,
+      "sourceRef": {
+        "sku": "9701",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_2_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Space Black",
+                "ru": "Space Black",
+                "en": "Space Black"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5 Max",
+                "ru": "Apple M5 Max",
+                "en": "Apple M5 Max"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "32-Core GPU",
+                "ru": "32-Core GPU",
+                "en": "32-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "18 Core CPU",
+                "ru": "18 Core CPU",
+                "en": "18 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "3024x1964",
+                "ru": "3024x1964",
+                "en": "3024x1964"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "mac"
       ]
     },
     {
@@ -1945,1782 +3792,6 @@
       "creditPrice": null,
       "cats": [
         "mac"
-      ]
-    },
-    {
-      "id": "macbook-pro-14-10351",
-      "brand": "Apple",
-      "name": "MacBook Pro 14\"",
-      "config": {
-        "hy": "M5 Pro · 24GB RAM · 1TB · Space Black",
-        "ru": "M5 Pro · 24GB RAM · 1TB · Space Black",
-        "en": "M5 Pro · 24GB RAM · 1TB · Space Black"
-      },
-      "price": 1159000,
-      "oldPrice": null,
-      "monthly": 24150,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10351",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_3.jpg",
-          "https://yerevanmobile.am/media/catalog/product/b/l/black_macbook_5_1_2.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Space Black",
-                "ru": "Space Black",
-                "en": "Space Black"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5 Pro",
-                "ru": "Apple M5 Pro",
-                "en": "Apple M5 Pro"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "10-Core GPU",
-                "ru": "10-Core GPU",
-                "en": "10-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "3024x1964",
-                "ru": "3024x1964",
-                "en": "3024x1964"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
-      "id": "macbook-pro-14-2-10352",
-      "brand": "Apple",
-      "name": "MacBook Pro 14.2\"",
-      "config": {
-        "hy": "M5 Pro · 24GB RAM · 1TB · Silver",
-        "ru": "M5 Pro · 24GB RAM · 1TB · Silver",
-        "en": "M5 Pro · 24GB RAM · 1TB · Silver"
-      },
-      "price": 1159000,
-      "oldPrice": null,
-      "monthly": 24150,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10352",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/i/silver2_3_1_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Արծաթագույն",
-                "ru": "Серебристый",
-                "en": "Silver"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5 Pro",
-                "ru": "Apple M5 Pro",
-                "en": "Apple M5 Pro"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "20-Core GPU",
-                "ru": "20-Core GPU",
-                "en": "20-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "18 Core CPU",
-                "ru": "18 Core CPU",
-                "en": "18 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "3024x1964",
-                "ru": "3024x1964",
-                "en": "3024x1964"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
-      "id": "macbook-air-15",
-      "brand": "Apple",
-      "name": "MacBook Air 15″ M5",
-      "config": {
-        "hy": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
-        "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
-        "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
-      },
-      "price": 709000,
-      "oldPrice": null,
-      "monthly": 14780,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10345",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/k/sky_blue_1_1_2.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "2880x1864",
-                "ru": "2880x1864",
-                "en": "2880x1864"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ],
-      "variants": [
-        {
-          "color": "Sky Blue",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 709000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 709000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Starlight",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 709000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Midnight",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 709000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Sky Blue",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Starlight",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Midnight",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Sky Blue",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 919000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 919000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Starlight",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 919000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Midnight",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 919000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        }
-      ]
-    },
-    {
-      "id": "macbook-pro-16-9108",
-      "brand": "Apple",
-      "name": "MacBook Pro 16\"",
-      "config": {
-        "hy": "M4 Pro · 48GB RAM · 512 GB · Silver",
-        "ru": "M4 Pro · 48GB RAM · 512 GB · Silver",
-        "en": "M4 Pro · 48GB RAM · 512 GB · Silver"
-      },
-      "price": 899000,
-      "oldPrice": null,
-      "monthly": 18730,
-      "availability": "on-request",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "9108",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_7.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/i/silver2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/i/silver3_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Արծաթագույն",
-                "ru": "Серебристый",
-                "en": "Silver"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2024",
-                "ru": "2024",
-                "en": "2024"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M4 Pro",
-                "ru": "Apple M4 Pro",
-                "en": "Apple M4 Pro"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "20-Core GPU",
-                "ru": "20-Core GPU",
-                "en": "20-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "18 Core CPU",
-                "ru": "18 Core CPU",
-                "en": "18 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "3456 x 2234",
-                "ru": "3456 x 2234",
-                "en": "3456 x 2234"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
-      "id": "macbook-pro-14-10483",
-      "brand": "Apple",
-      "name": "MacBook Pro 14\"",
-      "config": {
-        "hy": "M5 · 16GB RAM · 1TB · Space Black",
-        "ru": "M5 · 16GB RAM · 1TB · Space Black",
-        "en": "M5 · 16GB RAM · 1TB · Space Black"
-      },
-      "price": 879000,
-      "oldPrice": null,
-      "monthly": 18320,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10483",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_3_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/b/l/black_macbook_5_1_2_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Space Black",
-                "ru": "Space Black",
-                "en": "Space Black"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "10-Core GPU",
-                "ru": "10-Core GPU",
-                "en": "10-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "3024x1964",
-                "ru": "3024x1964",
-                "en": "3024x1964"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
-      "id": "macbook-pro-14-2-9692",
-      "brand": "Apple",
-      "name": "MacBook Pro 14.2\"",
-      "config": {
-        "hy": "M5 · 16GB RAM · 512GB · Silver",
-        "ru": "M5 · 16GB RAM · 512GB · Silver",
-        "en": "M5 · 16GB RAM · 512GB · Silver"
-      },
-      "price": 849000,
-      "oldPrice": null,
-      "monthly": 17690,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "9692",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/i/silver2_3_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Արծաթագույն",
-                "ru": "Серебристый",
-                "en": "Silver"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "10-Core GPU",
-                "ru": "10-Core GPU",
-                "en": "10-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "3024x1964",
-                "ru": "3024x1964",
-                "en": "3024x1964"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
-      "id": "macbook-air-13-6-10336",
-      "brand": "Apple",
-      "name": "MacBook Air 13″ M5",
-      "config": {
-        "hy": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
-        "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
-        "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
-      },
-      "price": 629000,
-      "oldPrice": null,
-      "monthly": 13110,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10336",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/3/6/36.._5_2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/_/2/_2025-07-14_175201_2_2.png",
-          "https://yerevanmobile.am/media/catalog/product/_/2/_2025-07-14_175317_1_2.png"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "2256 x 1504",
-                "ru": "2256 x 1504",
-                "en": "2256 x 1504"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ],
-      "variants": [
-        {
-          "color": "Sky Blue",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 629000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 629000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Starlight",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 629000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Midnight",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 629000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Sky Blue",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 689000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 689000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Starlight",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 689000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Midnight",
-          "storage": "1TB",
-          "ram": "16GB",
-          "sim": null,
-          "price": 689000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Sky Blue",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Starlight",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        },
-        {
-          "color": "Midnight",
-          "storage": "1TB",
-          "ram": "24GB",
-          "sim": null,
-          "price": 849000,
-          "credit": null,
-          "image": "",
-          "inStock": true
-        }
       ]
     },
     {
@@ -8538,28 +8609,50 @@
       ]
     },
     {
-      "id": "mac-mini-m4",
+      "id": "macbook-pro-16-9108",
       "brand": "Apple",
-      "name": "Mac Mini M4",
+      "name": "MacBook Pro 16\"",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "hy": "M4 Pro · 48GB RAM · 512 GB · Silver",
+        "ru": "M4 Pro · 48GB RAM · 512 GB · Silver",
+        "en": "M4 Pro · 48GB RAM · 512 GB · Silver"
       },
-      "price": 419000,
+      "price": 899000,
       "oldPrice": null,
-      "monthly": 7900,
-      "availability": "in-stock",
+      "monthly": 18730,
+      "availability": "on-request",
       "art": "macbook",
       "image": null,
       "sourceRef": {
-        "sku": "8080_1",
+        "sku": "9108",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61d65d5svdl._ac_sl1500_.jpg"
+          "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_7.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/i/silver3_1.jpg"
         ]
       },
       "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Արծաթագույն",
+                "ru": "Серебристый",
+                "en": "Silver"
+              }
+            }
+          ]
+        },
         {
           "title": {
             "hy": "Ընդհանուր բնութագրեր",
@@ -8567,6 +8660,30 @@
             "en": "General"
           },
           "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "MacOS",
+                "ru": "MacOS",
+                "en": "MacOS"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2024",
+                "ru": "2024",
+                "en": "2024"
+              }
+            },
             {
               "label": {
                 "hy": "Երաշխիք",
@@ -8577,6 +8694,138 @@
                 "hy": "12 ամիս",
                 "ru": "12 мес.",
                 "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Պրոցեսոր",
+            "ru": "Процессор",
+            "en": "Processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M4 Pro",
+                "ru": "Apple M4 Pro",
+                "en": "Apple M4 Pro"
+              }
+            },
+            {
+              "label": {
+                "hy": "GPU",
+                "ru": "GPU",
+                "en": "GPU"
+              },
+              "value": {
+                "hy": "20-Core GPU",
+                "ru": "20-Core GPU",
+                "en": "20-Core GPU"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "18 Core CPU",
+                "ru": "18 Core CPU",
+                "en": "18 Core CPU"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ձայն",
+            "ru": "Звук",
+            "en": "Audio"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Խոսափող",
+                "ru": "Микрофон",
+                "en": "Microphone"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Բարձախոսներ",
+                "ru": "Динамики",
+                "en": "Speakers"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "3456 x 2234",
+                "ru": "3456 x 2234",
+                "en": "3456 x 2234"
               }
             }
           ]
@@ -11580,24 +11829,25 @@
       ]
     },
     {
-      "id": "mac-mini-m6",
+      "id": "mac-mini-m4",
       "brand": "Apple",
-      "name": "Mac Mini M6",
+      "name": "Mac Mini M4",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 359000,
+      "price": 419000,
       "oldPrice": null,
-      "monthly": 7480,
-      "availability": "on-request",
+      "monthly": 7900,
+      "availability": "in-stock",
       "art": "macbook",
       "image": null,
       "sourceRef": {
-        "sku": "Apple Mac Mini M6",
+        "sku": "8080_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini_3.jpg"
+          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61d65d5svdl._ac_sl1500_.jpg"
         ]
       },
       "specs": [
@@ -11630,9 +11880,9 @@
       ]
     },
     {
-      "id": "mac-mini-m5-pro",
+      "id": "mac-mini-m6",
       "brand": "Apple",
-      "name": "Mac Mini M5 Pro",
+      "name": "Mac Mini M6",
       "config": {
         "hy": "",
         "ru": "",
@@ -11645,9 +11895,9 @@
       "art": "macbook",
       "image": null,
       "sourceRef": {
-        "sku": "Apple Mac Mini M5 Pro_1",
+        "sku": "Apple Mac Mini M6",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini_4.jpg"
+          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini_3.jpg"
         ]
       },
       "specs": [
@@ -13113,24 +13363,24 @@
       ]
     },
     {
-      "id": "macbook-neo-13",
+      "id": "mac-mini-m5-pro",
       "brand": "Apple",
-      "name": "MacBook Neo 13″",
+      "name": "Mac Mini M5 Pro",
       "config": {
-        "hy": "8GB RAM · 256GB / 512GB SSD",
-        "ru": "8GB RAM · 256GB / 512GB SSD",
-        "en": "8GB RAM · 256GB / 512GB SSD"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 319000,
+      "price": 359000,
       "oldPrice": null,
-      "monthly": 6440,
-      "availability": "in-stock",
+      "monthly": 7480,
+      "availability": "on-request",
       "art": "macbook",
-      "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
+      "image": null,
       "sourceRef": {
-        "sku": "10326",
+        "sku": "Apple Mac Mini M5 Pro_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61mxixzyvul._ac_sl1500_.jpg"
+          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini_4.jpg"
         ]
       },
       "specs": [
@@ -13141,30 +13391,6 @@
             "en": "General"
           },
           "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
             {
               "label": {
                 "hy": "Երաշխիք",
@@ -13178,238 +13404,12 @@
               }
             }
           ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple A18 Pro (3 nm)",
-                "ru": "Apple A18 Pro (3 nm)",
-                "en": "Apple A18 Pro (3 nm)"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "5-Core GPU",
-                "ru": "5-Core GPU",
-                "en": "5-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "6 Core CPU",
-                "ru": "6 Core CPU",
-                "en": "6 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "2408 x 1506",
-                "ru": "2408 x 1506",
-                "en": "2408 x 1506"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "Liquid Retina LED",
-                "ru": "Liquid Retina LED",
-                "en": "Liquid Retina LED"
-              }
-            }
-          ]
         }
       ],
-      "priceSource": "redstore",
+      "priceSource": "yerevanmobile",
       "creditPrice": null,
       "cats": [
         "mac"
-      ],
-      "variants": [
-        {
-          "color": "Blush",
-          "storage": "256GB SSD",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 319000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
-          "inStock": false
-        },
-        {
-          "color": "Citrus",
-          "storage": "256GB SSD",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 319000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60042/image/5-montaznaia-oblast.webp",
-          "inStock": false
-        },
-        {
-          "color": "Indigo",
-          "storage": "256GB SSD",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 319000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60043/image/sw-montaznaia-oblast-1.jpg",
-          "inStock": false
-        },
-        {
-          "color": "Silver",
-          "storage": "256GB SSD",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 319000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60044/image/sww-montaznaia-oblast-1.jpg",
-          "inStock": false
-        },
-        {
-          "color": "Blush",
-          "storage": "512GB SSD · Touch ID",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 379000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60283/image/2-montaznaia-oblast-1.webp",
-          "inStock": false
-        },
-        {
-          "color": "Citrus",
-          "storage": "512GB SSD · Touch ID",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 379000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60045/image/5-montaznaia-oblast-1.webp",
-          "inStock": false
-        },
-        {
-          "color": "Indigo",
-          "storage": "512GB SSD · Touch ID",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 379000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60046/image/jfdu-montaznaia-oblast-1.webp",
-          "inStock": false
-        },
-        {
-          "color": "Silver",
-          "storage": "512GB SSD · Touch ID",
-          "ram": "8GB LPDDR5",
-          "sim": null,
-          "price": 379000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60047/image/sww-montaznaia-oblast-1.jpg",
-          "inStock": false
-        }
       ]
     },
     {
