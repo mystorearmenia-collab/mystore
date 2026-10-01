@@ -4709,6 +4709,16 @@
           "credit": null,
           "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
           "inStock": true
+        },
+        {
+          "color": "Jasper Plum",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 339000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/4/3/437b807aff0ed380d854500297f384e3.png",
+          "inStock": true
         }
       ]
     },
