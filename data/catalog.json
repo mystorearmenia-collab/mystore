@@ -2863,13 +2863,13 @@
       "brand": "Apple",
       "name": "MacBook Air 15″ M5",
       "config": {
-        "hy": "M5 · 16GB / 24GB RAM · 1TB SSD",
-        "ru": "M5 · 16GB / 24GB RAM · 1TB SSD",
-        "en": "M5 · 16GB / 24GB RAM · 1TB SSD"
+        "hy": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
       },
-      "price": 849000,
+      "price": 709000,
       "oldPrice": null,
-      "monthly": 17690,
+      "monthly": 14780,
       "availability": "in-stock",
       "art": "macbook",
       "image": null,
@@ -2943,18 +2943,6 @@
                 "hy": "Apple M5",
                 "ru": "Apple M5",
                 "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "10-Core GPU",
-                "ru": "10-Core GPU",
-                "en": "10-Core GPU"
               }
             },
             {
@@ -3065,6 +3053,46 @@
         "mac"
       ],
       "variants": [
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 709000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
         {
           "color": "Sky Blue",
           "storage": "1TB",
@@ -3837,13 +3865,13 @@
       "brand": "Apple",
       "name": "MacBook Air 13″ M5",
       "config": {
-        "hy": "M5 · 24GB RAM · 1TB SSD",
-        "ru": "M5 · 24GB RAM · 1TB SSD",
-        "en": "M5 · 24GB RAM · 1TB SSD"
+        "hy": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
+        "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
       },
-      "price": 849000,
+      "price": 629000,
       "oldPrice": null,
-      "monthly": 17690,
+      "monthly": 13110,
       "availability": "in-stock",
       "art": "macbook",
       "image": null,
@@ -3918,18 +3946,6 @@
                 "hy": "Apple M5",
                 "ru": "Apple M5",
                 "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "8-Core GPU",
-                "ru": "8-Core GPU",
-                "en": "8-Core GPU"
               }
             },
             {
@@ -4040,6 +4056,86 @@
         "mac"
       ],
       "variants": [
+        {
+          "color": "Sky Blue",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 629000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 689000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
         {
           "color": "Sky Blue",
           "storage": "1TB",
