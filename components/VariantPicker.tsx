@@ -24,11 +24,15 @@ export default function VariantPicker({
   const t = useTranslations("product");
   const locale = useLocale() as Locale;
 
-  const showConfiguration = product.name.startsWith("MacBook Air") && product.name.includes("M5");
+  const showConfiguration = (product.name.startsWith("MacBook Air") && product.name.includes("M5")) || product.name.startsWith("MacBook Pro");
+  const processors = optionsOf(product, "processor");
+  const configuredProduct = selection.processor
+    ? { ...product, variants: product.variants?.filter((v) => v.processor === selection.processor) }
+    : product;
 
-  const colors = optionsOf(product, "color");
-  const storages = optionsOf(product, "storage");
-  const rams = optionsOf(product, "ram");
+  const colors = optionsOf(configuredProduct, "color");
+  const storages = optionsOf(configuredProduct, "storage");
+  const rams = optionsOf(configuredProduct, "ram");
   const sims = optionsOf(product, "sim");
 
   const pick = (key: OptionKey, value: string) => onChange(choose(product, selection, key, value));
@@ -65,6 +69,10 @@ export default function VariantPicker({
 
   return (
     <div className="space-y-4">
+      {processors.length > 0 && group(
+        locale === "ru" ? "Чип" : locale === "hy" ? "Չիպ" : "Chip",
+        processors.map((p) => chip("processor", p, p)),
+      )}
       {colors.length > (showConfiguration ? 0 : 1) &&
         group(
           t("color"),
