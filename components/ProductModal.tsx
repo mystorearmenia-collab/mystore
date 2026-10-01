@@ -112,7 +112,7 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
                 )}
               </div>
 
-              {product.variants && product.variants.length > 1 && (
+              {product.variants && product.variants.length > (product.name.startsWith("MacBook Air") && product.name.includes("M5") ? 0 : 1) && (
                 <VariantPicker product={product} selection={selection} onChange={setSelection} />
               )}
 
