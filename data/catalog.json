@@ -4671,6 +4671,26 @@
           "inStock": true
         },
         {
+          "color": "Jasper Plum",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/1/619tbixu1hl._sl1500_.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Amber Silk",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/h/t/ht01_amber.png",
+          "inStock": true
+        },
+        {
           "color": "Strawberry Bronze",
           "storage": null,
           "ram": null,
