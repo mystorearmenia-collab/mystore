@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 302
+    "product_count": 267
   },
   "categories": [
     {
@@ -103,7 +103,8 @@
       },
       "href": "/dji",
       "art": "drone",
-      "count": 42
+      "count": 7,
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61abcrjunol.jpg"
     },
     {
       "id": "camera",
@@ -130,25 +131,274 @@
   ],
   "products": [
     {
-      "id": "matrice-4t",
+      "id": "dji-mic-mini",
       "brand": "DJI",
-      "name": "Matrice 4T",
+      "name": "Mic Mini",
       "config": {
-        "hy": "49 ր",
-        "ru": "49 мин",
-        "en": "49 min"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 3729000,
+      "price": 89000,
       "oldPrice": null,
-      "monthly": 77690,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "accessory",
+      "image": "https://admin.redstore.am/storage/uploads/2025/11/03/89155-montaznaia-oblast-1.jpg",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://redstore.am/search/Mic%20Mini"
+      },
+      "specs": [],
+      "priceSource": "redstore",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "dji-mic-mini-2",
+      "brand": "DJI",
+      "name": "Mic Mini 2",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 69000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "camera",
+      "image": "https://yerevanmobile.am/media/catalog/product/4/2/42b10752b5083d5e.jpg_q70.jpg",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dji-mic-mini-2.html"
+      },
+      "specs": [],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "osmo-pocket-4",
+      "brand": "DJI",
+      "name": "Osmo Pocket 4",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 279000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "camera",
+      "image": "https://yerevanmobile.am/media/catalog/product/0/9/0942f23490eb2c9a2dc74aefef21dea7_ultra.jpg",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dji-osmo-pocket-4.html"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "dji-osmo-pocket-4-creator-combo",
+      "brand": "DJI",
+      "name": "Osmo Pocket 4 Creator Combo",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 329000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "camera",
+      "image": "https://yerevanmobile.am/media/catalog/product/c/r/creator_combo.jpg",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dji-pocket-4-creator-combo.html"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "osmo-pocket-4p-standart-combo",
+      "brand": "DJI",
+      "name": "Osmo Pocket 4P Standard Combo",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 379000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "camera",
+      "image": "https://yerevanmobile.am/media/catalog/product/4/p/4p.jpg",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dji-osmo-pocket-4p-standart-combo.html"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "osmo-pocket-4p-bundle-vlog-combo",
+      "brand": "DJI",
+      "name": "Osmo Pocket 4P Vlog Combo",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 419000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "camera",
+      "image": "https://yerevanmobile.am/media/catalog/product/c/h/chatgpt_image_24_._2026_._18_11_39.png",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dji-osmo-pocket-4p-bundle-vlog-combo.html"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "dji"
+      ]
+    },
+    {
+      "id": "mini-5-pro-fly-more-combo-plus-with-dji-rc-2",
+      "brand": "DJI",
+      "name": "Mini 5 Pro Fly More Combo Plus (DJI RC 2)",
+      "config": {
+        "hy": "5.5 inch · 36 ր",
+        "ru": "5.5 inch · 36 мин",
+        "en": "5.5 inch · 36 min"
+      },
+      "price": 538000,
+      "oldPrice": null,
+      "monthly": null,
       "availability": "in-stock",
       "art": "drone",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61abcrjunol.jpg",
       "sourceRef": {
-        "sku": "9772",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/4/t/4t.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dji-mini-5-pro-fly-more-combo-plus-with-dji-rc-2.html"
       },
       "specs": [
         {
@@ -177,9 +427,9 @@
                 "en": "Flight range"
               },
               "value": {
-                "hy": "25 կմ",
-                "ru": "25 կմ",
-                "en": "25 կմ"
+                "hy": "20 կմ",
+                "ru": "20 կմ",
+                "en": "20 կմ"
               }
             },
             {
@@ -189,9 +439,9 @@
                 "en": "Flight time"
               },
               "value": {
-                "hy": "49 ր",
-                "ru": "49 мин",
-                "en": "49 min"
+                "hy": "36 ր",
+                "ru": "36 мин",
+                "en": "36 min"
               }
             },
             {
@@ -201,21 +451,33 @@
                 "en": "Flight ceiling"
               },
               "value": {
-                "hy": "6000 մ",
-                "ru": "6000 м",
-                "en": "6000 m"
+                "hy": "4000 մ",
+                "ru": "4000 м",
+                "en": "4000 m"
               }
             },
             {
               "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
               },
               "value": {
-                "hy": "48MP",
-                "ru": "48MP",
-                "en": "48MP"
+                "hy": "5.5 inch",
+                "ru": "5.5 inch",
+                "en": "5.5 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Քաշ",
+                "ru": "Вес",
+                "en": "Weight"
+              },
+              "value": {
+                "hy": "249 g",
+                "ru": "249 g",
+                "en": "249 g"
               }
             }
           ]
@@ -846,102 +1108,6 @@
       ]
     },
     {
-      "id": "drone",
-      "brand": "DJI",
-      "name": "drone",
-      "config": {
-        "hy": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2",
-        "ru": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2",
-        "en": "Mavic 4 Pro Creator Combo 512GB /DJI RC Pro 2"
-      },
-      "price": 1899000,
-      "oldPrice": null,
-      "monthly": 39570,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "10503",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/d/j/djimavic4profmc.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/a/mav4pcc_rcpro2.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիշողություն",
-                "ru": "Память",
-                "en": "Memory"
-              },
-              "value": {
-                "hy": "512GB",
-                "ru": "512GB",
-                "en": "512GB"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "13 կմ",
-                "ru": "13 կմ",
-                "en": "13 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "30 ր",
-                "ru": "30 мин",
-                "en": "30 min"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "macbook-air-15",
       "brand": "Apple",
       "name": "MacBook Air 15″ M5",
@@ -1484,45 +1650,6 @@
           "price": 1859000,
           "credit": null,
           "image": "",
-          "inStock": true
-        }
-      ]
-    },
-    {
-      "id": "dji-mavic-4-pro",
-      "brand": "DJI",
-      "name": "Mavic 4 Pro",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 1389000,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
-      "priceSource": "redstore",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-mavic-4-pro"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ],
-      "variants": [
-        {
-          "color": null,
-          "storage": "512GB",
-          "ram": null,
-          "sim": null,
-          "price": 1389000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5830.png",
           "inStock": true
         }
       ]
@@ -2267,104 +2394,6 @@
           "image": "https://admin.redstore.am/storage/products/61642/image/100-montaznaia-oblast-1.webp",
           "inStock": false
         }
-      ]
-    },
-    {
-      "id": "air-3s-fly-more-combo",
-      "brand": "DJI",
-      "name": "Air 3S Fly More Combo",
-      "config": {
-        "hy": "46 ր",
-        "ru": "46 мин",
-        "en": "46 min"
-      },
-      "price": 679300,
-      "oldPrice": null,
-      "monthly": 16650,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9765",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61xqjkxj2nl._ac_uf894_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "20 կմ",
-                "ru": "20 կմ",
-                "en": "20 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "46 ր",
-                "ru": "46 мин",
-                "en": "46 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "6000 մ",
-                "ru": "6000 м",
-                "en": "6000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "724 g",
-                "ru": "724 g",
-                "en": "724 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "allsell",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -3369,155 +3398,6 @@
       ]
     },
     {
-      "id": "drone-avata-360-fly-more-combo-rc2",
-      "brand": "DJI",
-      "name": "drone Avata 360 Fly More Combo RC2",
-      "config": {
-        "hy": "Bundle Fly",
-        "ru": "Bundle Fly",
-        "en": "Bundle Fly"
-      },
-      "price": 619000,
-      "oldPrice": null,
-      "monthly": 12900,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "10501",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/611hcuw_bjl._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "23 m",
-                "ru": "23 m",
-                "en": "23 m"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
-      "id": "avata-2-fly-more-combo",
-      "brand": "DJI",
-      "name": "Avata 2 Fly More Combo",
-      "config": {
-        "hy": "Three battery",
-        "ru": "Three battery",
-        "en": "Three battery"
-      },
-      "price": 599000,
-      "oldPrice": null,
-      "monthly": 12480,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9766",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/2/123_3.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/2/12345.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "13 կմ",
-                "ru": "13 կմ",
-                "en": "13 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "5000 մ",
-                "ru": "5000 м",
-                "en": "5000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "48MP",
-                "ru": "48MP",
-                "en": "48MP"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "17-ultra",
       "brand": "Xiaomi",
       "name": "17 Ultra",
@@ -3758,33 +3638,6 @@
           "image": "https://admin.redstore.am/storage/products/60581/image/waw-montaznaia-oblast-1.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "dji-avata-2-fly-more-combo-three-batteries",
-      "brand": "DJI",
-      "name": "Avata 2 Fly More Combo (Three Batteries)",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 569300,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-avata-2-fly-more-combo-three-batteries"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -4723,33 +4576,6 @@
       ]
     },
     {
-      "id": "dji-mini-5-pro-fly-more-combo-plus-rc2-52mnt",
-      "brand": "DJI",
-      "name": "Mini 5 Pro Fly More Combo Plus RC2 52MNT",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 544300,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-mini-5-pro-fly-more-combo-plus-rc2-52mnt"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "canon-powershot-g7-x-mark-iii",
       "brand": "Canon",
       "name": "PowerShot G7 X Mark III",
@@ -4774,117 +4600,6 @@
       "specs": [],
       "cats": [
         "camera"
-      ]
-    },
-    {
-      "id": "mini-5-pro-fly-more-combo-plus-with-dji-rc-2",
-      "brand": "DJI",
-      "name": "Mini 5 Pro Fly More Combo Plus with DJI RC 2",
-      "config": {
-        "hy": "5.5 inch · 36 ր",
-        "ru": "5.5 inch · 36 мин",
-        "en": "5.5 inch · 36 min"
-      },
-      "price": 538000,
-      "oldPrice": null,
-      "monthly": 11210,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9770",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61abcrjunol.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/o/4o4t6egk1px60gl1elcuej4yofecfx0g.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "20 կմ",
-                "ru": "20 կմ",
-                "en": "20 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "36 ր",
-                "ru": "36 мин",
-                "en": "36 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "4000 մ",
-                "ru": "4000 м",
-                "en": "4000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "5.5 inch",
-                "ru": "5.5 inch",
-                "en": "5.5 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "249 g",
-                "ru": "249 g",
-                "en": "249 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -6564,215 +6279,6 @@
       ]
     },
     {
-      "id": "mini-4-pro",
-      "brand": "DJI",
-      "name": "Mini 4 Pro",
-      "config": {
-        "hy": "34 ր",
-        "ru": "34 мин",
-        "en": "34 min"
-      },
-      "price": 459000,
-      "oldPrice": null,
-      "monthly": 9570,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9767",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/d/r/dron.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "18 կմ",
-                "ru": "18 կմ",
-                "en": "18 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "34 ր",
-                "ru": "34 мин",
-                "en": "34 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "4000 մ",
-                "ru": "4000 м",
-                "en": "4000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "48MP",
-                "ru": "48MP",
-                "en": "48MP"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "249 g",
-                "ru": "249 g",
-                "en": "249 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
-      "id": "drone-flip-rc-2-fly-more-combo",
-      "brand": "DJI",
-      "name": "drone Flip RC-2 Fly More Combo",
-      "config": {
-        "hy": "31 ր",
-        "ru": "31 мин",
-        "en": "31 min"
-      },
-      "price": 459000,
-      "oldPrice": null,
-      "monthly": 9570,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "10505",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/r/c/rc2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61yhzxxvq-l._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "31 ր",
-                "ru": "31 мин",
-                "en": "31 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "249 g",
-                "ru": "249 g",
-                "en": "249 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "samsung-galaxy-z-flip-8",
       "brand": "Samsung",
       "name": "Galaxy Z Flip 8",
@@ -6896,143 +6402,6 @@
       "specs": [],
       "cats": [
         "audio"
-      ]
-    },
-    {
-      "id": "neo-fly-more-combo",
-      "brand": "DJI",
-      "name": "Neo Fly More Combo",
-      "config": {
-        "hy": "18 ր",
-        "ru": "18 мин",
-        "en": "18 min"
-      },
-      "price": 419000,
-      "oldPrice": null,
-      "monthly": 9570,
-      "availability": "on-request",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9764",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/1/51hi2-oaswl.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "50 մ",
-                "ru": "50 м",
-                "en": "50 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "18 ր",
-                "ru": "18 мин",
-                "en": "18 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "2000 m",
-                "ru": "2000 m",
-                "en": "2000 m"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
-      "id": "osmo-pocket-4p-bundle-vlog-combo",
-      "brand": "DJI",
-      "name": "Osmo Pocket 4P Bundle Vlog Combo",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 419000,
-      "oldPrice": null,
-      "monthly": 5610,
-      "availability": "on-request",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "10762",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/c/h/chatgpt_image_24_._2026_._18_11_39.png",
-          "https://yerevanmobile.am/media/catalog/product/8/5/85594eebe01c2ee7324f216fba8d0935.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -8666,56 +8035,6 @@
       ]
     },
     {
-      "id": "lito-x1-combo-with-rc-2",
-      "brand": "DJI",
-      "name": "Lito X1 Combo with RC-2",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 385000,
-      "oldPrice": null,
-      "monthly": 8110,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "11089",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/1/51kzts7npxl.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "xiaomi-17",
       "brand": "Xiaomi",
       "name": "17",
@@ -9095,57 +8414,6 @@
           "image": "https://admin.redstore.am/storage/products/60214/image/bezymiannyi-4-montaznaia-oblast-1-1.webp",
           "inStock": false
         }
-      ]
-    },
-    {
-      "id": "osmo-pocket-4p-standart-combo",
-      "brand": "DJI",
-      "name": "Osmo Pocket 4P Standart Combo",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 379000,
-      "oldPrice": null,
-      "monthly": 7900,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "10805",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/4/p/4p.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/p/4p_stanmdart.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -10980,57 +10248,6 @@
       ]
     },
     {
-      "id": "rs-5-stabilizator",
-      "brand": "DJI",
-      "name": "RS 5 Stabilizator",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 329000,
-      "oldPrice": null,
-      "monthly": 6860,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9660",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/r/s/rs5.jpg",
-          "https://yerevanmobile.am/media/catalog/product/r/s/rs5.jpg1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "watch-ultra-3",
       "brand": "Apple",
       "name": "Watch Ultra 3",
@@ -11182,57 +10399,6 @@
       "priceSource": "allsell",
       "creditPrice": null,
       "cats": []
-    },
-    {
-      "id": "goggles-3",
-      "brand": "DJI",
-      "name": "Goggles 3",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 319000,
-      "oldPrice": null,
-      "monthly": 6650,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "11091",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/3/a/3aa976c60e40d419ca7e1ef71c1b134c.png",
-          "https://yerevanmobile.am/media/catalog/product/s/j/sjfoiweurerye78tye478ty.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
     },
     {
       "id": "ps5-slim-digital-edition-fifa-26",
@@ -11788,58 +10954,6 @@
           "image": "https://admin.redstore.am/storage/uploads/2025/11/16/xcfvghjk-montaznaia-oblast-1.jpg",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "camera-osmo360",
-      "brand": "DJI",
-      "name": "Camera Osmo360",
-      "config": {
-        "hy": "Adventure Combo",
-        "ru": "Adventure Combo",
-        "en": "Adventure Combo"
-      },
-      "price": 309000,
-      "oldPrice": null,
-      "monthly": 6440,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "8538",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/o/s/osmo_3601.jpg",
-          "https://yerevanmobile.am/media/catalog/product/3/6/360_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/714bwbwaghl._uf894_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -12653,56 +11767,6 @@
       "creditPrice": null,
       "cats": [
         "gaming"
-      ]
-    },
-    {
-      "id": "lito-1-fly-more-combo",
-      "brand": "DJI",
-      "name": "Lito 1 Fly More Combo",
-      "config": {
-        "hy": "DJI RC-N3",
-        "ru": "DJI RC-N3",
-        "en": "DJI RC-N3"
-      },
-      "price": 299000,
-      "oldPrice": null,
-      "monthly": 6230,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "11090",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/d/r/driom.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -14753,33 +13817,6 @@
       ]
     },
     {
-      "id": "dji-osmo-360-adventure-combo",
-      "brand": "DJI",
-      "name": "Osmo 360 Adventure Combo",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 283300,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-360-adventure-combo"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "samsung-galaxy-tab-s10-fe-plus-x626-wifi-5g",
       "brand": "Samsung",
       "name": "Galaxy Tab S10 FE Plus X626 Wifi+5G",
@@ -15281,56 +14318,6 @@
       ]
     },
     {
-      "id": "osmo-pocket-4",
-      "brand": "DJI",
-      "name": "Osmo Pocket 4",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 279000,
-      "oldPrice": null,
-      "monthly": 5820,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "10409",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/0/9/0942f23490eb2c9a2dc74aefef21dea7_ultra.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "jbl-jbl-bar-500-pro-5-1-soundbar-with-multibeam-",
       "brand": "JBL",
       "name": "Bar 500 Pro 5.1 Soundbar with Multibeam Dolby Atmos",
@@ -15796,92 +14783,6 @@
       "creditPrice": 299900,
       "cats": [
         "iphone"
-      ]
-    },
-    {
-      "id": "neo-2-fly-more-combo",
-      "brand": "DJI",
-      "name": "Neo 2 Fly More Combo",
-      "config": {
-        "hy": "20 ր",
-        "ru": "20 мин",
-        "en": "20 min"
-      },
-      "price": 269300,
-      "oldPrice": null,
-      "monthly": 5820,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9763",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/1/51keufbcmrl._ac_sl1500__1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "20 ր",
-                "ru": "20 мин",
-                "en": "20 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "2000 m",
-                "ru": "2000 m",
-                "en": "2000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "151 g",
-                "ru": "151 g",
-                "en": "151 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "allsell",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -16632,33 +15533,6 @@
       ]
     },
     {
-      "id": "dji-osmo-pocket-3",
-      "brand": "DJI",
-      "name": "Osmo Pocket 3",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 249900,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-pocket-3"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "marshall-marshall-heston-sub200-subwoofer",
       "brand": "Marshall",
       "name": "Heston Sub200 Subwoofer",
@@ -16683,33 +15557,6 @@
       "specs": [],
       "cats": [
         "audio"
-      ]
-    },
-    {
-      "id": "dji-osmo-action-6",
-      "brand": "DJI",
-      "name": "Osmo Action 6",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 239900,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-action-6"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -17018,230 +15865,6 @@
       ]
     },
     {
-      "id": "camera",
-      "brand": "DJI",
-      "name": "Camera",
-      "config": {
-        "hy": "Osmo Action 5 Pro Standard Combo",
-        "ru": "Osmo Action 5 Pro Standard Combo",
-        "en": "Osmo Action 5 Pro Standard Combo"
-      },
-      "price": 239000,
-      "oldPrice": 249000,
-      "monthly": 4980,
-      "availability": "on-request",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "7447",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/_/6_15_3.jpg",
-          "https://yerevanmobile.am/media/catalog/product/9/_/9_8_5.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/0/10_standart_combo.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
-      "id": "matrice-4e",
-      "brand": "DJI",
-      "name": "Matrice 4E",
-      "config": {
-        "hy": "7 inch · 45 ր",
-        "ru": "7 inch · 45 мин",
-        "en": "7 inch · 45 min"
-      },
-      "price": 239000,
-      "oldPrice": 249000,
-      "monthly": 4980,
-      "availability": "on-request",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "9771",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/matrice.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի հեռավորություն",
-                "ru": "Дальность полёта",
-                "en": "Flight range"
-              },
-              "value": {
-                "hy": "15 կմ",
-                "ru": "15 կմ",
-                "en": "15 կմ"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "45 ր",
-                "ru": "45 мин",
-                "en": "45 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "6000 մ",
-                "ru": "6000 м",
-                "en": "6000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "7 inch",
-                "ru": "7 inch",
-                "en": "7 inch"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
-      "id": "rs-4",
-      "brand": "DJI",
-      "name": "RS 4",
-      "config": {
-        "hy": "Professional Stabilizer",
-        "ru": "Professional Stabilizer",
-        "en": "Professional Stabilizer"
-      },
-      "price": 239000,
-      "oldPrice": null,
-      "monthly": 4980,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "7163",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/1/51_9vmzgtvl._ac_uf1000_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "5.0",
-                "ru": "5.0",
-                "en": "5.0"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "1.24 kg",
-                "ru": "1.24 kg",
-                "en": "1.24 kg"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "pad-7-pro",
       "brand": "Xiaomi",
       "name": "Pad 7 Pro",
@@ -17490,33 +16113,6 @@
           "image": "https://admin.redstore.am/storage/uploads/2025/10/30/img-5728.jpg",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "dji-osmo-action-5-pro-adventure-combo",
-      "brand": "DJI",
-      "name": "Osmo Action 5 Pro Adventure Combo",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 229900,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-action-5-pro-adventure-combo"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -18117,68 +16713,6 @@
       ]
     },
     {
-      "id": "rs-4-mini-professional-stabilizer",
-      "brand": "DJI",
-      "name": "RS 4 Mini Professional Stabilizer",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 219000,
-      "oldPrice": null,
-      "monthly": 4570,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "8271",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/r/s/rs4_mini.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "890 g",
-                "ru": "890 g",
-                "en": "890 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "jbl-jbl-boombox-4",
       "brand": "JBL",
       "name": "BoomBox 4",
@@ -18225,33 +16759,6 @@
           "image": "https://admin.redstore.am/storage/products/58526/image/photoroom-20251206-110146.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "dji-osmo-nano-standard-combo-128gb",
-      "brand": "DJI",
-      "name": "Osmo Nano Standard Combo (128GB)",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 209900,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-nano"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -18977,33 +17484,6 @@
       ]
     },
     {
-      "id": "dji-rs-4-mini",
-      "brand": "DJI",
-      "name": "RS 4 Mini",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 189300,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-rs-4-mini"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "keyboard-magic-ipad-pro-11-m4",
       "brand": "Apple",
       "name": "Keyboard Magic iPad pro 11 M4",
@@ -19319,33 +17799,6 @@
           "image": "https://admin.redstore.am/storage/products/59596/image/njik-montaznaia-oblast-1.jpg",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "dji-osmo-4-action-adventure-combo",
-      "brand": "DJI",
-      "name": "Osmo 4 Action Adventure Combo",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 184900,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-4-action-adventure-combo-three-batteries"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -20186,78 +18639,6 @@
       ]
     },
     {
-      "id": "osmo-nano-standard-combo",
-      "brand": "DJI",
-      "name": "Osmo Nano Standard Combo",
-      "config": {
-        "hy": "64GB",
-        "ru": "64GB",
-        "en": "64GB"
-      },
-      "price": 169000,
-      "oldPrice": null,
-      "monthly": 3530,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "8978",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/6193_hvkasl._ac_uf894_1000_ql80__1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/d/j/dji_cp_os_00000460_01_osmo_nano_standard_combo_1913590_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիշողություն",
-                "ru": "Память",
-                "en": "Memory"
-              },
-              "value": {
-                "hy": "64GB",
-                "ru": "64GB",
-                "en": "64GB"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "airpods-max",
       "brand": "Apple",
       "name": "AirPods Max",
@@ -20733,68 +19114,6 @@
           "image": "https://admin.redstore.am/storage/products/59909/image/e34-montaznaia-oblast-1-1.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "mic-3",
-      "brand": "DJI",
-      "name": "Mic 3",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 159300,
-      "oldPrice": 249000,
-      "monthly": 3320,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "8701",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61jalpdlgvl._uf894_1000_ql80__1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "5.3",
-                "ru": "5.3",
-                "en": "5.3"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "allsell",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -22383,142 +20702,6 @@
           "image": "https://admin.redstore.am/storage/products/61328/image/6-montaznaia-oblast-1.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "drone-neo",
-      "brand": "DJI",
-      "name": "drone Neo",
-      "config": {
-        "hy": "18 ր",
-        "ru": "18 мин",
-        "en": "18 min"
-      },
-      "price": 149000,
-      "oldPrice": null,
-      "monthly": 3110,
-      "availability": "in-stock",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "10502",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/c/6c6e1fa3006ea909d728986eb4cdc83d_origin-scaled.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի տևողություն",
-                "ru": "Время полёта",
-                "en": "Flight time"
-              },
-              "value": {
-                "hy": "18 ր",
-                "ru": "18 мин",
-                "en": "18 min"
-              }
-            },
-            {
-              "label": {
-                "hy": "Թռիչքի բարձրություն",
-                "ru": "Высота полёта",
-                "en": "Flight ceiling"
-              },
-              "value": {
-                "hy": "2000 m",
-                "ru": "2000 m",
-                "en": "2000 m"
-              }
-            },
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "135 g",
-                "ru": "135 g",
-                "en": "135 g"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
-      "id": "mini-5-pro-fly-more-combo-dji-rc-2",
-      "brand": "DJI",
-      "name": "Mini 5 Pro Fly More Combo DJI RC 2",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 149000,
-      "oldPrice": null,
-      "monthly": 3110,
-      "availability": "on-request",
-      "art": "drone",
-      "image": null,
-      "sourceRef": {
-        "sku": "10912",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61raia-4irl._ac_uf894_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -25136,33 +23319,6 @@
       ]
     },
     {
-      "id": "dji-h-dji-mic-mini-2s",
-      "brand": "DJI",
-      "name": "h DJI MIC MINI 2S",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 109700,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-mic-mini-2s"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "samsung-galaxy-watch-8",
       "brand": "Samsung",
       "name": "Galaxy Watch 8",
@@ -27625,57 +25781,6 @@
       ]
     },
     {
-      "id": "osmo-mobile-8p",
-      "brand": "DJI",
-      "name": "Osmo Mobile 8P",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 93000,
-      "oldPrice": null,
-      "monthly": 1940,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "10496",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/p/8p.jpg",
-          "https://yerevanmobile.am/media/catalog/product/o/s/osmo-mobile-8p_05.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "marshall-marshall-emberton",
       "brand": "Marshall",
       "name": "Emberton",
@@ -28141,33 +26246,6 @@
       ]
     },
     {
-      "id": "dji-smartphone-stabilizer-dji-osmo-mobile-8",
-      "brand": "DJI",
-      "name": "Smartphone Stabilizer DJI Osmo Mobile 8",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 83300,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/smartphone-stabilizer-dji-osmo-mobile-8"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "jbl-jbl-live-770nc-over-ear-noise-cancelling",
       "brand": "JBL",
       "name": "Live 770NC Over-Ear Noise Cancelling",
@@ -28352,33 +26430,6 @@
       ]
     },
     {
-      "id": "dji-mic-mini-2",
-      "brand": "DJI",
-      "name": "Mic Mini 2",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 78300,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-mic-mini-2"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
-      ]
-    },
-    {
       "id": "ps5-headset-pulse-elite",
       "brand": "PlayStation",
       "name": "PS5 Headset Pulse Elite",
@@ -28528,56 +26579,6 @@
       "creditPrice": null,
       "cats": [
         "audio"
-      ]
-    },
-    {
-      "id": "osmo-mobile-7p",
-      "brand": "DJI",
-      "name": "Osmo Mobile 7p",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 74000,
-      "oldPrice": null,
-      "monthly": 1550,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "sourceRef": {
-        "sku": "7872",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/p/7p.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dji"
       ]
     },
     {
@@ -29508,33 +27509,6 @@
           "image": "https://admin.redstore.am/storage/products/59044/image/zzx-montaznaia-oblast-1.jpg",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "dji-smartphone-stabilizer-dji-osmo-mobile-6",
-      "brand": "DJI",
-      "name": "Smartphone Stabilizer DJI Osmo Mobile 6",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 64900,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "camera",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/dji-osmo-mobile-6"
-      },
-      "specs": [],
-      "cats": [
-        "dji"
       ]
     },
     {
