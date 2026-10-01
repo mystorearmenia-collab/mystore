@@ -24,6 +24,8 @@ export default function VariantPicker({
   const t = useTranslations("product");
   const locale = useLocale() as Locale;
 
+  const showConfiguration = product.name.startsWith("MacBook Air") && product.name.includes("M5");
+
   const colors = optionsOf(product, "color");
   const storages = optionsOf(product, "storage");
   const rams = optionsOf(product, "ram");
@@ -63,7 +65,7 @@ export default function VariantPicker({
 
   return (
     <div className="space-y-4">
-      {colors.length > 1 &&
+      {colors.length > (showConfiguration ? 0 : 1) &&
         group(
           t("color"),
           colors.map((c) => {
@@ -94,10 +96,10 @@ export default function VariantPicker({
           selection.color ? colorInfo(selection.color).label(locale) : undefined,
         )}
 
-      {storages.length > 1 &&
-        group(t("storage"), storages.map((s) => chip("storage", s, s)))}
+      {storages.length > (showConfiguration ? 0 : 1) &&
+        group(showConfiguration ? "SSD" : t("storage"), storages.map((s) => chip("storage", s, s)))}
 
-      {rams.length > 1 && group(t("ram"), rams.map((r) => chip("ram", r, r)))}
+      {rams.length > (showConfiguration ? 0 : 1) && group(t("ram"), rams.map((r) => chip("ram", r, r)))}
 
       {sims.length > 1 &&
         group(
