@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 321
+    "product_count": 302
   },
   "categories": [
     {
@@ -91,7 +91,7 @@
       },
       "href": "/dyson",
       "art": "dyson",
-      "count": 24,
+      "count": 5,
       "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/products/hair-care/505d/consumer/pdp/ceramic-pink-rose-gold/cards/Ceramic-Pink-Range_Tile.jpg"
     },
     {
@@ -4126,25 +4126,26 @@
       ]
     },
     {
-      "id": "purifier-big-quiet-formaldehyde",
+      "id": "dyson-hs09-max",
       "brand": "Dyson",
-      "name": "Purifier Big+Quiet Formaldehyde",
+      "name": "HS09 Max Airwrap Co-anda2x",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 549000,
+      "price": 339000,
       "oldPrice": null,
-      "monthly": 11440,
+      "monthly": null,
+      "creditPrice": null,
       "availability": "in-stock",
       "art": "dyson",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
-        "sku": "9712",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/b/p/bp06-dyson-big-plus-quiet-formaldehyde-purifier_1.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://redstore.am/search/HS09%20Max"
       },
       "specs": [
         {
@@ -4154,6 +4155,18 @@
             "en": "Design"
           },
           "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
             {
               "label": {
                 "hy": "Երաշխիք",
@@ -4169,10 +4182,514 @@
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
       "cats": [
         "dyson"
+      ],
+      "variants": [
+        {
+          "color": "Ceramic Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 339000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "hs09",
+      "brand": "Dyson",
+      "name": "HS09 Airwrap Co-anda2x",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 259000,
+      "oldPrice": null,
+      "monthly": null,
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/9/8956.jpg",
+      "priceSource": "yerevanmobile",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/dyson-hs09-airwrap-jasper-plum.html"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "dyson"
+      ],
+      "variants": [
+        {
+          "color": "Ceramic Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/8/9/8956.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Jasper Plum",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/4/3/437b807aff0ed380d854500297f384e3.png",
+          "inStock": true
+        },
+        {
+          "color": "Apricot/Topaz",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/9/7970240.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Amber Silk (Curly+Coily)",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/f/a/fayasiohd.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Amber Silk",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 289000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/c/8/c8d0b30b09356932e339cf1a41c2152c.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Red Velvet",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 309000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/0/9/09_red._1.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "dyson-ht03-airstrait",
+      "brand": "Dyson",
+      "name": "HT03 Airstrait",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 229000,
+      "oldPrice": null,
+      "monthly": null,
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": "https://admin.redstore.am/storage/products/61708/image/99-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://redstore.am/search/Airstrait"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
+              },
+              "value": {
+                "hy": "1600W",
+                "ru": "1600W",
+                "en": "1600W"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "dyson"
+      ],
+      "variants": [
+        {
+          "color": "Ceramic Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 229000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61708/image/99-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "dyson-hs08-airwrap-id",
+      "brand": "Dyson",
+      "name": "HS08 Airwrap i.d.",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 185000,
+      "oldPrice": null,
+      "monthly": null,
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": "https://admin.redstore.am/storage/uploads/2025/10/29/awsz-montaznaia-oblast-1.jpg",
+      "priceSource": "yerevanmobile",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/catalogsearch/result/?q=dyson"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
+              },
+              "value": {
+                "hy": "1300W",
+                "ru": "1300W",
+                "en": "1300W"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "dyson"
+      ],
+      "variants": [
+        {
+          "color": "Vinca Blue/Topaz",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 185000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/29/awsz-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Ceramic Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 195000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/29/wedr-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Ceramic Patina/Topaz",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 199000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/p/a/patimattopaz.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Prussian Blue/Copper",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 199000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/54090/image/gtfr-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Amber Silk",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 209000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/a/_/a_neradasd.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Jasper Plum",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 219000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/9/599017-01_1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Apricot",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 229000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/j/i/jihyugygtyftyftyf.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Kanzan Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 229000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/p/i/pinl_1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Red Velvet/Gold",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 269000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/29/xcvb-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "ht01-airstrait-straightener",
+      "brand": "Dyson",
+      "name": "HT01 Airstrait",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 158000,
+      "oldPrice": null,
+      "monthly": null,
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
+      "priceSource": "yerevanmobile",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://www.yerevanmobile.am/ru/catalogsearch/result/?q=dyson"
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
+              },
+              "value": {
+                "hy": "1600W",
+                "ru": "1600W",
+                "en": "1600W"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "dyson"
+      ],
+      "variants": [
+        {
+          "color": "Prussian Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 158000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Ceramic Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 168000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/s/a/sas_2_1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Nickel/Copper",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 168000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/9/797034.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Sakura Cherry",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 174000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/k/a/kanzas_pink.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Apricot/Topaz",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 175000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/3/53f1b7774d403d948854eed3a1ea00a3-hi.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Strawberry Bronze",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 184000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/s/t/strawberry_bronze_1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Onyx Gold",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 209000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/7396/image/img-0431.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -5465,69 +5982,6 @@
       ]
     },
     {
-      "id": "360-vis-nav-robot-vacuum",
-      "brand": "Dyson",
-      "name": "360 Vis Nav™ robot vacuum",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 489000,
-      "oldPrice": null,
-      "monthly": 10190,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "7303",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/s/2/s2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/d/y/dyusjasgd.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "iphone-17-pro",
       "brand": "Apple",
       "name": "iPhone 17 Pro",
@@ -6415,56 +6869,6 @@
       ]
     },
     {
-      "id": "v16s-piston-animal-submarine-cordless-wet-and-dr",
-      "brand": "Dyson",
-      "name": "V16s Piston Animal Submarine Cordless Wet and Dry",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 429000,
-      "oldPrice": null,
-      "monthly": 8940,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "10741",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61qcwf0rvjl._ac_uf894_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "neo-fly-more-combo",
       "brand": "DJI",
       "name": "Neo Fly More Combo",
@@ -6599,79 +7003,6 @@
       "creditPrice": null,
       "cats": [
         "dji"
-      ]
-    },
-    {
-      "id": "ph05-purifier-humidify-cool-ph2-de-nox",
-      "brand": "Dyson",
-      "name": "PH05 Purifier Humidify+Cool PH2 De-Nox",
-      "config": {
-        "hy": "White/Gold",
-        "ru": "White/Gold",
-        "en": "White/Gold"
-      },
-      "price": 409000,
-      "oldPrice": null,
-      "monthly": 8530,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9707",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/f/r/frame_1_418.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61xf71rztfl._ac_uf350_350_ql80_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61aec-p5vrl._ac_sl1440_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "White/Gold",
-                "ru": "White/Gold",
-                "en": "White/Gold"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -6974,57 +7305,6 @@
       "specs": [],
       "cats": [
         "samsung"
-      ]
-    },
-    {
-      "id": "v16-piston-animal-submarine",
-      "brand": "Dyson",
-      "name": "V16 Piston Animal Submarine",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 399000,
-      "oldPrice": null,
-      "monthly": 8320,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "8991",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/617qswohwwl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/d/y/dyson-piston-animal-submarine_primary-image.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -10196,56 +10476,6 @@
       ]
     },
     {
-      "id": "pencil-vacuum-sv50-fluffy-cones",
-      "brand": "Dyson",
-      "name": "Pencil Vacuum SV50 Fluffy Cones",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 339000,
-      "oldPrice": null,
-      "monthly": 7070,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9743",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/s/v/sv50_blkblkblk_083-rgb-sidebyside-3q-fronton-glass-cut-bluefizz-motor-ilfc-laseron-a0_ws.jpeg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "17t-pro",
       "brand": "Xiaomi",
       "name": "17T Pro",
@@ -11580,68 +11810,6 @@
       "creditPrice": null,
       "cats": [
         "dji"
-      ]
-    },
-    {
-      "id": "hs09",
-      "brand": "Dyson",
-      "name": "HS09",
-      "config": {
-        "hy": "Airwrap Co-anda2x Straight+Wavy/Red Velvet",
-        "ru": "Airwrap Co-anda2x Straight+Wavy/Red Velvet",
-        "en": "Airwrap Co-anda2x Straight+Wavy/Red Velvet"
-      },
-      "price": 309000,
-      "oldPrice": null,
-      "monthly": 6440,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9528",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/0/9/09_red._1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -13164,57 +13332,6 @@
           "image": "https://admin.redstore.am/storage/products/61580/image/4-montaznaia-oblast-1.webp",
           "inStock": false
         }
-      ]
-    },
-    {
-      "id": "gen5detect-absolute",
-      "brand": "Dyson",
-      "name": "Gen5detect Absolute",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 289000,
-      "oldPrice": null,
-      "monthly": 6030,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9738",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/n/e/new_project_41__2.png",
-          "https://yerevanmobile.am/media/catalog/product/n/e/new_project_42__2.png"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -15440,108 +15557,6 @@
       ]
     },
     {
-      "id": "purifier-cool-tp12-pc2-de-nox",
-      "brand": "Dyson",
-      "name": "Purifier Cool TP12 PC2 De-Nox",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 279000,
-      "oldPrice": null,
-      "monthly": 5820,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9706",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/0/807018.jpg",
-          "https://yerevanmobile.am/media/catalog/product/8/0/807018-1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/8/0/807018-2.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
-      "id": "purifier-cool-gen1",
-      "brand": "Dyson",
-      "name": "Purifier Cool Gen1",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 279000,
-      "oldPrice": null,
-      "monthly": 5820,
-      "availability": "on-request",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "Dyson Purifier Cool Gen1 TP10",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/0/807022.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "iphone-15",
       "brand": "Apple",
       "name": "iPhone 15",
@@ -17123,57 +17138,6 @@
       ]
     },
     {
-      "id": "hushjet-purifier-compact",
-      "brand": "Dyson",
-      "name": "Hushjet Purifier Compact",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 239000,
-      "oldPrice": null,
-      "monthly": 320,
-      "availability": "on-request",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "Dyson Hushjet Purifier Compact HJ10",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71jpzeikwpl.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/1/51fferlxsvl._ac_uf894_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "rs-4",
       "brand": "DJI",
       "name": "RS 4",
@@ -17245,57 +17209,6 @@
       "creditPrice": null,
       "cats": [
         "dji"
-      ]
-    },
-    {
-      "id": "purifier-cool-gen1-tp10-purifying-fan",
-      "brand": "Dyson",
-      "name": "Purifier Cool Gen1 TP10 Purifying Fan",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 239000,
-      "oldPrice": null,
-      "monthly": 4980,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "11094",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61rd1kpvfil._ac_ul450_sy450_ql70_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/1/51rlqqph7rl._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -17574,142 +17487,6 @@
       "specs": [],
       "cats": [
         "dji"
-      ]
-    },
-    {
-      "id": "airwrap-id",
-      "brand": "Dyson",
-      "name": "Airwrap ID",
-      "config": {
-        "hy": "Ceramic/Vinca Blue",
-        "ru": "Ceramic/Vinca Blue",
-        "en": "Ceramic/Vinca Blue"
-      },
-      "price": 229000,
-      "oldPrice": null,
-      "monthly": 4780,
-      "availability": "on-request",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9219",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/v/i/vinca_n_ue.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
-      "id": "airwrap-i-d",
-      "brand": "Dyson",
-      "name": "Airwrap i.d.",
-      "config": {
-        "hy": "Straight+Wavy · Kanzan Pink",
-        "ru": "Straight+Wavy · Kanzan Pink",
-        "en": "Straight+Wavy · Kanzan Pink"
-      },
-      "price": 229000,
-      "oldPrice": null,
-      "monthly": 4780,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "8730",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/p/i/pinl_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հզորություն (Վտ)",
-                "ru": "Мощность (Вт)",
-                "en": "Power (W)"
-              },
-              "value": {
-                "hy": "1300W",
-                "ru": "1300W",
-                "en": "1300W"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -18372,80 +18149,6 @@
       ]
     },
     {
-      "id": "airwrap",
-      "brand": "Dyson",
-      "name": "Airwrap",
-      "config": {
-        "hy": "Jasper Plum",
-        "ru": "Jasper Plum",
-        "en": "Jasper Plum"
-      },
-      "price": 219000,
-      "oldPrice": null,
-      "monthly": 4570,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "8147",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/9/599017-01_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հզորություն (Վտ)",
-                "ru": "Мощность (Вт)",
-                "en": "Power (W)"
-              },
-              "value": {
-                "hy": "1300W",
-                "ru": "1300W",
-                "en": "1300W"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "jbl-jbl-boombox-4",
       "brand": "JBL",
       "name": "BoomBox 4",
@@ -18797,57 +18500,6 @@
           "image": "https://admin.redstore.am/storage/products/60374/image/ef-montaznaia-oblast-1.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "g1-wash-wet-floor-vacuum",
-      "brand": "Dyson",
-      "name": "G1 Wash Wet Floor Vacuum",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 209000,
-      "oldPrice": null,
-      "monthly": 4360,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9731",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/4/8/481766-01.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/1/51h9z1q0q9l._ac_uf1000_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -19295,68 +18947,6 @@
       ]
     },
     {
-      "id": "ht01-airstrait-straightener",
-      "brand": "Dyson",
-      "name": "HT01 Airstrait Straightener",
-      "config": {
-        "hy": "Jusper Plum",
-        "ru": "Jusper Plum",
-        "en": "Jusper Plum"
-      },
-      "price": 195000,
-      "oldPrice": null,
-      "monthly": 4070,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "8148",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/619tbixu1hl._sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հզորություն (Վտ)",
-                "ru": "Мощность (Вт)",
-                "en": "Power (W)"
-              },
-              "value": {
-                "hy": "1600W",
-                "ru": "1600W",
-                "en": "1600W"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "dji-rs-4-mini",
       "brand": "DJI",
       "name": "RS 4 Mini",
@@ -19726,57 +19316,6 @@
       "specs": [],
       "cats": [
         "dji"
-      ]
-    },
-    {
-      "id": "v8-cyclone-cordless-vacuum-cleaner",
-      "brand": "Dyson",
-      "name": "V8 Cyclone Cordless Vacuum Cleaner",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 179000,
-      "oldPrice": null,
-      "monthly": 3730,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9651",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/w/e/web-285m-pdp-dynamic-media-primary-image-fluffy.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/1/51yt9hrrs8l._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -20761,57 +20300,6 @@
           "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5916.png",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "hs07-hair-straightener",
-      "brand": "Dyson",
-      "name": "HS07 Hair Straightener",
-      "config": {
-        "hy": "Corrale",
-        "ru": "Corrale",
-        "en": "Corrale"
-      },
-      "price": 168000,
-      "oldPrice": null,
-      "monthly": 3500,
-      "availability": "on-request",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9797",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/9/797019.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/9/797019_-1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -23559,184 +23047,6 @@
       ]
     },
     {
-      "id": "v8-advanced-cordless-vacuum-yellow",
-      "brand": "Dyson",
-      "name": "V8 Advanced Cordless Vacuum Yellow",
-      "config": {
-        "hy": "Nickel",
-        "ru": "Nickel",
-        "en": "Nickel"
-      },
-      "price": 139000,
-      "oldPrice": null,
-      "monthly": 2900,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "9719",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/v/8/v8.jpg",
-          "https://yerevanmobile.am/media/catalog/product/v/8/v8.jpg1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
-      "id": "vacuum-v8-slim-fluffy",
-      "brand": "Dyson",
-      "name": "Vacuum V8 Slim Fluffy",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 139000,
-      "oldPrice": null,
-      "monthly": 2900,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "7417",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/v/8/v8_slim_fluffy_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/v/8/v8_slim_fluffy.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "2.10kg",
-                "ru": "2.10kg",
-                "en": "2.10kg"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
-      "id": "v15s-detect-submarine-yellow-nicke",
-      "brand": "Dyson",
-      "name": "V15s Detect Submarine Yellow Nicke",
-      "config": {
-        "hy": "660W",
-        "ru": "660W",
-        "en": "660W"
-      },
-      "price": 139000,
-      "oldPrice": null,
-      "monthly": 2900,
-      "availability": "on-request",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "6807",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/y/e/yelow_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/u/submarine2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/u/sub3.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հզորություն (Վտ)",
-                "ru": "Мощность (Вт)",
-                "en": "Power (W)"
-              },
-              "value": {
-                "hy": "660W",
-                "ru": "660W",
-                "en": "660W"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
-      ]
-    },
-    {
       "id": "galaxy-tab-s10-lite-wi-fi",
       "brand": "Samsung",
       "name": "Galaxy Tab S10 Lite Wi-Fi",
@@ -23952,68 +23262,6 @@
       "creditPrice": null,
       "cats": [
         "samsung"
-      ]
-    },
-    {
-      "id": "vacuum-v8-focus-mattress",
-      "brand": "Dyson",
-      "name": "Vacuum V8 Focus Mattress",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 139000,
-      "oldPrice": null,
-      "monthly": 2900,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "7416",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/v/8/v8_focus_matrress.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
-              },
-              "value": {
-                "hy": "1.54 kg",
-                "ru": "1.54 kg",
-                "en": "1.54 kg"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {
@@ -32003,69 +31251,6 @@
       "specs": [],
       "cats": [
         "audio"
-      ]
-    },
-    {
-      "id": "v15-detect-absolute",
-      "brand": "Dyson",
-      "name": "V15 Detect Absolute",
-      "config": {
-        "hy": "750W",
-        "ru": "750W",
-        "en": "750W"
-      },
-      "price": 47000,
-      "oldPrice": null,
-      "monthly": 980,
-      "availability": "on-request",
-      "art": "dyson",
-      "image": null,
-      "sourceRef": {
-        "sku": "6808",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61vfezea8hl._ac_uf894_1000_ql80_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/v/1/v15.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հզորություն (Վտ)",
-                "ru": "Мощность (Вт)",
-                "en": "Power (W)"
-              },
-              "value": {
-                "hy": "750W",
-                "ru": "750W",
-                "en": "750W"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "dyson"
       ]
     },
     {

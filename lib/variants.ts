@@ -130,6 +130,24 @@ const COLORS: Record<string, ColorInfo> = {
   starlight: { hex: "#efe6d5", ru: "Сияющая звезда", hy: "Աստղային" },
   cream: { hex: "#f0e8d4", ru: "Кремовый", hy: "Կրեմ" },
   indigo: { hex: "#3b3f8f", ru: "Индиго", hy: "Ինդիգո" },
+  // Dyson hair care finishes
+  "prussian blue": { hex: "#1f2f5c", ru: "Прусский синий" },
+  "prussian blue/copper": { hex: "#1f2f5c", ru: "Прусский синий/Медь" },
+  "ceramic pink": { hex: "#e9c9c0", ru: "Керамический розовый" },
+  "ceramic patina/topaz": { hex: "#6f9c94", ru: "Керамическая патина/Топаз" },
+  apricot: { hex: "#f0b48a", ru: "Абрикос" },
+  "apricot/topaz": { hex: "#e8a47a", ru: "Абрикос/Топаз" },
+  "amber silk": { hex: "#c98b4f", ru: "Янтарный шёлк" },
+  "amber silk (curly+coily)": { hex: "#c98b4f", ru: "Янтарный шёлк (Curly+Coily)" },
+  "jasper plum": { hex: "#5a2d3c", ru: "Яшмовая слива" },
+  "kanzan pink": { hex: "#f2b6c4", ru: "Розовый Канзан" },
+  "sakura cherry": { hex: "#f0c1c8", ru: "Сакура" },
+  "strawberry bronze": { hex: "#b9786a", ru: "Клубничная бронза" },
+  "nickel/copper": { hex: "#b7b2aa", ru: "Никель/Медь" },
+  "onyx gold": { hex: "#2b2a28", ru: "Оникс/Золото" },
+  "vinca blue/topaz": { hex: "#4c5fa8", ru: "Барвинок/Топаз" },
+  "red velvet": { hex: "#7a1e2b", ru: "Красный бархат" },
+  "red velvet/gold": { hex: "#7a1e2b", ru: "Красный бархат/Золото" },
 };
 
 export function colorInfo(name: string): { hex: string | null; label: (l: Locale) => string } {
