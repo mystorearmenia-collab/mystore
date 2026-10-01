@@ -91,8 +91,7 @@
       },
       "href": "/dyson",
       "art": "dyson",
-      "count": 24,
-      "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/products/hair-care/505d/consumer/pdp/ceramic-pink-rose-gold/cards/Ceramic-Pink-Range_Tile.jpg"
+      "count": 24
     },
     {
       "id": "dji",
@@ -4217,7 +4216,7 @@
       "creditPrice": null,
       "availability": "in-stock",
       "art": "camera",
-      "image": null,
+      "image": "https://s7d1.scene7.com/is/image/canon/3637C001_powershot-g7-x-mark-iii-black_5?fmt=webp-alpha&wid=1600",
       "priceSource": "allsell",
       "sourceRef": {
         "sku": null,
