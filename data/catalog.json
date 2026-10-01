@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 325
+    "product_count": 321
   },
   "categories": [
     {
@@ -47,7 +47,7 @@
       },
       "href": "/mac",
       "art": "macbook",
-      "count": 9
+      "count": 5
     },
     {
       "id": "ipad",
@@ -9541,107 +9541,6 @@
       ]
     },
     {
-      "id": "mac-mini-m4",
-      "brand": "Apple",
-      "name": "Mac Mini M4",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 419000,
-      "oldPrice": null,
-      "monthly": 7900,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "8080_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61d65d5svdl._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
-      "id": "mac-mini-m6",
-      "brand": "Apple",
-      "name": "Mac Mini M6",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 359000,
-      "oldPrice": null,
-      "monthly": 7480,
-      "availability": "on-request",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "Apple Mac Mini M6",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini_3.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
       "id": "poco-f8-ultra",
       "brand": "Xiaomi",
       "name": "Poco F8 Ultra",
@@ -11075,56 +10974,6 @@
       ]
     },
     {
-      "id": "mac-mini-m5-pro",
-      "brand": "Apple",
-      "name": "Mac Mini M5 Pro",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 359000,
-      "oldPrice": null,
-      "monthly": 7480,
-      "availability": "on-request",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "Apple Mac Mini M5 Pro_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/mac_mini_4.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
-      ]
-    },
-    {
       "id": "ps5-slim-digital-edition-fifa-26",
       "brand": "PlayStation",
       "name": "PS5 Slim Digital Edition+FiFa 26",
@@ -11792,57 +11641,6 @@
       "creditPrice": null,
       "cats": [
         "dyson"
-      ]
-    },
-    {
-      "id": "mac-studio-m5-max",
-      "brand": "Apple",
-      "name": "Mac Studio M5 Max",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 309000,
-      "oldPrice": null,
-      "monthly": 6440,
-      "availability": "on-request",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "Apple Mac Studio M5 Max",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/7/1787664196_1997804.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/7/1741178216_img_2446844.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
       ]
     },
     {
