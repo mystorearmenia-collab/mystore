@@ -3999,7 +3999,7 @@
         "ru": "6.1 inch",
         "en": "6.1 inch"
       },
-      "price": 365000,
+      "price": 349000,
       "oldPrice": null,
       "monthly": 8110,
       "availability": "in-stock",
@@ -4205,43 +4205,91 @@
           ]
         }
       ],
-      "priceSource": "redstore",
+      "priceSource": "yerevanmobile",
       "creditPrice": 385000,
       "cats": [
         "iphone"
       ],
       "variants": [
         {
-          "color": "Pink",
+          "color": "Black",
           "storage": "128GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 365000,
-          "credit": 385000,
-          "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4460.jpg",
-          "inStock": true,
+          "ram": null,
+          "sim": null,
+          "price": 349000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-black?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
           "images": [
-            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
-            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
-            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
-            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-black?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-black_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-black_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-black_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "inStock": true
         },
         {
           "color": "White",
           "storage": "128GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 365000,
-          "credit": 385000,
+          "ram": null,
+          "sim": null,
+          "price": 349000,
+          "credit": null,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4461.jpg",
-          "inStock": true,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "inStock": true
+        },
+        {
+          "color": "Pink",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 349000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/27/img-4460.jpg",
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "inStock": true
+        },
+        {
+          "color": "Teal",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 349000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-teal?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-teal?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-teal_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-teal_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-teal_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "inStock": true
+        },
+        {
+          "color": "Ultramarine",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 349000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "inStock": true
         }
       ]
     },
@@ -5391,11 +5439,39 @@
       "cats": [
         "iphone"
       ],
-      "images": [
-        "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-deserttitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
-        "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-blacktitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
-        "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-whitetitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
-        "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+      "variants": [
+        {
+          "color": "Natural Titanium",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 445000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-naturaltitanium_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "inStock": true
+        },
+        {
+          "color": "White Titanium",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 445000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-whitetitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-whitetitanium?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-whitetitanium_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-whitetitanium_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-whitetitanium_AV3?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "inStock": true
+        }
       ]
     },
     {
