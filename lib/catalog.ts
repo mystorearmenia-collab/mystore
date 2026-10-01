@@ -27,6 +27,8 @@ export type Product = {
   availability: Availability;
   art: ProductArt;
   image?: string | null;
+  /** Gallery for products without per-variant photos; falls back to `image`. */
+  images?: string[];
   specs: ProductSpecSection[];
   cats: string[];
   variants?: Variant[];

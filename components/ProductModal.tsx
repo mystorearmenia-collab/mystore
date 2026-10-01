@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
 import { useLocale, useTranslations } from "next-intl";
-import ProductVisual from "./ProductVisual";
+import ProductGallery from "./ProductGallery";
 import { CloseIcon } from "./icons";
 import Prices from "./Prices";
 import VariantPicker from "./VariantPicker";
@@ -55,7 +55,15 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
   }, [product]);
 
   const variant = product ? findVariant(product, selection) : undefined;
-  const photo = variant?.image ?? product?.image ?? null;
+  const photos = variant?.images?.length
+    ? variant.images
+    : variant?.image
+      ? [variant.image]
+      : product?.images?.length
+        ? product.images
+        : product?.image
+          ? [product.image]
+          : [];
   const shownPrice = variant?.price ?? product?.price ?? 0;
   const shownCredit = variant ? variant.credit : (product?.creditPrice ?? null);
 
@@ -88,15 +96,12 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
               <CloseIcon className="h-5 w-5" />
             </button>
 
-            <div className={`stage ${photo ? "stage-light" : ""} flex aspect-square items-center justify-center p-8 sm:aspect-auto sm:w-[42%] sm:shrink-0`}>
-              <ProductVisual
-                art={product.art}
-                key={photo ?? "vector"}
-                image={photo}
-                alt={`${product.brand} ${product.name}`}
-                className="h-[80%] w-auto"
-              />
-            </div>
+            <ProductGallery
+              key={photos.join("|") || "vector"}
+              photos={photos}
+              art={product.art}
+              alt={`${product.brand} ${product.name}`}
+            />
 
             <div className="flex flex-1 flex-col gap-5 p-6 sm:p-8">
               <div>

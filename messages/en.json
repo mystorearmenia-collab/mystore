@@ -75,7 +75,10 @@
     "addFavorite": "Add to favorites",
     "removeFavorite": "Remove from favorites",
     "specs": "Specifications",
-    "models": "models"
+    "models": "models",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photo": "Photo"
   },
   "category": {
     "backHome": "Back to home",

@@ -9,6 +9,8 @@ export type Variant = {
   price: number;
   credit: number | null;
   image: string;
+  /** Extra angles for this variant (the modal gallery); falls back to `image`. */
+  images?: string[];
   inStock: boolean;
 };
 
@@ -92,6 +94,7 @@ const COLORS: Record<string, ColorInfo> = {
   "light gray": { hex: "#b9b9bd", ru: "Светло-серый", hy: "Բաց մոխրագույն" },
   graphite: { hex: "#4a4a4d", ru: "Графит", hy: "Գրաֆիտ" },
   blue: { hex: "#2f6fe4", ru: "Синий", hy: "Կապույտ" },
+  ultramarine: { hex: "#4e5bd8", ru: "Ультрамарин", hy: "Ուլտրամարին" },
   "deep blue": { hex: "#1f3a6e", ru: "Тёмно-синий", hy: "Մուգ կապույտ" },
   "sky blue": { hex: "#8fc5ea", ru: "Небесно-голубой", hy: "Երկնագույն" },
   "light blue": { hex: "#a9d3f0", ru: "Голубой", hy: "Երկնագույն" },

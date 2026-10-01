@@ -75,7 +75,10 @@
     "addFavorite": "В избранное",
     "removeFavorite": "Убрать из избранного",
     "specs": "Характеристики",
-    "models": "моделей"
+    "models": "моделей",
+    "prevPhoto": "Предыдущее фото",
+    "nextPhoto": "Следующее фото",
+    "photo": "Фото"
   },
   "category": {
     "backHome": "На главную",
