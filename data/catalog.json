@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 340
+    "product_count": 338
   },
   "categories": [
     {
@@ -47,7 +47,7 @@
       },
       "href": "/mac",
       "art": "macbook",
-      "count": 24
+      "count": 22
     },
     {
       "id": "ipad",
@@ -2861,48 +2861,26 @@
     {
       "id": "macbook-air-15",
       "brand": "Apple",
-      "name": "MacBook Air 15\"",
+      "name": "MacBook Air 15″ M5",
       "config": {
-        "hy": "M5 · 24GB RAM · 1TB · Midnight",
-        "ru": "M5 · 24GB RAM · 1TB · Midnight",
-        "en": "M5 · 24GB RAM · 1TB · Midnight"
+        "hy": "M5 · 16GB / 24GB RAM · 1TB SSD",
+        "ru": "M5 · 16GB / 24GB RAM · 1TB SSD",
+        "en": "M5 · 16GB / 24GB RAM · 1TB SSD"
       },
-      "price": 919000,
+      "price": 849000,
       "oldPrice": null,
-      "monthly": 19150,
+      "monthly": 17690,
       "availability": "in-stock",
       "art": "macbook",
       "image": null,
       "sourceRef": {
-        "sku": "10347",
+        "sku": "10345",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71pkfqgcmkl._ac_sl1500__1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/i/midnfg_6_1_4.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/i/midnfg.jpg1_6_4.jpg"
+          "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/s/k/sky_blue_1_1_2.jpg"
         ]
       },
       "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Midnight",
-                "ru": "Midnight",
-                "en": "Midnight"
-              }
-            }
-          ]
-        },
         {
           "title": {
             "hy": "Ընդհանուր բնութագրեր",
@@ -3085,234 +3063,38 @@
       "creditPrice": null,
       "cats": [
         "mac"
-      ]
-    },
-    {
-      "id": "macbook-air-15-3-10350",
-      "brand": "Apple",
-      "name": "MacBook Air 15.3\"",
-      "config": {
-        "hy": "M5 · 24GB RAM · 1TB · Starlight",
-        "ru": "M5 · 24GB RAM · 1TB · Starlight",
-        "en": "M5 · 24GB RAM · 1TB · Starlight"
-      },
-      "price": 919000,
-      "oldPrice": null,
-      "monthly": 19150,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10350",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_1_4.jpg",
-          "https://yerevanmobile.am/media/catalog/product/f/i/file_9_3_4.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Starlight",
-                "ru": "Starlight",
-                "en": "Starlight"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "10-Core GPU",
-                "ru": "10-Core GPU",
-                "en": "10-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "2880x1864",
-                "ru": "2880x1864",
-                "en": "2880x1864"
-              }
-            }
-          ]
-        }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
+      "variants": [
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "16GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Midnight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 919000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        }
       ]
     },
     {
@@ -4003,11 +3785,11 @@
     {
       "id": "macbook-air-13-6-10336",
       "brand": "Apple",
-      "name": "MacBook Air 13.6\"",
+      "name": "MacBook Air 13″ M5",
       "config": {
-        "hy": "M5 · 24GB · 1TB · Silver",
-        "ru": "M5 · 24GB · 1TB · Silver",
-        "en": "M5 · 24GB · 1TB · Silver"
+        "hy": "M5 · 24GB RAM · 1TB SSD",
+        "ru": "M5 · 24GB RAM · 1TB SSD",
+        "en": "M5 · 24GB RAM · 1TB SSD"
       },
       "price": 849000,
       "oldPrice": null,
@@ -4024,27 +3806,6 @@
         ]
       },
       "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Արծաթագույն",
-                "ru": "Серебристый",
-                "en": "Silver"
-              }
-            }
-          ]
-        },
         {
           "title": {
             "hy": "Ընդհանուր բնութագրեր",
@@ -4227,234 +3988,18 @@
       "creditPrice": null,
       "cats": [
         "mac"
-      ]
-    },
-    {
-      "id": "macbook-air-15-3-10345",
-      "brand": "Apple",
-      "name": "MacBook Air 15,3\"",
-      "config": {
-        "hy": "M5 · 16GB RAM · 1TB · Sky Blue",
-        "ru": "M5 · 16GB RAM · 1TB · Sky Blue",
-        "en": "M5 · 16GB RAM · 1TB · Sky Blue"
-      },
-      "price": 849000,
-      "oldPrice": null,
-      "monthly": 17690,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10345",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/s/k/sky_blue_1_1_2.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Երկնագույն",
-                "ru": "Голубой",
-                "en": "Sky Blue"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "10-Core GPU",
-                "ru": "10-Core GPU",
-                "en": "10-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "10 Core CPU",
-                "ru": "10 Core CPU",
-                "en": "10 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "2880x1864",
-                "ru": "2880x1864",
-                "en": "2880x1864"
-              }
-            }
-          ]
-        }
       ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
+      "variants": [
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": "24GB",
+          "sim": null,
+          "price": 849000,
+          "credit": null,
+          "image": "",
+          "inStock": true
+        }
       ]
     },
     {
