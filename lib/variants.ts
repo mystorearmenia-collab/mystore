@@ -1,6 +1,7 @@
 import type { Locale } from "@/i18n/routing";
 
 export type Variant = {
+  processor?: string;
   color: string | null;
   storage: string | null;
   ram: string | null;
@@ -11,12 +12,12 @@ export type Variant = {
   inStock: boolean;
 };
 
-export type Selection = Partial<Record<"color" | "storage" | "ram" | "sim", string>>;
+export type Selection = Partial<Record<"color" | "storage" | "ram" | "sim" | "processor", string>>;
 export type OptionKey = keyof Selection;
 
 type WithVariants = { variants?: Variant[] };
 
-const KEYS: OptionKey[] = ["color", "storage", "ram", "sim"];
+const KEYS: OptionKey[] = ["color", "storage", "ram", "sim", "processor"];
 
 /** Distinct values per option, in first-seen order (variants arrive sorted by storage). */
 export function optionsOf(p: WithVariants, key: OptionKey): string[] {
@@ -51,7 +52,11 @@ export function findVariant(p: WithVariants, sel: Selection): Variant | undefine
 /** Changing one option keeps the others whenever a matching variant exists, otherwise snaps to the closest one. */
 export function choose(p: WithVariants, sel: Selection, key: OptionKey, value: string): Selection {
   const next: Selection = { ...sel, [key]: value };
-  const list = (p.variants ?? []).filter((v) => v[key] === value);
+  const candidates = (p.variants ?? []).filter((v) => v[key] === value);
+  const sameProcessor = key !== "processor" && sel.processor
+    ? candidates.filter((v) => v.processor === sel.processor)
+    : [];
+  const list = sameProcessor.length ? sameProcessor : candidates;
   let best: Variant | undefined;
   let bestScore = -1;
   for (const v of list) {
