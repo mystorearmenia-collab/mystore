@@ -88,16 +88,12 @@ export default function StoreLocation() {
                 </dt>
                 <dd className="mt-2.5 space-y-1 text-[0.875rem]">
                   <span className="flex justify-between gap-4">
-                    <span className="text-muted">{t("weekdays")}</span>
-                    <span>10:00 — 20:00</span>
-                  </span>
-                  <span className="flex justify-between gap-4">
-                    <span className="text-muted">{t("saturday")}</span>
-                    <span>10:00 — 20:00</span>
+                    <span className="text-muted">{t("monSat")}</span>
+                    <span className="whitespace-nowrap">10:00 — 21:00</span>
                   </span>
                   <span className="flex justify-between gap-4">
                     <span className="text-muted">{t("sunday")}</span>
-                    <span>11:00 — 18:00</span>
+                    <span className="whitespace-nowrap">11:00 — 20:00</span>
                   </span>
                 </dd>
               </div>

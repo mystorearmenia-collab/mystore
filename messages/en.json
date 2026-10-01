@@ -114,8 +114,7 @@
     "directions": "Get directions",
     "openMaps": "Open in maps",
     "call": "Call the store",
-    "weekdays": "Monday — Friday",
-    "saturday": "Saturday",
+    "monSat": "Monday — Saturday",
     "sunday": "Sunday"
   },
   "footer": {
