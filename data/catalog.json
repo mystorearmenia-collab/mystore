@@ -4126,99 +4126,26 @@
       ]
     },
     {
-      "id": "dyson-hs09-max",
+      "id": "ht01-airstrait-straightener",
       "brand": "Dyson",
-      "name": "HS09 Max Airwrap Co-anda2x",
+      "name": "HT01 Airstrait",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 339000,
+      "price": 158000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "dyson",
-      "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
-      "priceSource": "redstore",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://redstore.am/search/HS09%20Max"
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Դիզայն",
-            "ru": "Дизайн",
-            "en": "Design"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "cats": [
-        "dyson"
-      ],
-      "variants": [
-        {
-          "color": "Ceramic Pink",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 339000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
-          "inStock": true
-        }
-      ]
-    },
-    {
-      "id": "hs09",
-      "brand": "Dyson",
-      "name": "HS09 Airwrap Co-anda2x",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 259000,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "dyson",
-      "image": "https://yerevanmobile.am/media/catalog/product/8/9/8956.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
       "priceSource": "yerevanmobile",
       "sourceRef": {
         "sku": null,
         "imageUrls": [],
-        "url": "https://www.yerevanmobile.am/ru/dyson-hs09-airwrap-jasper-plum.html"
+        "url": "https://www.yerevanmobile.am/ru/catalogsearch/result/?q=dyson"
       },
       "specs": [
         {
@@ -4230,14 +4157,14 @@
           "attrs": [
             {
               "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
+                "hy": "Հզորություն (Վտ)",
+                "ru": "Мощность (Вт)",
+                "en": "Power (W)"
               },
               "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
+                "hy": "1600W",
+                "ru": "1600W",
+                "en": "1600W"
               }
             },
             {
@@ -4260,23 +4187,43 @@
       ],
       "variants": [
         {
+          "color": "Prussian Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 158000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
+          "inStock": true
+        },
+        {
           "color": "Ceramic Pink",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 259000,
+          "price": 168000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/8/9/8956.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/s/a/sas_2_1.jpg",
           "inStock": true
         },
         {
-          "color": "Jasper Plum",
+          "color": "Nickel/Copper",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 259000,
+          "price": 168000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/4/3/437b807aff0ed380d854500297f384e3.png",
+          "image": "https://yerevanmobile.am/media/catalog/product/7/9/797034.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Sakura Cherry",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 174000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/k/a/kanzas_pink.jpg",
           "inStock": true
         },
         {
@@ -4284,19 +4231,19 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 259000,
+          "price": 175000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/7/9/7970240.jpeg",
+          "image": "https://yerevanmobile.am/media/catalog/product/5/3/53f1b7774d403d948854eed3a1ea00a3-hi.jpg",
           "inStock": true
         },
         {
-          "color": "Amber Silk (Curly+Coily)",
+          "color": "Jasper Plum",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 259000,
+          "price": 179000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/f/a/fayasiohd.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/6/1/619tbixu1hl._sl1500_.jpg",
           "inStock": true
         },
         {
@@ -4304,19 +4251,29 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 289000,
+          "price": 179000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/c/8/c8d0b30b09356932e339cf1a41c2152c.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/h/t/ht01_amber.png",
           "inStock": true
         },
         {
-          "color": "Red Velvet",
+          "color": "Strawberry Bronze",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 309000,
+          "price": 184000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/0/9/09_red._1.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/s/t/strawberry_bronze_1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Onyx Gold",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 209000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/7396/image/img-0431.webp",
           "inStock": true
         }
       ]
@@ -4560,26 +4517,26 @@
       ]
     },
     {
-      "id": "ht01-airstrait-straightener",
+      "id": "hs09",
       "brand": "Dyson",
-      "name": "HT01 Airstrait",
+      "name": "HS09 Airwrap Co-anda2x",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 158000,
+      "price": 259000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": null,
       "availability": "in-stock",
       "art": "dyson",
-      "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/9/8956.jpg",
       "priceSource": "yerevanmobile",
       "sourceRef": {
         "sku": null,
         "imageUrls": [],
-        "url": "https://www.yerevanmobile.am/ru/catalogsearch/result/?q=dyson"
+        "url": "https://www.yerevanmobile.am/ru/dyson-hs09-airwrap-jasper-plum.html"
       },
       "specs": [
         {
@@ -4591,14 +4548,14 @@
           "attrs": [
             {
               "label": {
-                "hy": "Հզորություն (Վտ)",
-                "ru": "Мощность (Вт)",
-                "en": "Power (W)"
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
               },
               "value": {
-                "hy": "1600W",
-                "ru": "1600W",
-                "en": "1600W"
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
               }
             },
             {
@@ -4621,53 +4578,13 @@
       ],
       "variants": [
         {
-          "color": "Prussian Blue",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 158000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
-          "inStock": true
-        },
-        {
           "color": "Ceramic Pink",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 168000,
+          "price": 259000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/s/a/sas_2_1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Nickel/Copper",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 168000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/7/9/797034.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Sakura Cherry",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 174000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/k/a/kanzas_pink.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Apricot/Topaz",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 175000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/5/3/53f1b7774d403d948854eed3a1ea00a3-hi.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/8/9/8956.jpg",
           "inStock": true
         },
         {
@@ -4675,9 +4592,29 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 179000,
+          "price": 259000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/6/1/619tbixu1hl._sl1500_.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/4/3/437b807aff0ed380d854500297f384e3.png",
+          "inStock": true
+        },
+        {
+          "color": "Apricot/Topaz",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/9/7970240.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Amber Silk (Curly+Coily)",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/f/a/fayasiohd.jpg",
           "inStock": true
         },
         {
@@ -4685,29 +4622,92 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 179000,
+          "price": 289000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/h/t/ht01_amber.png",
+          "image": "https://yerevanmobile.am/media/catalog/product/c/8/c8d0b30b09356932e339cf1a41c2152c.jpg",
           "inStock": true
         },
         {
-          "color": "Strawberry Bronze",
+          "color": "Red Velvet",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 184000,
+          "price": 309000,
           "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/s/t/strawberry_bronze_1.jpg",
+          "image": "https://yerevanmobile.am/media/catalog/product/0/9/09_red._1.jpg",
           "inStock": true
-        },
+        }
+      ]
+    },
+    {
+      "id": "dyson-hs09-max",
+      "brand": "Dyson",
+      "name": "HS09 Max Airwrap Co-anda2x",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 339000,
+      "oldPrice": null,
+      "monthly": null,
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "dyson",
+      "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
+      "sourceRef": {
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://redstore.am/search/HS09%20Max"
+      },
+      "specs": [
         {
-          "color": "Onyx Gold",
+          "title": {
+            "hy": "Դիզայն",
+            "ru": "Дизайн",
+            "en": "Design"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "dyson"
+      ],
+      "variants": [
+        {
+          "color": "Ceramic Pink",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 209000,
+          "price": 339000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/7396/image/img-0431.webp",
+          "image": "https://admin.redstore.am/storage/products/61710/image/8-montaznaia-oblast-1.webp",
           "inStock": true
         }
       ]
