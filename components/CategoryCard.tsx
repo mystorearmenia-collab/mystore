@@ -11,9 +11,10 @@ export default function CategoryCard({ category }: { category: Category }) {
 
   return (
     <Link href={category.href} className="group card card-lift overflow-hidden">
-      <div className="stage aspect-[4/3.2]">
+      <div className={`stage ${category.image ? "stage-light" : ""} aspect-[4/3.2]`}>
         <ProductVisual
           art={category.art}
+          image={category.image}
           alt={pick(category.name, locale)}
           className="stage-media h-[72%] w-auto"
         />

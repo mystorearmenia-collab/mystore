@@ -38,6 +38,8 @@ export type Category = {
   href: string;
   art: ProductArt;
   count: number;
+  /** Photo for the category tile — set in catalog.json, or taken from the category's top product. */
+  image?: string | null;
 };
 
 type CatalogFile = {
@@ -50,13 +52,21 @@ const catalog = catalogData as CatalogFile;
 
 export { navigation } from "./nav";
 
-export const categories: Category[] = catalog.categories;
 export const products: Product[] = catalog.products;
+export const categories: Category[] = catalog.categories.map((c) => ({
+  ...c,
+  image: c.image ?? productsForCategory(c.id).map(productImage).find(Boolean) ?? null,
+}));
 export const featuredProducts: Product[] = pickShowcase(0);
 export const newArrivals: Product[] = pickShowcase(1, 6);
 
 export function getCategory(id: string): Category | undefined {
   return categories.find((c) => c.id === id);
+}
+
+/** The product's own photo, or its first variant photo. */
+export function productImage(p: Product): string | null {
+  return p.image || p.variants?.find((v) => v.image)?.image || null;
 }
 
 /** Categories are assigned per product by the catalog generator (`cats`). */

@@ -3,13 +3,18 @@ import { Link } from "@/i18n/navigation";
 import Reveal from "./Reveal";
 import ProductVisual from "./ProductVisual";
 import { ArrowRightIcon } from "./icons";
-import { formatPrice } from "@/lib/catalog";
+import { formatPrice, productImage, products } from "@/lib/catalog";
 import { tradeInMax } from "@/lib/tradein";
 import type { Locale } from "@/i18n/routing";
+
+const HERO_PRODUCT_ID = "iphone-18-pro";
 
 export default function Hero() {
   const t = useTranslations("hero");
   const locale = useLocale() as Locale;
+  const heroProduct = products.find((p) => p.id === HERO_PRODUCT_ID);
+  const heroImage = heroProduct ? productImage(heroProduct) : null;
+  const heroName = heroProduct?.name ?? "iPhone 18 Pro";
 
   return (
     <section className="relative overflow-hidden pt-[72px]">
@@ -82,15 +87,24 @@ export default function Hero() {
 
         {/* Product stage — the hero's visual anchor */}
         <Reveal delay={120} className="order-1 lg:order-2">
-          <div className="relative mx-auto grid aspect-[4/4.4] w-full max-w-[560px] place-items-center sm:aspect-[4/3.8] lg:aspect-auto lg:h-[min(76vh,720px)]">
+          <div
+            className={`relative mx-auto grid aspect-[4/4.4] w-full max-w-[560px] place-items-center sm:aspect-[4/3.8] lg:aspect-auto lg:h-[min(76vh,720px)] ${
+              heroImage ? "stage stage-light rounded-[var(--radius-lg)] shadow-[0_50px_90px_rgba(0,0,0,0.6)]" : ""
+            }`}
+          >
             <ProductVisual
               art="iphone"
-              alt="iPhone 18 Pro"
-              className="h-full w-auto max-w-full drop-shadow-[0_50px_90px_rgba(0,0,0,0.75)]"
+              image={heroImage}
+              alt={heroName}
+              className={
+                heroImage
+                  ? "h-[78%] w-auto max-w-[88%]"
+                  : "h-full w-auto max-w-full drop-shadow-[0_50px_90px_rgba(0,0,0,0.75)]"
+              }
             />
             <div className="absolute bottom-2 left-1/2 flex -translate-x-1/2 items-center gap-2.5 rounded-full border border-line bg-surface/80 px-4 py-2 text-xs text-muted backdrop-blur-md">
               <span className="h-1.5 w-1.5 rounded-full bg-orange" />
-              iPhone 18 Pro
+              {heroName}
             </div>
           </div>
         </Reveal>
