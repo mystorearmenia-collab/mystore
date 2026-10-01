@@ -139,7 +139,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 89000,
+      "price": 59000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -151,7 +151,7 @@
         "url": "https://redstore.am/search/Mic%20Mini"
       },
       "specs": [],
-      "priceSource": "redstore",
+      "priceSource": "mystore",
       "creditPrice": null,
       "cats": [
         "dji"
