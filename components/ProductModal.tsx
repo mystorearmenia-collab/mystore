@@ -37,6 +37,7 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
     setSelection(
       first
         ? {
+            ...(first.processor ? { processor: first.processor } : {}),
             ...(first.color ? { color: first.color } : {}),
             ...(first.storage ? { storage: first.storage } : {}),
             ...(first.ram ? { ram: first.ram } : {}),
