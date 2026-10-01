@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 338
+    "product_count": 337
   },
   "categories": [
     {
@@ -47,7 +47,7 @@
       },
       "href": "/mac",
       "art": "macbook",
-      "count": 22
+      "count": 21
     },
     {
       "id": "ipad",
@@ -13474,11 +13474,11 @@
     {
       "id": "macbook-neo-13",
       "brand": "Apple",
-      "name": "MacBook Neo 13\"",
+      "name": "MacBook Neo 13″",
       "config": {
-        "hy": "8GB · 256GB · Blush",
-        "ru": "8GB · 256GB · Blush",
-        "en": "8GB · 256GB · Blush"
+        "hy": "8GB RAM · 256GB / 512GB SSD",
+        "ru": "8GB RAM · 256GB / 512GB SSD",
+        "en": "8GB RAM · 256GB / 512GB SSD"
       },
       "price": 319000,
       "oldPrice": null,
@@ -13730,8 +13730,8 @@
           "inStock": false
         },
         {
-          "color": null,
-          "storage": "512GB SSD",
+          "color": "Blush",
+          "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
           "price": 379000,
@@ -13741,7 +13741,7 @@
         },
         {
           "color": "Citrus",
-          "storage": "512GB SSD",
+          "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
           "price": 379000,
@@ -13751,7 +13751,7 @@
         },
         {
           "color": "Indigo",
-          "storage": "512GB SSD",
+          "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
           "price": 379000,
@@ -13761,7 +13761,7 @@
         },
         {
           "color": "Silver",
-          "storage": "512GB SSD",
+          "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
           "price": 379000,
@@ -14092,233 +14092,6 @@
           "image": "https://admin.redstore.am/storage/products/60341/image/sdrftyujk-montaznaia-oblast-1.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "macbook-neo-13-0",
-      "brand": "Apple",
-      "name": "MacBook Neo 13.0\"",
-      "config": {
-        "hy": "8GB · 256GB · Silver",
-        "ru": "8GB · 256GB · Silver",
-        "en": "8GB · 256GB · Silver"
-      },
-      "price": 319000,
-      "oldPrice": null,
-      "monthly": 6440,
-      "availability": "in-stock",
-      "art": "macbook",
-      "image": null,
-      "sourceRef": {
-        "sku": "10325",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61jgoj4sc_l._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ապրանքի մանրամասներ",
-            "ru": "О товаре",
-            "en": "Product details"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Արծաթագույն",
-                "ru": "Серебристый",
-                "en": "Silver"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "MacOS",
-                "ru": "MacOS",
-                "en": "MacOS"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Պրոցեսոր",
-            "ru": "Процессор",
-            "en": "Processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Apple A18 Pro (3 nm)",
-                "ru": "Apple A18 Pro (3 nm)",
-                "en": "Apple A18 Pro (3 nm)"
-              }
-            },
-            {
-              "label": {
-                "hy": "GPU",
-                "ru": "GPU",
-                "en": "GPU"
-              },
-              "value": {
-                "hy": "5-Core GPU",
-                "ru": "5-Core GPU",
-                "en": "5-Core GPU"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "6 Core CPU",
-                "ru": "6 Core CPU",
-                "en": "6 Core CPU"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ձայն",
-            "ru": "Звук",
-            "en": "Audio"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Խոսափող",
-                "ru": "Микрофон",
-                "en": "Microphone"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Բարձախոսներ",
-                "ru": "Динамики",
-                "en": "Speakers"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "2408 x 1506",
-                "ru": "2408 x 1506",
-                "en": "2408 x 1506"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "mac"
       ]
     },
     {
