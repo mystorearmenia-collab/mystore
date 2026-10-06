@@ -2818,32 +2818,64 @@
       ]
     },
     {
-      "id": "jbl-wave-beam",
-      "brand": "JBL",
-      "name": "Wave Beam",
+      "id": "airpods-4",
+      "brand": "Apple",
+      "name": "AirPods 4",
       "config": {
-        "ru": "Чёрный",
-        "en": "Black",
-        "hy": "Սեւ"
+        "hy": "Սպիտակ",
+        "ru": "Белый",
+        "en": "White"
       },
-      "price": 23900,
-      "creditPrice": null,
+      "price": 52000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
+      "availability": "in-stock",
       "art": "earbuds",
-      "image": "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680",
-      "images": [
-        "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680"
-      ],
+      "image": "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
       "sourceRef": {
-        "url": "https://dk.jbl.com/JBLWBEAMBLK.html",
+        "sku": "9100",
         "imageUrls": [
-          "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680"
+          "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/4/4/4444444444444444444.jpg"
         ]
       },
-      "priceSource": "user",
-      "specs": [],
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
       "cats": [
         "audio"
       ]
@@ -4721,28 +4753,32 @@
       }
     },
     {
-      "id": "marshall-major-iv",
-      "brand": "Marshall",
-      "name": "Major IV",
+      "id": "airpods-5",
+      "brand": "Apple",
+      "name": "AirPods 5",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Белый · Футляр с зарядкой USB-C",
+        "hy": "Սպիտակ · USB-C լիցքավորման պատյան",
+        "en": "White · USB-C charging case"
       },
-      "price": 39000,
+      "price": 79900,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
       "availability": "on-request",
       "art": "earbuds",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=eFJocjZCNlgzZlpSRHllMEpvT0N5MFc3QXkrd1lOczBINzN1b204SXc5djNHc3NlSmU2dzJyR1kxZEwyTE1neUJkRlpCNVhYU3AwTldRQldlSnpRa081UnNNSklyczA1UVE2Mk05aktxd1E",
+      "sourceRef": {
+        "sku": "Apple AirPods 5",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/618c8ga55kl._ac_uf894_1000_ql80_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/617i3pv_ail._ac_sl1500_.jpg"
+        ]
+      },
       "specs": [],
+      "priceSource": "allsell",
+      "creditPrice": null,
       "cats": [
         "audio"
-      ],
-      "priceSource": "https://www.yerevanmobile.am/en/marshall-major-iv.html",
-      "image": "https://yerevanmobile.am/media/catalog/product/f/d/fd5e9383bb120b2d0f88970cb59ec670_1.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/f/d/fd5e9383bb120b2d0f88970cb59ec670_1.jpg"
       ]
     },
     {
@@ -6207,32 +6243,63 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-wave-beam-2",
-      "brand": "JBL",
-      "name": "Wave Beam 2",
+      "id": "airpods-pro-3",
+      "brand": "Apple",
+      "name": "AirPods Pro 3",
       "config": {
-        "ru": "Чёрный",
-        "en": "Black",
-        "hy": "Սեւ"
+        "hy": "Սպիտակ",
+        "ru": "Белый",
+        "en": "White"
       },
-      "price": 34900,
-      "creditPrice": null,
+      "price": 99000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
+      "availability": "in-stock",
       "art": "earbuds",
-      "image": "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680",
-      "images": [
-        "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680"
-      ],
+      "image": "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-wave-beam-2.html",
+        "sku": "9103",
         "imageUrls": [
-          "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680"
+          "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg"
         ]
       },
-      "priceSource": "user",
-      "specs": [],
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
       "cats": [
         "audio"
       ]
@@ -7151,33 +7218,113 @@
       ]
     },
     {
-      "id": "marshall-marshall-major-v-on-ear-headphone",
-      "brand": "Marshall",
-      "name": "Major V",
+      "id": "airpods-max-2",
+      "brand": "Apple",
+      "name": "AirPods Max 2",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "hy": "Midnight / Starlight / Blue / Purple / Orange",
+        "ru": "Midnight / Starlight / Blue / Purple / Orange",
+        "en": "Midnight / Starlight / Blue / Purple / Orange"
       },
-      "price": 46900,
+      "price": 239000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": "https://yerevanmobile.am/media/catalog/product/m/a/major_852_1.jpg",
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-major-v-wireless-on-ear-headphone"
+        "sku": "10392_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71blgxjqsnl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71umw2cckol._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71oymd5_izl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/k/l/kljsdahduayhdaedrytgey7wstgrfewys.jpg"
+        ]
       },
-      "specs": [],
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "allsell",
+      "creditPrice": null,
       "cats": [
         "audio"
       ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/m/a/major_852_1.jpg"
+      "variants": [
+        {
+          "color": "Midnight",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+        },
+        {
+          "color": "Starlight",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdWd1NjlYUXFPTDZEK2xySGJScW1PS1Rpbjg5MjlaRWkwN0JTZEtNR2p3b2dmcFJCOTlLWlREUEJzL3lTN2VnL0cvVnNUQWxFNHNrME94a1pxdUNOU29FM01jakdGSHhMVXhHQ21YeXBIKzU",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+        },
+        {
+          "color": "Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmaVZsckZUTTZZd1pFb3lRTGNlYkF0Yy9BSXRGSWdwVEs0NXdLd3JPRVQ3TGROL2hTdHRlcnVBMFhCNlFSVHgrS01jL2RQeWJYZ1FmWXUzRFBMSzJrTlJTZy9JeUNjV2pzbzd6anYzTldHVWw",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Purple",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdEFZMGtjOXNTYXJEaHFYa1lFVzIyUnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnhzQVNZV1grZHBseDduSWhqSlA3QUE",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+        },
+        {
+          "color": "Orange",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmbVl3dU4zNmtlQ1czYnJUSEJUcWowRnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnk3Zm5tZm5FR0tlWnFHbkRhQU5lZmc",
+          "inStock": false,
+          "priceOnRequest": true
+        }
       ]
     },
     {
@@ -8717,35 +8864,67 @@
       ]
     },
     {
-      "id": "jbl-wave-300tws",
-      "brand": "JBL",
-      "name": "Wave 300TWS",
+      "id": "airpods-4-anc",
+      "brand": "Apple",
+      "name": "AirPods 4 ANC",
       "config": {
-        "ru": "Чёрный",
-        "en": "Black",
-        "hy": "Սեւ"
+        "ru": "Белый · Активное шумоподавление",
+        "hy": "Սպիտակ · Ակտիվ աղմուկի չեղարկում",
+        "en": "White · Active Noise Cancellation"
       },
-      "price": 29900,
-      "creditPrice": null,
+      "price": 0,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "earbuds",
-      "image": "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg",
-      "images": [
-        "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg"
-      ],
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png",
       "sourceRef": {
-        "url": "https://www.navod-k-obsluze.cz/sluchatka-jbl-wave-300tws-cerna-107763-navod",
+        "url": "https://support.apple.com/en-eg/121204",
         "imageUrls": [
-          "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg"
+          "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png"
         ]
       },
-      "priceSource": "user",
-      "specs": [],
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": true
     },
     {
       "id": "galaxy-s25-plus",
@@ -9512,35 +9691,33 @@
       ]
     },
     {
-      "id": "jbl-t280tws-x2",
-      "brand": "JBL",
-      "name": "T280TWS X2",
+      "id": "airpods-5-wireless",
+      "brand": "Apple",
+      "name": "AirPods 5 Wireless",
       "config": {
-        "ru": "Чёрный",
-        "en": "Black",
-        "hy": "Սեւ"
+        "ru": "Белый · Футляр с беспроводной зарядкой",
+        "hy": "Սպիտակ · Անլար լիցքավորման պատյան",
+        "en": "White · Wireless charging case"
       },
-      "price": 21900,
-      "creditPrice": null,
+      "price": 0,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "earbuds",
-      "image": "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763",
-      "images": [
-        "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763"
-      ],
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHendJQVRIbmUrVkgvaHR4ajlmK3pJN0hJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVWRsZXJCWXk5YjBoSm5GZDdURmRwclorYWpGdS9XeFgvbS9ITnNYOEhYaG4",
       "sourceRef": {
-        "url": "https://techcent.vn/tai-nghe-jbl-t280tws-x2-chinh-hang",
+        "url": "https://www.apple.com/shop/buy-airpods/airpods-5",
         "imageUrls": [
-          "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763"
+          "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHendJQVRIbmUrVkgvaHR4ajlmK3pJN0hJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVWRsZXJCWXk5YjBoSm5GZDdURmRwclorYWpGdS9XeFgvbS9ITnNYOEhYaG4"
         ]
       },
-      "priceSource": "user",
       "specs": [],
+      "priceSource": "allsell",
+      "creditPrice": null,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": true
     },
     {
       "id": "galaxy-s25-ultra",
@@ -16787,55 +16964,34 @@
       ]
     },
     {
-      "id": "marshall-marshall-willen",
-      "brand": "Marshall",
-      "name": "Willen",
+      "id": "jbl-t280tws-x2",
+      "brand": "JBL",
+      "name": "T280TWS X2",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 59000,
+      "price": 21900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/w/i/willen.jpg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763",
+      "images": [
+        "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-willen-wireless-speaker"
+        "url": "https://techcent.vn/tai-nghe-jbl-t280tws-x2-chinh-hang",
+        "imageUrls": [
+          "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black/Brass",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 59000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Cream",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 59000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8489.jpeg",
-          "inStock": true
-        }
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/w/i/willen.jpg"
       ]
     },
     {
@@ -17135,85 +17291,62 @@
       "priceOnRequest": true
     },
     {
-      "id": "marshall-marshall-willen-ii",
-      "brand": "Marshall",
-      "name": "Willen II",
+      "id": "jbl-wave-beam",
+      "brand": "JBL",
+      "name": "Wave Beam",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 59000,
+      "price": 23900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680",
+      "images": [
+        "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-willen-ii"
+        "url": "https://dk.jbl.com/JBLWBEAMBLK.html",
+        "imageUrls": [
+          "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black/Brass",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 59000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg"
-          ]
-        },
-        {
-          "color": "Cream",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 59000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/8/1/81d1qs5afpl._ac_sl1500__1.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/8/1/81d1qs5afpl._ac_sl1500__1.jpg"
-          ]
-        }
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg"
       ]
     },
     {
-      "id": "marshall-marshall-emberton-iii-compact",
-      "brand": "Marshall",
-      "name": "Emberton III",
+      "id": "jbl-clip-5",
+      "brand": "JBL",
+      "name": "Clip 5",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 106900,
+      "price": 24000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://bcql-prd.my.commercecloud.salesforce.com/on/demandware.static/-/Sites-zs-master-catalog/default/dw94a4444a/images/marshall/new-website/Speakers/emberton-iii-black-and-brass-plp.jpeg",
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-emberton-iii-wireless-compact-portable-speaker"
+        "url": "https://www.yerevanmobile.am/en/jbl-clip-5.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-clip-5.html",
       "specs": [],
       "cats": [
         "audio"
@@ -17450,113 +17583,34 @@
       ]
     },
     {
-      "id": "airpods-max-2",
-      "brand": "Apple",
-      "name": "AirPods Max 2",
+      "id": "jbl-tune-520bt",
+      "brand": "JBL",
+      "name": "Tune 520BT",
       "config": {
-        "hy": "Midnight / Starlight / Blue / Purple / Orange",
-        "ru": "Midnight / Starlight / Blue / Purple / Orange",
-        "en": "Midnight / Starlight / Blue / Purple / Orange"
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 239000,
+      "price": 24900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "earbuds",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
+      "image": "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg"
+      ],
       "sourceRef": {
-        "sku": "10392_1",
+        "url": "https://www.yerevanmobile.am/en/jbl-tune-520bt.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71blgxjqsnl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71umw2cckol._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71oymd5_izl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/k/l/kljsdahduayhdaedrytgey7wstgrfewys.jpg"
+          "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg"
         ]
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "allsell",
-      "creditPrice": null,
+      "priceSource": "user",
+      "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Midnight",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 239000,
-          "credit": null,
-          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
-          "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
-        },
-        {
-          "color": "Starlight",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 239000,
-          "credit": null,
-          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdWd1NjlYUXFPTDZEK2xySGJScW1PS1Rpbjg5MjlaRWkwN0JTZEtNR2p3b2dmcFJCOTlLWlREUEJzL3lTN2VnL0cvVnNUQWxFNHNrME94a1pxdUNOU29FM01jakdGSHhMVXhHQ21YeXBIKzU",
-          "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
-        },
-        {
-          "color": "Blue",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 0,
-          "credit": null,
-          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmaVZsckZUTTZZd1pFb3lRTGNlYkF0Yy9BSXRGSWdwVEs0NXdLd3JPRVQ3TGROL2hTdHRlcnVBMFhCNlFSVHgrS01jL2RQeWJYZ1FmWXUzRFBMSzJrTlJTZy9JeUNjV2pzbzd6anYzTldHVWw",
-          "inStock": false,
-          "priceOnRequest": true
-        },
-        {
-          "color": "Purple",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 239000,
-          "credit": null,
-          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdEFZMGtjOXNTYXJEaHFYa1lFVzIyUnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnhzQVNZV1grZHBseDduSWhqSlA3QUE",
-          "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
-        },
-        {
-          "color": "Orange",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 0,
-          "credit": null,
-          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmbVl3dU4zNmtlQ1czYnJUSEJUcWowRnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnk3Zm5tZm5FR0tlWnFHbkRhQU5lZmc",
-          "inStock": false,
-          "priceOnRequest": true
-        }
       ]
     },
     {
@@ -17939,31 +17993,31 @@
       ]
     },
     {
-      "id": "jbl-tune-720bt",
+      "id": "jbl-jbl-go5",
       "brand": "JBL",
-      "name": "Tune 720BT",
+      "name": "Go 5",
       "config": {
-        "ru": "Чёрный",
-        "en": "Black",
-        "hy": "Սեւ"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 29900,
+      "price": 25000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
-      "art": "earbuds",
-      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg"
+        "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-tune-720bt.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-go-5.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg"
         ]
       },
-      "priceSource": "user",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-go-5.html",
       "specs": [],
       "cats": [
         "audio"
@@ -18076,28 +18130,28 @@
       ]
     },
     {
-      "id": "jbl-tune-520bt",
+      "id": "jbl-wave-300tws",
       "brand": "JBL",
-      "name": "Tune 520BT",
+      "name": "Wave 300TWS",
       "config": {
         "ru": "Чёрный",
         "en": "Black",
         "hy": "Սեւ"
       },
-      "price": 24900,
+      "price": 29900,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "earbuds",
-      "image": "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg",
+      "image": "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg"
+        "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-tune-520bt.html",
+        "url": "https://www.navod-k-obsluze.cz/sluchatka-jbl-wave-300tws-cerna-107763-navod",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg"
+          "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg"
         ]
       },
       "priceSource": "user",
@@ -20022,36 +20076,34 @@
       ]
     },
     {
-      "id": "marshall-marshall-stockwell-2",
-      "brand": "Marshall",
-      "name": "Stockwell II",
+      "id": "jbl-tune-720bt",
+      "brand": "JBL",
+      "name": "Tune 720BT",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 109900,
+      "price": 29900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/1/-/1-61.jpg",
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-stockwell-2-wireless-stereo-speaker"
+        "url": "https://www.yerevanmobile.am/en/jbl-tune-720bt.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/1/-/1-61.jpg",
-        "https://yerevanmobile.am/media/catalog/product/7/1/71ffc422430d41cd02558c5e55e80b320fb51b53_s000462676_3.jpg",
-        "https://yerevanmobile.am/media/catalog/product/e/f/ef7a778a166512b3a8f843b0de8cdc47704cebe8_815agw4a0ll._sl1500_.jpg",
-        "https://yerevanmobile.am/media/catalog/product/s/t/stockwell-ii-1.jpg"
       ]
     },
     {
@@ -20120,63 +20172,32 @@
       ]
     },
     {
-      "id": "airpods-pro-3",
-      "brand": "Apple",
-      "name": "AirPods Pro 3",
+      "id": "jbl-wave-beam-2",
+      "brand": "JBL",
+      "name": "Wave Beam 2",
       "config": {
-        "hy": "Սպիտակ",
-        "ru": "Белый",
-        "en": "White"
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 99000,
+      "price": 34900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "availability": "in-stock",
+      "availability": "on-request",
       "art": "earbuds",
-      "image": "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg",
+      "image": "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680",
+      "images": [
+        "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680"
+      ],
       "sourceRef": {
-        "sku": "9103",
+        "url": "https://www.yerevanmobile.am/en/jbl-wave-beam-2.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg"
+          "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680"
         ]
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Սպիտակ",
-                "ru": "Белый",
-                "en": "White"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "user",
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -21470,59 +21491,65 @@
       "cats": []
     },
     {
-      "id": "jbl-jbl-go5",
+      "id": "jbl-jbl-flip-7",
       "brand": "JBL",
-      "name": "Go 5",
+      "name": "Flip 7",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 25000,
+      "price": 48000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg"
+        "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-go-5.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-flip-7.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg"
+          "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-go-5.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-flip-7.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "marshall-tufton",
-      "brand": "Marshall",
-      "name": "Tufton",
+      "id": "jbl-microphone-portable-digital-wireless-mic-300",
+      "brand": "JBL",
+      "name": "Wireless Mic 300",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 174000,
+      "price": 57000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
       "availability": "on-request",
       "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg"
+      ],
+      "sourceRef": {
+        "url": "https://www.yerevanmobile.am/en/jbl-microphone-portable-digital-wireless-mic-300.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg"
+        ]
+      },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-microphone-portable-digital-wireless-mic-300.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "priceSource": "https://www.yerevanmobile.am/en/marshall-tufton.html",
-      "image": "https://yerevanmobile.am/media/catalog/product/t/u/tuftonn_8_1.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/t/u/tuftonn_8_1.jpg"
       ]
     },
     {
@@ -22109,101 +22136,65 @@
       "priceOnRequest": true
     },
     {
-      "id": "marshall-marshall-kilburn-iii-stereo",
-      "brand": "Marshall",
-      "name": "Kilburn III",
+      "id": "jbl-jbl-charge6",
+      "brand": "JBL",
+      "name": "Charge 6",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 154900,
+      "price": 64000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81kkwbrgd2l._ac_uf1000_1000_ql80__1.jpg",
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-kilburn-iii-wireless-stereo-speake"
+        "url": "https://www.yerevanmobile.am/en/jbl-charge-6.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-charge-6.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/8/1/81kkwbrgd2l._ac_uf1000_1000_ql80__1.jpg"
       ]
     },
     {
-      "id": "marshall-marshall-acton-iii",
-      "brand": "Marshall",
-      "name": "Acton III",
+      "id": "jbl-easysing-mic",
+      "brand": "JBL",
+      "name": "EasySing Mic",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 109000,
+      "price": 69000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-acton-iii-wireless-stereo"
+        "url": "https://www.yerevanmobile.am/en/jbl-easysing-mic.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-easysing-mic.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 109000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg"
-          ]
-        },
-        {
-          "color": "Cream",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 109000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/a/c/acton_3_5_1.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/a/c/acton_3_5_1.jpg"
-          ]
-        },
-        {
-          "color": "Midnight Blue",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 109000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8465.jpeg",
-          "inStock": true
-        }
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg"
       ]
     },
     {
@@ -22297,6 +22288,40 @@
       "priceOnRequest": true
     },
     {
+      "id": "jbl-jbl-pulse-5",
+      "brand": "JBL",
+      "name": "Pulse 5",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 99000,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png",
+        "https://yerevanmobile.am/media/catalog/product/2/d/2d66d395-38cb-458a-83a6-f8450fc59406.c394dffbaa42381bbf892eb4688a44b4_1_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/f/2/f27fa558-8fb5-457d-b9c2-f5137bacfc0b.92991027d2d1c362c0827c8e2fbc769d.jpg",
+        "https://yerevanmobile.am/media/catalog/product/6/b/6bb1df33-ef59-4d58-99f6-159ac7bdf313.a85276b76940dee5e9c81e97de49a058.jpg"
+      ],
+      "sourceRef": {
+        "url": "https://www.yerevanmobile.am/en/jbl-pulse-5.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png"
+        ]
+      },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-pulse-5.html",
+      "specs": [],
+      "cats": [
+        "audio"
+      ]
+    },
+    {
       "id": "jbl-jbl-xtreme4",
       "brand": "JBL",
       "name": "Xtreme 4",
@@ -22325,64 +22350,6 @@
       "specs": [],
       "cats": [
         "audio"
-      ]
-    },
-    {
-      "id": "marshall-marshall-woburn-iii",
-      "brand": "Marshall",
-      "name": "Woburn III",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 189000,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg",
-      "priceSource": "redstore",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-woburn-iii-wireless-stereo"
-      },
-      "specs": [],
-      "cats": [
-        "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 189000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg"
-          ]
-        },
-        {
-          "color": "Brown",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 189000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/6/1/61tajircszl._ac_uf1000_1000_ql80_.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/6/1/61tajircszl._ac_uf1000_1000_ql80_.jpg"
-          ]
-        }
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg"
       ]
     },
     {
@@ -22888,61 +22855,36 @@
       ]
     },
     {
-      "id": "marshall-marshall-stanmore-iii",
-      "brand": "Marshall",
-      "name": "Stanmore III",
+      "id": "jbl-jbl-authentics-200",
+      "brand": "JBL",
+      "name": "Authentics 200",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 139000,
+      "price": 129000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/2/0/200.jpg1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/2/0/200.jpg2.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-stanmore-iii"
+        "url": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-200.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-200.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 139000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg"
-          ]
-        },
-        {
-          "color": "Cream",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 139000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_4_1.jpg",
-          "inStock": true,
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_4_1.jpg"
-          ]
-        }
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg"
       ]
     },
     {
@@ -23024,31 +22966,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-charge6",
+      "id": "jbl-partybox-encore-2-with-microphone",
       "brand": "JBL",
-      "name": "Charge 6",
+      "name": "PartyBox Encore 2 with Microphone",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 64000,
+      "price": 154000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg"
+        "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-charge-6.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-encore-2-with-microphone.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-charge-6.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-encore-2-with-microphone.html",
       "specs": [],
       "cats": [
         "audio"
@@ -23337,73 +23279,66 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-boombox-4",
+      "id": "jbl-partybox-on-the-go-2",
       "brand": "JBL",
-      "name": "Boombox 4",
+      "name": "PartyBox On-The-Go 2",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 219000,
+      "price": 155000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg"
+        "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/7/1/714rxazx_ll._ac_sl1500_.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-boombox-4.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-on-the-go-2.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg"
+          "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-boombox-4.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-on-the-go-2.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "marshall-marshall-acton-iv",
-      "brand": "Marshall",
-      "name": "Acton IV",
+      "id": "jbl-partybox-120",
+      "brand": "JBL",
+      "name": "PartyBox Club 120",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
       "price": 159000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/marshall-acton-iv"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-120.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-120.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 159000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
-          "inStock": true
-        }
       ]
     },
     {
@@ -25440,64 +25375,35 @@
       ]
     },
     {
-      "id": "airpods-4",
-      "brand": "Apple",
-      "name": "AirPods 4",
+      "id": "jbl-speaker-authentics-300",
+      "brand": "JBL",
+      "name": "Authentics 300",
       "config": {
-        "hy": "Սպիտակ",
-        "ru": "Белый",
-        "en": "White"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 52000,
+      "price": 179000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "availability": "in-stock",
-      "art": "earbuds",
-      "image": "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg1.jpg"
+      ],
       "sourceRef": {
-        "sku": "9100",
+        "url": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-300.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/4/4444444444444444444.jpg"
+          "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg"
         ]
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Սպիտակ",
-                "ru": "Белый",
-                "en": "White"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-300.html",
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -26380,126 +26286,94 @@
       ]
     },
     {
-      "id": "airpods-4-anc",
-      "brand": "Apple",
-      "name": "AirPods 4 ANC",
-      "config": {
-        "ru": "Белый · Активное шумоподавление",
-        "hy": "Սպիտակ · Ակտիվ աղմուկի չեղարկում",
-        "en": "White · Active Noise Cancellation"
-      },
-      "price": 0,
-      "oldPrice": null,
-      "monthly": null,
-      "availability": "on-request",
-      "art": "earbuds",
-      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png",
-      "sourceRef": {
-        "url": "https://support.apple.com/en-eg/121204",
-        "imageUrls": [
-          "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Սպիտակ",
-                "ru": "Белый",
-                "en": "White"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ],
-      "priceOnRequest": true
-    },
-    {
-      "id": "jbl-jbl-authentics-200",
+      "id": "jbl-partybox-320",
       "brand": "JBL",
-      "name": "Authentics 200",
+      "name": "PartyBox Stage 320",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 129000,
+      "price": 205000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg",
-        "https://yerevanmobile.am/media/catalog/product/2/0/200.jpg1.jpg",
-        "https://yerevanmobile.am/media/catalog/product/2/0/200.jpg2.jpg"
+        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-200.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-320.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-200.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-320.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "airpods-5",
-      "brand": "Apple",
-      "name": "AirPods 5",
+      "id": "jbl-jbl-boombox-4",
+      "brand": "JBL",
+      "name": "Boombox 4",
       "config": {
-        "ru": "Белый · Футляр с зарядкой USB-C",
-        "hy": "Սպիտակ · USB-C լիցքավորման պատյան",
-        "en": "White · USB-C charging case"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 79900,
+      "price": 219000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
-      "art": "earbuds",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=eFJocjZCNlgzZlpSRHllMEpvT0N5MFc3QXkrd1lOczBINzN1b204SXc5djNHc3NlSmU2dzJyR1kxZEwyTE1neUJkRlpCNVhYU3AwTldRQldlSnpRa081UnNNSklyczA1UVE2Mk05aktxd1E",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg"
+      ],
       "sourceRef": {
-        "sku": "Apple AirPods 5",
+        "url": "https://www.yerevanmobile.am/en/jbl-boombox-4.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/618c8ga55kl._ac_uf894_1000_ql80_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/617i3pv_ail._ac_sl1500_.jpg"
+          "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg"
         ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-boombox-4.html",
       "specs": [],
-      "priceSource": "allsell",
+      "cats": [
+        "audio"
+      ]
+    },
+    {
+      "id": "jbl-partybox-130",
+      "brand": "JBL",
+      "name": "PartyBox 130",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 219000,
       "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg"
+      ],
+      "sourceRef": {
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-130.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg"
+        ]
+      },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-130.html",
+      "specs": [],
       "cats": [
         "audio"
       ]
@@ -26558,65 +26432,62 @@
       ]
     },
     {
-      "id": "jbl-easysing-mic",
+      "id": "jbl-partybox-520",
       "brand": "JBL",
-      "name": "EasySing Mic",
+      "name": "PartyBox 520",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 69000,
+      "price": 255000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg"
+        "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-easysing-mic.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-520.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg"
+          "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-easysing-mic.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-520.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "jbl-jbl-pulse-5",
+      "id": "jbl-partybox-330",
       "brand": "JBL",
-      "name": "Pulse 5",
+      "name": "PartyBox 330",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 99000,
+      "price": 289000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png",
+      "image": "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png",
-        "https://yerevanmobile.am/media/catalog/product/2/d/2d66d395-38cb-458a-83a6-f8450fc59406.c394dffbaa42381bbf892eb4688a44b4_1_.jpg",
-        "https://yerevanmobile.am/media/catalog/product/f/2/f27fa558-8fb5-457d-b9c2-f5137bacfc0b.92991027d2d1c362c0827c8e2fbc769d.jpg",
-        "https://yerevanmobile.am/media/catalog/product/6/b/6bb1df33-ef59-4d58-99f6-159ac7bdf313.a85276b76940dee5e9c81e97de49a058.jpg"
+        "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-pulse-5.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-330.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png"
+          "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-pulse-5.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-330.html",
       "specs": [],
       "cats": [
         "audio"
@@ -27296,31 +27167,31 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-flip-7",
+      "id": "jbl-partybox-720",
       "brand": "JBL",
-      "name": "Flip 7",
+      "name": "PartyBox 720",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 48000,
+      "price": 339000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg"
+        "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-flip-7.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-720.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg"
+          "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-flip-7.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-720.html",
       "specs": [],
       "cats": [
         "audio"
@@ -27641,31 +27512,33 @@
       ]
     },
     {
-      "id": "jbl-clip-5",
+      "id": "jbl-jbl-partybox-ultimate-wifi-bk",
       "brand": "JBL",
-      "name": "Clip 5",
+      "name": "PartyBox Ultimate",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 24000,
+      "price": 539000,
       "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg",
       "images": [
-        "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg"
+        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg1.jpg"
       ],
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-clip-5.html",
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-ultimate.html",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg"
+          "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg"
         ]
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-clip-5.html",
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-ultimate.html",
       "specs": [],
       "cats": [
         "audio"
@@ -27722,34 +27595,28 @@
       ]
     },
     {
-      "id": "jbl-partybox-720",
-      "brand": "JBL",
-      "name": "PartyBox 720",
+      "id": "marshall-major-iv",
+      "brand": "Marshall",
+      "name": "Major IV",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 339000,
-      "creditPrice": null,
+      "price": 39000,
       "oldPrice": null,
       "monthly": null,
+      "creditPrice": null,
       "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg"
-      ],
-      "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-720.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg"
-        ]
-      },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-720.html",
+      "art": "earbuds",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "priceSource": "https://www.yerevanmobile.am/en/marshall-major-iv.html",
+      "image": "https://yerevanmobile.am/media/catalog/product/f/d/fd5e9383bb120b2d0f88970cb59ec670_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/f/d/fd5e9383bb120b2d0f88970cb59ec670_1.jpg"
       ]
     },
     {
@@ -28108,33 +27975,34 @@
       ]
     },
     {
-      "id": "airpods-5-wireless",
-      "brand": "Apple",
-      "name": "AirPods 5 Wireless",
+      "id": "marshall-marshall-major-v-on-ear-headphone",
+      "brand": "Marshall",
+      "name": "Major V",
       "config": {
-        "ru": "Белый · Футляр с беспроводной зарядкой",
-        "hy": "Սպիտակ · Անլար լիցքավորման պատյան",
-        "en": "White · Wireless charging case"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 0,
+      "price": 46900,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "earbuds",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHendJQVRIbmUrVkgvaHR4ajlmK3pJN0hJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVWRsZXJCWXk5YjBoSm5GZDdURmRwclorYWpGdS9XeFgvbS9ITnNYOEhYaG4",
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "headphones",
+      "image": "https://yerevanmobile.am/media/catalog/product/m/a/major_852_1.jpg",
+      "priceSource": "allsell",
       "sourceRef": {
-        "url": "https://www.apple.com/shop/buy-airpods/airpods-5",
-        "imageUrls": [
-          "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHendJQVRIbmUrVkgvaHR4ajlmK3pJN0hJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVWRsZXJCWXk5YjBoSm5GZDdURmRwclorYWpGdS9XeFgvbS9ITnNYOEhYaG4"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-major-v-wireless-on-ear-headphone"
       },
       "specs": [],
-      "priceSource": "allsell",
-      "creditPrice": null,
       "cats": [
         "audio"
       ],
-      "priceOnRequest": true
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/m/a/major_852_1.jpg"
+      ]
     },
     {
       "id": "samsung-galaxy-watch-ultra-2025",
@@ -28239,34 +28107,55 @@
       ]
     },
     {
-      "id": "jbl-partybox-320",
-      "brand": "JBL",
-      "name": "PartyBox Stage 320",
+      "id": "marshall-marshall-willen",
+      "brand": "Marshall",
+      "name": "Willen",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 205000,
-      "creditPrice": null,
+      "price": 59000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/w/i/willen.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-320.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-willen-wireless-speaker"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-320.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
+          "inStock": true
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8489.jpeg",
+          "inStock": true
+        }
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/w/i/willen.jpg"
       ]
     },
     {
@@ -28378,34 +28267,61 @@
       ]
     },
     {
-      "id": "jbl-partybox-520",
-      "brand": "JBL",
-      "name": "PartyBox 520",
+      "id": "marshall-marshall-willen-ii",
+      "brand": "Marshall",
+      "name": "Willen II",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 255000,
-      "creditPrice": null,
+      "price": 59000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-520.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-willen-ii"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-520.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black/Brass",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg"
+          ]
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 59000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/8/1/81d1qs5afpl._ac_sl1500__1.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/8/1/81d1qs5afpl._ac_sl1500__1.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg"
       ]
     },
     {
@@ -29390,31 +29306,27 @@
       ]
     },
     {
-      "id": "jbl-partybox-120",
-      "brand": "JBL",
-      "name": "PartyBox Club 120",
+      "id": "marshall-marshall-emberton-iii-compact",
+      "brand": "Marshall",
+      "name": "Emberton III",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 159000,
-      "creditPrice": null,
+      "price": 106900,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://bcql-prd.my.commercecloud.salesforce.com/on/demandware.static/-/Sites-zs-master-catalog/default/dw94a4444a/images/marshall/new-website/Speakers/emberton-iii-black-and-brass-plp.jpeg",
+      "priceSource": "allsell",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-120.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-emberton-iii-wireless-compact-portable-speaker"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-120.html",
       "specs": [],
       "cats": [
         "audio"
@@ -29707,98 +29619,162 @@
       ]
     },
     {
-      "id": "jbl-partybox-330",
-      "brand": "JBL",
-      "name": "PartyBox 330",
+      "id": "marshall-marshall-acton-iii",
+      "brand": "Marshall",
+      "name": "Acton III",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 289000,
-      "creditPrice": null,
+      "price": 109000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-330.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-acton-iii-wireless-stereo"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-330.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg"
+          ]
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/a/c/acton_3_5_1.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/a/c/acton_3_5_1.jpg"
+          ]
+        },
+        {
+          "color": "Midnight Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 109000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8465.jpeg",
+          "inStock": true
+        }
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/m/a/marshall_acton_3_1.jpg"
       ]
     },
     {
-      "id": "jbl-partybox-130",
-      "brand": "JBL",
-      "name": "PartyBox 130",
+      "id": "marshall-marshall-stockwell-2",
+      "brand": "Marshall",
+      "name": "Stockwell II",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 219000,
-      "creditPrice": null,
+      "price": 109900,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/1/-/1-61.jpg",
+      "priceSource": "allsell",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-130.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-stockwell-2-wireless-stereo-speaker"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-130.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/1/-/1-61.jpg",
+        "https://yerevanmobile.am/media/catalog/product/7/1/71ffc422430d41cd02558c5e55e80b320fb51b53_s000462676_3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/e/f/ef7a778a166512b3a8f843b0de8cdc47704cebe8_815agw4a0ll._sl1500_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/s/t/stockwell-ii-1.jpg"
       ]
     },
     {
-      "id": "jbl-jbl-partybox-ultimate-wifi-bk",
-      "brand": "JBL",
-      "name": "PartyBox Ultimate",
+      "id": "marshall-marshall-stanmore-iii",
+      "brand": "Marshall",
+      "name": "Stanmore III",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 539000,
-      "creditPrice": null,
+      "price": 139000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg",
-        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg2.jpg",
-        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg1.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-ultimate.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-stanmore-iii"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-ultimate.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 139000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg"
+          ]
+        },
+        {
+          "color": "Cream",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 139000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_4_1.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_4_1.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/m/a/marshall_stanmore_3_2.jpg"
       ]
     },
     {
@@ -30222,68 +30198,72 @@
       ]
     },
     {
-      "id": "jbl-partybox-encore-2-with-microphone",
-      "brand": "JBL",
-      "name": "PartyBox Encore 2 with Microphone",
+      "id": "marshall-marshall-kilburn-iii-stereo",
+      "brand": "Marshall",
+      "name": "Kilburn III",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 154000,
-      "creditPrice": null,
+      "price": 154900,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81kkwbrgd2l._ac_uf1000_1000_ql80__1.jpg",
+      "priceSource": "allsell",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-encore-2-with-microphone.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-kilburn-iii-wireless-stereo-speake"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-encore-2-with-microphone.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81kkwbrgd2l._ac_uf1000_1000_ql80__1.jpg"
       ]
     },
     {
-      "id": "jbl-speaker-authentics-300",
-      "brand": "JBL",
-      "name": "Authentics 300",
+      "id": "marshall-marshall-acton-iv",
+      "brand": "Marshall",
+      "name": "Acton IV",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 179000,
-      "creditPrice": null,
+      "price": 159000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg",
-        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg3.jpg",
-        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg2.jpg",
-        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg1.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+      "priceSource": "redstore",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-300.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-acton-iv"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-300.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -30339,66 +30319,86 @@
       ]
     },
     {
-      "id": "jbl-microphone-portable-digital-wireless-mic-300",
-      "brand": "JBL",
-      "name": "Wireless Mic 300",
+      "id": "marshall-tufton",
+      "brand": "Marshall",
+      "name": "Tufton",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 57000,
-      "creditPrice": null,
+      "price": 174000,
       "oldPrice": null,
       "monthly": null,
+      "creditPrice": null,
       "availability": "on-request",
       "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg"
-      ],
-      "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-microphone-portable-digital-wireless-mic-300.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg"
-        ]
-      },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-microphone-portable-digital-wireless-mic-300.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "priceSource": "https://www.yerevanmobile.am/en/marshall-tufton.html",
+      "image": "https://yerevanmobile.am/media/catalog/product/t/u/tuftonn_8_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/t/u/tuftonn_8_1.jpg"
       ]
     },
     {
-      "id": "jbl-partybox-on-the-go-2",
-      "brand": "JBL",
-      "name": "PartyBox On-The-Go 2",
+      "id": "marshall-marshall-woburn-iii",
+      "brand": "Marshall",
+      "name": "Woburn III",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 155000,
-      "creditPrice": null,
+      "price": 189000,
       "oldPrice": null,
       "monthly": null,
-      "availability": "on-request",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg",
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg",
-        "https://yerevanmobile.am/media/catalog/product/7/1/714rxazx_ll._ac_sl1500_.jpg"
-      ],
+      "creditPrice": null,
+      "availability": "in-stock",
+      "art": "speaker",
+      "image": "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg",
+      "priceSource": "redstore",
       "sourceRef": {
-        "url": "https://www.yerevanmobile.am/en/jbl-partybox-on-the-go-2.html",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/marshall-woburn-iii-wireless-stereo"
       },
-      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-on-the-go-2.html",
       "specs": [],
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 189000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg"
+          ]
+        },
+        {
+          "color": "Brown",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 189000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/1/61tajircszl._ac_uf1000_1000_ql80_.jpg",
+          "inStock": true,
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/6/1/61tajircszl._ac_uf1000_1000_ql80_.jpg"
+          ]
+        }
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg"
       ]
     }
   ]
