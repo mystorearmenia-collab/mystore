@@ -86,6 +86,8 @@ export function isAvailable(p: WithVariants, sel: Selection, key: OptionKey, val
 type ColorInfo = { hex: string; ru?: string; hy?: string };
 
 const COLORS: Record<string, ColorInfo> = {
+  "sterling silver": { hex: "#aeb2b6", ru: "Серебристый", hy: "Արծաթագույն" },
+  "gray camouflage": { hex: "#74766b", ru: "Камуфляжный", hy: "Քողարկման գույն" },
   "beige": { hex: "#d8c8ad", ru: "Бежевый" },
   "pinkgold": { hex: "#e2bbc1", ru: "Розовое золото" },
   "blueblack": { hex: "#263342", ru: "Сине-чёрный" },
