@@ -45,6 +45,7 @@ export default async function CategoryPage({
   const t = await getTranslations("category");
   const items = productsForCategory(categoryId);
   const name = pick(category.name, locale as Locale);
+  const audioBrands = [...new Set(["Apple", "Marshall", "JBL", ...items.map((product) => product.brand)])];
 
   return (
     <ProductModalProvider>
@@ -71,6 +72,28 @@ export default async function CategoryPage({
 
           {items.length === 0 ? (
             <p className="lede max-w-[46ch]">{t("empty")}</p>
+          ) : categoryId === "audio" ? (
+            <div className="space-y-14">
+              {audioBrands.map((brand, brandIndex) => {
+                const brandItems = items.filter((product) => product.brand === brand);
+                if (!brandItems.length) return null;
+                return (
+                  <section key={brand} aria-labelledby={`audio-brand-${brandIndex}`}>
+                    <div className="mb-6 flex items-end justify-between gap-4 border-b border-line pb-4">
+                      <h2 id={`audio-brand-${brandIndex}`} className="text-2xl font-semibold tracking-tight">{brand}</h2>
+                      <p className="text-[0.85rem] text-muted">{brandItems.length} {t("count")}</p>
+                    </div>
+                    <div className="grid grid-cols-1 gap-[clamp(0.75rem,1.4vw,1.25rem)] sm:grid-cols-2 lg:grid-cols-4">
+                      {brandItems.map((product, index) => (
+                        <Reveal key={product.id} delay={(index % 4) * 70} className="h-full">
+                          <ProductCard product={product} />
+                        </Reveal>
+                      ))}
+                    </div>
+                  </section>
+                );
+              })}
+            </div>
           ) : (
             <div className="grid grid-cols-1 gap-[clamp(0.75rem,1.4vw,1.25rem)] sm:grid-cols-2 lg:grid-cols-4">
               {items.map((product, index) => (
