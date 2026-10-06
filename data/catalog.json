@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 230
+    "product_count": 229
   },
   "categories": [
     {
@@ -69,7 +69,7 @@
       },
       "href": "/gaming",
       "art": "playstation",
-      "count": 14
+      "count": 13
     },
     {
       "id": "audio",
@@ -10772,28 +10772,6 @@
           "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
         }
       ]
-    },
-    {
-      "id": "ps5",
-      "brand": "PlayStation",
-      "name": "PS5",
-      "config": {
-        "hy": "825 GB · Disc Drive · White",
-        "ru": "825 GB · Disc Drive · White",
-        "en": "825 GB · Disc Drive · White"
-      },
-      "price": 0,
-      "creditPrice": null,
-      "oldPrice": null,
-      "monthly": null,
-      "availability": "on-request",
-      "art": "playstation",
-      "image": "https://live.staticflickr.com/65535/50544735806_1d62997156_c.jpg",
-      "specs": [],
-      "cats": [
-        "gaming"
-      ],
-      "priceOnRequest": true
     },
     {
       "id": "17-ultra",
