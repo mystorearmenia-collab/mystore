@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 229
+    "product_count": 218
   },
   "categories": [
     {
@@ -80,7 +80,7 @@
       },
       "href": "/audio",
       "art": "headphones",
-      "count": 68
+      "count": 57
     },
     {
       "id": "dyson",
@@ -22872,81 +22872,6 @@
       ]
     },
     {
-      "id": "beats-studio-pro",
-      "brand": "Apple",
-      "name": "Beats Studio Pro",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 129000,
-      "oldPrice": null,
-      "monthly": 2690,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6052.jpg",
-      "sourceRef": {
-        "sku": "6519_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61giui-ebwl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61u_zjl86jl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61u-oadsfql._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/1/51t0ie0zjal._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "redstore",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ],
-      "variants": [
-        {
-          "color": "Deep Brown",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 129000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6052.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Matte White",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 129000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6053.jpg",
-          "inStock": true
-        }
-      ]
-    },
-    {
       "id": "xiaomi-poco-m8-5g",
       "brand": "Xiaomi",
       "name": "Poco M8 5G",
@@ -23484,112 +23409,6 @@
         }
       ],
       "priceOnRequest": true
-    },
-    {
-      "id": "beats-studio-pro-kim",
-      "brand": "Apple",
-      "name": "Beats Studio Pro Kim",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 119000,
-      "oldPrice": null,
-      "monthly": 2480,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "sourceRef": {
-        "sku": "8075-1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/k/i/kim.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/o/moon.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71s9srhjw3l._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71kfk0_njyl._ac_sl1500_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ]
-    },
-    {
-      "id": "beats-powerbeats-pro-2",
-      "brand": "Apple",
-      "name": "Beats Powerbeats Pro 2",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 119000,
-      "oldPrice": null,
-      "monthly": 2480,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "sourceRef": {
-        "sku": "8314_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/_/1_38.jpg",
-          "https://yerevanmobile.am/media/catalog/product/3/3/3333333333333333333333333.jpg",
-          "https://yerevanmobile.am/media/catalog/product/p/i/pikpli.jpg",
-          "https://yerevanmobile.am/media/catalog/product/o/r/orange.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ]
     },
     {
       "id": "poco-m8-pro",
@@ -24148,59 +23967,6 @@
           "priceOnRequest": true,
           "priceSource": null
         }
-      ]
-    },
-    {
-      "id": "beats-solo-pro-bluetooth",
-      "brand": "Apple",
-      "name": "Beats Solo Pro Bluetooth",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 109000,
-      "oldPrice": null,
-      "monthly": 2280,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "sourceRef": {
-        "sku": "5772_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/2/5/250.jpg",
-          "https://yerevanmobile.am/media/catalog/product/2/6/260.jpg",
-          "https://yerevanmobile.am/media/catalog/product/2/7/270.jpg",
-          "https://yerevanmobile.am/media/catalog/product/2/2/220.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "audio"
       ]
     },
     {
@@ -24822,59 +24588,6 @@
         "url": "https://allsell.am/am/marshall-emberton-iii-wireless-compact-portable-speaker"
       },
       "specs": [],
-      "cats": [
-        "audio"
-      ]
-    },
-    {
-      "id": "beats-studio-3-bluetooth",
-      "brand": "Apple",
-      "name": "Beats Studio 3 Bluetooth",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 104000,
-      "oldPrice": null,
-      "monthly": 2170,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "sourceRef": {
-        "sku": "286_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/_/1_27.jpg",
-          "https://yerevanmobile.am/media/catalog/product/3/_/3_27.jpg",
-          "https://yerevanmobile.am/media/catalog/product/2/_/2_34.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/_/5_33.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
       "cats": [
         "audio"
       ]
@@ -26772,70 +26485,6 @@
       ]
     },
     {
-      "id": "beats-solo-4-wireless",
-      "brand": "Apple",
-      "name": "Beats Solo 4 Wireless",
-      "config": {
-        "hy": "Black",
-        "ru": "Black",
-        "en": "Black"
-      },
-      "price": 89000,
-      "oldPrice": null,
-      "monthly": 1860,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "sourceRef": {
-        "sku": "6957",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/s/s/sss.jpg",
-          "https://yerevanmobile.am/media/catalog/product/3/_/3_28_2_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/_/4_26_2.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Black",
-                "ru": "Black",
-                "en": "Black"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ]
-    },
-    {
       "id": "marshall-marshall-milton-anc-on-ear-headphone",
       "brand": "Marshall",
       "name": "Milton ANC On-Ear Headphone",
@@ -26860,146 +26509,6 @@
       "specs": [],
       "cats": [
         "audio"
-      ]
-    },
-    {
-      "id": "beats-fit-pro",
-      "brand": "Apple",
-      "name": "Beats Fit Pro",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 84000,
-      "oldPrice": null,
-      "monthly": 1750,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5981.png",
-      "sourceRef": {
-        "sku": "6139_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/0/b/0bb27109d4da69238e40e401832ea4fdc3e77a54_d29b58893f6249c7a11e673be6126260_1_2_4_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/b/e/beat-fit-pro-1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/b/e/beats_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/0/50_7_4_2_1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "redstore",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 84000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5981.png",
-          "inStock": true
-        },
-        {
-          "color": "Purple",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 84000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5977.png",
-          "inStock": true
-        }
-      ]
-    },
-    {
-      "id": "beats-powerbeats-pro",
-      "brand": "Apple",
-      "name": "Beats Powerbeats Pro",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 84000,
-      "oldPrice": null,
-      "monthly": 1750,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5991.png",
-      "sourceRef": {
-        "sku": "5775_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/_/1_26.jpg",
-          "https://yerevanmobile.am/media/catalog/product/3/_/3_26.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/_/4_25.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/_/5_31.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "redstore",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 84000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-5991.png",
-          "inStock": true
-        }
       ]
     },
     {
@@ -27199,59 +26708,6 @@
       ]
     },
     {
-      "id": "beats-solo-3-wireless",
-      "brand": "Apple",
-      "name": "Beats Solo 3 Wireless",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 79000,
-      "oldPrice": null,
-      "monthly": 1650,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "sourceRef": {
-        "sku": "3500_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/3/_/3_3.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/_/5_4.jpg",
-          "https://yerevanmobile.am/media/catalog/product/2/_/2_5.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/_/1_9.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ]
-    },
-    {
       "id": "marshall-marshall-motif-ii-anc-true-earphones",
       "brand": "Marshall",
       "name": "Motif II ANC True Earphones",
@@ -27274,59 +26730,6 @@
         "url": "https://allsell.am/am/marshall-motif-ii-anc-true-wireless-earphones"
       },
       "specs": [],
-      "cats": [
-        "audio"
-      ]
-    },
-    {
-      "id": "beats-studio-buds-plus",
-      "brand": "Apple",
-      "name": "Beats Studio Buds Plus",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 74000,
-      "oldPrice": null,
-      "monthly": 1550,
-      "availability": "in-stock",
-      "art": "earbuds",
-      "image": null,
-      "sourceRef": {
-        "sku": "5660_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/1/51brswrec7s._ac_sl1500__1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/1/41ovvmbyc2s._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/p/c/pc-studiobudsplus-ivory-case-open-floating_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/1/41m81cyugpl._ac_sl1500__1.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
       "cats": [
         "audio"
       ]
@@ -28179,101 +27582,6 @@
           "price": 59000,
           "credit": null,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8489.jpeg",
-          "inStock": true
-        }
-      ]
-    },
-    {
-      "id": "beats-studio-buds",
-      "brand": "Apple",
-      "name": "Beats Studio Buds",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 49000,
-      "oldPrice": null,
-      "monthly": 1550,
-      "availability": "in-stock",
-      "art": "earbuds",
-      "image": "https://admin.redstore.am/storage/uploads/2025/11/12/cdse-montaznaia-oblast-1.jpg",
-      "sourceRef": {
-        "sku": "6039_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/1/110_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/0/100_2_2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/1/115.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/1/113.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "redstore",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 74000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/fssgf-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Blue",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 49000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/11/12/cdse-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Ivory",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 74000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6068.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Transparent",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 74000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/05/img-6070.jpg",
           "inStock": true
         }
       ]
