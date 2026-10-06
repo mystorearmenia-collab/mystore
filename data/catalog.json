@@ -11724,27 +11724,26 @@
       ]
     },
     {
-      "id": "poco-m8",
+      "id": "17t",
       "brand": "Xiaomi",
-      "name": "Poco M8",
+      "name": "17T",
       "config": {
-        "hy": "6.77 inch",
-        "ru": "6.77 inch",
-        "en": "6.77 inch"
+        "hy": "6.59 inch",
+        "ru": "6.59 inch",
+        "en": "6.59 inch"
       },
-      "price": 109000,
+      "price": 262700,
       "oldPrice": null,
-      "monthly": 2280,
+      "monthly": 5400,
       "availability": "in-stock",
       "art": "galaxy",
       "image": null,
       "sourceRef": {
-        "sku": "9670_1",
+        "sku": "10728_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71etpl4aofl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71eszgv75wl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71jpy8sli6l._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/p/o/pocoi_8.jpg"
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-256gb-blue-ua-386184.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-512gb-violet-ua-386193.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-512gb-black-ua-386179.jpg"
         ]
       },
       "specs": [
@@ -11774,9 +11773,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
               }
             }
           ]
@@ -11807,9 +11806,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "Android 15, upgradable to Android 16, HyperOS 3",
-                "ru": "Android 15, upgradable to Android 16, HyperOS 3",
-                "en": "Android 15, upgradable to Android 16, HyperOS 3"
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
               }
             },
             {
@@ -11840,9 +11839,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "6.77 inch",
-                "ru": "6.77 inch",
-                "en": "6.77 inch"
+                "hy": "6.59 inch",
+                "ru": "6.59 inch",
+                "en": "6.59 inch"
               }
             },
             {
@@ -11864,9 +11863,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1080 x 2392",
-                "ru": "1080 x 2392",
-                "en": "1080 x 2392"
+                "hy": "1268 x 2756",
+                "ru": "1268 x 2756",
+                "en": "1268 x 2756"
               }
             }
           ]
@@ -11885,9 +11884,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50MP",
-                "ru": "50MP",
-                "en": "50MP"
+                "hy": "50MP+50MP+12MP",
+                "ru": "50MP+50MP+12MP",
+                "en": "50MP+50MP+12MP"
               }
             },
             {
@@ -11897,9 +11896,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "20MP",
-                "ru": "20MP",
-                "en": "20MP"
+                "hy": "32MP",
+                "ru": "32MP",
+                "en": "32MP"
               }
             }
           ]
@@ -11918,16 +11917,126 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
-                "ru": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
-                "en": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)"
+                "hy": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+                "ru": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+                "en": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)"
               }
             },
             {
               "label": {
-                "hy": "Հիշողության քարտի բնիկ",
-                "ru": "Слот для карты памяти",
-                "en": "Memory card slot"
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Mediatek Dimensity 8500 Ultra (4 nm)",
+                "ru": "Mediatek Dimensity 8500 Ultra (4 nm)",
+                "en": "Mediatek Dimensity 8500 Ultra (4 nm)"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "allsell",
+      "creditPrice": null,
+      "cats": [
+        "xiaomi"
+      ]
+    },
+    {
+      "id": "17t-pro",
+      "brand": "Xiaomi",
+      "name": "17T Pro",
+      "config": {
+        "hy": "6.83 inch",
+        "ru": "6.83 inch",
+        "en": "6.83 inch"
+      },
+      "price": 319000,
+      "oldPrice": null,
+      "monthly": 6650,
+      "availability": "on-request",
+      "art": "galaxy",
+      "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
+      "sourceRef": {
+        "sku": "10524_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/2/5/2537df3352cc11f1845800155db5ff28_22b326b252eb11f1845800155db5ff28-1200x1200.jpeg",
+          "https://yerevanmobile.am/media/catalog/product/2/9/29bea910580311f1845b00155db5ff28_57658bdb586311f1845b00155db5ff28.jpg",
+          "https://yerevanmobile.am/media/catalog/product/i/m/img_0_60_13209_0_1_e8watb.jpg",
+          "https://yerevanmobile.am/media/catalog/product/1/7/17t_pro.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
               },
               "value": {
                 "hy": "Այո",
@@ -11936,39 +12045,155 @@
               }
             }
           ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.83 inch",
+                "ru": "6.83 inch",
+                "en": "6.83 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1280 x 2772",
+                "ru": "1280 x 2772",
+                "en": "1280 x 2772"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+50MP+12MP",
+                "ru": "50MP+50MP+12MP",
+                "en": "50MP+50MP+12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "32MP",
+                "ru": "32MP",
+                "en": "32MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+                "ru": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+                "en": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Mediatek Dimensity 9500 (3 nm)",
+                "ru": "Mediatek Dimensity 9500 (3 nm)",
+                "en": "Mediatek Dimensity 9500 (3 nm)"
+              }
+            }
+          ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
-      ]
-    },
-    {
-      "id": "xiaomi-poco-m8-5g",
-      "brand": "Xiaomi",
-      "name": "Poco M8 5G",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 102700,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": 108900,
-      "availability": "in-stock",
-      "art": "accessory",
-      "image": null,
-      "priceSource": "allsell",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/xiaomi-poco-m8-5g"
-      },
-      "specs": [],
-      "cats": [
-        "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Deep Blue",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60575/image/asvoedzph-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Deep Violet",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 319000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60576/image/sew2e-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -15759,26 +15984,26 @@
       ]
     },
     {
-      "id": "poco-f8-pro",
+      "id": "redmi-a7",
       "brand": "Xiaomi",
-      "name": "Poco F8 Pro",
+      "name": "Redmi A7",
       "config": {
-        "hy": "6.59 inch",
-        "ru": "6.59 inch",
-        "en": "6.59 inch"
+        "hy": "6.88 inch",
+        "ru": "6.88 inch",
+        "en": "6.88 inch"
       },
-      "price": 279000,
+      "price": 47000,
       "oldPrice": null,
-      "monthly": 5820,
+      "monthly": 980,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
+      "image": null,
       "sourceRef": {
-        "sku": "9449_1",
+        "sku": "10782_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/f/8/f8.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61tpiowagrl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61jeexmpnsl._ac_sl1500_.jpg"
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmia7.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/7/a7_purple_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/b/l/blue_6.jpg"
         ]
       },
       "specs": [
@@ -15808,9 +16033,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
               }
             }
           ]
@@ -15836,26 +16061,26 @@
             },
             {
               "label": {
-                "hy": "NFC",
-                "ru": "NFC",
-                "en": "NFC"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
                 "hy": "ՕՀ տեսակ",
                 "ru": "Тип ОС",
                 "en": "OS type"
               },
               "value": {
-                "hy": "Android 16, HyperOS 3",
-                "ru": "Android 16, HyperOS 3",
-                "en": "Android 16, HyperOS 3"
+                "hy": "Android 15, up to 2 major Android upgrades",
+                "ru": "Android 15, up to 2 major Android upgrades",
+                "en": "Android 15, up to 2 major Android upgrades"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
               }
             }
           ]
@@ -15874,9 +16099,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "6.59 inch",
-                "ru": "6.59 inch",
-                "en": "6.59 inch"
+                "hy": "6.88 inch",
+                "ru": "6.88 inch",
+                "en": "6.88 inch"
               }
             },
             {
@@ -15886,9 +16111,9 @@
                 "en": "Screen type"
               },
               "value": {
-                "hy": "AMOLED",
-                "ru": "AMOLED",
-                "en": "AMOLED"
+                "hy": "IPS LCD",
+                "ru": "IPS LCD",
+                "en": "IPS LCD"
               }
             },
             {
@@ -15898,9 +16123,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1156 x 2510",
-                "ru": "1156 x 2510",
-                "en": "1156 x 2510"
+                "hy": "720 x 1640",
+                "ru": "720 x 1640",
+                "en": "720 x 1640"
               }
             }
           ]
@@ -15919,9 +16144,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50MP+50MP+8MP",
-                "ru": "50MP+50MP+8MP",
-                "en": "50MP+50MP+8MP"
+                "hy": "13MP",
+                "ru": "13MP",
+                "en": "13MP"
               }
             },
             {
@@ -15931,9 +16156,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "20MP",
-                "ru": "20MP",
-                "en": "20MP"
+                "hy": "8MP",
+                "ru": "8MP",
+                "en": "8MP"
               }
             }
           ]
@@ -15952,62 +16177,30 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
-                "ru": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
-                "en": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
+                "hy": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+                "ru": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+                "en": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
               }
             },
             {
               "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
+                "hy": "Հիշողության քարտի բնիկ",
+                "ru": "Слот для карты памяти",
+                "en": "Memory card slot"
               },
               "value": {
-                "hy": "Snapdragon 8 Elite (3 nm)",
-                "ru": "Snapdragon 8 Elite (3 nm)",
-                "en": "Snapdragon 8 Elite (3 nm)"
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
               }
             }
           ]
         }
       ],
-      "priceSource": "redstore",
+      "priceSource": "yerevanmobile",
       "creditPrice": null,
       "cats": [
         "xiaomi"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 279000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Blue",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 279000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59048/image/zadfe-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Titanium Silver",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 279000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59049/image/zsawe-montaznaia-oblast-1.jpg",
-          "inStock": true
-        }
       ]
     },
     {
@@ -16699,27 +16892,27 @@
       ]
     },
     {
-      "id": "poco-f8-ultra",
+      "id": "redmi-a7-pro-4g",
       "brand": "Xiaomi",
-      "name": "Poco F8 Ultra",
+      "name": "Redmi A7 Pro 4G",
       "config": {
         "hy": "6.9 inch",
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 369000,
+      "price": 53000,
       "oldPrice": null,
-      "monthly": 6230,
+      "monthly": 1030,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
+      "image": null,
       "sourceRef": {
-        "sku": "9664_1",
+        "sku": "10757_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/8/1/81vyf7r2dll._ac_uf894_1000_ql80_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71lwpzjv4ql._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/j/ijpg.jpg",
-          "https://yerevanmobile.am/media/catalog/product/f/8/f8_ultr.jpg"
+          "https://yerevanmobile.am/media/catalog/product/a/7/a7_black.jpg",
+          "https://yerevanmobile.am/media/catalog/product/b/l/blue_5.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/7/a7_pro_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/5/1/51flw-u846l._ac_uf1000_1000_ql80_.jpg"
         ]
       },
       "specs": [
@@ -16749,9 +16942,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
               }
             }
           ]
@@ -16773,18 +16966,6 @@
                 "hy": "Այո",
                 "ru": "Да",
                 "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "Android 16, HyperOS 3",
-                "ru": "Android 16, HyperOS 3",
-                "en": "Android 16, HyperOS 3"
               }
             },
             {
@@ -16827,9 +17008,9 @@
                 "en": "Screen type"
               },
               "value": {
-                "hy": "AMOLED",
-                "ru": "AMOLED",
-                "en": "AMOLED"
+                "hy": "IPS LCD",
+                "ru": "IPS LCD",
+                "en": "IPS LCD"
               }
             },
             {
@@ -16839,9 +17020,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1200 x 2608",
-                "ru": "1200 x 2608",
-                "en": "1200 x 2608"
+                "hy": "720 x 1600",
+                "ru": "720 x 1600",
+                "en": "720 x 1600"
               }
             }
           ]
@@ -16860,9 +17041,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50MP+50MP+50MP",
-                "ru": "50MP+50MP+50MP",
-                "en": "50MP+50MP+50MP"
+                "hy": "13MP",
+                "ru": "13MP",
+                "en": "13MP"
               }
             },
             {
@@ -16872,9 +17053,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "32MP",
-                "ru": "32MP",
-                "en": "32MP"
+                "hy": "8MP",
+                "ru": "8MP",
+                "en": "8MP"
               }
             }
           ]
@@ -16893,9 +17074,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
-                "ru": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
-                "en": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)"
+                "hy": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+                "ru": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+                "en": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
               }
             },
             {
@@ -16905,40 +17086,39 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Snapdragon 8 Elite Gen 5 (3 nm)",
-                "ru": "Snapdragon 8 Elite Gen 5 (3 nm)",
-                "en": "Snapdragon 8 Elite Gen 5 (3 nm)"
+                "hy": "Unisoc T7250 (12 nm)",
+                "ru": "Unisoc T7250 (12 nm)",
+                "en": "Unisoc T7250 (12 nm)"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի հզորություն",
+                "ru": "Ёмкость аккумулятора",
+                "en": "Battery capacity"
+              },
+              "value": {
+                "hy": "6000 mAh",
+                "ru": "6000 mAh",
+                "en": "6000 mAh"
               }
             }
           ]
         }
       ],
-      "priceSource": "redstore",
+      "priceSource": "yerevanmobile",
       "creditPrice": null,
       "cats": [
         "xiaomi"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": "sim-esim",
-          "price": 369000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
-          "inStock": true
-        },
-        {
-          "color": "Blue",
-          "storage": "512GB",
-          "ram": "16GB",
-          "sim": "sim-esim",
-          "price": 369000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60291/image/wew-montaznaia-oblast-1.webp",
-          "inStock": true
-        }
       ]
     },
     {
@@ -17275,6 +17455,289 @@
       ]
     },
     {
+      "id": "redmi-17-4g",
+      "brand": "Xiaomi",
+      "name": "Redmi 17 4G",
+      "config": {
+        "hy": "6.9 inch",
+        "ru": "6.9 inch",
+        "en": "6.9 inch"
+      },
+      "price": 69000,
+      "oldPrice": null,
+      "monthly": 1440,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "10755_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/1/7/17black.jpg",
+          "https://yerevanmobile.am/media/catalog/product/8/5/85_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-redmi-17_green.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmi_17_black_1_2__1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.9 inch",
+                "ru": "6.9 inch",
+                "en": "6.9 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "IPS LCD",
+                "ru": "IPS LCD",
+                "en": "IPS LCD"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "720 x 1600",
+                "ru": "720 x 1600",
+                "en": "720 x 1600"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP",
+                "ru": "50MP",
+                "en": "50MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "8MP",
+                "ru": "8MP",
+                "en": "8MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Mediatek Helio G91 Ultra (12 nm)",
+                "ru": "Mediatek Helio G91 Ultra (12 nm)",
+                "en": "Mediatek Helio G91 Ultra (12 nm)"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "Si/C Li-Ion",
+                "ru": "Si/C Li-Ion",
+                "en": "Si/C Li-Ion"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "xiaomi"
+      ]
+    },
+    {
+      "id": "airpods-max-2",
+      "brand": "Apple",
+      "name": "AirPods Max 2",
+      "config": {
+        "hy": "",
+        "ru": "",
+        "en": ""
+      },
+      "price": 239500,
+      "oldPrice": null,
+      "monthly": 4980,
+      "availability": "in-stock",
+      "art": "earbuds",
+      "image": null,
+      "sourceRef": {
+        "sku": "10392_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71blgxjqsnl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71umw2cckol._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71oymd5_izl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/k/l/kljsdahduayhdaedrytgey7wstgrfewys.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "allsell",
+      "creditPrice": null,
+      "cats": [
+        "audio"
+      ]
+    },
+    {
       "id": "redmi-note-15-4g",
       "brand": "Xiaomi",
       "name": "Redmi Note 15 4G",
@@ -17496,168 +17959,6 @@
       ]
     },
     {
-      "id": "airpods-max-2",
-      "brand": "Apple",
-      "name": "AirPods Max 2",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 239500,
-      "oldPrice": null,
-      "monthly": 4980,
-      "availability": "in-stock",
-      "art": "earbuds",
-      "image": null,
-      "sourceRef": {
-        "sku": "10392_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71blgxjqsnl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71umw2cckol._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71oymd5_izl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/k/l/kljsdahduayhdaedrytgey7wstgrfewys.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "allsell",
-      "creditPrice": null,
-      "cats": [
-        "audio"
-      ]
-    },
-    {
-      "id": "xiaomi-redmi-note-15-pro",
-      "brand": "Xiaomi",
-      "name": "Redmi Note 15 Pro",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 124000,
-      "oldPrice": null,
-      "monthly": null,
-      "creditPrice": 138000,
-      "availability": "in-stock",
-      "art": "accessory",
-      "image": "https://admin.redstore.am/storage/products/59460/image/img-3389.webp",
-      "priceSource": "redstore",
-      "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/xiaomi-redmi-note-15-pro"
-      },
-      "specs": [],
-      "cats": [
-        "xiaomi"
-      ],
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "256GB",
-          "ram": "8GB",
-          "sim": null,
-          "price": 124000,
-          "credit": 138000,
-          "image": "https://admin.redstore.am/storage/products/59460/image/img-3389.webp",
-          "inStock": true
-        },
-        {
-          "color": "Glacier Blue",
-          "storage": "256GB",
-          "ram": "8GB",
-          "sim": null,
-          "price": 124000,
-          "credit": 138000,
-          "image": "https://admin.redstore.am/storage/products/59461/image/img-3391.webp",
-          "inStock": true
-        },
-        {
-          "color": "Mist Purple",
-          "storage": "256GB",
-          "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 159000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59589/image/nhy-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Black",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 134000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59467/image/img-3389.webp",
-          "inStock": true
-        },
-        {
-          "color": "Glacier Blue",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 134000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59468/image/img-3391.webp",
-          "inStock": true
-        },
-        {
-          "color": "Titanium",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 134000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59469/image/img-3390.webp",
-          "inStock": true
-        },
-        {
-          "color": "Black",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 179000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59595/image/ngh-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Glacier Blue",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 179000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59596/image/njik-montaznaia-oblast-1.jpg",
-          "inStock": true
-        }
-      ]
-    },
-    {
       "id": "vr-2-horizon",
       "brand": "PlayStation",
       "name": "VR 2 Horizon",
@@ -17784,223 +18085,112 @@
       ]
     },
     {
-      "id": "redmi-note-15-pro-4g",
+      "id": "xiaomi-redmi-note-15-pro",
       "brand": "Xiaomi",
-      "name": "Redmi Note 15 Pro 4G",
+      "name": "Redmi Note 15 Pro",
       "config": {
-        "hy": "6.77 inch",
-        "ru": "6.77 inch",
-        "en": "6.77 inch"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 134000,
+      "price": 124000,
       "oldPrice": null,
-      "monthly": 2800,
+      "monthly": null,
+      "creditPrice": 138000,
       "availability": "in-stock",
-      "art": "galaxy",
-      "image": null,
+      "art": "accessory",
+      "image": "https://admin.redstore.am/storage/products/59460/image/img-3389.webp",
+      "priceSource": "redstore",
       "sourceRef": {
-        "sku": "9474_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro.jpg",
-          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro-.jpg",
-          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro-1.jpg"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/xiaomi-redmi-note-15-pro"
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր",
-            "ru": "Общее",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "Android 15, up to 4 major Android upgrades, HyperOS 2",
-                "ru": "Android 15, up to 4 major Android upgrades, HyperOS 2",
-                "en": "Android 15, up to 4 major Android upgrades, HyperOS 2"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "6.77 inch",
-                "ru": "6.77 inch",
-                "en": "6.77 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "AMOLED",
-                "ru": "AMOLED",
-                "en": "AMOLED"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "1080 x 2392",
-                "ru": "1080 x 2392",
-                "en": "1080 x 2392"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Տեսախցիկներ",
-            "ru": "Камеры",
-            "en": "Cameras"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "200MP+8MP",
-                "ru": "200MP+8MP",
-                "en": "200MP+8MP"
-              }
-            },
-            {
-              "label": {
-                "hy": "Դիմային տեսախցիկ",
-                "ru": "Фронтальная камера",
-                "en": "Front camera"
-              },
-              "value": {
-                "hy": "32MP",
-                "ru": "32MP",
-                "en": "32MP"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Հիշողություն և պրոցեսոր",
-            "ru": "Память и процессор",
-            "en": "Memory & processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
-                "ru": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
-                "en": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հիշողության քարտի բնիկ",
-                "ru": "Слот для карты памяти",
-                "en": "Memory card slot"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "specs": [],
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 124000,
+          "credit": 138000,
+          "image": "https://admin.redstore.am/storage/products/59460/image/img-3389.webp",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 124000,
+          "credit": 138000,
+          "image": "https://admin.redstore.am/storage/products/59461/image/img-3391.webp",
+          "inStock": true
+        },
+        {
+          "color": "Mist Purple",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59589/image/nhy-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 134000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59467/image/img-3389.webp",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 134000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59468/image/img-3391.webp",
+          "inStock": true
+        },
+        {
+          "color": "Titanium",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 134000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59469/image/img-3390.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59595/image/ngh-montaznaia-oblast-1.jpg",
+          "inStock": true
+        },
+        {
+          "color": "Glacier Blue",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 179000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/59596/image/njik-montaznaia-oblast-1.jpg",
+          "inStock": true
+        }
       ]
     },
     {
@@ -18478,6 +18668,226 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ]
+    },
+    {
+      "id": "redmi-note-15-pro-4g",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 15 Pro 4G",
+      "config": {
+        "hy": "6.77 inch",
+        "ru": "6.77 inch",
+        "en": "6.77 inch"
+      },
+      "price": 134000,
+      "oldPrice": null,
+      "monthly": 2800,
+      "availability": "in-stock",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "9474_1",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro-.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmo_note_15_pro-1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+                "ru": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+                "en": "Android 15, up to 4 major Android upgrades, HyperOS 2"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.77 inch",
+                "ru": "6.77 inch",
+                "en": "6.77 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2392",
+                "ru": "1080 x 2392",
+                "en": "1080 x 2392"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "200MP+8MP",
+                "ru": "200MP+8MP",
+                "en": "200MP+8MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "32MP",
+                "ru": "32MP",
+                "en": "32MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+                "ru": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+                "en": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիշողության քարտի բնիկ",
+                "ru": "Слот для карты памяти",
+                "en": "Memory card slot"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "xiaomi"
       ]
     },
     {
@@ -18964,226 +19374,6 @@
       ]
     },
     {
-      "id": "17t",
-      "brand": "Xiaomi",
-      "name": "17T",
-      "config": {
-        "hy": "6.59 inch",
-        "ru": "6.59 inch",
-        "en": "6.59 inch"
-      },
-      "price": 262700,
-      "oldPrice": null,
-      "monthly": 5400,
-      "availability": "in-stock",
-      "art": "galaxy",
-      "image": null,
-      "sourceRef": {
-        "sku": "10728_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-256gb-blue-ua-386184.jpg",
-          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-512gb-violet-ua-386193.jpg",
-          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-512gb-black-ua-386179.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր",
-            "ru": "Общее",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "Android 16, HyperOS 3",
-                "ru": "Android 16, HyperOS 3",
-                "en": "Android 16, HyperOS 3"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "6.59 inch",
-                "ru": "6.59 inch",
-                "en": "6.59 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "AMOLED",
-                "ru": "AMOLED",
-                "en": "AMOLED"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "1268 x 2756",
-                "ru": "1268 x 2756",
-                "en": "1268 x 2756"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Տեսախցիկներ",
-            "ru": "Камеры",
-            "en": "Cameras"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "50MP+50MP+12MP",
-                "ru": "50MP+50MP+12MP",
-                "en": "50MP+50MP+12MP"
-              }
-            },
-            {
-              "label": {
-                "hy": "Դիմային տեսախցիկ",
-                "ru": "Фронтальная камера",
-                "en": "Front camera"
-              },
-              "value": {
-                "hy": "32MP",
-                "ru": "32MP",
-                "en": "32MP"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Հիշողություն և պրոցեսոր",
-            "ru": "Память и процессор",
-            "en": "Memory & processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
-                "ru": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
-                "en": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Mediatek Dimensity 8500 Ultra (4 nm)",
-                "ru": "Mediatek Dimensity 8500 Ultra (4 nm)",
-                "en": "Mediatek Dimensity 8500 Ultra (4 nm)"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "allsell",
-      "creditPrice": null,
-      "cats": [
-        "xiaomi"
-      ]
-    },
-    {
       "id": "marshall-marshall-stanmore-iv-poartable-stereo",
       "brand": "Marshall",
       "name": "Stanmore IV Poartable Stereo",
@@ -19492,27 +19682,26 @@
       "cats": []
     },
     {
-      "id": "17t-pro",
+      "id": "redmi-note-17",
       "brand": "Xiaomi",
-      "name": "17T Pro",
+      "name": "Redmi Note 17",
       "config": {
-        "hy": "6.83 inch",
-        "ru": "6.83 inch",
-        "en": "6.83 inch"
+        "hy": "6.99 inch",
+        "ru": "6.99 inch",
+        "en": "6.99 inch"
       },
-      "price": 319000,
+      "price": 179000,
       "oldPrice": null,
-      "monthly": 6650,
+      "monthly": 3730,
       "availability": "on-request",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
+      "image": null,
       "sourceRef": {
-        "sku": "10524_1",
+        "sku": "Xiaomi Redmi Note 17",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/2/5/2537df3352cc11f1845800155db5ff28_22b326b252eb11f1845800155db5ff28-1200x1200.jpeg",
-          "https://yerevanmobile.am/media/catalog/product/2/9/29bea910580311f1845b00155db5ff28_57658bdb586311f1845b00155db5ff28.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/m/img_0_60_13209_0_1_e8watb.jpg",
-          "https://yerevanmobile.am/media/catalog/product/1/7/17t_pro.jpg"
+          "https://yerevanmobile.am/media/catalog/product/6/a/6a8c58415b256.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/a/6a8c5a6158435.jpg",
+          "https://yerevanmobile.am/media/catalog/product/r/e/redmi_note_17_5g_6gb_128gb_celestial_purple_5_-570x570.jpg"
         ]
       },
       "specs": [
@@ -19567,24 +19756,229 @@
                 "ru": "Да",
                 "en": "Yes"
               }
-            },
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
             {
               "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
               },
               "value": {
-                "hy": "Android 16, HyperOS 3",
-                "ru": "Android 16, HyperOS 3",
-                "en": "Android 16, HyperOS 3"
+                "hy": "6.99 inch",
+                "ru": "6.99 inch",
+                "en": "6.99 inch"
               }
             },
             {
               "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1080 x 2396",
+                "ru": "1080 x 2396",
+                "en": "1080 x 2396"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP",
+                "ru": "50MP",
+                "en": "50MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "16MP",
+                "ru": "16MP",
+                "en": "16MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+                "ru": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+                "en": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիշողության քարտի բնիկ",
+                "ru": "Слот для карты памяти",
+                "en": "Memory card slot"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Snapdragon 4 Gen 4 (4 nm)",
+                "ru": "Snapdragon 4 Gen 4 (4 nm)",
+                "en": "Snapdragon 4 Gen 4 (4 nm)"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "Li-Ion",
+                "ru": "Li-Ion",
+                "en": "Li-Ion"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "xiaomi"
+      ]
+    },
+    {
+      "id": "redmi-note-17-pro",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 17 Pro",
+      "config": {
+        "hy": "6.83 inch",
+        "ru": "6.83 inch",
+        "en": "6.83 inch"
+      },
+      "price": 94000,
+      "oldPrice": null,
+      "monthly": 1960,
+      "availability": "on-request",
+      "art": "galaxy",
+      "image": null,
+      "sourceRef": {
+        "sku": "Xiaomi Redmi Note 17 Pro",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/5/7/5772457625.jpg",
+          "https://yerevanmobile.am/media/catalog/product/g/v/gvdfg.png",
+          "https://yerevanmobile.am/media/catalog/product/v/g/vgxfdgfd.png"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
               },
               "value": {
                 "hy": "Այո",
@@ -19653,9 +20047,236 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50MP+50MP+12MP",
-                "ru": "50MP+50MP+12MP",
-                "en": "50MP+50MP+12MP"
+                "hy": "50 MP + 8 MP",
+                "ru": "50 MP + 8 MP",
+                "en": "50 MP + 8 MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "16MP",
+                "ru": "16MP",
+                "en": "16MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+                "ru": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+                "en": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Snapdragon 6s Gen 4 (4 nm)",
+                "ru": "Snapdragon 6s Gen 4 (4 nm)",
+                "en": "Snapdragon 6s Gen 4 (4 nm)"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "Li-Ion",
+                "ru": "Li-Ion",
+                "en": "Li-Ion"
+              }
+            },
+            {
+              "label": {
+                "hy": "Մարտկոցի հզորություն",
+                "ru": "Ёмкость аккумулятора",
+                "en": "Battery capacity"
+              },
+              "value": {
+                "hy": "8340 mAh",
+                "ru": "8340 mAh",
+                "en": "8340 mAh"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "xiaomi"
+      ]
+    },
+    {
+      "id": "redmi-note-17-pro-max",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 17 Pro Max",
+      "config": {
+        "hy": "6.83 inch",
+        "ru": "6.83 inch",
+        "en": "6.83 inch"
+      },
+      "price": 191000,
+      "oldPrice": null,
+      "monthly": 1960,
+      "availability": "on-request",
+      "art": "galaxy",
+      "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
+      "sourceRef": {
+        "sku": "Xiaomi Redmi Note 17 Pro Max",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/a/6a8d6a33ac521.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր",
+            "ru": "Общее",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "6.83 inch",
+                "ru": "6.83 inch",
+                "en": "6.83 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1280 x 2772",
+                "ru": "1280 x 2772",
+                "en": "1280 x 2772"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "50MP+8MP",
+                "ru": "50MP+8MP",
+                "en": "50MP+8MP"
               }
             },
             {
@@ -19686,9 +20307,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
-                "ru": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
-                "en": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)"
+                "hy": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+                "ru": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+                "en": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
               }
             },
             {
@@ -19698,9 +20319,30 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Mediatek Dimensity 9500 (3 nm)",
-                "ru": "Mediatek Dimensity 9500 (3 nm)",
-                "en": "Mediatek Dimensity 9500 (3 nm)"
+                "hy": "Snapdragon 6 Gen 5 (4 nm)",
+                "ru": "Snapdragon 6 Gen 5 (4 nm)",
+                "en": "Snapdragon 6 Gen 5 (4 nm)"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Այլ",
+            "ru": "Прочее",
+            "en": "Other"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Քաշ",
+                "ru": "Вес",
+                "en": "Weight"
+              },
+              "value": {
+                "hy": "229.5 g",
+                "ru": "229.5 g",
+                "en": "229.5 g"
               }
             }
           ]
@@ -19715,483 +20357,43 @@
         {
           "color": "Black",
           "storage": "256GB",
-          "ram": "12GB",
+          "ram": "8GB",
           "sim": null,
-          "price": 319000,
+          "price": 191000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
           "inStock": true
         },
         {
-          "color": "Deep Blue",
+          "color": "Cloud Blush",
           "storage": "256GB",
-          "ram": "12GB",
+          "ram": "8GB",
           "sim": null,
-          "price": 319000,
+          "price": 191000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60575/image/asvoedzph-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/61573/image/5-montaznaia-oblast-1.webp",
           "inStock": true
         },
         {
-          "color": "Deep Violet",
+          "color": "Green",
           "storage": "256GB",
-          "ram": "12GB",
+          "ram": "8GB",
           "sim": null,
-          "price": 319000,
+          "price": 191000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60576/image/sew2e-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/61574/image/3-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 191000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/61572/image/002-montaznaia-oblast-1.webp",
           "inStock": true
         }
-      ]
-    },
-    {
-      "id": "redmi-a7",
-      "brand": "Xiaomi",
-      "name": "Redmi A7",
-      "config": {
-        "hy": "6.88 inch",
-        "ru": "6.88 inch",
-        "en": "6.88 inch"
-      },
-      "price": 47000,
-      "oldPrice": null,
-      "monthly": 980,
-      "availability": "in-stock",
-      "art": "galaxy",
-      "image": null,
-      "sourceRef": {
-        "sku": "10782_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/r/e/redmia7.jpg",
-          "https://yerevanmobile.am/media/catalog/product/a/7/a7_purple_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/b/l/blue_6.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր",
-            "ru": "Общее",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "Android 15, up to 2 major Android upgrades",
-                "ru": "Android 15, up to 2 major Android upgrades",
-                "en": "Android 15, up to 2 major Android upgrades"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "6.88 inch",
-                "ru": "6.88 inch",
-                "en": "6.88 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "IPS LCD",
-                "ru": "IPS LCD",
-                "en": "IPS LCD"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "720 x 1640",
-                "ru": "720 x 1640",
-                "en": "720 x 1640"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Տեսախցիկներ",
-            "ru": "Камеры",
-            "en": "Cameras"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "13MP",
-                "ru": "13MP",
-                "en": "13MP"
-              }
-            },
-            {
-              "label": {
-                "hy": "Դիմային տեսախցիկ",
-                "ru": "Фронтальная камера",
-                "en": "Front camera"
-              },
-              "value": {
-                "hy": "8MP",
-                "ru": "8MP",
-                "en": "8MP"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Հիշողություն և պրոցեսոր",
-            "ru": "Память и процессор",
-            "en": "Memory & processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-                "ru": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-                "en": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հիշողության քարտի բնիկ",
-                "ru": "Слот для карты памяти",
-                "en": "Memory card slot"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "xiaomi"
-      ]
-    },
-    {
-      "id": "redmi-a7-pro-4g",
-      "brand": "Xiaomi",
-      "name": "Redmi A7 Pro 4G",
-      "config": {
-        "hy": "6.9 inch",
-        "ru": "6.9 inch",
-        "en": "6.9 inch"
-      },
-      "price": 53000,
-      "oldPrice": null,
-      "monthly": 1030,
-      "availability": "in-stock",
-      "art": "galaxy",
-      "image": null,
-      "sourceRef": {
-        "sku": "10757_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/a/7/a7_black.jpg",
-          "https://yerevanmobile.am/media/catalog/product/b/l/blue_5.jpg",
-          "https://yerevanmobile.am/media/catalog/product/a/7/a7_pro_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/5/1/51flw-u846l._ac_uf1000_1000_ql80_.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր",
-            "ru": "Общее",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "6.9 inch",
-                "ru": "6.9 inch",
-                "en": "6.9 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "IPS LCD",
-                "ru": "IPS LCD",
-                "en": "IPS LCD"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "720 x 1600",
-                "ru": "720 x 1600",
-                "en": "720 x 1600"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Տեսախցիկներ",
-            "ru": "Камеры",
-            "en": "Cameras"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "13MP",
-                "ru": "13MP",
-                "en": "13MP"
-              }
-            },
-            {
-              "label": {
-                "hy": "Դիմային տեսախցիկ",
-                "ru": "Фронтальная камера",
-                "en": "Front camera"
-              },
-              "value": {
-                "hy": "8MP",
-                "ru": "8MP",
-                "en": "8MP"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Հիշողություն և պրոցեսոր",
-            "ru": "Память и процессор",
-            "en": "Memory & processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-                "ru": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-                "en": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Unisoc T7250 (12 nm)",
-                "ru": "Unisoc T7250 (12 nm)",
-                "en": "Unisoc T7250 (12 nm)"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Սնուցում",
-            "ru": "Питание",
-            "en": "Power"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Մարտկոցի հզորություն",
-                "ru": "Ёмкость аккумулятора",
-                "en": "Battery capacity"
-              },
-              "value": {
-                "hy": "6000 mAh",
-                "ru": "6000 mAh",
-                "en": "6000 mAh"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "xiaomi"
       ]
     },
     {
@@ -20681,27 +20883,27 @@
       ]
     },
     {
-      "id": "redmi-17-4g",
+      "id": "poco-c81-pro",
       "brand": "Xiaomi",
-      "name": "Redmi 17 4G",
+      "name": "Poco C81 Pro",
       "config": {
         "hy": "6.9 inch",
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 69000,
+      "price": 58700,
       "oldPrice": null,
-      "monthly": 1440,
+      "monthly": 1000,
       "availability": "in-stock",
       "art": "galaxy",
       "image": null,
       "sourceRef": {
-        "sku": "10755_1",
+        "sku": "10752_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/1/7/17black.jpg",
-          "https://yerevanmobile.am/media/catalog/product/8/5/85_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-redmi-17_green.jpg",
-          "https://yerevanmobile.am/media/catalog/product/r/e/redmi_17_black_1_2__1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro.jpg",
+          "https://yerevanmobile.am/media/catalog/product/d/1/d1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro_black_3_2.jpg"
         ]
       },
       "specs": [
@@ -20755,18 +20957,6 @@
                 "hy": "Այո",
                 "ru": "Да",
                 "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "ՕՀ տեսակ",
-                "ru": "Тип ОС",
-                "en": "OS type"
-              },
-              "value": {
-                "hy": "Android 16, HyperOS 3",
-                "ru": "Android 16, HyperOS 3",
-                "en": "Android 16, HyperOS 3"
               }
             },
             {
@@ -20842,9 +21032,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50MP",
-                "ru": "50MP",
-                "en": "50MP"
+                "hy": "13MP",
+                "ru": "13MP",
+                "en": "13MP"
               }
             },
             {
@@ -20870,14 +21060,26 @@
           "attrs": [
             {
               "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+                "ru": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+                "en": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
+              }
+            },
+            {
+              "label": {
                 "hy": "Պրոցեսոր",
                 "ru": "Процессор",
                 "en": "Processor"
               },
               "value": {
-                "hy": "Mediatek Helio G91 Ultra (12 nm)",
-                "ru": "Mediatek Helio G91 Ultra (12 nm)",
-                "en": "Mediatek Helio G91 Ultra (12 nm)"
+                "hy": "Unisoc T7250 (12 nm)",
+                "ru": "Unisoc T7250 (12 nm)",
+                "en": "Unisoc T7250 (12 nm)"
               }
             }
           ]
@@ -20891,20 +21093,20 @@
           "attrs": [
             {
               "label": {
-                "hy": "Մարտկոցի տեսակ",
-                "ru": "Тип аккумулятора",
-                "en": "Battery type"
+                "hy": "Մարտկոցի հզորություն",
+                "ru": "Ёмкость аккумулятора",
+                "en": "Battery capacity"
               },
               "value": {
-                "hy": "Si/C Li-Ion",
-                "ru": "Si/C Li-Ion",
-                "en": "Si/C Li-Ion"
+                "hy": "6000 mAh",
+                "ru": "6000 mAh",
+                "en": "6000 mAh"
               }
             }
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "allsell",
       "creditPrice": null,
       "cats": [
         "xiaomi"
@@ -21799,26 +22001,27 @@
       "priceOnRequest": true
     },
     {
-      "id": "redmi-note-17",
+      "id": "poco-m8",
       "brand": "Xiaomi",
-      "name": "Redmi Note 17",
+      "name": "Poco M8",
       "config": {
-        "hy": "6.99 inch",
-        "ru": "6.99 inch",
-        "en": "6.99 inch"
+        "hy": "6.77 inch",
+        "ru": "6.77 inch",
+        "en": "6.77 inch"
       },
-      "price": 179000,
+      "price": 109000,
       "oldPrice": null,
-      "monthly": 3730,
-      "availability": "on-request",
+      "monthly": 2280,
+      "availability": "in-stock",
       "art": "galaxy",
       "image": null,
       "sourceRef": {
-        "sku": "Xiaomi Redmi Note 17",
+        "sku": "9670_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/a/6a8c58415b256.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/a/6a8c5a6158435.jpg",
-          "https://yerevanmobile.am/media/catalog/product/r/e/redmi_note_17_5g_6gb_128gb_celestial_purple_5_-570x570.jpg"
+          "https://yerevanmobile.am/media/catalog/product/7/1/71etpl4aofl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71eszgv75wl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71jpy8sli6l._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/p/o/pocoi_8.jpg"
         ]
       },
       "specs": [
@@ -21848,9 +22051,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
               }
             }
           ]
@@ -21867,6 +22070,30 @@
                 "hy": "Bluetooth",
                 "ru": "Bluetooth",
                 "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, upgradable to Android 16, HyperOS 3",
+                "ru": "Android 15, upgradable to Android 16, HyperOS 3",
+                "en": "Android 15, upgradable to Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
               },
               "value": {
                 "hy": "Այո",
@@ -21890,9 +22117,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "6.99 inch",
-                "ru": "6.99 inch",
-                "en": "6.99 inch"
+                "hy": "6.77 inch",
+                "ru": "6.77 inch",
+                "en": "6.77 inch"
               }
             },
             {
@@ -21914,9 +22141,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1080 x 2396",
-                "ru": "1080 x 2396",
-                "en": "1080 x 2396"
+                "hy": "1080 x 2392",
+                "ru": "1080 x 2392",
+                "en": "1080 x 2392"
               }
             }
           ]
@@ -21947,9 +22174,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "16MP",
-                "ru": "16MP",
-                "en": "16MP"
+                "hy": "20MP",
+                "ru": "20MP",
+                "en": "20MP"
               }
             }
           ]
@@ -21968,9 +22195,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
-                "ru": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
-                "en": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)"
+                "hy": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+                "ru": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+                "en": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)"
               }
             },
             {
@@ -21983,39 +22210,6 @@
                 "hy": "Այո",
                 "ru": "Да",
                 "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Snapdragon 4 Gen 4 (4 nm)",
-                "ru": "Snapdragon 4 Gen 4 (4 nm)",
-                "en": "Snapdragon 4 Gen 4 (4 nm)"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Սնուցում",
-            "ru": "Питание",
-            "en": "Power"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Մարտկոցի տեսակ",
-                "ru": "Тип аккумулятора",
-                "en": "Battery type"
-              },
-              "value": {
-                "hy": "Li-Ion",
-                "ru": "Li-Ion",
-                "en": "Li-Ion"
               }
             }
           ]
@@ -22205,230 +22399,28 @@
       ]
     },
     {
-      "id": "redmi-note-17-pro",
+      "id": "xiaomi-poco-m8-5g",
       "brand": "Xiaomi",
-      "name": "Redmi Note 17 Pro",
+      "name": "Poco M8 5G",
       "config": {
-        "hy": "6.83 inch",
-        "ru": "6.83 inch",
-        "en": "6.83 inch"
+        "hy": "",
+        "ru": "",
+        "en": ""
       },
-      "price": 94000,
+      "price": 102700,
       "oldPrice": null,
-      "monthly": 1960,
-      "availability": "on-request",
-      "art": "galaxy",
+      "monthly": null,
+      "creditPrice": 108900,
+      "availability": "in-stock",
+      "art": "accessory",
       "image": null,
+      "priceSource": "allsell",
       "sourceRef": {
-        "sku": "Xiaomi Redmi Note 17 Pro",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/5/7/5772457625.jpg",
-          "https://yerevanmobile.am/media/catalog/product/g/v/gvdfg.png",
-          "https://yerevanmobile.am/media/catalog/product/v/g/vgxfdgfd.png"
-        ]
+        "sku": null,
+        "imageUrls": [],
+        "url": "https://allsell.am/am/xiaomi-poco-m8-5g"
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր",
-            "ru": "Общее",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
-              },
-              "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "6.83 inch",
-                "ru": "6.83 inch",
-                "en": "6.83 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "AMOLED",
-                "ru": "AMOLED",
-                "en": "AMOLED"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "1280 x 2772",
-                "ru": "1280 x 2772",
-                "en": "1280 x 2772"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Տեսախցիկներ",
-            "ru": "Камеры",
-            "en": "Cameras"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Հիմնական տեսախցիկ",
-                "ru": "Основная камера",
-                "en": "Main camera"
-              },
-              "value": {
-                "hy": "50 MP + 8 MP",
-                "ru": "50 MP + 8 MP",
-                "en": "50 MP + 8 MP"
-              }
-            },
-            {
-              "label": {
-                "hy": "Դիմային տեսախցիկ",
-                "ru": "Фронтальная камера",
-                "en": "Front camera"
-              },
-              "value": {
-                "hy": "16MP",
-                "ru": "16MP",
-                "en": "16MP"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Հիշողություն և պրոցեսոր",
-            "ru": "Память и процессор",
-            "en": "Memory & processor"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
-                "ru": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
-                "en": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսոր",
-                "ru": "Процессор",
-                "en": "Processor"
-              },
-              "value": {
-                "hy": "Snapdragon 6s Gen 4 (4 nm)",
-                "ru": "Snapdragon 6s Gen 4 (4 nm)",
-                "en": "Snapdragon 6s Gen 4 (4 nm)"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Սնուցում",
-            "ru": "Питание",
-            "en": "Power"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Մարտկոցի տեսակ",
-                "ru": "Тип аккумулятора",
-                "en": "Battery type"
-              },
-              "value": {
-                "hy": "Li-Ion",
-                "ru": "Li-Ion",
-                "en": "Li-Ion"
-              }
-            },
-            {
-              "label": {
-                "hy": "Մարտկոցի հզորություն",
-                "ru": "Ёмкость аккумулятора",
-                "en": "Battery capacity"
-              },
-              "value": {
-                "hy": "8340 mAh",
-                "ru": "8340 mAh",
-                "en": "8340 mAh"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "specs": [],
       "cats": [
         "xiaomi"
       ]
@@ -23052,24 +23044,27 @@
       ]
     },
     {
-      "id": "redmi-note-17-pro-max",
+      "id": "poco-m8-pro",
       "brand": "Xiaomi",
-      "name": "Redmi Note 17 Pro Max",
+      "name": "Poco M8 Pro",
       "config": {
         "hy": "6.83 inch",
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 191000,
+      "price": 159000,
       "oldPrice": null,
-      "monthly": 1960,
-      "availability": "on-request",
+      "monthly": 3320,
+      "availability": "in-stock",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
+      "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
       "sourceRef": {
-        "sku": "Xiaomi Redmi Note 17 Pro Max",
+        "sku": "9665_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/a/6a8d6a33ac521.jpg"
+          "https://yerevanmobile.am/media/catalog/product/7/1/71q_2rh1i8l._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/719gilqw1gl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/m/8/m8_poro_xiaomi.jpg",
+          "https://yerevanmobile.am/media/catalog/product/3/4/34639945_1.jpg"
         ]
       },
       "specs": [
@@ -23118,6 +23113,30 @@
                 "hy": "Bluetooth",
                 "ru": "Bluetooth",
                 "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+                "ru": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+                "en": "Android 15, up to 4 major Android upgrades, HyperOS 2"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
               },
               "value": {
                 "hy": "Այո",
@@ -23214,47 +23233,35 @@
           "attrs": [
             {
               "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-                "ru": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-                "en": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
-              }
-            },
-            {
-              "label": {
                 "hy": "Պրոցեսոր",
                 "ru": "Процессор",
                 "en": "Processor"
               },
               "value": {
-                "hy": "Snapdragon 6 Gen 5 (4 nm)",
-                "ru": "Snapdragon 6 Gen 5 (4 nm)",
-                "en": "Snapdragon 6 Gen 5 (4 nm)"
+                "hy": "Snapdragon 7s Gen 4 (4 nm)",
+                "ru": "Snapdragon 7s Gen 4 (4 nm)",
+                "en": "Snapdragon 7s Gen 4 (4 nm)"
               }
             }
           ]
         },
         {
           "title": {
-            "hy": "Այլ",
-            "ru": "Прочее",
-            "en": "Other"
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
           },
           "attrs": [
             {
               "label": {
-                "hy": "Քաշ",
-                "ru": "Вес",
-                "en": "Weight"
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
               },
               "value": {
-                "hy": "229.5 g",
-                "ru": "229.5 g",
-                "en": "229.5 g"
+                "hy": "Si/C Li-Ion",
+                "ru": "Si/C Li-Ion",
+                "en": "Si/C Li-Ion"
               }
             }
           ]
@@ -23268,42 +23275,32 @@
       "variants": [
         {
           "color": "Black",
-          "storage": "256GB",
-          "ram": "8GB",
+          "storage": "512GB",
+          "ram": "12GB",
           "sim": null,
-          "price": 191000,
+          "price": 159000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
-          "inStock": true
-        },
-        {
-          "color": "Cloud Blush",
-          "storage": "256GB",
-          "ram": "8GB",
-          "sim": null,
-          "price": 191000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61573/image/5-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
           "inStock": true
         },
         {
           "color": "Green",
-          "storage": "256GB",
-          "ram": "8GB",
+          "storage": "512GB",
+          "ram": "12GB",
           "sim": null,
-          "price": 191000,
+          "price": 159000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61574/image/3-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/59908/image/q2w3er-montaznaia-oblast-1.jpg",
           "inStock": true
         },
         {
-          "color": "Purple",
-          "storage": "256GB",
-          "ram": "8GB",
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "12GB",
           "sim": null,
-          "price": 191000,
+          "price": 159000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61572/image/002-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/59909/image/e34-montaznaia-oblast-1-1.webp",
           "inStock": true
         }
       ]
@@ -23951,27 +23948,26 @@
       ]
     },
     {
-      "id": "poco-c81-pro",
+      "id": "poco-x8-pro",
       "brand": "Xiaomi",
-      "name": "Poco C81 Pro",
+      "name": "Poco X8 Pro",
       "config": {
-        "hy": "6.9 inch",
-        "ru": "6.9 inch",
-        "en": "6.9 inch"
+        "hy": "6.59 inch",
+        "ru": "6.59 inch",
+        "en": "6.59 inch"
       },
-      "price": 58700,
+      "price": 159000,
       "oldPrice": null,
-      "monthly": 1000,
+      "monthly": 3320,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": null,
+      "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
       "sourceRef": {
-        "sku": "10752_1",
+        "sku": "10298_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro.jpg",
-          "https://yerevanmobile.am/media/catalog/product/d/1/d1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro_black_3_2.jpg"
+          "https://yerevanmobile.am/media/catalog/product/p/r/pro_x8.jpg2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/p/r/pro_x8.jpg1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/p/r/pro_x8.jpg"
         ]
       },
       "specs": [
@@ -24029,6 +24025,18 @@
             },
             {
               "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
+              }
+            },
+            {
+              "label": {
                 "hy": "Wi-Fi",
                 "ru": "Wi-Fi",
                 "en": "Wi-Fi"
@@ -24055,9 +24063,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "6.9 inch",
-                "ru": "6.9 inch",
-                "en": "6.9 inch"
+                "hy": "6.59 inch",
+                "ru": "6.59 inch",
+                "en": "6.59 inch"
               }
             },
             {
@@ -24067,9 +24075,9 @@
                 "en": "Screen type"
               },
               "value": {
-                "hy": "IPS LCD",
-                "ru": "IPS LCD",
-                "en": "IPS LCD"
+                "hy": "AMOLED",
+                "ru": "AMOLED",
+                "en": "AMOLED"
               }
             },
             {
@@ -24079,9 +24087,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "720 x 1600",
-                "ru": "720 x 1600",
-                "en": "720 x 1600"
+                "hy": "1268 x 2756",
+                "ru": "1268 x 2756",
+                "en": "1268 x 2756"
               }
             }
           ]
@@ -24100,9 +24108,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "13MP",
-                "ru": "13MP",
-                "en": "13MP"
+                "hy": "50 MP + 8 MP",
+                "ru": "50 MP + 8 MP",
+                "en": "50 MP + 8 MP"
               }
             },
             {
@@ -24112,9 +24120,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "8MP",
-                "ru": "8MP",
-                "en": "8MP"
+                "hy": "20MP",
+                "ru": "20MP",
+                "en": "20MP"
               }
             }
           ]
@@ -24133,9 +24141,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-                "ru": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-                "en": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
+                "hy": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+                "ru": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+                "en": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)"
               }
             },
             {
@@ -24145,39 +24153,90 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Unisoc T7250 (12 nm)",
-                "ru": "Unisoc T7250 (12 nm)",
-                "en": "Unisoc T7250 (12 nm)"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Սնուցում",
-            "ru": "Питание",
-            "en": "Power"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Մարտկոցի հզորություն",
-                "ru": "Ёмкость аккумулятора",
-                "en": "Battery capacity"
-              },
-              "value": {
-                "hy": "6000 mAh",
-                "ru": "6000 mAh",
-                "en": "6000 mAh"
+                "hy": "Mediatek Dimensity 8500 Ultra (4 nm)",
+                "ru": "Mediatek Dimensity 8500 Ultra (4 nm)",
+                "en": "Mediatek Dimensity 8500 Ultra (4 nm)"
               }
             }
           ]
         }
       ],
-      "priceSource": "allsell",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "xiaomi"
+      ],
+      "variants": [
+        {
+          "color": "Mint Green",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 159000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60339/image/pro-x8jpg2-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 174000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60139/image/esrw-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Mint Green",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60264/image/dr5-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "Mint Green",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 174000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60140/image/dwq-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "12GB",
+          "sim": "sim-esim",
+          "price": 189000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60234/image/22-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "8GB",
+          "sim": "sim-esim",
+          "price": 174000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60141/image/dr322-montaznaia-oblast-1.webp",
+          "inStock": true
+        }
       ]
     },
     {
@@ -24312,27 +24371,27 @@
       ]
     },
     {
-      "id": "poco-m8-pro",
+      "id": "poco-x8-pro-max",
       "brand": "Xiaomi",
-      "name": "Poco M8 Pro",
+      "name": "Poco X8 Pro Max",
       "config": {
         "hy": "6.83 inch",
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 159000,
+      "price": 209000,
       "oldPrice": null,
-      "monthly": 3320,
+      "monthly": 4360,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
+      "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
       "sourceRef": {
-        "sku": "9665_1",
+        "sku": "10297__1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71q_2rh1i8l._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/719gilqw1gl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/8/m8_poro_xiaomi.jpg",
-          "https://yerevanmobile.am/media/catalog/product/3/4/34639945_1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/6/1/61kb-504oul._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/610ars_i0tl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61pnxludvzl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/n/x/nx_8753.jpg"
         ]
       },
       "specs": [
@@ -24395,9 +24454,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "Android 15, up to 4 major Android upgrades, HyperOS 2",
-                "ru": "Android 15, up to 4 major Android upgrades, HyperOS 2",
-                "en": "Android 15, up to 4 major Android upgrades, HyperOS 2"
+                "hy": "Android 16, HyperOS 3",
+                "ru": "Android 16, HyperOS 3",
+                "en": "Android 16, HyperOS 3"
               }
             },
             {
@@ -24473,9 +24532,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50MP+8MP",
-                "ru": "50MP+8MP",
-                "en": "50MP+8MP"
+                "hy": "50 MP + 8 MP",
+                "ru": "50 MP + 8 MP",
+                "en": "50 MP + 8 MP"
               }
             },
             {
@@ -24485,9 +24544,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "32MP",
-                "ru": "32MP",
-                "en": "32MP"
+                "hy": "20MP",
+                "ru": "20MP",
+                "en": "20MP"
               }
             }
           ]
@@ -24501,35 +24560,26 @@
           "attrs": [
             {
               "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+                "ru": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+                "en": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)"
+              }
+            },
+            {
+              "label": {
                 "hy": "Պրոցեսոր",
                 "ru": "Процессор",
                 "en": "Processor"
               },
               "value": {
-                "hy": "Snapdragon 7s Gen 4 (4 nm)",
-                "ru": "Snapdragon 7s Gen 4 (4 nm)",
-                "en": "Snapdragon 7s Gen 4 (4 nm)"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Սնուցում",
-            "ru": "Питание",
-            "en": "Power"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Մարտկոցի տեսակ",
-                "ru": "Тип аккумулятора",
-                "en": "Battery type"
-              },
-              "value": {
-                "hy": "Si/C Li-Ion",
-                "ru": "Si/C Li-Ion",
-                "en": "Si/C Li-Ion"
+                "hy": "Mediatek Dimensity 9500s (3 nm)",
+                "ru": "Mediatek Dimensity 9500s (3 nm)",
+                "en": "Mediatek Dimensity 9500s (3 nm)"
               }
             }
           ]
@@ -24542,33 +24592,23 @@
       ],
       "variants": [
         {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "12GB",
+          "sim": null,
+          "price": 209000,
+          "credit": null,
+          "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
+          "inStock": true
+        },
+        {
           "color": "Black",
-          "storage": "512GB",
+          "storage": "256GB",
           "ram": "12GB",
-          "sim": null,
-          "price": 159000,
+          "sim": "sim-esim",
+          "price": 209000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Green",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 159000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59908/image/q2w3er-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Silver",
-          "storage": "512GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 159000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59909/image/e34-montaznaia-oblast-1-1.webp",
+          "image": "https://admin.redstore.am/storage/products/60369/image/cuk-montaznaia-oblast-1.webp",
           "inStock": true
         }
       ]
@@ -24943,26 +24983,26 @@
       "priceOnRequest": true
     },
     {
-      "id": "poco-x8-pro",
+      "id": "poco-f8-pro",
       "brand": "Xiaomi",
-      "name": "Poco X8 Pro",
+      "name": "Poco F8 Pro",
       "config": {
         "hy": "6.59 inch",
         "ru": "6.59 inch",
         "en": "6.59 inch"
       },
-      "price": 159000,
+      "price": 279000,
       "oldPrice": null,
-      "monthly": 3320,
+      "monthly": 5820,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
+      "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
       "sourceRef": {
-        "sku": "10298_1",
+        "sku": "9449_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/p/r/pro_x8.jpg2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/p/r/pro_x8.jpg1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/p/r/pro_x8.jpg"
+          "https://yerevanmobile.am/media/catalog/product/f/8/f8.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61tpiowagrl._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/6/1/61jeexmpnsl._ac_sl1500_.jpg"
         ]
       },
       "specs": [
@@ -24992,9 +25032,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
               }
             }
           ]
@@ -25020,6 +25060,18 @@
             },
             {
               "label": {
+                "hy": "NFC",
+                "ru": "NFC",
+                "en": "NFC"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
                 "hy": "ՕՀ տեսակ",
                 "ru": "Тип ОС",
                 "en": "OS type"
@@ -25028,18 +25080,6 @@
                 "hy": "Android 16, HyperOS 3",
                 "ru": "Android 16, HyperOS 3",
                 "en": "Android 16, HyperOS 3"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
               }
             }
           ]
@@ -25082,9 +25122,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1268 x 2756",
-                "ru": "1268 x 2756",
-                "en": "1268 x 2756"
+                "hy": "1156 x 2510",
+                "ru": "1156 x 2510",
+                "en": "1156 x 2510"
               }
             }
           ]
@@ -25103,9 +25143,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50 MP + 8 MP",
-                "ru": "50 MP + 8 MP",
-                "en": "50 MP + 8 MP"
+                "hy": "50MP+50MP+8MP",
+                "ru": "50MP+50MP+8MP",
+                "en": "50MP+50MP+8MP"
               }
             },
             {
@@ -25136,9 +25176,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
-                "ru": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
-                "en": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)"
+                "hy": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+                "ru": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+                "en": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
               }
             },
             {
@@ -25148,9 +25188,9 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Mediatek Dimensity 8500 Ultra (4 nm)",
-                "ru": "Mediatek Dimensity 8500 Ultra (4 nm)",
-                "en": "Mediatek Dimensity 8500 Ultra (4 nm)"
+                "hy": "Snapdragon 8 Elite (3 nm)",
+                "ru": "Snapdragon 8 Elite (3 nm)",
+                "en": "Snapdragon 8 Elite (3 nm)"
               }
             }
           ]
@@ -25163,73 +25203,33 @@
       ],
       "variants": [
         {
-          "color": "Mint Green",
-          "storage": "256GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 159000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
-          "inStock": true
-        },
-        {
-          "color": "White",
-          "storage": "256GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 159000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60339/image/pro-x8jpg2-1.webp",
-          "inStock": true
-        },
-        {
           "color": "Black",
           "storage": "512GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 174000,
+          "ram": "12GB",
+          "sim": null,
+          "price": 279000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60139/image/esrw-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
           "inStock": true
         },
         {
-          "color": "Mint Green",
+          "color": "Blue",
           "storage": "512GB",
           "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 189000,
+          "sim": null,
+          "price": 279000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60264/image/dr5-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/59048/image/zadfe-montaznaia-oblast-1.jpg",
           "inStock": true
         },
         {
-          "color": "Mint Green",
-          "storage": "512GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 174000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60140/image/dwq-montaznaia-oblast-1.webp",
-          "inStock": true
-        },
-        {
-          "color": "White",
+          "color": "Titanium Silver",
           "storage": "512GB",
           "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 189000,
+          "sim": null,
+          "price": 279000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60234/image/22-montaznaia-oblast-1.webp",
-          "inStock": true
-        },
-        {
-          "color": "White",
-          "storage": "512GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 174000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60141/image/dr322-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/59049/image/zsawe-montaznaia-oblast-1.jpg",
           "inStock": true
         }
       ]
@@ -25297,27 +25297,27 @@
       ]
     },
     {
-      "id": "poco-x8-pro-max",
+      "id": "poco-f8-ultra",
       "brand": "Xiaomi",
-      "name": "Poco X8 Pro Max",
+      "name": "Poco F8 Ultra",
       "config": {
-        "hy": "6.83 inch",
-        "ru": "6.83 inch",
-        "en": "6.83 inch"
+        "hy": "6.9 inch",
+        "ru": "6.9 inch",
+        "en": "6.9 inch"
       },
-      "price": 209000,
+      "price": 369000,
       "oldPrice": null,
-      "monthly": 4360,
+      "monthly": 6230,
       "availability": "in-stock",
       "art": "galaxy",
-      "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
+      "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
       "sourceRef": {
-        "sku": "10297__1",
+        "sku": "9664_1",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61kb-504oul._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/610ars_i0tl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/1/61pnxludvzl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/n/x/nx_8753.jpg"
+          "https://yerevanmobile.am/media/catalog/product/8/1/81vyf7r2dll._ac_uf894_1000_ql80_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/7/1/71lwpzjv4ql._ac_sl1500_.jpg",
+          "https://yerevanmobile.am/media/catalog/product/i/j/ijpg.jpg",
+          "https://yerevanmobile.am/media/catalog/product/f/8/f8_ultr.jpg"
         ]
       },
       "specs": [
@@ -25347,9 +25347,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
               }
             }
           ]
@@ -25413,9 +25413,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "6.83 inch",
-                "ru": "6.83 inch",
-                "en": "6.83 inch"
+                "hy": "6.9 inch",
+                "ru": "6.9 inch",
+                "en": "6.9 inch"
               }
             },
             {
@@ -25437,9 +25437,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1280 x 2772",
-                "ru": "1280 x 2772",
-                "en": "1280 x 2772"
+                "hy": "1200 x 2608",
+                "ru": "1200 x 2608",
+                "en": "1200 x 2608"
               }
             }
           ]
@@ -25458,9 +25458,9 @@
                 "en": "Main camera"
               },
               "value": {
-                "hy": "50 MP + 8 MP",
-                "ru": "50 MP + 8 MP",
-                "en": "50 MP + 8 MP"
+                "hy": "50MP+50MP+50MP",
+                "ru": "50MP+50MP+50MP",
+                "en": "50MP+50MP+50MP"
               }
             },
             {
@@ -25470,9 +25470,9 @@
                 "en": "Front camera"
               },
               "value": {
-                "hy": "20MP",
-                "ru": "20MP",
-                "en": "20MP"
+                "hy": "32MP",
+                "ru": "32MP",
+                "en": "32MP"
               }
             }
           ]
@@ -25491,9 +25491,9 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
-                "ru": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
-                "en": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)"
+                "hy": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+                "ru": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+                "en": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)"
               }
             },
             {
@@ -25503,9 +25503,9 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Mediatek Dimensity 9500s (3 nm)",
-                "ru": "Mediatek Dimensity 9500s (3 nm)",
-                "en": "Mediatek Dimensity 9500s (3 nm)"
+                "hy": "Snapdragon 8 Elite Gen 5 (3 nm)",
+                "ru": "Snapdragon 8 Elite Gen 5 (3 nm)",
+                "en": "Snapdragon 8 Elite Gen 5 (3 nm)"
               }
             }
           ]
@@ -25518,23 +25518,23 @@
       ],
       "variants": [
         {
-          "color": "White",
-          "storage": "256GB",
-          "ram": "12GB",
-          "sim": null,
-          "price": 209000,
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "16GB",
+          "sim": "sim-esim",
+          "price": 369000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
           "inStock": true
         },
         {
-          "color": "Black",
-          "storage": "256GB",
-          "ram": "12GB",
+          "color": "Blue",
+          "storage": "512GB",
+          "ram": "16GB",
           "sim": "sim-esim",
-          "price": 209000,
+          "price": 369000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60369/image/cuk-montaznaia-oblast-1.webp",
+          "image": "https://admin.redstore.am/storage/products/60291/image/wew-montaznaia-oblast-1.webp",
           "inStock": true
         }
       ]
