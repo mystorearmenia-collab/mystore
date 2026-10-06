@@ -2818,27 +2818,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-partybox-ultimate-wifi-bk",
+      "id": "jbl-wave-beam",
       "brand": "JBL",
-      "name": "PartyBox Ultimate Wifi BK",
+      "name": "Wave Beam",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 649900,
+      "price": 23900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680",
+      "images": [
+        "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-partybox-ultimate-wifi-speaker-bk"
+        "url": "https://dk.jbl.com/JBLWBEAMBLK.html",
+        "imageUrls": [
+          "https://dk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe18df33/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png?sh=680&sw=680"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
@@ -6205,27 +6209,31 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-partybox-710",
+      "id": "jbl-wave-beam-2",
       "brand": "JBL",
-      "name": "PartyBox 710",
+      "name": "Wave Beam 2",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 440900,
+      "price": 34900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680",
+      "images": [
+        "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-partybox-710-portable-bt"
+        "url": "https://www.yerevanmobile.am/en/jbl-wave-beam-2.html",
+        "imageUrls": [
+          "https://fi.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31f92b42/LS_JBL_Wave_Beam%202_Box%20Image_Side_Black.png?sh=680&sw=680"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
@@ -8708,27 +8716,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-partybox-310",
+      "id": "jbl-wave-300tws",
       "brand": "JBL",
-      "name": "PartyBox 310",
+      "name": "Wave 300TWS",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 374900,
+      "price": 29900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg",
+      "images": [
+        "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-partybox-310-portable-bt"
+        "url": "https://www.navod-k-obsluze.cz/sluchatka-jbl-wave-300tws-cerna-107763-navod",
+        "imageUrls": [
+          "https://www.navod-k-obsluze.cz/p/108/sluchatka-jbl-wave-300tws-cerna-107763.jpg"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
@@ -9499,27 +9511,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-bar-800-5-1-soundbar-surround-multibeam-",
+      "id": "jbl-t280tws-x2",
       "brand": "JBL",
-      "name": "Bar 800 5.1 Soundbar Surround Multibeam D. Atmos",
+      "name": "T280TWS X2",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 359900,
+      "price": 21900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763",
+      "images": [
+        "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-bar-800-5-1-soundbar-surround-multibeam-d-atmos"
+        "url": "https://techcent.vn/tai-nghe-jbl-t280tws-x2-chinh-hang",
+        "imageUrls": [
+          "https://bizweb.dktcdn.net/thumb/grande/100/464/221/products/e15d3a80734e37814e8b43c3b93a0cae.png?v=1769412501763"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
@@ -15601,27 +15617,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-bar-500-pro-5-1-soundbar-with-multibeam-",
+      "id": "jbl-wave-200tws",
       "brand": "JBL",
-      "name": "Bar 500 Pro 5.1 Soundbar with Multibeam Dolby Atmos",
+      "name": "Wave 200TWS",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 279000,
+      "price": 19900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://yerevanmobile.am/media/catalog/product/5/1/512wyt8b0gl._ac_sl1500_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/5/1/512wyt8b0gl._ac_sl1500_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-bar-500-pro-5-1-soundbar-with-multibeam-dolby-atmos"
+        "url": "https://www.yerevanmobile.am/en/jbl-wave-200tws.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/5/1/512wyt8b0gl._ac_sl1500_.jpg"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
@@ -17884,52 +17904,34 @@
       ]
     },
     {
-      "id": "jbl-jbl-boombox-4",
+      "id": "jbl-tune-720bt",
       "brand": "JBL",
-      "name": "BoomBox 4",
+      "name": "Tune 720BT",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 239000,
+      "price": 29900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://admin.redstore.am/storage/products/58527/image/photoroom-20251206-110248.webp",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-boombox-4"
+        "url": "https://www.yerevanmobile.am/en/jbl-tune-720bt.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61el2akkcbl._ac_sl1500__1.jpg"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Blue",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 239000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/58527/image/photoroom-20251206-110248.webp",
-          "inStock": true
-        },
-        {
-          "color": "Squad",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 239000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/products/58526/image/photoroom-20251206-110146.webp",
-          "inStock": true
-        }
       ]
     },
     {
@@ -18039,27 +18041,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-boombox-2",
+      "id": "jbl-tune-520bt",
       "brand": "JBL",
-      "name": "Boombox 2",
+      "name": "Tune 520BT",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Чёрный",
+        "en": "Black",
+        "hy": "Սեւ"
       },
-      "price": 206990,
+      "price": 24900,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "earbuds",
+      "image": "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-boombox-2"
+        "url": "https://www.yerevanmobile.am/en/jbl-tune-520bt.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/t/u/tune_520_bl_1.jpg"
+        ]
       },
+      "priceSource": "user",
       "specs": [],
       "cats": [
         "audio"
@@ -21423,27 +21429,31 @@
       "cats": []
     },
     {
-      "id": "jbl-jbl-partybox-encore-essential",
+      "id": "jbl-jbl-go5",
       "brand": "JBL",
-      "name": "PartyBox Encore Essential",
+      "name": "Go 5",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 154900,
+      "price": 25000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-partybox-encore-essential-portable"
+        "url": "https://www.yerevanmobile.am/en/jbl-go-5.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/716d1hfulll._ac_sl1500_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-go-5.html",
       "specs": [],
       "cats": [
         "audio"
@@ -22248,27 +22258,31 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-authentics-200",
+      "id": "jbl-jbl-xtreme4",
       "brand": "JBL",
-      "name": "Authentics 200",
+      "name": "Xtreme 4",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 139900,
+      "price": 119000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71mgokkrbcl._ac_sl1500__1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/7/1/71mgokkrbcl._ac_sl1500__1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-authentics-200-smart-home-speaker-with-wifi"
+        "url": "https://www.yerevanmobile.am/en/jbl-xtreme-4.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71mgokkrbcl._ac_sl1500__1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-xtreme-4.html",
       "specs": [],
       "cats": [
         "audio"
@@ -22943,27 +22957,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-xtreme4",
+      "id": "jbl-jbl-charge6",
       "brand": "JBL",
-      "name": "Xtreme4",
+      "name": "Charge 6",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 127000,
+      "price": 64000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-xtreme4-portable-wireless-speaker"
+        "url": "https://www.yerevanmobile.am/en/jbl-charge-6.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71oac2l15tl._ac_sl1500__1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-charge-6.html",
       "specs": [],
       "cats": [
         "audio"
@@ -23252,27 +23270,31 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-pulse-5",
+      "id": "jbl-jbl-boombox-4",
       "brand": "JBL",
-      "name": "Pulse 5",
+      "name": "Boombox 4",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 124900,
+      "price": 219000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-pulse-5-portable-bt"
+        "url": "https://www.yerevanmobile.am/en/jbl-boombox-4.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/8/1/81wwx8n42kl._ac_sl1500_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-boombox-4.html",
       "specs": [],
       "cats": [
         "audio"
@@ -26620,27 +26642,33 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-live-770nc-over-ear-noise-cancelling",
+      "id": "jbl-jbl-authentics-200",
       "brand": "JBL",
-      "name": "Live 770NC Over-Ear Noise Cancelling",
+      "name": "Authentics 200",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 80900,
+      "price": 129000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/2/0/200.jpg1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/2/0/200.jpg2.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-live-770nc-wireless-over-ear-noise-cancelling-headphones"
+        "url": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-200.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/2/0/200_1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-200.html",
       "specs": [],
       "cats": [
         "audio"
@@ -26805,54 +26833,65 @@
       ]
     },
     {
-      "id": "jbl-jbl-tour-pro-tws",
+      "id": "jbl-easysing-mic",
       "brand": "JBL",
-      "name": "Tour Pro+ TWS",
+      "name": "EasySing Mic",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 69900,
+      "price": 69000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "earbuds",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-tour-pro-tws"
+        "url": "https://www.yerevanmobile.am/en/jbl-easysing-mic.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/61ycyyqlwxl.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-easysing-mic.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "jbl-jbl-quantum-610-gaming",
+      "id": "jbl-jbl-pulse-5",
       "brand": "JBL",
-      "name": "Quantum 610 Gaming",
+      "name": "Pulse 5",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 69900,
+      "price": 99000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png",
+        "https://yerevanmobile.am/media/catalog/product/2/d/2d66d395-38cb-458a-83a6-f8450fc59406.c394dffbaa42381bbf892eb4688a44b4_1_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/f/2/f27fa558-8fb5-457d-b9c2-f5137bacfc0b.92991027d2d1c362c0827c8e2fbc769d.jpg",
+        "https://yerevanmobile.am/media/catalog/product/6/b/6bb1df33-ef59-4d58-99f6-159ac7bdf313.a85276b76940dee5e9c81e97de49a058.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-quantum-610-wireless-gaming-headphone"
+        "url": "https://www.yerevanmobile.am/en/jbl-pulse-5.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_pulse_5_1.png"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-pulse-5.html",
       "specs": [],
       "cats": [
         "audio"
@@ -27532,27 +27571,31 @@
       "priceOnRequest": true
     },
     {
-      "id": "jbl-jbl-charge6",
+      "id": "jbl-jbl-flip-7",
       "brand": "JBL",
-      "name": "Charge6",
+      "name": "Flip 7",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 61950,
+      "price": 48000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-charge6-splasproof-portable-bt-speaker"
+        "url": "https://www.yerevanmobile.am/en/jbl-flip-7.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/q/w/qweqewqwqqwqwrqwqwewqw.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-flip-7.html",
       "specs": [],
       "cats": [
         "audio"
@@ -27922,82 +27965,34 @@
       ]
     },
     {
-      "id": "jbl-jbl-flip-7",
+      "id": "jbl-clip-5",
       "brand": "JBL",
-      "name": "Flip 7",
+      "name": "Clip 5",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 53000,
+      "price": 24000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8313.jpeg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-flip-7"
+        "url": "https://www.yerevanmobile.am/en/jbl-clip-5.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/c/l/clip_5.jpg7_2.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-clip-5.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Pink",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 53000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8313.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Red",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 53000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8315.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Sand",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 53000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/phdzjtuyevurio-montaznaia-oblast-1.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Squad",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 53000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8371.jpg",
-          "inStock": true
-        },
-        {
-          "color": "White",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 53000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8317.jpeg",
-          "inStock": true
-        }
       ]
     },
     {
@@ -28078,27 +28073,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-quantum-350",
+      "id": "jbl-partybox-720",
       "brand": "JBL",
-      "name": "Quantum 350",
+      "name": "PartyBox 720",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 54900,
+      "price": 339000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-quantum-350"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-720.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/8/1/81bc3-ptutl._ac_sl1500_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-720.html",
       "specs": [],
       "cats": [
         "audio"
@@ -28591,27 +28590,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-live-670nc-over-ear-noise-cancelling",
+      "id": "jbl-partybox-320",
       "brand": "JBL",
-      "name": "Live 670NC Over-Ear Noise Cancelling",
+      "name": "PartyBox Stage 320",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 50900,
+      "price": 205000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-live-670nc-wireless-over-ear-noise-cancelling-headphones"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-320.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_2.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-320.html",
       "specs": [],
       "cats": [
         "audio"
@@ -28726,102 +28729,34 @@
       ]
     },
     {
-      "id": "jbl-jbl-flip-6",
+      "id": "jbl-partybox-520",
       "brand": "JBL",
-      "name": "Flip 6",
+      "name": "PartyBox 520",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 39000,
+      "price": 255000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8308.jpeg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-flip-6-waterproof-portable-bt"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-520.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/5/2/520_2.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-520.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Green",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 42000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8304.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Grey",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 42000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8305.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Martin Garrix",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 42000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8306.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Pink",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 42000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8307.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Squad",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 39000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8308.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "Teal",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 42000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8309.jpeg",
-          "inStock": true
-        },
-        {
-          "color": "White",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 42000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8310.jpeg",
-          "inStock": true
-        }
       ]
     },
     {
@@ -29860,27 +29795,31 @@
       ]
     },
     {
-      "id": "jbl-jbl-jr300bt",
+      "id": "jbl-partybox-120",
       "brand": "JBL",
-      "name": "JR300BT",
+      "name": "PartyBox Club 120",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 39900,
+      "price": 159000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-jr300bt"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-120.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/j/b/jbl_partybox_stage_320_front_47941_x1_1_1.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-120.html",
       "specs": [],
       "cats": [
         "audio"
@@ -30173,81 +30112,95 @@
       ]
     },
     {
-      "id": "jbl-jbl-go5",
+      "id": "jbl-partybox-330",
       "brand": "JBL",
-      "name": "Go5",
+      "name": "PartyBox 330",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 25900,
+      "price": 289000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-go5"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-330.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/9/1/91xzab_hhdl._ac_uf894_1000_ql80_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-330.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "jbl-jbl-quantum-100m2",
+      "id": "jbl-partybox-130",
       "brand": "JBL",
-      "name": "Quantum 100M2",
+      "name": "PartyBox 130",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 23900,
+      "price": 219000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-quantum-100m2-black"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-130.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/8/1/81fqjekgrql._ac_uf894_1000_ql80_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-130.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "jbl-jbl-go-4",
+      "id": "jbl-jbl-partybox-ultimate-wifi-bk",
       "brand": "JBL",
-      "name": "Go 4",
+      "name": "PartyBox Ultimate",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 22900,
+      "price": 539000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-go-4-portable-wireless-speaker"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-ultimate.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/u/l/ultimate.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-ultimate.html",
       "specs": [],
       "cats": [
         "audio"
@@ -30674,54 +30627,65 @@
       ]
     },
     {
-      "id": "jbl-jbl-t310c-usb-c-wired-earphones",
+      "id": "jbl-partybox-encore-2-with-microphone",
       "brand": "JBL",
-      "name": "T310C USB-C Wired Earphones",
+      "name": "PartyBox Encore 2 with Microphone",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 10900,
+      "price": 154000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "speaker",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-t310c-usb-c-wired-earphones"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-encore-2-with-microphone.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/7/1/71jj_82xrvl._uf1000_1000_ql80_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-encore-2-with-microphone.html",
       "specs": [],
       "cats": [
         "audio"
       ]
     },
     {
-      "id": "jbl-jbl-tune-305c-usb-c-wired-in-ear-hi-red-head",
+      "id": "jbl-speaker-authentics-300",
       "brand": "JBL",
-      "name": "Tune 305C USB-C Wired In-Ear Hi-Red Headphone",
+      "name": "Authentics 300",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 10900,
+      "price": 179000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg1.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-tune-305c-usb-c-wired-in-ear-hi-red-headphone"
+        "url": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-300.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/3/0/300.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-speaker-authentics-300.html",
       "specs": [],
       "cats": [
         "audio"
@@ -30780,66 +30744,63 @@
       ]
     },
     {
-      "id": "jbl-jbl-jr310",
+      "id": "jbl-microphone-portable-digital-wireless-mic-300",
       "brand": "JBL",
-      "name": "JR310",
+      "name": "Wireless Mic 300",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 11000,
+      "price": 57000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/16/img-6786.jpg",
-      "priceSource": "redstore",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-jr310-kids-on-ear-headphones"
+        "url": "https://www.yerevanmobile.am/en/jbl-microphone-portable-digital-wireless-mic-300.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/0/c/0c6975d81c42666ec58879c9e6040075-hi.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-microphone-portable-digital-wireless-mic-300.html",
       "specs": [],
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Blue",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 11000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/16/img-6786.jpg",
-          "inStock": true
-        }
       ]
     },
     {
-      "id": "jbl-jbl-tune-110",
+      "id": "jbl-partybox-on-the-go-2",
       "brand": "JBL",
-      "name": "Tune 110",
+      "name": "PartyBox On-The-Go 2",
       "config": {
         "hy": "",
         "ru": "",
         "en": ""
       },
-      "price": 5900,
+      "price": 155000,
+      "creditPrice": null,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
-      "availability": "in-stock",
-      "art": "headphones",
-      "image": null,
-      "priceSource": "allsell",
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/7/1/714rxazx_ll._ac_sl1500_.jpg"
+      ],
       "sourceRef": {
-        "sku": null,
-        "imageUrls": [],
-        "url": "https://allsell.am/am/jbl-tune-110"
+        "url": "https://www.yerevanmobile.am/en/jbl-partybox-on-the-go-2.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/6/1/618nde5nj2l._ac_sl1280_.jpg"
+        ]
       },
+      "priceSource": "https://www.yerevanmobile.am/en/jbl-partybox-on-the-go-2.html",
       "specs": [],
       "cats": [
         "audio"
