@@ -33,6 +33,7 @@ export type Product = {
   specs: ProductSpecSection[];
   cats: string[];
   variants?: Variant[];
+  addOn?: { label: Tri; price: number };
 };
 
 export type Category = {

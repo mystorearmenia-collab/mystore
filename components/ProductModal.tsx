@@ -7,7 +7,7 @@ import { CloseIcon } from "./icons";
 import Prices from "./Prices";
 import VariantPicker from "./VariantPicker";
 import { findVariant, type Selection } from "@/lib/variants";
-import { pick } from "@/lib/format";
+import { pick, formatPrice } from "@/lib/format";
 import type { Availability, Product } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
 
@@ -28,6 +28,7 @@ export function useProductModal(): Ctx {
 export function ProductModalProvider({ children }: { children: ReactNode }) {
   const [product, setProduct] = useState<Product | null>(null);
   const [selection, setSelection] = useState<Selection>({});
+  const [addOnSelected, setAddOnSelected] = useState(false);
   const locale = useLocale() as Locale;
   const t = useTranslations("product");
 
@@ -64,12 +65,14 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
         : product?.image
           ? [product.image]
           : [];
-  const shownPrice = variant?.price ?? product?.price ?? 0;
+  const addOnPrice = addOnSelected ? (product?.addOn?.price ?? 0) : 0;
+  const shownPrice = (variant?.price ?? product?.price ?? 0) + addOnPrice;
   const shownAvailability = variant && product?.brand === "Samsung" ? (variant.inStock ? "in-stock" : "on-request") : product?.availability;
-  const shownCredit = variant ? variant.credit : (product?.creditPrice ?? null);
+  const baseCredit = variant ? variant.credit : (product?.creditPrice ?? null);
+  const shownCredit = baseCredit == null ? null : baseCredit + addOnPrice;
 
   return (
-    <ProductModalContext.Provider value={{ open: setProduct }}>
+    <ProductModalContext.Provider value={{ open: (nextProduct) => { setAddOnSelected(false); setProduct(nextProduct); } }}>
       {children}
 
       <div
@@ -121,6 +124,21 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
 
               {product.variants && product.variants.length > (product.brand === "Samsung" || product.name.startsWith("MacBook Air") && product.name.includes("M5") ? 0 : 1) && (
                 <VariantPicker product={product} selection={selection} onChange={setSelection} />
+              )}
+
+              {product.addOn && (
+                <label className="flex cursor-pointer items-start gap-3 rounded-xl border border-line p-4 text-[0.85rem]">
+                  <input
+                    type="checkbox"
+                    checked={addOnSelected}
+                    onChange={(event) => setAddOnSelected(event.target.checked)}
+                    className="mt-1 h-4 w-4 shrink-0 accent-[var(--orange)]"
+                  />
+                  <span>
+                    <span className="block">{pick(product.addOn.label, locale)}</span>
+                    <span className="mt-1 block font-semibold">+{formatPrice(product.addOn.price, locale)}</span>
+                  </span>
+                </label>
               )}
 
               <div className="flex items-end justify-between gap-6 border-y border-line py-4">

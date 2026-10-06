@@ -3489,7 +3489,15 @@
       "specs": [],
       "cats": [
         "gaming"
-      ]
+      ],
+      "addOn": {
+        "label": {
+          "ru": "Подписка PlayStation на 1 год + 700 игр",
+          "hy": "PlayStation բաժանորդագրություն 1 տարով + 700 խաղ",
+          "en": "PlayStation subscription for 1 year + 700 games"
+        },
+        "price": 30000
+      }
     },
     {
       "id": "15t-pro",
@@ -4698,7 +4706,15 @@
       "specs": [],
       "cats": [
         "gaming"
-      ]
+      ],
+      "addOn": {
+        "label": {
+          "ru": "Подписка PlayStation на 1 год + 700 игр",
+          "hy": "PlayStation բաժանորդագրություն 1 տարով + 700 խաղ",
+          "en": "PlayStation subscription for 1 year + 700 games"
+        },
+        "price": 30000
+      }
     },
     {
       "id": "marshall-marshall-bromley-750-party",
@@ -11523,7 +11539,15 @@
       "specs": [],
       "cats": [
         "gaming"
-      ]
+      ],
+      "addOn": {
+        "label": {
+          "ru": "Подписка PlayStation на 1 год + 700 игр",
+          "hy": "PlayStation բաժանորդագրություն 1 տարով + 700 խաղ",
+          "en": "PlayStation subscription for 1 year + 700 games"
+        },
+        "price": 30000
+      }
     },
     {
       "id": "17t",
@@ -12600,7 +12624,15 @@
       "cats": [
         "gaming"
       ],
-      "priceOnRequest": true
+      "priceOnRequest": true,
+      "addOn": {
+        "label": {
+          "ru": "Подписка PlayStation на 1 год + 700 игр",
+          "hy": "PlayStation բաժանորդագրություն 1 տարով + 700 խաղ",
+          "en": "PlayStation subscription for 1 year + 700 games"
+        },
+        "price": 30000
+      }
     },
     {
       "id": "galaxy-s26-ultra",
@@ -13190,7 +13222,15 @@
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/3/4/345db296967988d5ed051720f53a407d66c156a4.jpg"
-      ]
+      ],
+      "addOn": {
+        "label": {
+          "ru": "Подписка PlayStation на 1 год + 700 игр",
+          "hy": "PlayStation բաժանորդագրություն 1 տարով + 700 խաղ",
+          "en": "PlayStation subscription for 1 year + 700 games"
+        },
+        "price": 30000
+      }
     },
     {
       "id": "samsung-galaxy-z-fold-8",
