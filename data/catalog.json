@@ -17399,16 +17399,16 @@
       "brand": "Apple",
       "name": "AirPods Max 2",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "hy": "Midnight / Starlight / Blue / Purple / Orange",
+        "ru": "Midnight / Starlight / Blue / Purple / Orange",
+        "en": "Midnight / Starlight / Blue / Purple / Orange"
       },
-      "price": 239500,
+      "price": 239000,
       "oldPrice": null,
-      "monthly": 4980,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "earbuds",
-      "image": null,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
       "sourceRef": {
         "sku": "10392_1",
         "imageUrls": [
@@ -17445,6 +17445,63 @@
       "creditPrice": null,
       "cats": [
         "audio"
+      ],
+      "variants": [
+        {
+          "color": "Midnight",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+        },
+        {
+          "color": "Starlight",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdWd1NjlYUXFPTDZEK2xySGJScW1PS1Rpbjg5MjlaRWkwN0JTZEtNR2p3b2dmcFJCOTlLWlREUEJzL3lTN2VnL0cvVnNUQWxFNHNrME94a1pxdUNOU29FM01jakdGSHhMVXhHQ21YeXBIKzU",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+        },
+        {
+          "color": "Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmaVZsckZUTTZZd1pFb3lRTGNlYkF0Yy9BSXRGSWdwVEs0NXdLd3JPRVQ3TGROL2hTdHRlcnVBMFhCNlFSVHgrS01jL2RQeWJYZ1FmWXUzRFBMSzJrTlJTZy9JeUNjV2pzbzd6anYzTldHVWw",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Purple",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 239000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdEFZMGtjOXNTYXJEaHFYa1lFVzIyUnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnhzQVNZV1grZHBseDduSWhqSlA3QUE",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+        },
+        {
+          "color": "Orange",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmbVl3dU4zNmtlQ1czYnJUSEJUcWowRnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnk3Zm5tZm5FR0tlWnFHbkRhQU5lZmc",
+          "inStock": false,
+          "priceOnRequest": true
+        }
       ]
     },
     {
@@ -20016,27 +20073,24 @@
       ]
     },
     {
-      "id": "airpods-max",
+      "id": "airpods-pro-3",
       "brand": "Apple",
-      "name": "AirPods Max",
+      "name": "AirPods Pro 3",
       "config": {
-        "hy": "Type-C",
-        "ru": "Type-C",
-        "en": "Type-C"
+        "hy": "Սպիտակ",
+        "ru": "Белый",
+        "en": "White"
       },
-      "price": 190000,
+      "price": 99000,
       "oldPrice": null,
-      "monthly": 3530,
+      "monthly": null,
       "availability": "in-stock",
       "art": "earbuds",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5878.png",
+      "image": "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg",
       "sourceRef": {
-        "sku": "7379_1",
+        "sku": "9103",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71ngwhuyjkl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/710reqxbmxl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/a/i/airpods-max-2_2048x.jpg",
-          "https://yerevanmobile.am/media/catalog/product/a/i/airpods-max-222-2.jpg"
+          "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg"
         ]
       },
       "specs": [
@@ -20047,6 +20101,18 @@
             "en": "General"
           },
           "attrs": [
+            {
+              "label": {
+                "hy": "Գույն",
+                "ru": "Цвет",
+                "en": "Colour"
+              },
+              "value": {
+                "hy": "Սպիտակ",
+                "ru": "Белый",
+                "en": "White"
+              }
+            },
             {
               "label": {
                 "hy": "Երաշխիք",
@@ -20062,32 +20128,10 @@
           ]
         }
       ],
-      "priceSource": "redstore",
+      "priceSource": "yerevanmobile",
       "creditPrice": null,
       "cats": [
         "audio"
-      ],
-      "variants": [
-        {
-          "color": "Pink",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 190000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5878.png",
-          "inStock": true
-        },
-        {
-          "color": "Purple",
-          "storage": null,
-          "ram": null,
-          "sim": null,
-          "price": 219000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/04/img-5916.png",
-          "inStock": true
-        }
       ]
     },
     {
@@ -25457,24 +25501,25 @@
       ]
     },
     {
-      "id": "airpods-pro-3",
+      "id": "airpods-4",
       "brand": "Apple",
-      "name": "AirPods Pro 3",
+      "name": "AirPods 4",
       "config": {
         "hy": "Սպիտակ",
         "ru": "Белый",
         "en": "White"
       },
-      "price": 99000,
+      "price": 52000,
       "oldPrice": null,
-      "monthly": 2070,
+      "monthly": null,
       "availability": "in-stock",
       "art": "earbuds",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
       "sourceRef": {
-        "sku": "9103",
+        "sku": "9100",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/p/r/pro_3_1.jpg"
+          "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/4/4/4444444444444444444.jpg"
         ]
       },
       "specs": [
@@ -26512,27 +26557,24 @@
       ]
     },
     {
-      "id": "airpods-pro-2",
+      "id": "airpods-4-anc",
       "brand": "Apple",
-      "name": "AirPods Pro 2",
+      "name": "AirPods 4 ANC",
       "config": {
-        "hy": "Type-C",
-        "ru": "Type-C",
-        "en": "Type-C"
+        "ru": "Белый · Активное шумоподавление",
+        "hy": "Սպիտակ · Ակտիվ աղմուկի չեղարկում",
+        "en": "White · Active Noise Cancellation"
       },
-      "price": 84000,
+      "price": 0,
       "oldPrice": null,
-      "monthly": 1960,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "earbuds",
-      "image": null,
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png",
       "sourceRef": {
-        "sku": "9300",
+        "url": "https://support.apple.com/en-eg/121204",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av1_result_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av3_result_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av4_result.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/t/mtjv3_av5_result.jpg"
+          "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121204-airpods-4-anc.png"
         ]
       },
       "specs": [
@@ -26574,7 +26616,8 @@
       "creditPrice": null,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": true
     },
     {
       "id": "jbl-jbl-live-770nc-over-ear-noise-cancelling",
@@ -26608,16 +26651,16 @@
       "brand": "Apple",
       "name": "AirPods 5",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "ru": "Белый · Футляр с зарядкой USB-C",
+        "hy": "Սպիտակ · USB-C լիցքավորման պատյան",
+        "en": "White · USB-C charging case"
       },
       "price": 79900,
       "oldPrice": null,
-      "monthly": 3530,
+      "monthly": null,
       "availability": "on-request",
       "art": "earbuds",
-      "image": null,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=eFJocjZCNlgzZlpSRHllMEpvT0N5MFc3QXkrd1lOczBINzN1b204SXc5djNHc3NlSmU2dzJyR1kxZEwyTE1neUJkRlpCNVhYU3AwTldRQldlSnpRa081UnNNSklyczA1UVE2Mk05aktxd1E",
       "sourceRef": {
         "sku": "Apple AirPods 5",
         "imageUrls": [
@@ -26625,29 +26668,7 @@
           "https://yerevanmobile.am/media/catalog/product/6/1/617i3pv_ail._ac_sl1500_.jpg"
         ]
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
+      "specs": [],
       "priceSource": "allsell",
       "creditPrice": null,
       "cats": [
@@ -28439,67 +28460,33 @@
       ]
     },
     {
-      "id": "airpods-4",
+      "id": "airpods-5-wireless",
       "brand": "Apple",
-      "name": "Airpods 4",
+      "name": "AirPods 5 Wireless",
       "config": {
-        "hy": "Սպիտակ",
-        "ru": "Белый",
-        "en": "White"
+        "ru": "Белый · Футляр с беспроводной зарядкой",
+        "hy": "Սպիտակ · Անլար լիցքավորման պատյան",
+        "en": "White · Wireless charging case"
       },
-      "price": 52000,
+      "price": 0,
       "oldPrice": null,
-      "monthly": 1130,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "earbuds",
-      "image": null,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHendJQVRIbmUrVkgvaHR4ajlmK3pJN0hJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVWRsZXJCWXk5YjBoSm5GZDdURmRwclorYWpGdS9XeFgvbS9ITnNYOEhYaG4",
       "sourceRef": {
-        "sku": "9100",
+        "url": "https://www.apple.com/shop/buy-airpods/airpods-5",
         "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/a/i/airpods_4-1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/4/4/4444444444444444444.jpg"
+          "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHendJQVRIbmUrVkgvaHR4ajlmK3pJN0hJa2hkRmxkTlJIMk9SdFNSaWFNODE1UUxLT2t0cW42N3FvQzVqaGhrVWRsZXJCWXk5YjBoSm5GZDdURmRwclorYWpGdS9XeFgvbS9ITnNYOEhYaG4"
         ]
       },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Սպիտակ",
-                "ru": "Белый",
-                "en": "White"
-              }
-            },
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "12 ամիս",
-                "ru": "12 мес.",
-                "en": "12 months"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
+      "specs": [],
+      "priceSource": "allsell",
       "creditPrice": null,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": true
     },
     {
       "id": "samsung-galaxy-watch-ultra-2025",
