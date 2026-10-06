@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 233
+    "product_count": 236
   },
   "categories": [
     {
@@ -58,7 +58,7 @@
       },
       "href": "/ipad",
       "art": "ipad",
-      "count": 8
+      "count": 11
     },
     {
       "id": "gaming",
@@ -2502,26 +2502,24 @@
       ]
     },
     {
-      "id": "ipad-pro-13",
+      "id": "ipad-2025",
       "brand": "Apple",
-      "name": "iPad Pro 13",
+      "name": "iPad 11″ Wi-Fi",
       "config": {
-        "hy": "M5 · Wi-Fi",
-        "ru": "M5 · Wi-Fi",
-        "en": "M5 · Wi-Fi"
+        "en": "128GB / 256GB · Wi-Fi",
+        "ru": "128GB / 256GB · Wi-Fi",
+        "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 659000,
+      "price": 199000,
       "oldPrice": null,
-      "monthly": 14150,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
       "sourceRef": {
-        "sku": "9199_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/m/5/m5_2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/p/ipad_m5.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -2538,9 +2536,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "IpadOS",
-                "ru": "IpadOS",
-                "en": "IpadOS"
+                "hy": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
+                "ru": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
+                "en": "iPadOS 18.3.2, upgradable to iPadOS 18.4"
               }
             }
           ]
@@ -2587,14 +2585,26 @@
           "attrs": [
             {
               "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1640 x 2360",
+                "ru": "1640 x 2360",
+                "en": "1640 x 2360"
+              }
+            },
+            {
+              "label": {
                 "hy": "Էկրանի չափը",
                 "ru": "Размер экрана",
                 "en": "Screen size"
               },
               "value": {
-                "hy": "13 inch",
-                "ru": "13 inch",
-                "en": "13 inch"
+                "hy": "11 inch",
+                "ru": "11 inch",
+                "en": "11 inch"
               }
             },
             {
@@ -2604,9 +2614,9 @@
                 "en": "Screen type"
               },
               "value": {
-                "hy": "Ultra Retina Tandem OLED",
-                "ru": "Ultra Retina Tandem OLED",
-                "en": "Ultra Retina Tandem OLED"
+                "hy": "Liquid Retina IPS LCD",
+                "ru": "Liquid Retina IPS LCD",
+                "en": "Liquid Retina IPS LCD"
               }
             }
           ]
@@ -2658,9 +2668,21 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
+                "hy": "Apple A16 Bionic (4 nm)",
+                "ru": "Apple A16 Bionic (4 nm)",
+                "en": "Apple A16 Bionic (4 nm)"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "5-core",
+                "ru": "5-core",
+                "en": "5-core"
               }
             }
           ]
@@ -2703,6 +2725,96 @@
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Silver",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 199000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 199000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Pink",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 199000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Yellow",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 199000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Pink",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        },
+        {
+          "color": "Yellow",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+        }
       ]
     },
     {
@@ -4731,26 +4843,24 @@
       ]
     },
     {
-      "id": "ipad-pro-11",
+      "id": "ipad-2025-wi-fi-cellular",
       "brand": "Apple",
-      "name": "iPad Pro 11",
+      "name": "iPad 11″ Wi-Fi + Cellular",
       "config": {
-        "hy": "M5 · Wi-Fi",
-        "ru": "M5 · Wi-Fi",
-        "en": "M5 · Wi-Fi"
+        "en": "128GB / 256GB · Wi-Fi + Cellular",
+        "ru": "128GB / 256GB · Wi-Fi + Cellular",
+        "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 499000,
+      "price": 259000,
       "oldPrice": null,
-      "monthly": 10400,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": "https://admin.redstore.am/storage/uploads/2025/11/13/evyhf-montaznaia-oblast-1.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
       "sourceRef": {
-        "sku": "9124_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/1/61oexjvn1_l._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -4767,9 +4877,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "IpadOS",
-                "ru": "IpadOS",
-                "en": "IpadOS"
+                "hy": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
+                "ru": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
+                "en": "iPadOS 18.3.2, upgradable to iPadOS 18.4"
               }
             }
           ]
@@ -4821,9 +4931,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1668 x 2420",
-                "ru": "1668 x 2420",
-                "en": "1668 x 2420"
+                "hy": "1640 x 2360",
+                "ru": "1640 x 2360",
+                "en": "1640 x 2360"
               }
             },
             {
@@ -4845,9 +4955,9 @@
                 "en": "Screen type"
               },
               "value": {
-                "hy": "Ultra Retina Tandem OLED",
-                "ru": "Ultra Retina Tandem OLED",
-                "en": "Ultra Retina Tandem OLED"
+                "hy": "Liquid Retina IPS LCD",
+                "ru": "Liquid Retina IPS LCD",
+                "en": "Liquid Retina IPS LCD"
               }
             }
           ]
@@ -4899,9 +5009,21 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple M5",
-                "ru": "Apple M5",
-                "en": "Apple M5"
+                "hy": "Apple A16 Bionic (4 nm)",
+                "ru": "Apple A16 Bionic (4 nm)",
+                "en": "Apple A16 Bionic (4 nm)"
+              }
+            },
+            {
+              "label": {
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
+              },
+              "value": {
+                "hy": "5-core",
+                "ru": "5-core",
+                "en": "5-core"
               }
             }
           ]
@@ -4938,87 +5060,123 @@
               }
             }
           ]
-        },
-        {
-          "title": {
-            "hy": "Սնուցում",
-            "ru": "Питание",
-            "en": "Power"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Մարտկոցի տեսակ",
-                "ru": "Тип аккумулятора",
-                "en": "Battery type"
-              },
-              "value": {
-                "hy": "LI-PO",
-                "ru": "LI-PO",
-                "en": "LI-PO"
-              }
-            }
-          ]
         }
       ],
-      "priceSource": "redstore",
+      "priceSource": "yerevanmobile",
       "creditPrice": null,
       "cats": [
         "ipad"
       ],
       "variants": [
         {
-          "color": "Space Black",
+          "color": "Silver",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html"
+        },
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html"
+        },
+        {
+          "color": "Pink",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html"
+        },
+        {
+          "color": "Yellow",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
           "storage": "256GB",
-          "ram": "12GB",
+          "ram": null,
           "sim": null,
-          "price": 499000,
+          "price": 259000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/11/13/evyhf-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
+          "inStock": false,
+          "priceOnRequest": true
         },
         {
-          "color": "Silver",
-          "storage": "512GB",
-          "ram": "12GB",
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": null,
           "sim": null,
-          "price": 559000,
+          "price": 259000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/59667/image/fu-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
+          "inStock": false,
+          "priceOnRequest": true
         },
         {
-          "color": "Silver",
-          "storage": "512GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 639000,
+          "color": "Pink",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/11/06/mnbvf-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Yellow",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 259000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
+          "inStock": false,
+          "priceOnRequest": true
         }
       ]
     },
     {
-      "id": "ipad-air-13",
+      "id": "ipad-mini-7",
       "brand": "Apple",
-      "name": "iPad Air 13",
+      "name": "iPad mini 7 Wi-Fi",
       "config": {
-        "hy": "M4 · Wi-Fi + Cellular",
-        "ru": "M4 · Wi-Fi + Cellular",
-        "en": "M4 · Wi-Fi + Cellular"
+        "en": "128GB / 256GB · Wi-Fi",
+        "ru": "128GB / 256GB · Wi-Fi",
+        "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 399000,
+      "price": 224000,
       "oldPrice": null,
-      "monthly": 10400,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": "https://admin.redstore.am/storage/uploads/2025/11/06/874-montaznaia-oblast-1.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_3.jpg",
       "sourceRef": {
-        "sku": "10532",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/a/i/air11_1_1_1.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -5035,9 +5193,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "iPadOS 26.3, upgradable to iPadOS 26.4",
-                "ru": "iPadOS 26.3, upgradable to iPadOS 26.4",
-                "en": "iPadOS 26.3, upgradable to iPadOS 26.4"
+                "hy": "iPadOS 18, upgradable to iPadOS 18.1",
+                "ru": "iPadOS 18, upgradable to iPadOS 18.1",
+                "en": "iPadOS 18, upgradable to iPadOS 18.1"
               }
             }
           ]
@@ -5056,9 +5214,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2026",
-                "ru": "2026",
-                "en": "2026"
+                "hy": "2024",
+                "ru": "2024",
+                "en": "2024"
               }
             },
             {
@@ -5089,9 +5247,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "2048 x 2732",
-                "ru": "2048 x 2732",
-                "en": "2048 x 2732"
+                "hy": "1488 x 2266",
+                "ru": "1488 x 2266",
+                "en": "1488 x 2266"
               }
             },
             {
@@ -5101,9 +5259,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "13 inch",
-                "ru": "13 inch",
-                "en": "13 inch"
+                "hy": "8.3inch",
+                "ru": "8.3inch",
+                "en": "8.3inch"
               }
             },
             {
@@ -5167,9 +5325,9 @@
                 "en": "OS"
               },
               "value": {
-                "hy": "12GB",
-                "ru": "12GB",
-                "en": "12GB"
+                "hy": "8GB",
+                "ru": "8GB",
+                "en": "8GB"
               }
             },
             {
@@ -5179,33 +5337,42 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple M4",
-                "ru": "Apple M4",
-                "en": "Apple M4"
+                "hy": "Apple A17 Pro (3 nm)",
+                "ru": "Apple A17 Pro (3 nm)",
+                "en": "Apple A17 Pro (3 nm)"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
               }
             },
             {
               "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
               },
               "value": {
-                "hy": "Octa-core (4 performance cores and 4 efficiency cores)",
-                "ru": "Octa-core (4 performance cores and 4 efficiency cores)",
-                "en": "Octa-core (4 performance cores and 4 efficiency cores)"
-              }
-            },
-            {
-              "label": {
-                "hy": "Հիշողություն",
-                "ru": "Память",
-                "en": "Memory"
-              },
-              "value": {
-                "hy": "128GB",
-                "ru": "128GB",
-                "en": "128GB"
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
               }
             }
           ]
@@ -5220,32 +5387,90 @@
         {
           "color": "Blue",
           "storage": "128GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 409000,
+          "ram": null,
+          "sim": null,
+          "price": 224000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5617.jpg",
-          "inStock": true
+          "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_3.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
         },
         {
           "color": "Purple",
           "storage": "128GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 399000,
+          "ram": null,
+          "sim": null,
+          "price": 224000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/11/06/874-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80__1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+        },
+        {
+          "color": "Starlight",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 224000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/i/mini_4.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+        },
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 224000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500__1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
         },
         {
           "color": "Blue",
           "storage": "256GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 499000,
+          "ram": null,
+          "sim": null,
+          "price": 289000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5617.jpg",
-          "inStock": true
+          "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_3.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 279000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80__1.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 289000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/i/mini_4.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+        },
+        {
+          "color": "Space Gray",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 289000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500__1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
         }
       ]
     },
@@ -6724,25 +6949,24 @@
       ]
     },
     {
-      "id": "ipad-air-11",
+      "id": "ipad-air-11-m4-wifi",
       "brand": "Apple",
-      "name": "iPad Air 11",
+      "name": "iPad Air 11″ M4 Wi-Fi",
       "config": {
-        "hy": "M4 · Wi-Fi + Cellular",
-        "ru": "M4 · Wi-Fi + Cellular",
-        "en": "M4 · Wi-Fi + Cellular"
+        "en": "128GB / 256GB · Wi-Fi",
+        "ru": "128GB / 256GB · Wi-Fi",
+        "hy": "128GB / 256GB · Wi-Fi"
       },
       "price": 329000,
       "oldPrice": null,
-      "monthly": 8320,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": "https://admin.redstore.am/storage/products/60079/image/gui-montaznaia-oblast-1.webp",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWFU0N1RjeHdyenY5U1BnMmlCT2FwYitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFNYjZVY05Sc1ZqSisyN3UwNWhSalc",
       "sourceRef": {
-        "sku": "10531",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/a/i/air11_1_2.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -6919,18 +7143,6 @@
                 "ru": "Octa-core (4 performance cores and 4 efficiency cores)",
                 "en": "Octa-core (4 performance cores and 4 efficiency cores)"
               }
-            },
-            {
-              "label": {
-                "hy": "Հիշողություն",
-                "ru": "Память",
-                "en": "Memory"
-              },
-              "value": {
-                "hy": "128GB",
-                "ru": "128GB",
-                "en": "128GB"
-              }
             }
           ]
         }
@@ -6944,42 +7156,90 @@
         {
           "color": "Blue",
           "storage": "128GB",
-          "ram": "12GB",
+          "ram": null,
           "sim": null,
           "price": 329000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60079/image/gui-montaznaia-oblast-1.webp",
-          "inStock": true
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWFU0N1RjeHdyenY5U1BnMmlCT2FwYitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFNYjZVY05Sc1ZqSisyN3UwNWhSalc",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
         },
         {
           "color": "Purple",
           "storage": "128GB",
-          "ram": "12GB",
+          "ram": null,
           "sim": null,
           "price": 329000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/60078/image/sdfre-montaznaia-oblast-1.webp",
-          "inStock": true
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWE5FL0E2Tm1WYVRteWtXVjllTmQrMWFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFZcm9JV2JsNE00L2VEL1djZXhjZVQ",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVWtSRUR3V1RTblN3TXd3RE5HclJweXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytOREtHTVArQURQazJ5K25OVFhDNnM",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
+        },
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWGFtQTR4eURwVEtjWkY3RWd1SXYwVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy90am5BT0NjdWJUMzQybC8zUUQ5Q2w",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
         },
         {
           "color": "Blue",
           "storage": "256GB",
-          "ram": "12GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWFU0N1RjeHdyenY5U1BnMmlCT2FwYitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFNYjZVY05Sc1ZqSisyN3UwNWhSalc",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWE5FL0E2Tm1WYVRteWtXVjllTmQrMWFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFZcm9JV2JsNE00L2VEL1djZXhjZVQ",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "ram": null,
           "sim": null,
           "price": 399000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61067/image/bezymiannyi-1-montaznaia-oblast-1.webp",
-          "inStock": true
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVWtSRUR3V1RTblN3TXd3RE5HclJweXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytOREtHTVArQURQazJ5K25OVFhDNnM",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
         },
         {
           "color": "Space Gray",
           "storage": "256GB",
-          "ram": "12GB",
+          "ram": null,
           "sim": null,
           "price": 399000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/products/61066/image/bezymiannyi-1-montaznaia-oblast-1.webp",
-          "inStock": true
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWGFtQTR4eURwVEtjWkY3RWd1SXYwVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy90am5BT0NjdWJUMzQybC8zUUQ5Q2w",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
         }
       ]
     },
@@ -13576,28 +13836,24 @@
       ]
     },
     {
-      "id": "ipad-mini-7",
+      "id": "ipad-air-11",
       "brand": "Apple",
-      "name": "iPad mini 7",
+      "name": "iPad Air 11″ M4 Wi-Fi + Cellular",
       "config": {
-        "hy": "8.3inch",
-        "ru": "8.3inch",
-        "en": "8.3inch"
+        "en": "128GB / 256GB · Wi-Fi + Cellular",
+        "ru": "128GB / 256GB · Wi-Fi + Cellular",
+        "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 279000,
+      "price": 329000,
       "oldPrice": null,
-      "monthly": 6030,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5610.jpg",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQV3NCSWtYQm84Vk1HTlV5YzhYQUNkbitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFwYWhaZEhHVWNXaHlpdUxCbUpab1g",
       "sourceRef": {
-        "sku": "7576_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71d9vedmtsl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71ey-9d8ydl._ac_uf1000_1000_ql80_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500_.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80_.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi-cellular.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -13614,9 +13870,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "iPadOS 18, upgradable to iPadOS 18.1",
-                "ru": "iPadOS 18, upgradable to iPadOS 18.1",
-                "en": "iPadOS 18, upgradable to iPadOS 18.1"
+                "hy": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "ru": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "en": "iPadOS 26.3, upgradable to iPadOS 26.4"
               }
             }
           ]
@@ -13635,9 +13891,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2024",
-                "ru": "2024",
-                "en": "2024"
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
               }
             },
             {
@@ -13668,9 +13924,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1488 x 2266",
-                "ru": "1488 x 2266",
-                "en": "1488 x 2266"
+                "hy": "1640 x 2360",
+                "ru": "1640 x 2360",
+                "en": "1640 x 2360"
               }
             },
             {
@@ -13680,9 +13936,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "8.3inch",
-                "ru": "8.3inch",
-                "en": "8.3inch"
+                "hy": "11 inch",
+                "ru": "11 inch",
+                "en": "11 inch"
               }
             },
             {
@@ -13746,9 +14002,9 @@
                 "en": "OS"
               },
               "value": {
-                "hy": "8GB",
-                "ru": "8GB",
-                "en": "8GB"
+                "hy": "12GB",
+                "ru": "12GB",
+                "en": "12GB"
               }
             },
             {
@@ -13758,42 +14014,21 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple A17 Pro (3 nm)",
-                "ru": "Apple A17 Pro (3 nm)",
-                "en": "Apple A17 Pro (3 nm)"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
+                "hy": "Apple M4",
+                "ru": "Apple M4",
+                "en": "Apple M4"
               }
             },
             {
               "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
               },
               "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
+                "hy": "Octa-core (4 performance cores and 4 efficiency cores)",
+                "ru": "Octa-core (4 performance cores and 4 efficiency cores)",
+                "en": "Octa-core (4 performance cores and 4 efficiency cores)"
               }
             }
           ]
@@ -13808,58 +14043,113 @@
         {
           "color": "Blue",
           "storage": "128GB",
-          "ram": "8GB",
+          "ram": null,
           "sim": null,
-          "price": 279000,
+          "price": 329000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5610.jpg",
-          "inStock": true
-        },
-        {
-          "color": "Space Gray",
-          "storage": "128GB",
-          "ram": "8GB",
-          "sim": null,
-          "price": 279000,
-          "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5609.jpg",
-          "inStock": true
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQV3NCSWtYQm84Vk1HTlV5YzhYQUNkbitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFwYWhaZEhHVWNXaHlpdUxCbUpab1g",
+          "inStock": false,
+          "priceOnRequest": true
         },
         {
           "color": "Purple",
           "storage": "128GB",
-          "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 289000,
+          "ram": null,
+          "sim": null,
+          "price": 329000,
           "credit": null,
-          "image": "https://admin.redstore.am/storage/uploads/2025/10/02/img-5611.jpg",
-          "inStock": true
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVDV5Yk5iZVIzN1R3Tk5tTWFucVc0RmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkNGWW9FMHpmZHNNdGZxc0Q1TThaSVc",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUWFuS1pmd3VkY1FGUHBiOHhoM0ZnT3laN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy9PY2RMaU51Ri9DTWh5SDkrV0hHTHo",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUTRlejdNZHFOcWljcEk4UnVSYWJ1d2owT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzhzVUZHSTFzeXA5S0taRWtvOHB5dW4",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQV3NCSWtYQm84Vk1HTlV5YzhYQUNkbitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFwYWhaZEhHVWNXaHlpdUxCbUpab1g",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVDV5Yk5iZVIzN1R3Tk5tTWFucVc0RmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkNGWW9FMHpmZHNNdGZxc0Q1TThaSVc",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUWFuS1pmd3VkY1FGUHBiOHhoM0ZnT3laN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy9PY2RMaU51Ri9DTWh5SDkrV0hHTHo",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 329000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUTRlejdNZHFOcWljcEk4UnVSYWJ1d2owT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzhzVUZHSTFzeXA5S0taRWtvOHB5dW4",
+          "inStock": false,
+          "priceOnRequest": true
         }
-      ]
+      ],
+      "priceOnRequest": true
     },
     {
-      "id": "ipad-mini-7-wi-fi-cellular",
+      "id": "ipad-air-13-m4-wifi",
       "brand": "Apple",
-      "name": "iPad mini 7 Wi-Fi + Cellular",
+      "name": "iPad Air 13″ M4 Wi-Fi",
       "config": {
-        "hy": "128GB · Մոխրագույն",
-        "ru": "128GB · Серый",
-        "en": "128GB · Space Grey"
+        "en": "128GB / 256GB · Wi-Fi",
+        "ru": "128GB / 256GB · Wi-Fi",
+        "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 289000,
+      "price": 439000,
       "oldPrice": null,
-      "monthly": 6030,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": null,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZitxSFh4MUxYZm8vRUU4K2k4TE1acitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXIzK0dOdjNyKytJcldtZW91dG0xL2Q",
       "sourceRef": {
-        "sku": "10482",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/7/1/71d9vedmtsl._ac_sl1500__1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500__3.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80__2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/7/1/71yhrd0k2ul._ac_sl1500__2.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -13876,21 +14166,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "iPadOS 18, upgradable to iPadOS 18.1",
-                "ru": "iPadOS 18, upgradable to iPadOS 18.1",
-                "en": "iPadOS 18, upgradable to iPadOS 18.1"
-              }
-            },
-            {
-              "label": {
-                "hy": "Գույն",
-                "ru": "Цвет",
-                "en": "Colour"
-              },
-              "value": {
-                "hy": "Մոխրագույն",
-                "ru": "Серый",
-                "en": "Space Grey"
+                "hy": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "ru": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "en": "iPadOS 26.3, upgradable to iPadOS 26.4"
               }
             }
           ]
@@ -13909,9 +14187,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2024",
-                "ru": "2024",
-                "en": "2024"
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
               }
             },
             {
@@ -13942,9 +14220,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1488 x 2266",
-                "ru": "1488 x 2266",
-                "en": "1488 x 2266"
+                "hy": "2048 x 2732",
+                "ru": "2048 x 2732",
+                "en": "2048 x 2732"
               }
             },
             {
@@ -13954,9 +14232,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "8.3inch",
-                "ru": "8.3inch",
-                "en": "8.3inch"
+                "hy": "13 inch",
+                "ru": "13 inch",
+                "en": "13 inch"
               }
             },
             {
@@ -14020,9 +14298,9 @@
                 "en": "OS"
               },
               "value": {
-                "hy": "8GB",
-                "ru": "8GB",
-                "en": "8GB"
+                "hy": "12GB",
+                "ru": "12GB",
+                "en": "12GB"
               }
             },
             {
@@ -14032,30 +14310,120 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple A17 Pro (3 nm)",
-                "ru": "Apple A17 Pro (3 nm)",
-                "en": "Apple A17 Pro (3 nm)"
+                "hy": "Apple M4",
+                "ru": "Apple M4",
+                "en": "Apple M4"
               }
             },
             {
               "label": {
-                "hy": "Հիշողություն",
-                "ru": "Память",
-                "en": "Memory"
+                "hy": "Պրոցեսորի տեսակ",
+                "ru": "Тип процессора",
+                "en": "Processor type"
               },
               "value": {
-                "hy": "128GB",
-                "ru": "128GB",
-                "en": "128GB"
+                "hy": "Octa-core (4 performance cores and 4 efficiency cores)",
+                "ru": "Octa-core (4 performance cores and 4 efficiency cores)",
+                "en": "Octa-core (4 performance cores and 4 efficiency cores)"
               }
             }
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 439000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZitxSFh4MUxYZm8vRUU4K2k4TE1acitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXIzK0dOdjNyKytJcldtZW91dG0xL2Q",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+        },
+        {
+          "color": "Purple",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQY254Z2xqRW5BaFF4blNuL0dJWlM1WmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFyK1dvOFM3ZUk3MEJ4Uko2WU92bi8",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 439000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZCtoTEFxWnFEM09kTFpnSXFjL0NoMnlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytVcFhpZ3YzaUdJeHh5a1BSZXkyTkg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+        },
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 439000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZVkraGNLK1BDZUg1cjV2VFJlcHU5OGowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzlRMFZ2MmZaQmtMdVJaWC9WamwrcnA",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZitxSFh4MUxYZm8vRUU4K2k4TE1acitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXIzK0dOdjNyKytJcldtZW91dG0xL2Q",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQY254Z2xqRW5BaFF4blNuL0dJWlM1WmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFyK1dvOFM3ZUk3MEJ4Uko2WU92bi8",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZCtoTEFxWnFEM09kTFpnSXFjL0NoMnlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytVcFhpZ3YzaUdJeHh5a1BSZXkyTkg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZVkraGNLK1BDZUg1cjV2VFJlcHU5OGowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzlRMFZ2MmZaQmtMdVJaWC9WamwrcnA",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+        }
       ]
     },
     {
@@ -16681,28 +17049,24 @@
       ]
     },
     {
-      "id": "ipad-2025-wi-fi-cellular",
+      "id": "ipad-air-13",
       "brand": "Apple",
-      "name": "iPad 2025 Wi-Fi + Cellular",
+      "name": "iPad Air 13″ M4 Wi-Fi + Cellular",
       "config": {
-        "hy": "11.0\"",
-        "ru": "11.0\"",
-        "en": "11.0\""
+        "en": "128GB / 256GB · Wi-Fi + Cellular",
+        "ru": "128GB / 256GB · Wi-Fi + Cellular",
+        "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 259000,
+      "price": 399000,
       "oldPrice": null,
-      "monthly": 4980,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": null,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQYjJyK0E0bWExcGdybmdreTYzVzdQSCtPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFxMkZsRjVZU3Fab0liSDQ5ZEp2NGc",
       "sourceRef": {
-        "sku": "8444_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_3_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/o/ioad_111.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi-cellular.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -16719,9 +17083,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
-                "ru": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
-                "en": "iPadOS 18.3.2, upgradable to iPadOS 18.4"
+                "hy": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "ru": "iPadOS 26.3, upgradable to iPadOS 26.4",
+                "en": "iPadOS 26.3, upgradable to iPadOS 26.4"
               }
             }
           ]
@@ -16740,9 +17104,9 @@
                 "en": "Year announced"
               },
               "value": {
-                "hy": "2025",
-                "ru": "2025",
-                "en": "2025"
+                "hy": "2026",
+                "ru": "2026",
+                "en": "2026"
               }
             },
             {
@@ -16773,9 +17137,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1640 x 2360",
-                "ru": "1640 x 2360",
-                "en": "1640 x 2360"
+                "hy": "2048 x 2732",
+                "ru": "2048 x 2732",
+                "en": "2048 x 2732"
               }
             },
             {
@@ -16785,9 +17149,9 @@
                 "en": "Screen size"
               },
               "value": {
-                "hy": "11 inch",
-                "ru": "11 inch",
-                "en": "11 inch"
+                "hy": "13 inch",
+                "ru": "13 inch",
+                "en": "13 inch"
               }
             },
             {
@@ -16846,14 +17210,26 @@
           "attrs": [
             {
               "label": {
+                "hy": "ՕՀ",
+                "ru": "ОС",
+                "en": "OS"
+              },
+              "value": {
+                "hy": "12GB",
+                "ru": "12GB",
+                "en": "12GB"
+              }
+            },
+            {
+              "label": {
                 "hy": "Պրոցեսոր",
                 "ru": "Процессор",
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple A16 Bionic (4 nm)",
-                "ru": "Apple A16 Bionic (4 nm)",
-                "en": "Apple A16 Bionic (4 nm)"
+                "hy": "Apple M4",
+                "ru": "Apple M4",
+                "en": "Apple M4"
               }
             },
             {
@@ -16863,52 +17239,110 @@
                 "en": "Processor type"
               },
               "value": {
-                "hy": "5-core",
-                "ru": "5-core",
-                "en": "5-core"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ցանց",
-            "ru": "Сеть",
-            "en": "Network"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Bluetooth",
-                "ru": "Bluetooth",
-                "en": "Bluetooth"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
-              }
-            },
-            {
-              "label": {
-                "hy": "Wi-Fi",
-                "ru": "Wi-Fi",
-                "en": "Wi-Fi"
-              },
-              "value": {
-                "hy": "Այո",
-                "ru": "Да",
-                "en": "Yes"
+                "hy": "Octa-core (4 performance cores and 4 efficiency cores)",
+                "ru": "Octa-core (4 performance cores and 4 efficiency cores)",
+                "en": "Octa-core (4 performance cores and 4 efficiency cores)"
               }
             }
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "priceSource": "redstore",
       "creditPrice": null,
       "cats": [
         "ipad"
-      ]
+      ],
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQYjJyK0E0bWExcGdybmdreTYzVzdQSCtPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFxMkZsRjVZU3Fab0liSDQ5ZEp2NGc",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Purple",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZEFHem9WK242WDAwUlJDN0t0ZkNCRmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkJ1c2M1VjI2MGxJWGVKVldiOHhJVWw",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQU1JUeVBoTGFscGwzTUkxNnpOZkV4YXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qyt3ZGVHY3RNekR0RmpTQW5Ic3FnUlI",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "128GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWktKdE93Uk8zMEkyMExSRFZ0S21ZVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytlV3ZxcnpJbjJtcUVOSlJKRFVhL0E",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQYjJyK0E0bWExcGdybmdreTYzVzdQSCtPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFxMkZsRjVZU3Fab0liSDQ5ZEp2NGc",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Purple",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZEFHem9WK242WDAwUlJDN0t0ZkNCRmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkJ1c2M1VjI2MGxJWGVKVldiOHhJVWw",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Starlight",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQU1JUeVBoTGFscGwzTUkxNnpOZkV4YXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qyt3ZGVHY3RNekR0RmpTQW5Ic3FnUlI",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Gray",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 399000,
+          "credit": null,
+          "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWktKdE93Uk8zMEkyMExSRFZ0S21ZVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytlV3ZxcnpJbjJtcUVOSlJKRFVhL0E",
+          "inStock": false,
+          "priceOnRequest": true
+        }
+      ],
+      "priceOnRequest": true
     },
     {
       "id": "marshall-marshall-woburn-ii",
@@ -17886,28 +18320,24 @@
       ]
     },
     {
-      "id": "ipad-2025",
+      "id": "ipad-pro-11",
       "brand": "Apple",
-      "name": "iPad 2025",
+      "name": "iPad Pro 11″ M5 Wi-Fi",
       "config": {
-        "hy": "Wi-Fi · 11.0\"",
-        "ru": "Wi-Fi · 11.0\"",
-        "en": "Wi-Fi · 11.0\""
+        "en": "256GB / 512GB / 1TB · Wi-Fi",
+        "ru": "256GB / 512GB / 1TB · Wi-Fi",
+        "hy": "256GB / 512GB / 1TB · Wi-Fi"
       },
-      "price": 199000,
+      "price": 479000,
       "oldPrice": null,
-      "monthly": 4150,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "ipad",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
       "sourceRef": {
-        "sku": "8171_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_3.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1.jpg"
-        ]
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html",
+        "sku": null,
+        "imageUrls": []
       },
       "specs": [
         {
@@ -17924,9 +18354,9 @@
                 "en": "OS type"
               },
               "value": {
-                "hy": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
-                "ru": "iPadOS 18.3.2, upgradable to iPadOS 18.4",
-                "en": "iPadOS 18.3.2, upgradable to iPadOS 18.4"
+                "hy": "IpadOS",
+                "ru": "IpadOS",
+                "en": "IpadOS"
               }
             }
           ]
@@ -17978,9 +18408,9 @@
                 "en": "Resolution"
               },
               "value": {
-                "hy": "1640 x 2360",
-                "ru": "1640 x 2360",
-                "en": "1640 x 2360"
+                "hy": "1668 x 2420",
+                "ru": "1668 x 2420",
+                "en": "1668 x 2420"
               }
             },
             {
@@ -18002,9 +18432,9 @@
                 "en": "Screen type"
               },
               "value": {
-                "hy": "Liquid Retina IPS LCD",
-                "ru": "Liquid Retina IPS LCD",
-                "en": "Liquid Retina IPS LCD"
+                "hy": "Ultra Retina Tandem OLED",
+                "ru": "Ultra Retina Tandem OLED",
+                "en": "Ultra Retina Tandem OLED"
               }
             }
           ]
@@ -18056,21 +18486,603 @@
                 "en": "Processor"
               },
               "value": {
-                "hy": "Apple A16 Bionic (4 nm)",
-                "ru": "Apple A16 Bionic (4 nm)",
-                "en": "Apple A16 Bionic (4 nm)"
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
               }
             },
             {
               "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
               },
               "value": {
-                "hy": "5-core",
-                "ru": "5-core",
-                "en": "5-core"
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "LI-PO",
+                "ru": "LI-PO",
+                "en": "LI-PO"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "redstore",
+      "creditPrice": null,
+      "cats": [
+        "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Space Black",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 479000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 479000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html"
+        },
+        {
+          "color": "Space Black",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 559000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Black",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-11-m5-cellular",
+      "brand": "Apple",
+      "name": "iPad Pro 11″ M5 Wi-Fi + Cellular",
+      "config": {
+        "en": "256GB / 512GB / 1TB · Wi-Fi + Cellular",
+        "ru": "256GB / 512GB / 1TB · Wi-Fi + Cellular",
+        "hy": "256GB / 512GB / 1TB · Wi-Fi + Cellular"
+      },
+      "price": 559000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "ipad",
+      "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+      "sourceRef": {
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html",
+        "sku": null,
+        "imageUrls": []
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "IpadOS",
+                "ru": "IpadOS",
+                "en": "IpadOS"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение",
+                "en": "Resolution"
+              },
+              "value": {
+                "hy": "1668 x 2420",
+                "ru": "1668 x 2420",
+                "en": "1668 x 2420"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "11 inch",
+                "ru": "11 inch",
+                "en": "11 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Ultra Retina Tandem OLED",
+                "ru": "Ultra Retina Tandem OLED",
+                "en": "Ultra Retina Tandem OLED"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Սնուցում",
+            "ru": "Питание",
+            "en": "Power"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մարտկոցի տեսակ",
+                "ru": "Тип аккумулятора",
+                "en": "Battery type"
+              },
+              "value": {
+                "hy": "LI-PO",
+                "ru": "LI-PO",
+                "en": "LI-PO"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "redstore",
+      "creditPrice": null,
+      "cats": [
+        "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Space Black",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 559000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Black",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Black",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 799000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_1_1.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 499000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-13",
+      "brand": "Apple",
+      "name": "iPad Pro 13″ M5 Wi-Fi",
+      "config": {
+        "en": "256GB / 512GB / 1TB · Wi-Fi",
+        "ru": "256GB / 512GB / 1TB · Wi-Fi",
+        "hy": "256GB / 512GB / 1TB · Wi-Fi"
+      },
+      "price": 659000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "ipad",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+      "sourceRef": {
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi.html",
+        "sku": null,
+        "imageUrls": []
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "IpadOS",
+                "ru": "IpadOS",
+                "en": "IpadOS"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "13 inch",
+                "ru": "13 inch",
+                "en": "13 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Ultra Retina Tandem OLED",
+                "ru": "Ultra Retina Tandem OLED",
+                "en": "Ultra Retina Tandem OLED"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
               }
             }
           ]
@@ -18113,6 +19125,345 @@
       "creditPrice": null,
       "cats": [
         "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Space Black",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_4.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Black",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_4.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Black",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_4.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        }
+      ],
+      "priceOnRequest": true
+    },
+    {
+      "id": "ipad-pro-13-m5-cellular",
+      "brand": "Apple",
+      "name": "iPad Pro 13″ M5 Wi-Fi + Cellular",
+      "config": {
+        "en": "256GB / 512GB / 1TB · Wi-Fi + Cellular",
+        "ru": "256GB / 512GB / 1TB · Wi-Fi + Cellular",
+        "hy": "256GB / 512GB / 1TB · Wi-Fi + Cellular"
+      },
+      "price": 659000,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "ipad",
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+      "sourceRef": {
+        "url": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html",
+        "sku": null,
+        "imageUrls": []
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "ՕՀ տեսակ",
+                "ru": "Тип ОС",
+                "en": "OS type"
+              },
+              "value": {
+                "hy": "IpadOS",
+                "ru": "IpadOS",
+                "en": "IpadOS"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հայտարարման տարին",
+                "ru": "Год выхода",
+                "en": "Year announced"
+              },
+              "value": {
+                "hy": "2025",
+                "ru": "2025",
+                "en": "2025"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 мес.",
+                "en": "12 months"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Էկրան",
+            "ru": "Экран",
+            "en": "Display"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Էկրանի չափը",
+                "ru": "Размер экрана",
+                "en": "Screen size"
+              },
+              "value": {
+                "hy": "13 inch",
+                "ru": "13 inch",
+                "en": "13 inch"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի տեսակ",
+                "ru": "Тип экрана",
+                "en": "Screen type"
+              },
+              "value": {
+                "hy": "Ultra Retina Tandem OLED",
+                "ru": "Ultra Retina Tandem OLED",
+                "en": "Ultra Retina Tandem OLED"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Տեսախցիկներ",
+            "ru": "Камеры",
+            "en": "Cameras"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Հիմնական տեսախցիկ",
+                "ru": "Основная камера",
+                "en": "Main camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            },
+            {
+              "label": {
+                "hy": "Դիմային տեսախցիկ",
+                "ru": "Фронтальная камера",
+                "en": "Front camera"
+              },
+              "value": {
+                "hy": "12MP",
+                "ru": "12MP",
+                "en": "12MP"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Հիշողություն և պրոցեսոր",
+            "ru": "Память и процессор",
+            "en": "Memory & processor"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Պրոցեսոր",
+                "ru": "Процессор",
+                "en": "Processor"
+              },
+              "value": {
+                "hy": "Apple M5",
+                "ru": "Apple M5",
+                "en": "Apple M5"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "hy": "Ցանց",
+            "ru": "Сеть",
+            "en": "Network"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Bluetooth",
+                "ru": "Bluetooth",
+                "en": "Bluetooth"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            },
+            {
+              "label": {
+                "hy": "Wi-Fi",
+                "ru": "Wi-Fi",
+                "en": "Wi-Fi"
+              },
+              "value": {
+                "hy": "Այո",
+                "ru": "Да",
+                "en": "Yes"
+              }
+            }
+          ]
+        }
+      ],
+      "priceSource": "yerevanmobile",
+      "creditPrice": null,
+      "cats": [
+        "ipad"
+      ],
+      "variants": [
+        {
+          "color": "Space Black",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "256GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_4.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html"
+        },
+        {
+          "color": "Space Black",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 795000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html"
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_4.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Space Black",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        },
+        {
+          "color": "Silver",
+          "storage": "1TB",
+          "ram": null,
+          "sim": null,
+          "price": 659000,
+          "credit": null,
+          "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_4.jpg",
+          "inStock": false,
+          "priceOnRequest": true
+        }
       ]
     },
     {
