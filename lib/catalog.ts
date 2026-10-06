@@ -20,6 +20,7 @@ export type Product = {
   config: Tri;
   /** Cash price, AMD */
   price: number;
+  priceOnRequest?: boolean;
   /** Instalment / credit price, AMD — null when the shops do not offer credit on the item */
   creditPrice: number | null;
   oldPrice: number | null;

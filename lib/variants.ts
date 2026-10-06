@@ -7,6 +7,7 @@ export type Variant = {
   ram: string | null;
   sim: "sim-esim" | "esim" | null;
   price: number;
+  priceOnRequest?: boolean;
   credit: number | null;
   image: string;
   /** Extra angles for this variant (the modal gallery); falls back to `image`. */
@@ -42,7 +43,7 @@ export function findVariant(p: WithVariants, sel: Selection): Variant | undefine
     for (const k of KEYS) if (sel[k] && v[k] === sel[k]) score += 1;
     if (
       score > bestScore ||
-      (score === bestScore && best && v.price < best.price && v.sim !== "esim")
+      (score === bestScore && best && ((!v.priceOnRequest && best.priceOnRequest) || (Boolean(v.priceOnRequest) === Boolean(best.priceOnRequest) && v.price < best.price && v.sim !== "esim")))
     ) {
       best = v;
       bestScore = score;
@@ -64,7 +65,7 @@ export function choose(p: WithVariants, sel: Selection, key: OptionKey, value: s
   for (const v of list) {
     let score = 0;
     for (const k of KEYS) if (k !== key && next[k] && v[k] === next[k]) score += 1;
-    if (score > bestScore || (score === bestScore && best && v.price < best.price)) {
+    if (score > bestScore || (score === bestScore && best && ((!v.priceOnRequest && best.priceOnRequest) || (Boolean(v.priceOnRequest) === Boolean(best.priceOnRequest) && v.price < best.price)))) {
       best = v;
       bestScore = score;
     }
@@ -85,6 +86,24 @@ export function isAvailable(p: WithVariants, sel: Selection, key: OptionKey, val
 type ColorInfo = { hex: string; ru?: string; hy?: string };
 
 const COLORS: Record<string, ColorInfo> = {
+  "beige": { hex: "#d8c8ad", ru: "Бежевый" },
+  "pinkgold": { hex: "#e2bbc1", ru: "Розовое золото" },
+  "blueblack": { hex: "#263342", ru: "Сине-чёрный" },
+  "silver shadow": { hex: "#aeb1b4", ru: "Серебристый" },
+  "light green": { hex: "#c4d9b3", ru: "Светло-зелёный" },
+  "titanium grey": { hex: "#95938c", ru: "Титановый серый" },
+  "dark blue": { hex: "#23395c", ru: "Тёмно-синий" },
+  "pistachio": { hex: "#bcd6a4", ru: "Фисташковый" },
+  "light purple": { hex: "#c7b3e6", ru: "Светло-фиолетовый" },
+  "titan black": { hex: "#444643", ru: "Титановый чёрный" },
+  "titanium silverblue": { hex: "#a8bac8", ru: "Титановый серебристо-голубой" },
+  "titanium jadegreen": { hex: "#a6c3a6", ru: "Титановый нефритовый" },
+  "titanium jetblack": { hex: "#292d31", ru: "Титановый чёрный" },
+  "coralred": { hex: "#d5665d", ru: "Коралловый" },
+  "blueberry": { hex: "#6a83b4", ru: "Черничный" },
+  "titanium whitesilver": { hex: "#dfe1df", ru: "Титановый бело-серебристый" },
+  "titanium black": { hex: "#444643", ru: "Титановый чёрный" },
+
   black: { hex: "#1c1c1e", ru: "Чёрный", hy: "Սև" },
   "space black": { hex: "#2a2a2c", ru: "Чёрный космос", hy: "Տիեզերական սև" },
   white: { hex: "#f5f5f7", ru: "Белый", hy: "Սպիտակ" },

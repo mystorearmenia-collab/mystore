@@ -67,7 +67,7 @@ export default function ProductCard({ product }: { product: Product }) {
         </div>
 
         <div className="mt-auto">
-          <Prices price={product.price} credit={product.creditPrice} />
+          <Prices price={product.price} credit={product.creditPrice} onRequest={product.priceOnRequest} />
 
           <div className="mt-3 flex items-center justify-between gap-2">
             <p className="flex items-center gap-2 text-[0.775rem] text-muted">

@@ -39,7 +39,7 @@ export default function NewArrivalCard({
           </h3>
           <p className="mt-1 text-[0.8rem] text-muted">{pick(product.config, locale)}</p>
         </div>
-        <div className="shrink-0 min-w-[9.5rem]"><Prices price={product.price} credit={product.creditPrice} /></div>
+        <div className="shrink-0 min-w-[9.5rem]"><Prices price={product.price} credit={product.creditPrice} onRequest={product.priceOnRequest} /></div>
       </div>
     </button>
   );

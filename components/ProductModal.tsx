@@ -65,6 +65,7 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
           ? [product.image]
           : [];
   const shownPrice = variant?.price ?? product?.price ?? 0;
+  const shownAvailability = variant && product?.brand === "Samsung" ? (variant.inStock ? "in-stock" : "on-request") : product?.availability;
   const shownCredit = variant ? variant.credit : (product?.creditPrice ?? null);
 
   return (
@@ -118,18 +119,18 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
                 )}
               </div>
 
-              {product.variants && product.variants.length > (product.name.startsWith("MacBook Air") && product.name.includes("M5") ? 0 : 1) && (
+              {product.variants && product.variants.length > (product.brand === "Samsung" || product.name.startsWith("MacBook Air") && product.name.includes("M5") ? 0 : 1) && (
                 <VariantPicker product={product} selection={selection} onChange={setSelection} />
               )}
 
               <div className="flex items-end justify-between gap-6 border-y border-line py-4">
-                <div className="min-w-[52%]"><Prices price={shownPrice} credit={shownCredit} size="lg" /></div>
+                <div className="min-w-[52%]"><Prices price={shownPrice} credit={shownCredit} onRequest={variant ? variant.priceOnRequest : product.priceOnRequest} size="lg" /></div>
                 <p className="ml-auto flex items-center gap-2 text-[0.8rem] text-muted">
                   <span
                     className="h-1.5 w-1.5 rounded-full"
-                    style={{ background: dotColor[product.availability] }}
+                    style={{ background: dotColor[shownAvailability ?? product.availability] }}
                   />
-                  {product.availability === "in-stock" ? t("inStock") : t("onRequest")}
+                  {shownAvailability === "in-stock" ? t("inStock") : t("onRequest")}
                 </p>
               </div>
 

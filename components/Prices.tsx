@@ -8,15 +8,19 @@ import type { Locale } from "@/i18n/routing";
 export default function Prices({
   price,
   credit,
+  onRequest = false,
   size = "md",
 }: {
   price: number;
+  onRequest?: boolean;
   credit: number | null;
   size?: "md" | "lg";
 }) {
   const locale = useLocale() as Locale;
   const t = useTranslations("product");
   const main = size === "lg" ? "text-[1.3rem]" : "text-[1.15rem]";
+
+  if (onRequest) return <div className={`${main} font-semibold`}>{locale === "ru" ? "Уточнить цену" : locale === "hy" ? "Ճշտել գինը" : "Contact for price"}</div>;
 
   return (
     <div className="space-y-1.5">
