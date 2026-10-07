@@ -225,5 +225,19 @@
     "timeTitle": "Delivery time",
     "timeText": "Delivery takes 1–2 days.",
     "contact": "For delivery questions, contact MyStore:"
+  },
+  "returns": {
+    "title": "Returns",
+    "lede": "Returns and exchanges are handled in accordance with Armenian law. Goods of satisfactory quality may be returned or exchanged within 14 days of receipt.",
+    "terms": [
+      "The product must be unused, with its original appearance and consumer properties preserved and its seals and labels intact.",
+      "Bring the product, a payment document and evidence of purchase from MyStore.",
+      "For a return by delivery service, the deadline is met if the product is handed to a postal, courier or other delivery service within 14 days of receipt.",
+      "Exceptions for non-returnable goods provided by law apply."
+    ],
+    "rights": "These conditions apply to goods of satisfactory quality and do not limit the customer’s statutory rights regarding defective goods.",
+    "law": "Armenian Law on Consumer Rights Protection, Article 23",
+    "contactTitle": "How to contact us",
+    "contact": "For a return, contact MyStore or visit our store at:"
   }
 }
