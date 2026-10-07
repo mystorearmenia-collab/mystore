@@ -63,9 +63,9 @@ export default function Header() {
 
           <div className="flex items-center gap-1">
             <LocaleSwitch className="mr-1 hidden sm:flex" />
-            <button className="icon-button" aria-label={t("header.search")}>
+            <Link href="/search" className="icon-button" aria-label={t("header.search")}>
               <SearchIcon className="h-5 w-5" />
-            </button>
+            </Link>
             <button className="icon-button hidden sm:inline-grid" aria-label={t("header.account")}>
               <UserIcon className="h-5 w-5" />
             </button>

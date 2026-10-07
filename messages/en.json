@@ -184,5 +184,14 @@
     ],
     "voltage": "The warranty also does not cover damage caused by electrical voltage fluctuations.",
     "cardRequired": "A warranty card is required for a warranty claim."
+  },
+  "catalogSearch": {
+    "title": "Search products",
+    "label": "Product name or brand",
+    "placeholder": "For example: iPhone 16, Samsung, AirTag",
+    "submit": "Search",
+    "hint": "Enter a model name or brand.",
+    "empty": "No products found. Try another name.",
+    "count": "Products found: {count}"
   }
 }
