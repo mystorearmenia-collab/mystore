@@ -96,7 +96,7 @@
     "warrantyTitle": "Official warranty",
     "warrantyText": "1 year, honoured in store on Komitas 9.",
     "deliveryTitle": "Fast delivery",
-    "deliveryText": "Same-day across Yerevan, 1–2 days Armenia-wide.",
+    "deliveryText": "Within 1–2 days through HayPost or other delivery services.",
     "originalTitle": "Original products",
     "originalText": "Authorised stock only, every unit serial-checked.",
     "paymentTitle": "Secure payment",
@@ -217,5 +217,13 @@
     "invalid": "Check your first name, last name and phone number with country code.",
     "sendError": "Could not send the code. Check your email and try again later.",
     "codeError": "Invalid or expired code. Check the code or request a new one."
+  },
+  "delivery": {
+    "title": "Delivery",
+    "lede": "We arrange delivery through HayPost or other delivery services.",
+    "details": "The delivery method and cost are agreed with the customer when the order is confirmed and depend on the address and the chosen service’s terms.",
+    "timeTitle": "Delivery time",
+    "timeText": "Delivery takes 1–2 days.",
+    "contact": "For delivery questions, contact MyStore:"
   }
 }
