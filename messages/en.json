@@ -252,5 +252,15 @@
     "warranty": "Warranty terms",
     "delivery": "Delivery",
     "returns": "Returns"
+  },
+  "about": {
+    "title": "About MyStore",
+    "lede": "MyStore is an electronics store at Komitas Avenue 9 in Yerevan. We help you choose technology for work, everyday life and leisure.",
+    "range": "Our range includes smartphones, tablets, computers, gaming devices, headphones, speakers, cameras, Dyson products, DJI devices and accessories.",
+    "warrantyText": "All devices come with a 1-year MyStore warranty. See our warranty page for the terms.",
+    "deliveryText": "We arrange delivery through HayPost or other delivery services within 1–2 days.",
+    "warranty": "Warranty terms",
+    "delivery": "Delivery",
+    "support": "Contact us"
   }
 }

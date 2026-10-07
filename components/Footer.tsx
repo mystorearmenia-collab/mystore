@@ -26,7 +26,7 @@ export default function Footer() {
   const columns = [
     { title: t("products"), links: productLinks },
     { title: t("service"), links: serviceLinks.flatMap((label, index) => index === 1 ? [] : [{ label, href: index === 0 ? "/warranty" : index === 2 ? "/trade-in" : index === 3 ? "/delivery" : index === 4 ? "/returns" : "/support" }]) },
-    { title: t("information"), links: infoLinks.map((label) => ({ label, href: "/" })) },
+    { title: t("information"), links: infoLinks.map((label, index) => ({ label, href: index === 0 ? "/about" : "/" })) },
   ];
 
   return (
