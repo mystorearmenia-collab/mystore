@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 192
+    "product_count": 191
   },
   "categories": [
     {
@@ -126,7 +126,7 @@
       },
       "href": "/accessories",
       "art": "accessory",
-      "count": 19
+      "count": 18
     }
   ],
   "products": [
@@ -29479,63 +29479,6 @@
         "audio"
       ],
       "audioGroup": "speakers"
-    },
-    {
-      "id": "usb-c-cable-1m",
-      "brand": "Apple",
-      "name": "USB-C Cable 1m",
-      "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
-      },
-      "price": 10000,
-      "oldPrice": null,
-      "monthly": 210,
-      "availability": "in-stock",
-      "art": "accessory",
-      "image": "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_03.jpg",
-      "sourceRef": {
-        "sku": "1214",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_03.jpg",
-          "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_02.jpg",
-          "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_01.jpg"
-        ]
-      },
-      "specs": [
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Երաշխիք",
-                "ru": "Гарантия",
-                "en": "Warranty"
-              },
-              "value": {
-                "hy": "14 օր",
-                "ru": "14 дн.",
-                "en": "14 days"
-              }
-            }
-          ]
-        }
-      ],
-      "priceSource": "yerevanmobile",
-      "creditPrice": null,
-      "cats": [
-        "accessories"
-      ],
-      "images": [
-        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_03.jpg",
-        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_02.jpg",
-        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_01.jpg"
-      ]
     },
     {
       "id": "jbl-microphone-portable-digital-wireless-mic-300",
