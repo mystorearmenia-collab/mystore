@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 190
+    "product_count": 192
   },
   "categories": [
     {
@@ -126,7 +126,7 @@
       },
       "href": "/accessories",
       "art": "accessory",
-      "count": 17
+      "count": 19
     }
   ],
   "products": [
@@ -18114,7 +18114,7 @@
       "monthly": 3940,
       "availability": "on-request",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/a/i/air_11_keyb_1.jpg",
       "sourceRef": {
         "sku": "10749",
         "imageUrls": [
@@ -18151,6 +18151,12 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/a/i/air_11_keyb_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/i/p/ipad_air_11_1_3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/i/p/ipad_air_11_3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/m/g/mgyy4_av4_1.jpg"
       ]
     },
     {
@@ -18167,7 +18173,7 @@
       "monthly": 4360,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/617ya_l3mel._ac_sl1500__1.jpg",
       "sourceRef": {
         "sku": "6989_1",
         "imageUrls": [
@@ -18204,6 +18210,12 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/617ya_l3mel._ac_sl1500__1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/5/1/51jv_m1phrl._ac_sl1500__1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/7/1/71ymmfyacpl._ac_sl1500__1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/5/1/510pyj7boql._ac_sl1500__1.jpg"
       ]
     },
     {
@@ -19400,7 +19412,7 @@
       "monthly": 3940,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/617ya_l3mel._ac_sl1500_.jpg",
       "sourceRef": {
         "sku": "9232",
         "imageUrls": [
@@ -19449,6 +19461,12 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/617ya_l3mel._ac_sl1500_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/5/1/510pyj7boql._ac_sl1500_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/5/1/51jv_m1phrl._ac_sl1500_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/7/1/71idh4wq_2l._ac_sl1500_.jpg"
       ]
     },
     {
@@ -20226,7 +20244,7 @@
       "monthly": 3940,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/a/i/air_11_keyb.jpg",
       "sourceRef": {
         "sku": "10748",
         "imageUrls": [
@@ -20275,6 +20293,12 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/a/i/air_11_keyb.jpg",
+        "https://yerevanmobile.am/media/catalog/product/i/p/ipad_air_11_1_2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/i/p/ipad_air_11_2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/m/g/mgyy4_av4.jpg"
       ]
     },
     {
@@ -24657,7 +24681,7 @@
       "monthly": 2250,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/g/r/gray_1.jpg",
       "sourceRef": {
         "sku": "470_1",
         "imageUrls": [
@@ -24692,6 +24716,10 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/g/r/gray_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/w/h/whte_1.jpg"
       ]
     },
     {
@@ -26528,7 +26556,7 @@
       "monthly": 1650,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/5/1/519uztsuo4l._uf1000_1000_ql80_.jpg",
       "sourceRef": {
         "sku": "8442_1",
         "imageUrls": [
@@ -26565,6 +26593,12 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/5/1/519uztsuo4l._uf1000_1000_ql80_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/1/31hszgmkkjl._ac_sl1144_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/1/31wg9zwbrdl._ac_sl1144_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/3/1/31iuexgsagl._uf1000_1000_ql80_.jpg"
       ]
     },
     {
@@ -27355,7 +27389,7 @@
       "monthly": 1230,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/p/r/product-product-apple-magsafe-duo-charger-mhxf3-5501-1000x1000.jpg",
       "sourceRef": {
         "sku": "562",
         "imageUrls": [
@@ -27402,6 +27436,10 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/p/r/product-product-apple-magsafe-duo-charger-mhxf3-5501-1000x1000.jpg",
+        "https://yerevanmobile.am/media/catalog/product/i/m/image_1.jpg"
       ]
     },
     {
@@ -27701,7 +27739,7 @@
       "monthly": 1190,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/p/e/pen2_1.jpg",
       "sourceRef": {
         "sku": "9313",
         "imageUrls": [
@@ -27735,6 +27773,9 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/p/e/pen2_1.jpg"
       ]
     },
     {
@@ -28308,7 +28349,7 @@
       "monthly": 1050,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/5/1/51iyujkrfhl._ac_sl1500_.jpg",
       "sourceRef": {
         "sku": "9314",
         "imageUrls": [
@@ -28343,6 +28384,10 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/5/1/51iyujkrfhl._ac_sl1500_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/4/1/41s9dmrsgcl._ac_sl1500_.jpg"
       ]
     },
     {
@@ -28750,7 +28795,7 @@
       "monthly": 940,
       "availability": "in-stock",
       "art": "accessory",
-      "image": "https://admin.redstore.am/storage/uploads/2025/11/12/tedw4667-montaznaia-oblast-1.jpg",
+      "image": "https://yerevanmobile.am/media/catalog/product/1/6/1687cd8a84fef677a020d3bcb10a7911.jpg",
       "sourceRef": {
         "sku": "8297_1",
         "imageUrls": [
@@ -28807,6 +28852,10 @@
           "image": "https://admin.redstore.am/storage/uploads/2025/11/12/2214-montaznaia-oblast-1.jpg",
           "inStock": true
         }
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/1/6/1687cd8a84fef677a020d3bcb10a7911.jpg",
+        "https://yerevanmobile.am/media/catalog/product/9/d/9d5835c4a41152af7bdf1bab17ce21b8.jpg"
       ]
     },
     {
@@ -28823,7 +28872,7 @@
       "monthly": 940,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/6/1/616161_1_1.jpg",
       "sourceRef": {
         "sku": "1213",
         "imageUrls": [
@@ -28858,6 +28907,10 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/6/1/616161_1_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/6/1/616161_alt1_1.jpg"
       ]
     },
     {
@@ -28974,7 +29027,7 @@
       "monthly": 670,
       "availability": "on-request",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/7/1/71vwnsgei8l._sl1500_0000000000.jpg",
       "sourceRef": {
         "sku": "9689",
         "imageUrls": [
@@ -29011,6 +29064,12 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/7/1/71vwnsgei8l._sl1500_0000000000.jpg",
+        "https://yerevanmobile.am/media/catalog/product/5/1/51g23copqul._sx679_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/6/1/61u9n929iol._sx679_.jpg",
+        "https://yerevanmobile.am/media/catalog/product/6/1/61do2dehqyl._sx679_.jpg"
       ]
     },
     {
@@ -29027,7 +29086,7 @@
       "monthly": 610,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/a/p/apple_35w_dual_usb-c_port_power_adapter_mnwp3_2_-600x600.jpg",
       "sourceRef": {
         "sku": "2512",
         "imageUrls": [
@@ -29075,6 +29134,11 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/a/p/apple_35w_dual_usb-c_port_power_adapter_mnwp3_2_-600x600.jpg",
+        "https://yerevanmobile.am/media/catalog/product/a/p/apple-35w-dual-usb-c-port-power-adapter-mnwp3-in-qatar-600x600.jpg",
+        "https://yerevanmobile.am/media/catalog/product/6/1/610235_alt1.jpg"
       ]
     },
     {
@@ -29187,7 +29251,7 @@
       "monthly": 320,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_power_adapter01.jpg",
       "sourceRef": {
         "sku": "565",
         "imageUrls": [
@@ -29234,6 +29298,10 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_power_adapter01.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_power_adapter02.jpg"
       ]
     },
     {
@@ -29250,7 +29318,7 @@
       "monthly": 280,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_to_lightning_3.jpg",
       "sourceRef": {
         "sku": "2071",
         "imageUrls": [
@@ -29286,6 +29354,11 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_to_lightning_3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_to_lightning_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_to_lightning_2.jpg"
       ]
     },
     {
@@ -29302,7 +29375,7 @@
       "monthly": 280,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_60w.jpg",
       "sourceRef": {
         "sku": "6361",
         "imageUrls": [
@@ -29336,6 +29409,9 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_60w.jpg"
       ]
     },
     {
@@ -29418,7 +29494,7 @@
       "monthly": 210,
       "availability": "in-stock",
       "art": "accessory",
-      "image": null,
+      "image": "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_03.jpg",
       "sourceRef": {
         "sku": "1214",
         "imageUrls": [
@@ -29454,6 +29530,11 @@
       "creditPrice": null,
       "cats": [
         "accessories"
+      ],
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_03.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_02.jpg",
+        "https://yerevanmobile.am/media/catalog/product/u/s/usb-c_01.jpg"
       ]
     },
     {
@@ -29519,6 +29600,126 @@
         "audio"
       ],
       "audioGroup": "microphones"
+    },
+    {
+      "id": "airtag-1-pack",
+      "brand": "Apple",
+      "name": "AirTag",
+      "config": {
+        "hy": "1 հատ",
+        "ru": "1 шт.",
+        "en": "1 pcs"
+      },
+      "price": 0,
+      "priceOnRequest": true,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/o/r/orig_1_3.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/o/r/orig_1_3.jpg",
+        "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0006_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0001_1.jpg",
+        "https://yerevanmobile.am/media/catalog/product/o/_/o_6183c71851129_1.jpg"
+      ],
+      "sourceRef": {
+        "sku": "9638",
+        "url": "https://yerevanmobile.am/en/apple-airtag.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/o/r/orig_1_3.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0006_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0001_1.jpg",
+          "https://yerevanmobile.am/media/catalog/product/o/_/o_6183c71851129_1.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Քանակ",
+                "ru": "Количество в комплекте",
+                "en": "Pack quantity"
+              },
+              "value": {
+                "hy": "1 հատ",
+                "ru": "1 шт.",
+                "en": "1 pcs"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "accessories"
+      ]
+    },
+    {
+      "id": "airtag-4-pack",
+      "brand": "Apple",
+      "name": "AirTag",
+      "config": {
+        "hy": "4 հատ",
+        "ru": "4 шт.",
+        "en": "4 pcs"
+      },
+      "price": 0,
+      "priceOnRequest": true,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "accessory",
+      "image": "https://yerevanmobile.am/media/catalog/product/o/r/orig_1_2.jpg",
+      "images": [
+        "https://yerevanmobile.am/media/catalog/product/o/r/orig_1_2.jpg",
+        "https://yerevanmobile.am/media/catalog/product/o/_/o_6183c71851129.jpg",
+        "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0006.jpg",
+        "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0001.jpg"
+      ],
+      "sourceRef": {
+        "sku": "9639",
+        "url": "https://yerevanmobile.am/en/apple-airtag-4-psc.html",
+        "imageUrls": [
+          "https://yerevanmobile.am/media/catalog/product/o/r/orig_1_2.jpg",
+          "https://yerevanmobile.am/media/catalog/product/o/_/o_6183c71851129.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0006.jpg",
+          "https://yerevanmobile.am/media/catalog/product/a/p/apple_airtag_1000_0001.jpg"
+        ]
+      },
+      "specs": [
+        {
+          "title": {
+            "hy": "Ընդհանուր բնութագրեր",
+            "ru": "Общие характеристики",
+            "en": "General"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Քանակ",
+                "ru": "Количество в комплекте",
+                "en": "Pack quantity"
+              },
+              "value": {
+                "hy": "4 հատ",
+                "ru": "4 шт.",
+                "en": "4 pcs"
+              }
+            }
+          ]
+        }
+      ],
+      "cats": [
+        "accessories"
+      ]
     }
   ]
 }
