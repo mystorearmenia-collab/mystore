@@ -66,9 +66,9 @@ export default function Header() {
             <Link href="/search" className="icon-button" aria-label={t("header.search")}>
               <SearchIcon className="h-5 w-5" />
             </Link>
-            <button className="icon-button hidden sm:inline-grid" aria-label={t("header.account")}>
+            <Link href="/account" className="icon-button inline-grid" aria-label={t("header.account")}>
               <UserIcon className="h-5 w-5" />
-            </button>
+            </Link>
             <button className="icon-button hidden sm:inline-grid" aria-label={t("header.favorites")}>
               <HeartIcon className="h-5 w-5" />
             </button>
@@ -125,7 +125,7 @@ export default function Header() {
           <LocaleSwitch className="mb-6 gap-2" />
           <div className="flex gap-3">
             <button className="btn btn-primary flex-1">{t("header.shopNow")}</button>
-            <button className="btn btn-secondary flex-1">{t("header.account")}</button>
+            <Link href="/account" onClick={() => setMenuOpen(false)} className="btn btn-secondary flex-1">{t("header.account")}</Link>
           </div>
         </div>
       </div>

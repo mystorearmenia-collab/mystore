@@ -193,5 +193,29 @@
     "hint": "Enter a model name or brand.",
     "empty": "No products found. Try another name.",
     "count": "Products found: {count}"
+  },
+  "account": {
+    "title": "My account",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "register": "Register",
+    "login": "Sign in",
+    "logout": "Sign out",
+    "welcome": "Your account",
+    "unavailable": "Registration is currently unavailable. Contact the shop at +374 93 80 80 11.",
+    "note": "We will email you a code to verify your address and sign in. No password is needed. Registration details will be shared with MyStore to create your account.",
+    "send": "Send code",
+    "code": "Email code",
+    "verify": "Verify",
+    "sent": "Enter the code sent to {email}.",
+    "busy": "Please wait…",
+    "resend": "Resend code",
+    "resendWait": "Retry in {seconds}s",
+    "changeEmail": "Change email",
+    "invalid": "Check your first name, last name and phone number with country code.",
+    "sendError": "Could not send the code. Check your email and try again later.",
+    "codeError": "Invalid or expired code. Check the code or request a new one."
   }
 }
