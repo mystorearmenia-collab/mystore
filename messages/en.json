@@ -168,5 +168,16 @@
     "waGreeting": "Hello! I would like to do a trade-in.",
     "waNew": "New device",
     "waOld": "Trading in"
+  },
+  "warranty": {
+    "title": "Warranty",
+    "lede": "MyStore provides a 1-year warranty on all devices.",
+    "exclusionsTitle": "The warranty does not cover",
+    "customerDamage": "Damage caused by the customer.",
+    "liquid": "Water or other liquid entering the device.",
+    "voltage": "Damage caused by electrical voltage fluctuations.",
+    "claimTitle": "How to make a warranty claim",
+    "cardRequired": "A warranty card is required for a warranty claim.",
+    "visit": "Visit the MyStore shop at:"
   }
 }
