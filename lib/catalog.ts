@@ -112,6 +112,10 @@ export const store = {
   cityByLocale: { hy: "Երևան, Հայաստան", ru: "Ереван, Армения", en: "Yerevan, Armenia" } as Tri,
   phone: "+374 93 80 80 11",
   whatsapp: "https://wa.me/37493808011",
+  telegram: "https://t.me/+37493808011",
+  facebook: "https://www.facebook.com/MyStore.Armenia",
+  instagram: "https://www.instagram.com/mystore_armenia/",
+  tiktok: "https://www.tiktok.com/@mystore_armenia",
   email: "mystorearmenia@gmail.com",
   mapUrl: "https://www.google.com/maps/search/?api=1&query=Komitas+Ave+9,+Yerevan,+Armenia",
 };
