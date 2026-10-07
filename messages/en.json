@@ -178,6 +178,7 @@
     "voltage": "Damage caused by electrical voltage fluctuations.",
     "claimTitle": "How to make a warranty claim",
     "cardRequired": "A warranty card is required for a warranty claim.",
+    "serviceTime": "Warranty service for a device takes up to 40 working days.",
     "visit": "Visit the MyStore shop at:"
   }
 }

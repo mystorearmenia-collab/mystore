@@ -48,6 +48,7 @@ export default async function WarrantyPage({ params }: PageProps) {
             <section className="mt-6 rounded-2xl border border-line bg-surface p-6 sm:p-8">
               <h2 className="text-xl font-semibold">{t("claimTitle")}</h2>
               <p className="mt-4 leading-relaxed">{t("cardRequired")}</p>
+              <p className="mt-3 leading-relaxed text-muted">{t("serviceTime")}</p>
               <p className="mt-3 text-muted">{t("visit")} {storeAddress(locale as Locale)}.</p>
               <a href={`tel:${store.phone.replace(/\s/g, "")}`} className="mt-5 inline-flex text-orange hover:underline">
                 {store.phone}
