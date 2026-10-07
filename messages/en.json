@@ -170,15 +170,17 @@
     "waOld": "Trading in"
   },
   "warranty": {
-    "title": "Warranty",
     "lede": "MyStore provides a 1-year warranty on all devices.",
-    "exclusionsTitle": "The warranty does not cover",
-    "customerDamage": "Damage caused by the customer.",
-    "liquid": "Water or other liquid entering the device.",
-    "voltage": "Damage caused by electrical voltage fluctuations.",
-    "claimTitle": "How to make a warranty claim",
-    "cardRequired": "A warranty card is required for a warranty claim.",
-    "serviceTime": "Warranty service for a device takes up to 40 working days.",
-    "visit": "Visit the MyStore shop at:"
+    "visit": "Visit the MyStore shop at:",
+    "title": "Warranty terms",
+    "terms": [
+      "The warranty covers manufacturing defects in the product and faults of a manufacturing nature that arise during the warranty period.",
+      "The warranty period begins on the date the product is handed over to the buyer.",
+      "The warranty does not cover defects or damage that arise after the product is handed over to the buyer as a result of improper use, failure to follow storage requirements, mechanical damage, liquid entering the product, intervention by third parties, or force majeure.",
+      "For warranty service, the buyer must contact MyStore and present the product and proof of purchase.",
+      "Where necessary, whether a fault qualifies for warranty coverage is determined by inspecting or technically testing the product.",
+      "Warranty service may take up to 40 working days, depending on the nature of the fault, the diagnostics required, and the availability of spare parts, while complying with the requirements of the legislation of the Republic of Armenia.",
+      "If the product fails to conform during the warranty period, the consumer is entitled to the remedies provided by law free of charge. This warranty does not limit the consumer’s rights under the legislation of the Republic of Armenia."
+    ]
   }
 }
