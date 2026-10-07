@@ -16,13 +16,13 @@ export default function Footer() {
   const serviceLinks = t.raw("serviceLinks") as string[];
   const infoLinks = t.raw("infoLinks") as string[];
   const productLinks = navigation
-    .filter((item) => item.key !== "home" && item.key !== "tradein" && item.key !== "accessories")
-    .map((item) => tNav(item.key));
+    .filter((item) => item.key !== "home" && item.key !== "tradein")
+    .map((item) => ({ label: tNav(item.key), href: item.href }));
 
   const columns = [
     { title: t("products"), links: productLinks },
-    { title: t("service"), links: serviceLinks },
-    { title: t("information"), links: infoLinks },
+    { title: t("service"), links: serviceLinks.map((label, index) => ({ label, href: index === 2 ? "/trade-in" : "/" })) },
+    { title: t("information"), links: infoLinks.map((label) => ({ label, href: "/" })) },
   ];
 
   return (
@@ -57,12 +57,12 @@ export default function Footer() {
               </h3>
               <ul className="mt-5 space-y-3">
                 {column.links.map((link) => (
-                  <li key={link}>
+                  <li key={link.label}>
                     <Link
-                      href="/"
+                      href={link.href}
                       className="text-[0.875rem] text-muted transition-colors duration-250 hover:text-ink"
                     >
-                      {link}
+                      {link.label}
                     </Link>
                   </li>
                 ))}
