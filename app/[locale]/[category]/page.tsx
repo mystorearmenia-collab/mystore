@@ -83,13 +83,39 @@ export default async function CategoryPage({
                       <h2 id={`audio-brand-${brandIndex}`} className="text-2xl font-semibold tracking-tight">{brand}</h2>
                       <p className="text-[0.85rem] text-muted">{brandItems.length} {t("count")}</p>
                     </div>
-                    <div className="grid grid-cols-1 gap-[clamp(0.75rem,1.4vw,1.25rem)] sm:grid-cols-2 lg:grid-cols-4">
-                      {brandItems.map((product, index) => (
-                        <Reveal key={product.id} delay={(index % 4) * 70} className="h-full">
-                          <ProductCard product={product} />
-                        </Reveal>
-                      ))}
-                    </div>
+                    {brand === "JBL" ? (
+                      <div className="space-y-10">
+                        {([
+                          { key: "headphones", label: { ru: "Наушники", hy: "Ականջակալներ", en: "Headphones" } },
+                          { key: "speakers", label: { ru: "Колонки", hy: "Բարձրախոսներ", en: "Speakers" } },
+                          { key: "microphones", label: { ru: "Микрофоны", hy: "Միկրոֆոններ", en: "Microphones" } },
+                        ] as const).map((group) => {
+                          const groupItems = brandItems.filter((product) => (product.audioGroup ?? "speakers") === group.key);
+                          if (!groupItems.length) return null;
+                          const groupName = pick(group.label, locale as Locale);
+                          return (
+                            <div key={group.key} role="group" aria-label={groupName}>
+                              <p className="mb-5 text-lg font-semibold">{groupName}</p>
+                              <div className="grid grid-cols-1 gap-[clamp(0.75rem,1.4vw,1.25rem)] sm:grid-cols-2 lg:grid-cols-4">
+                                {groupItems.map((product, index) => (
+                                  <Reveal key={product.id} delay={(index % 4) * 70} className="h-full">
+                                    <ProductCard product={product} />
+                                  </Reveal>
+                                ))}
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    ) : (
+                      <div className="grid grid-cols-1 gap-[clamp(0.75rem,1.4vw,1.25rem)] sm:grid-cols-2 lg:grid-cols-4">
+                        {brandItems.map((product, index) => (
+                          <Reveal key={product.id} delay={(index % 4) * 70} className="h-full">
+                            <ProductCard product={product} />
+                          </Reveal>
+                        ))}
+                      </div>
+                    )}
                   </section>
                 );
               })}

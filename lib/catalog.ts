@@ -34,6 +34,7 @@ export type Product = {
   cats: string[];
   variants?: Variant[];
   addOn?: { label: Tri; price: number };
+  audioGroup?: "headphones" | "speakers" | "microphones";
 };
 
 export type Category = {
