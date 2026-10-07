@@ -83,7 +83,7 @@ export default function AccountForm({ enabled }: { enabled: boolean }) {
       <form className="space-y-5" onSubmit={(event) => { event.preventDefault(); if (sent) void verifyCode(); else void sendCode(); }}>
         {sent ? <>
           <p className="text-muted">{t("sent", { email })}</p>
-          <label className="block">{t("code")}<input autoFocus required inputMode="numeric" autoComplete="one-time-code" pattern="[0-9]{6}" maxLength={6} value={code} onChange={(event) => setCode(event.target.value)} className={inputClass} /></label>
+          <label className="block">{t("code")}<input autoFocus required inputMode="numeric" autoComplete="one-time-code" pattern="[0-9]{8}" maxLength={8} value={code} onChange={(event) => setCode(event.target.value)} className={inputClass} /></label>
           <button className="btn btn-primary" disabled={busy}>{busy ? t("busy") : t("verify")}</button>
           <button type="button" className="ml-4 text-sm text-muted" disabled={busy || cooldown > 0} onClick={() => void sendCode()}>{cooldown > 0 ? t("resendWait", { seconds: cooldown }) : t("resend")}</button>
           <button type="button" className="block text-sm text-muted" onClick={() => { setSent(false); setCode(""); setMessage(""); }}>{t("changeEmail")}</button>
