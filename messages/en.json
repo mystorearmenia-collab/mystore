@@ -239,5 +239,18 @@
     "law": "Armenian Law on Consumer Rights Protection, Article 23",
     "contactTitle": "How to contact us",
     "contact": "For a return, contact MyStore or visit our store at:"
+  },
+  "support": {
+    "title": "Support",
+    "lede": "Contact MyStore with questions about products, orders, delivery, returns and warranty. Choose your preferred contact method or visit our store.",
+    "phone": "Phone",
+    "message": "Send a message →",
+    "visit": "Visit our store",
+    "hours": "Opening hours",
+    "monSat": "Monday — Saturday",
+    "sunday": "Sunday",
+    "warranty": "Warranty terms",
+    "delivery": "Delivery",
+    "returns": "Returns"
   }
 }
