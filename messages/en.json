@@ -262,5 +262,19 @@
     "warranty": "Warranty terms",
     "delivery": "Delivery",
     "support": "Contact us"
+  },
+  "installments": {
+    "title": "Installments",
+    "lede": "At MyStore, you can purchase electronics in installments through IDBank / Idram Rocket Line, AEB, ACBA and Ameriabank.",
+    "term": "Up to 12 months",
+    "downPayment": "Down payment",
+    "annual": "Annual interest rate",
+    "service": "Service fee",
+    "rocketHow": "To pay with Rocket Line, use the Idram&IDBank app and your available credit limit.",
+    "otherBanks": "Other banks",
+    "otherTerms": "The term, down payment, interest rate and service fees for AEB, ACBA and Ameriabank plans are confirmed when arranging financing.",
+    "approval": "Installment purchases are subject to bank approval. The installment price, payment schedule and required documents are confirmed before financing is arranged.",
+    "contactTitle": "How to arrange installments",
+    "contact": "Choose a product and contact MyStore — we will help you check the available installment options."
   }
 }
