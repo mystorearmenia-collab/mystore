@@ -41,7 +41,9 @@ export default async function WarrantyPage({ params }: PageProps) {
             <ol className="mt-10 list-decimal space-y-5 pl-6 text-[1rem] leading-relaxed text-muted marker:font-semibold marker:text-ink">
               {terms.map((term, index) => <li key={index} className="pl-2">{term}</li>)}
             </ol>
+            <p className="mt-6 leading-relaxed text-muted">{t("voltage")}</p>
             <section className="mt-8 rounded-2xl border border-line bg-surface p-6 sm:p-8">
+              <p className="leading-relaxed">{t("cardRequired")}</p>
               <p className="mt-3 text-muted">{t("visit")} {storeAddress(locale as Locale)}.</p>
               <a href={`tel:${store.phone.replace(/\s/g, "")}`} className="mt-5 inline-flex text-orange hover:underline">
                 {store.phone}

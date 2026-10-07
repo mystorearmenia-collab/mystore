@@ -181,6 +181,8 @@
       "Where necessary, whether a fault qualifies for warranty coverage is determined by inspecting or technically testing the product.",
       "Warranty service may take up to 40 working days, depending on the nature of the fault, the diagnostics required, and the availability of spare parts, while complying with the requirements of the legislation of the Republic of Armenia.",
       "If the product fails to conform during the warranty period, the consumer is entitled to the remedies provided by law free of charge. This warranty does not limit the consumer’s rights under the legislation of the Republic of Armenia."
-    ]
+    ],
+    "voltage": "The warranty also does not cover damage caused by electrical voltage fluctuations.",
+    "cardRequired": "A warranty card is required for a warranty claim."
   }
 }
