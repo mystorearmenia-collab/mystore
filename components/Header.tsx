@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import Logo from "./Logo";
@@ -18,6 +18,8 @@ export default function Header() {
   const t = useTranslations();
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const menuButton = useRef<HTMLButtonElement>(null);
+  const menuPanel = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 12);
@@ -27,9 +29,28 @@ export default function Header() {
   }, []);
 
   useEffect(() => {
-    document.body.style.overflow = menuOpen ? "hidden" : "";
+    if (!menuOpen) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    menuPanel.current?.querySelector<HTMLButtonElement>("button")?.focus();
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setMenuOpen(false);
+      if (event.key !== "Tab") return;
+      const controls = menuPanel.current?.querySelectorAll<HTMLElement>("a[href], button:not([disabled])");
+      if (!controls?.length) return;
+      const first = controls[0];
+      const last = controls[controls.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault(); last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault(); first.focus();
+      }
+    };
+    document.addEventListener("keydown", onKeyDown);
     return () => {
-      document.body.style.overflow = "";
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener("keydown", onKeyDown);
+      menuButton.current?.focus();
     };
   }, [menuOpen]);
 
@@ -73,8 +94,11 @@ export default function Header() {
               <HeartIcon className="h-5 w-5" />
             </button>
             <button
-              className="icon-button xl:hidden"
+              ref={menuButton}
+              className="icon-button"
               aria-label={t("header.menu")}
+              aria-expanded={menuOpen}
+              aria-controls="site-menu"
               onClick={() => setMenuOpen(true)}
             >
               <MenuIcon className="h-5 w-5" />
@@ -83,9 +107,16 @@ export default function Header() {
         </div>
       </header>
 
-      {/* Fullscreen mobile navigation */}
+      {/* Navigation menu available on every screen size. */}
       <div
-        className={`fixed inset-0 z-[60] bg-background transition-[opacity,visibility] duration-400 xl:hidden ${
+        ref={menuPanel}
+        id="site-menu"
+        role="dialog"
+        aria-modal="true"
+        aria-label={t("header.menu")}
+        aria-hidden={!menuOpen}
+        inert={!menuOpen}
+        className={`fixed inset-0 z-[60] overflow-y-auto overscroll-contain bg-background pb-8 transition-[opacity,visibility] duration-400 ${
           menuOpen ? "visible opacity-100" : "invisible opacity-0"
         }`}
       >
@@ -124,7 +155,7 @@ export default function Header() {
         <div className="shell mt-8">
           <LocaleSwitch className="mb-6 gap-2" />
           <div className="flex gap-3">
-            <button className="btn btn-primary flex-1">{t("header.shopNow")}</button>
+            <Link href="/#categories" onClick={() => setMenuOpen(false)} className="btn btn-primary flex-1">{t("header.shopNow")}</Link>
             <Link href="/account" onClick={() => setMenuOpen(false)} className="btn btn-secondary flex-1">{t("header.account")}</Link>
           </div>
         </div>
