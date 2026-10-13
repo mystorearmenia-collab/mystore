@@ -510,7 +510,7 @@
         "ru": "8GB RAM · 256GB / 512GB SSD",
         "en": "8GB RAM · 256GB / 512GB SSD"
       },
-      "price": 319000,
+      "price": 309000,
       "oldPrice": null,
       "monthly": 6440,
       "availability": "in-stock",
@@ -714,7 +714,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 339900,
       "cats": [
         "mac"
       ],
@@ -724,8 +724,8 @@
           "storage": "256GB SSD",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 309000,
+          "credit": 339900,
           "image": "https://admin.redstore.am/storage/products/60088/image/2-montaznaia-oblast-1.webp",
           "inStock": false
         },
@@ -734,8 +734,8 @@
           "storage": "256GB SSD",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 309000,
+          "credit": 339900,
           "image": "https://admin.redstore.am/storage/products/60042/image/5-montaznaia-oblast.webp",
           "inStock": false
         },
@@ -744,8 +744,8 @@
           "storage": "256GB SSD",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 309000,
+          "credit": 339900,
           "image": "https://admin.redstore.am/storage/products/60043/image/sw-montaznaia-oblast-1.jpg",
           "inStock": false
         },
@@ -754,8 +754,8 @@
           "storage": "256GB SSD",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 309000,
+          "credit": 339900,
           "image": "https://admin.redstore.am/storage/products/60044/image/sww-montaznaia-oblast-1.jpg",
           "inStock": false
         },
@@ -764,8 +764,8 @@
           "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 379000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://admin.redstore.am/storage/products/60283/image/2-montaznaia-oblast-1.webp",
           "inStock": false
         },
@@ -774,8 +774,8 @@
           "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 379000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://admin.redstore.am/storage/products/60045/image/5-montaznaia-oblast-1.webp",
           "inStock": false
         },
@@ -784,8 +784,8 @@
           "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 379000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://admin.redstore.am/storage/products/60046/image/jfdu-montaznaia-oblast-1.webp",
           "inStock": false
         },
@@ -794,8 +794,8 @@
           "storage": "512GB SSD · Touch ID",
           "ram": "8GB LPDDR5",
           "sim": null,
-          "price": 379000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://admin.redstore.am/storage/products/60047/image/sww-montaznaia-oblast-1.jpg",
           "inStock": false
         }
@@ -810,7 +810,7 @@
         "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
         "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
       },
-      "price": 629000,
+      "price": 579000,
       "oldPrice": null,
       "monthly": 13110,
       "availability": "in-stock",
@@ -992,7 +992,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 636900,
       "cats": [
         "mac"
       ],
@@ -1002,8 +1002,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 629000,
-          "credit": null,
+          "price": 579000,
+          "credit": 636900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1.jpg",
           "inStock": true
         },
@@ -1012,8 +1012,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 629000,
-          "credit": null,
+          "price": 579000,
+          "credit": 636900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_4.jpg",
           "inStock": true
         },
@@ -1022,8 +1022,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 629000,
-          "credit": null,
+          "price": 579000,
+          "credit": 636900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_2_1.jpg",
           "inStock": true
         },
@@ -1032,8 +1032,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 629000,
-          "credit": null,
+          "price": 579000,
+          "credit": 636900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/3/3333333_1_1_3.jpg",
           "inStock": true
         },
@@ -1042,8 +1042,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 689000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1.jpg",
           "inStock": true
         },
@@ -1052,8 +1052,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 689000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_4.jpg",
           "inStock": true
         },
@@ -1062,8 +1062,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 689000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_2_1.jpg",
           "inStock": true
         },
@@ -1072,8 +1072,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 689000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/3/3333333_1_1_3.jpg",
           "inStock": true
         },
@@ -1082,8 +1082,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 698000,
+          "credit": 767800,
           "image": "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1.jpg",
           "inStock": true
         },
@@ -1092,8 +1092,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 698000,
+          "credit": 767800,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_4.jpg",
           "inStock": true
         },
@@ -1102,8 +1102,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 698000,
+          "credit": 767800,
           "image": "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_2_1.jpg",
           "inStock": true
         },
@@ -1112,8 +1112,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 698000,
+          "credit": 767800,
           "image": "https://yerevanmobile.am/media/catalog/product/3/3/3333333_1_1_3.jpg",
           "inStock": true
         }
@@ -1128,7 +1128,7 @@
         "ru": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD",
         "en": "M5 · 16GB / 24GB RAM · 512GB / 1TB SSD"
       },
-      "price": 709000,
+      "price": 659000,
       "oldPrice": null,
       "monthly": 14780,
       "availability": "in-stock",
@@ -1309,7 +1309,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 724900,
       "cats": [
         "mac"
       ],
@@ -1319,8 +1319,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 709000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_4.jpg",
           "inStock": true
         },
@@ -1329,8 +1329,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 709000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/6/36.._5_1_2.jpg",
           "inStock": true
         },
@@ -1339,8 +1339,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 709000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_1_3.jpg",
           "inStock": true
         },
@@ -1349,8 +1349,8 @@
           "storage": "512GB",
           "ram": "16GB",
           "sim": null,
-          "price": 709000,
-          "credit": null,
+          "price": 659000,
+          "credit": 724900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71pkfqgcmkl._ac_sl1500__1_1.jpg",
           "inStock": true
         },
@@ -1359,8 +1359,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 759000,
+          "credit": 834900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_4.jpg",
           "inStock": true
         },
@@ -1369,8 +1369,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 759000,
+          "credit": 834900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/6/36.._5_1_2.jpg",
           "inStock": true
         },
@@ -1379,8 +1379,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 759000,
+          "credit": 834900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_1_3.jpg",
           "inStock": true
         },
@@ -1389,8 +1389,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 759000,
+          "credit": 834900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71pkfqgcmkl._ac_sl1500__1_1.jpg",
           "inStock": true
         },
@@ -1399,8 +1399,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 919000,
-          "credit": null,
+          "price": 869000,
+          "credit": 955900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/_/6_16_4_1_1_4.jpg",
           "inStock": true
         },
@@ -1409,8 +1409,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 919000,
-          "credit": null,
+          "price": 869000,
+          "credit": 955900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/6/36.._5_1_2.jpg",
           "inStock": true
         },
@@ -1419,8 +1419,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 919000,
-          "credit": null,
+          "price": 869000,
+          "credit": 955900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/a/macbook_air_15_1_1_7_3_7_1_3.jpg",
           "inStock": true
         },
@@ -1429,8 +1429,8 @@
           "storage": "1TB",
           "ram": "24GB",
           "sim": null,
-          "price": 919000,
-          "credit": null,
+          "price": 869000,
+          "credit": 955900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71pkfqgcmkl._ac_sl1500__1_1.jpg",
           "inStock": true
         }
@@ -1445,7 +1445,7 @@
         "ru": "M5 / M5 Pro / M5 Max",
         "en": "M5 / M5 Pro / M5 Max"
       },
-      "price": 849000,
+      "price": 699000,
       "oldPrice": null,
       "monthly": 17690,
       "availability": "in-stock",
@@ -1593,7 +1593,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 768900,
       "cats": [
         "mac"
       ],
@@ -1604,8 +1604,8 @@
           "storage": "512GB",
           "color": "Silver",
           "sim": null,
-          "price": 849000,
-          "credit": null,
+          "price": 699000,
+          "credit": 768900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1.jpg",
           "inStock": true
         },
@@ -1615,8 +1615,8 @@
           "storage": "1TB",
           "color": "Space Black",
           "sim": null,
-          "price": 879000,
-          "credit": null,
+          "price": 779000,
+          "credit": 856900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2.jpg",
           "inStock": true
         },
@@ -1626,8 +1626,8 @@
           "storage": "1TB",
           "color": "Space Black",
           "sim": null,
-          "price": 1159000,
-          "credit": null,
+          "price": 989000,
+          "credit": 1087900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2.jpg",
           "inStock": true
         },
@@ -1637,8 +1637,8 @@
           "storage": "1TB",
           "color": "Silver",
           "sim": null,
-          "price": 1159000,
-          "credit": null,
+          "price": 989000,
+          "credit": 1087900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1.jpg",
           "inStock": true
         },
@@ -1648,8 +1648,8 @@
           "storage": "2TB",
           "color": "Space Black",
           "sim": null,
-          "price": 1859000,
-          "credit": null,
+          "price": 1799000,
+          "credit": 1978900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2.jpg",
           "inStock": true
         },
@@ -1659,8 +1659,8 @@
           "storage": "2TB",
           "color": "Silver",
           "sim": null,
-          "price": 1859000,
-          "credit": null,
+          "price": 1799000,
+          "credit": 1978900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_1.jpg",
           "inStock": true
         }
@@ -1675,7 +1675,7 @@
         "ru": "M5 Pro / M5 Max",
         "en": "M5 Pro / M5 Max"
       },
-      "price": 1299000,
+      "price": 1199000,
       "oldPrice": null,
       "monthly": 27070,
       "availability": "in-stock",
@@ -1835,7 +1835,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 1318900,
       "cats": [
         "mac"
       ],
@@ -1846,8 +1846,8 @@
           "storage": "1TB",
           "color": "Space Black",
           "sim": null,
-          "price": 1299000,
-          "credit": null,
+          "price": 1199000,
+          "credit": 1318900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_2_3.jpg",
           "inStock": true
         },
@@ -1857,8 +1857,8 @@
           "storage": "1TB",
           "color": "Silver",
           "sim": null,
-          "price": 1299000,
-          "credit": null,
+          "price": 1199000,
+          "credit": 1318900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61sdxeonyul._ac_uf894_1000_ql80__1_1_1_3_4_3.jpg",
           "inStock": true
         },
@@ -1868,8 +1868,8 @@
           "storage": "2TB",
           "color": "Space Black",
           "sim": null,
-          "price": 2109000,
-          "credit": null,
+          "price": 2099000,
+          "credit": 2308900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/x/mx313_1_2_2_2_3.jpg",
           "inStock": true
         }
