@@ -14785,14 +14785,14 @@
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 54000,
-          "credit": null,
+          "price": 69000,
+          "credit": 75900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_16__6_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_16__6_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -14800,17 +14800,18 @@
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 54000,
-          "credit": null,
+          "price": 69000,
+          "credit": 75900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "iphone-18-pro",
@@ -15657,14 +15658,14 @@
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 52600,
-          "credit": null,
+          "price": 69000,
+          "credit": 75900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_16__6_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_16__6_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -15672,17 +15673,18 @@
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 52600,
-          "credit": null,
+          "price": 69000,
+          "credit": 75900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-tab-a11-wi-fi-5g",
@@ -15693,7 +15695,7 @@
         "ru": "8.7 inch",
         "en": "8.7 inch"
       },
-      "price": 69000,
+      "price": 68000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -15906,7 +15908,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 74800,
       "cats": [
         "samsung"
       ],
@@ -15916,30 +15918,33 @@
           "storage": "64GB",
           "ram": "4GB",
           "sim": null,
-          "price": 69000,
-          "credit": null,
+          "price": 68000,
+          "credit": 74800,
           "image": "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 89000,
-          "credit": null,
+          "price": 80000,
+          "credit": 88000,
           "image": "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "marshall-major-iv",
@@ -22080,10 +22085,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 69000,
+      "price": 68000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 74800,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__8_1.jpg",
@@ -22103,45 +22108,48 @@
           "storage": "64GB",
           "ram": "4GB",
           "sim": null,
-          "price": 69000,
-          "credit": null,
+          "price": 68000,
+          "credit": 74800,
           "image": "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 89000,
-          "credit": null,
+          "price": 80000,
+          "credit": 88000,
           "image": "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/t/a/tab_a11_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-a11-wifi-5g-x135g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 68600,
-          "credit": null,
+          "price": 80000,
+          "credit": 88000,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-tab-a11-plus-wi-fi",
@@ -22152,7 +22160,7 @@
         "ru": "128GB · Серый",
         "en": "128GB · Space Grey"
       },
-      "price": 109000,
+      "price": 99000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -22356,7 +22364,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 108900,
       "cats": [
         "samsung"
       ],
@@ -22366,14 +22374,14 @@
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 99000,
+          "credit": 108900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_18__8_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_18__8_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -22381,14 +22389,14 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_18__8_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_18__8_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -22396,14 +22404,14 @@
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 99000,
+          "credit": 108900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_1_3.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_1_3.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -22411,18 +22419,18 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "marshall-marshall-woburn-iii",
@@ -22523,10 +22531,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 99600,
+      "price": 99000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 108900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/n/e/new_project_18__9.jpg",
@@ -22546,14 +22554,14 @@
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 99600,
-          "credit": null,
+          "price": 99000,
+          "credit": 108900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_18__8_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_18__8_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -22561,14 +22569,14 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 99600,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_18__8_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_18__8_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -22576,14 +22584,14 @@
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 99600,
-          "credit": null,
+          "price": 99000,
+          "credit": 108900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_1_3.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_1_3.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -22591,18 +22599,18 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 99600,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_17__7_2_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "jbl-t280tws-x2",
@@ -23321,7 +23329,7 @@
         "ru": "11 inch",
         "en": "11 inch"
       },
-      "price": 299000,
+      "price": 287000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -23526,7 +23534,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 315700,
       "cats": [
         "samsung"
       ],
@@ -23536,14 +23544,14 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 299000,
-          "credit": null,
+          "price": 307000,
+          "credit": 337700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -23551,14 +23559,14 @@
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 299000,
-          "credit": null,
+          "price": 287000,
+          "credit": 315700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -23566,14 +23574,14 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 299000,
-          "credit": null,
+          "price": 307000,
+          "credit": 337700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -23581,18 +23589,18 @@
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 299000,
-          "credit": null,
+          "price": 287000,
+          "credit": 315700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "jbl-tune-720bt",
@@ -23667,10 +23675,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 287600,
+      "price": 287000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 315700,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/n/e/new_project_106_1.jpg",
@@ -23690,14 +23698,14 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 287600,
-          "credit": null,
+          "price": 307000,
+          "credit": 337700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -23705,14 +23713,14 @@
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 287600,
-          "credit": null,
+          "price": 287000,
+          "credit": 315700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -23720,14 +23728,14 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 287600,
-          "credit": null,
+          "price": 307000,
+          "credit": 337700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -23735,18 +23743,18 @@
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 287600,
-          "credit": null,
+          "price": 287000,
+          "credit": 315700,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "poco-m8-pro",
@@ -24019,7 +24027,7 @@
         "ru": "128GB · 11 inch",
         "en": "128GB · 11 inch"
       },
-      "price": 369000,
+      "price": 349000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -24215,7 +24223,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 383900,
       "cats": [
         "samsung"
       ],
@@ -24225,42 +24233,44 @@
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 369000,
-          "credit": null,
+          "price": 349000,
+          "credit": 383900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_1_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 369000,
-          "credit": null,
+          "price": 349000,
+          "credit": 383900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 369000,
-          "credit": null,
+          "price": 409000,
+          "credit": 449900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -24268,17 +24278,18 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 369000,
-          "credit": null,
+          "price": 409000,
+          "credit": 449900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ps5-dual-sense-charging-station",
@@ -24455,10 +24466,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 369000,
+      "price": 349000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 383900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/n/e/new_project_106_2.jpg",
@@ -24478,42 +24489,44 @@
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 369000,
-          "credit": null,
+          "price": 349000,
+          "credit": 383900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_1_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 369000,
-          "credit": null,
+          "price": 349000,
+          "credit": 383900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-tab-s11-x730-1.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 349600,
-          "credit": null,
+          "price": 409000,
+          "credit": 449900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_105_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_105_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -24521,17 +24534,18 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 349600,
-          "credit": null,
+          "price": 409000,
+          "credit": 449900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__103_2_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "poco-x8-pro",
@@ -25132,10 +25146,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 399600,
+      "price": 399000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 438900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://yerevanmobile.am/media/catalog/product/u/l/ultra_1.jpg",
@@ -25155,14 +25169,14 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399600,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_2__90_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_2__90_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -25170,18 +25184,18 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399600,
-          "credit": null,
+          "price": 459000,
+          "credit": 504900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_2__90_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_2__90_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-tab-s11-ultra-wi-fi",
@@ -25405,7 +25419,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 438900,
       "cats": [
         "samsung"
       ],
@@ -25416,13 +25430,13 @@
           "ram": "12GB",
           "sim": null,
           "price": 399000,
-          "credit": null,
+          "credit": 438900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_2__90_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_2__90_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -25430,18 +25444,18 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 459000,
+          "credit": 504900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_2__90_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_2__90_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "poco-f8-pro",
