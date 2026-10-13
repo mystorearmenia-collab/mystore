@@ -109,7 +109,7 @@ export default function VariantPicker({
         )}
 
       {glasses && lenses.length > 0 && group(t("lenses"), lenses.map((l) => chip("lens", l, t(`lensNames.${l.replaceAll(" ", "")}`))))}
-      {glasses && sizes.length > 0 && group(t("frameSize"), sizes.map((s) => chip("size", s, s)))}
+      {sizes.length > 0 && group(glasses ? t("frameSize") : locale === "ru" ? "Размер" : locale === "hy" ? "Չափ" : "Size", sizes.map((s) => chip("size", s, s)))}
 
       {storages.length > (showOptions ? 0 : 1) &&
         group(showConfiguration ? "SSD" : t("storage"), storages.map((s) => chip("storage", s, s)))}

@@ -27351,10 +27351,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 35900,
+      "price": 35000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 38500,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_3__1.jpg",
@@ -27374,8 +27374,8 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 35900,
-          "credit": null,
+          "price": 35000,
+          "credit": 38500,
           "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_7__1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_7__1.jpg",
@@ -27384,7 +27384,7 @@
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_11__1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -27392,8 +27392,8 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 35900,
-          "credit": null,
+          "price": 35000,
+          "credit": 38500,
           "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_3__2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_3__2.jpg",
@@ -27401,7 +27401,7 @@
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_5__1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -27409,8 +27409,8 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 35900,
-          "credit": null,
+          "price": 35000,
+          "credit": 38500,
           "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_1.jpg",
@@ -27418,11 +27418,11 @@
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_1__1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-buds2-pro-r510",
@@ -27433,10 +27433,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 46900,
+      "price": 46000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 50600,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_12__1.jpg",
@@ -27456,8 +27456,8 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 46900,
-          "credit": null,
+          "price": 46000,
+          "credit": 50600,
           "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_17__1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_17__1_1.jpg",
@@ -27468,7 +27468,7 @@
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_21__1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -27476,8 +27476,8 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 46900,
-          "credit": null,
+          "price": 46000,
+          "credit": 50600,
           "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_12__1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_12__1_1.jpg",
@@ -27487,7 +27487,7 @@
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_16__1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -27495,8 +27495,8 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 46900,
-          "credit": null,
+          "price": 46000,
+          "credit": 50600,
           "image": "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_23__1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_23__1_1.jpg",
@@ -27507,11 +27507,11 @@
             "https://allsell.am/media/catalog/product/y/e/yeeeeyyy_29__1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "jbl-jbl-authentics-200",
@@ -27992,10 +27992,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 42000,
+      "price": 43000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 47300,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/f/r/frame_4_4_.png",
@@ -28015,30 +28015,33 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 42000,
-          "credit": null,
+          "price": 43000,
+          "credit": 47300,
           "image": "https://yerevanmobile.am/media/catalog/product/b/u/buds_3_silver_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/b/u/buds_3_silver_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-3.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-3.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 42000,
-          "credit": null,
+          "price": 43000,
+          "credit": 47300,
           "image": "https://yerevanmobile.am/media/catalog/product/b/u/buds_3_white_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/b/u/buds_3_white_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-3.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-3.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-pad-2",
@@ -28293,7 +28296,7 @@
       "price": 72000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 79200,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/b/u/budsb-2.png",
@@ -28314,13 +28317,14 @@
           "ram": null,
           "sim": null,
           "price": 72000,
-          "credit": null,
+          "credit": 79200,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61vansujwsl._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61vansujwsl._ac_sl1500__2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-4-pro.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-4-pro.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
@@ -28328,15 +28332,17 @@
           "ram": null,
           "sim": null,
           "price": 72000,
-          "credit": null,
+          "credit": 79200,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51778kc7esl._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51778kc7esl._ac_sl1500__2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-4-pro.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-buds-4-pro.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-partybox-120",
@@ -28379,10 +28385,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 159000,
+      "price": 151000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 166100,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__120.png",
@@ -28402,75 +28408,83 @@
           "storage": "64GB",
           "ram": "2GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 151000,
+          "credit": 166100,
           "image": "https://yerevanmobile.am/media/catalog/product/s/m/sm-l705fzb2eub.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/m/sm-l705fzb2eub.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch-ultra-2025.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch-ultra-2025.html",
+          "priceOnRequest": false,
+          "size": "47mm"
         },
         {
           "color": "Titan Black",
           "storage": "64GB",
           "ram": "2GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 151000,
+          "credit": 166100,
           "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled1_3_3_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/u/n/untitled1_3_3_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch-ultra-2025.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch-ultra-2025.html",
+          "priceOnRequest": false,
+          "size": "47mm"
         },
         {
           "color": "Blue",
           "storage": "64GB",
           "ram": "2GB",
           "sim": null,
-          "price": 151600,
-          "credit": null,
+          "price": 151000,
+          "credit": 166100,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__121_1.png",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__121_1.png"
           ],
           "inStock": false,
-          "priceOnRequest": true,
-          "priceSource": null
+          "priceOnRequest": false,
+          "priceSource": null,
+          "size": "47mm"
         },
         {
           "color": "Silver",
           "storage": "64GB",
           "ram": "2GB",
           "sim": null,
-          "price": 151600,
-          "credit": null,
+          "price": 151000,
+          "credit": 166100,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_3__60_1.png",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_3__60_1.png"
           ],
           "inStock": false,
-          "priceOnRequest": true,
-          "priceSource": null
+          "priceOnRequest": false,
+          "priceSource": null,
+          "size": "47mm"
         },
         {
           "color": "White",
           "storage": "64GB",
           "ram": "2GB",
           "sim": null,
-          "price": 151600,
-          "credit": null,
+          "price": 151000,
+          "credit": 166100,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_2__80_1.png",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_2__80_1.png"
           ],
           "inStock": false,
-          "priceOnRequest": true,
-          "priceSource": null
+          "priceOnRequest": false,
+          "priceSource": null,
+          "size": "47mm"
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-speaker-authentics-300",
@@ -28571,10 +28585,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 99000,
+      "price": 84000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 92400,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4088.jpg",
@@ -28594,14 +28608,48 @@
           "storage": "32GB",
           "ram": "2GB",
           "sim": null,
+          "price": 84000,
+          "credit": 92400,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/1/616kep7qqvl._ac_sl1500__1.jpg",
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/6/1/616kep7qqvl._ac_sl1500__1.jpg"
+          ],
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-44mm.html",
+          "size": "40mm",
+          "priceOnRequest": false
+        },
+        {
+          "color": "Silver",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 84000,
+          "credit": 92400,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/1/61w6haaxm_l_1.jpg",
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/6/1/61w6haaxm_l_1.jpg"
+          ],
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-44mm.html",
+          "size": "40mm",
+          "priceOnRequest": false
+        },
+        {
+          "color": "Graphite",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
           "price": 99000,
-          "credit": null,
+          "credit": 108900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/616kep7qqvl._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/616kep7qqvl._ac_sl1500__1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-44mm.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-44mm.html",
+          "size": "44mm",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
@@ -28609,15 +28657,18 @@
           "ram": "2GB",
           "sim": null,
           "price": 99000,
-          "credit": null,
+          "credit": 108900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61w6haaxm_l_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61w6haaxm_l_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-44mm.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-44mm.html",
+          "size": "44mm",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-partybox-320",
@@ -28893,7 +28944,7 @@
       "price": 129000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 141900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/uploads/2025/09/29/img-4094.jpg",
@@ -28914,13 +28965,15 @@
           "ram": "2GB",
           "sim": null,
           "price": 129000,
-          "credit": null,
+          "credit": 141900,
           "image": "https://yerevanmobile.am/media/catalog/product/w/a/watch_8_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/w/a/watch_8_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-classic.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-classic.html",
+          "priceOnRequest": false,
+          "size": "46mm"
         },
         {
           "color": "White",
@@ -28928,13 +28981,15 @@
           "ram": "2GB",
           "sim": null,
           "price": 129000,
-          "credit": null,
+          "credit": 141900,
           "image": "https://yerevanmobile.am/media/catalog/product/w/a/watch_8.jpg1_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/w/a/watch_8.jpg1_1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-classic.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch8-classic.html",
+          "priceOnRequest": false,
+          "size": "46mm"
         },
         {
           "color": "Silver",
@@ -28942,16 +28997,18 @@
           "ram": "2GB",
           "sim": null,
           "price": 129000,
-          "credit": null,
+          "credit": 141900,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_160_2_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_160_2_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
-          "priceSource": null
+          "priceOnRequest": false,
+          "priceSource": null,
+          "size": "46mm"
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "magic-mouse-4",
@@ -29126,10 +29183,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 139000,
+      "price": 129000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 141900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61326/image/5-montaznaia-oblast-1.webp",
@@ -29149,14 +29206,60 @@
           "storage": "32GB",
           "ram": "2GB",
           "sim": null,
+          "price": 129000,
+          "credit": 141900,
+          "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_12.jpg",
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/3/_/3_12.jpg"
+          ],
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch9-44mm.html",
+          "size": "40mm",
+          "priceOnRequest": false
+        },
+        {
+          "color": "Silver",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 129000,
+          "credit": 141900,
+          "image": "https://yerevanmobile.am/media/catalog/product/s/a/samsung-galaxy-watch-9-silver-1_1.jpg",
+          "images": [
+            "https://yerevanmobile.am/media/catalog/product/s/a/samsung-galaxy-watch-9-silver-1_1.jpg"
+          ],
+          "inStock": false,
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch9-44mm.html",
+          "size": "40mm",
+          "priceOnRequest": false
+        },
+        {
+          "color": "Cream",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
+          "price": 129000,
+          "credit": 141900,
+          "image": "https://admin.redstore.am/storage/products/61326/image/5-montaznaia-oblast-1.webp",
+          "inStock": false,
+          "priceOnRequest": false,
+          "size": "40mm"
+        },
+        {
+          "color": "Graphite",
+          "storage": "32GB",
+          "ram": "2GB",
+          "sim": null,
           "price": 139000,
-          "credit": null,
+          "credit": 152900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_12.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/_/3_12.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch9-44mm.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch9-44mm.html",
+          "size": "44mm",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
@@ -29164,26 +29267,30 @@
           "ram": "2GB",
           "sim": null,
           "price": 139000,
-          "credit": null,
+          "credit": 152900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/a/samsung-galaxy-watch-9-silver-1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/a/samsung-galaxy-watch-9-silver-1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch9-44mm.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-watch9-44mm.html",
+          "size": "44mm",
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
           "storage": "32GB",
           "ram": "2GB",
           "sim": null,
-          "price": 133000,
-          "credit": null,
+          "price": 139000,
+          "credit": 152900,
           "image": "https://admin.redstore.am/storage/products/61326/image/5-montaznaia-oblast-1.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false,
+          "size": "44mm"
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "keyboard-magic-with-touch-id",
