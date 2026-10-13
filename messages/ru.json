@@ -22,7 +22,8 @@
     "dyson": "Dyson",
     "dji": "DJI",
     "camera": "Фото",
-    "accessories": "Аксессуары"
+    "accessories": "Аксессуары",
+    "smartGlasses": "Умные очки"
   },
   "header": {
     "search": "Поиск",
@@ -78,7 +79,18 @@
     "models": "моделей",
     "prevPhoto": "Предыдущее фото",
     "nextPhoto": "Следующее фото",
-    "photo": "Фото"
+    "photo": "Фото",
+    "priceOnRequest": "Уточните цену",
+    "lenses": "Линзы",
+    "frameSize": "Ширина линзы",
+    "lensNames": {
+      "TransitionsGrey": "Transitions серые",
+      "TransitionsGraphiteGreen": "Transitions графитово-зелёные",
+      "Clear": "Прозрачные",
+      "TransitionsAmethyst": "Transitions аметистовые",
+      "TransitionsBrown": "Transitions коричневые",
+      "PolarizedGradientGraphite": "Поляризованные, графитовый градиент"
+    }
   },
   "category": {
     "backHome": "На главную",

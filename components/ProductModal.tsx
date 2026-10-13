@@ -37,6 +37,8 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
     setSelection(
       first
         ? {
+            ...(first.size ? { size: first.size } : {}),
+            ...(first.lens ? { lens: first.lens } : {}),
             ...(first.processor ? { processor: first.processor } : {}),
             ...(first.color ? { color: first.color } : {}),
             ...(first.storage ? { storage: first.storage } : {}),
@@ -64,6 +66,7 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
         : product?.image
           ? [product.image]
           : [];
+  const shownSpecs = variant?.specs ?? product?.specs ?? [];
   const shownPrice = variant?.price ?? product?.price ?? 0;
   const shownCredit = variant ? variant.credit : (product?.creditPrice ?? null);
 
@@ -118,7 +121,7 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
                 )}
               </div>
 
-              {product.variants && product.variants.length > (product.name.startsWith("MacBook Air") && product.name.includes("M5") ? 0 : 1) && (
+              {product.variants && product.variants.length > (product.cats.includes("smart-glasses") || product.name.startsWith("MacBook Air") && product.name.includes("M5") ? 0 : 1) && (
                 <VariantPicker product={product} selection={selection} onChange={setSelection} />
               )}
 
@@ -133,11 +136,11 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
                 </p>
               </div>
 
-              {product.specs.length > 0 && (
+              {shownSpecs.length > 0 && (
                 <div>
                   <p className="eyebrow mb-3">{t("specs")}</p>
                   <div className="space-y-4">
-                    {product.specs.map((section) => (
+                    {shownSpecs.map((section) => (
                       <div key={pick(section.title, locale)}>
                         <p className="mb-2 text-[0.72rem] uppercase tracking-[0.14em] text-muted">
                           {pick(section.title, locale)}

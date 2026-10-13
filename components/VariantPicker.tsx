@@ -25,6 +25,9 @@ export default function VariantPicker({
   const locale = useLocale() as Locale;
 
   const showConfiguration = (product.name.startsWith("MacBook Air") && product.name.includes("M5")) || product.name.startsWith("MacBook Pro");
+  const glasses = product.cats.includes("smart-glasses");
+  const sizes = optionsOf(product, "size");
+  const lenses = optionsOf(product, "lens");
   const processors = optionsOf(product, "processor");
   const configuredProduct = selection.processor
     ? { ...product, variants: product.variants?.filter((v) => v.processor === selection.processor) }
@@ -73,7 +76,7 @@ export default function VariantPicker({
         locale === "ru" ? "Чип" : locale === "hy" ? "Չիպ" : "Chip",
         processors.map((p) => chip("processor", p, p)),
       )}
-      {colors.length > (showConfiguration ? 0 : 1) &&
+      {colors.length > (showConfiguration || glasses ? 0 : 1) &&
         group(
           t("color"),
           colors.map((c) => {
@@ -103,6 +106,9 @@ export default function VariantPicker({
           }),
           selection.color ? colorInfo(selection.color).label(locale) : undefined,
         )}
+
+      {glasses && lenses.length > 0 && group(t("lenses"), lenses.map((l) => chip("lens", l, t(`lensNames.${l.replaceAll(" ", "")}`))))}
+      {glasses && sizes.length > 0 && group(t("frameSize"), sizes.map((s) => chip("size", s, s)))}
 
       {storages.length > (showConfiguration ? 0 : 1) &&
         group(showConfiguration ? "SSD" : t("storage"), storages.map((s) => chip("storage", s, s)))}

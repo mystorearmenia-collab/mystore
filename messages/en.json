@@ -22,7 +22,8 @@
     "dyson": "Dyson",
     "dji": "DJI",
     "camera": "Camera",
-    "accessories": "Accessories"
+    "accessories": "Accessories",
+    "smartGlasses": "Smart glasses"
   },
   "header": {
     "search": "Search",
@@ -78,7 +79,18 @@
     "models": "models",
     "prevPhoto": "Previous photo",
     "nextPhoto": "Next photo",
-    "photo": "Photo"
+    "photo": "Photo",
+    "priceOnRequest": "Ask for price",
+    "lenses": "Lenses",
+    "frameSize": "Lens width",
+    "lensNames": {
+      "TransitionsGrey": "Transitions Grey",
+      "TransitionsGraphiteGreen": "Transitions Graphite Green",
+      "Clear": "Clear",
+      "TransitionsAmethyst": "Transitions Amethyst",
+      "TransitionsBrown": "Transitions Brown",
+      "PolarizedGradientGraphite": "Polarized Gradient Graphite"
+    }
   },
   "category": {
     "backHome": "Back to home",

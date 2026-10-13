@@ -18,6 +18,10 @@ export default function Prices({
   const t = useTranslations("product");
   const main = size === "lg" ? "text-[1.3rem]" : "text-[1.15rem]";
 
+  if (price <= 0) {
+    return <p className={`${main} font-semibold`}>{t("priceOnRequest")}</p>;
+  }
+
   return (
     <div className="space-y-1.5">
       <div className="flex items-baseline justify-between gap-3">

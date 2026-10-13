@@ -2,6 +2,9 @@ import type { Locale } from "@/i18n/routing";
 
 export type Variant = {
   processor?: string;
+  size?: string;
+  lens?: string;
+  specs?: import("./catalog").ProductSpecSection[];
   color: string | null;
   storage: string | null;
   ram: string | null;
@@ -14,12 +17,12 @@ export type Variant = {
   inStock: boolean;
 };
 
-export type Selection = Partial<Record<"color" | "storage" | "ram" | "sim" | "processor", string>>;
+export type Selection = Partial<Record<"color" | "storage" | "ram" | "sim" | "processor" | "size" | "lens", string>>;
 export type OptionKey = keyof Selection;
 
 type WithVariants = { variants?: Variant[] };
 
-const KEYS: OptionKey[] = ["color", "storage", "ram", "sim", "processor"];
+const KEYS: OptionKey[] = ["color", "storage", "ram", "sim", "processor", "size", "lens"];
 
 /** Distinct values per option, in first-seen order (variants arrive sorted by storage). */
 export function optionsOf(p: WithVariants, key: OptionKey): string[] {
@@ -85,6 +88,11 @@ export function isAvailable(p: WithVariants, sel: Selection, key: OptionKey, val
 type ColorInfo = { hex: string; ru?: string; hy?: string };
 
 const COLORS: Record<string, ColorInfo> = {
+  "matte black": { hex: "#161616", ru: "Матовый чёрный", hy: "Փայլատ սև" },
+  "shiny black": { hex: "#303030", ru: "Глянцевый чёрный", hy: "Փայլուն սև" },
+  "matte peach": { hex: "#e7b49d", ru: "Матовый персиковый", hy: "Փայլատ դեղձագույն" },
+  "shiny peach": { hex: "#f0c0a9", ru: "Глянцевый персиковый", hy: "Փայլուն դեղձագույն" },
+  clear: { hex: "#e3e5e7", ru: "Прозрачная", hy: "Թափանցիկ" },
   black: { hex: "#1c1c1e", ru: "Чёрный", hy: "Սև" },
   "space black": { hex: "#2a2a2c", ru: "Чёрный космос", hy: "Տիեզերական սև" },
   white: { hex: "#f5f5f7", ru: "Белый", hy: "Սպիտակ" },

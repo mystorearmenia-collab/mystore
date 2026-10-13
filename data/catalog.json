@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 266
+    "product_count": 270
   },
   "categories": [
     {
@@ -116,6 +116,18 @@
       "href": "/camera",
       "art": "camera",
       "count": 1
+    },
+    {
+      "id": "smart-glasses",
+      "name": {
+        "hy": "Խելացի ակնոցներ",
+        "ru": "Умные очки",
+        "en": "Smart glasses"
+      },
+      "href": "/smart-glasses",
+      "art": "smart-glasses",
+      "count": 4,
+      "image": "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__qt.png?width=1000"
     },
     {
       "id": "accessories",
@@ -31959,6 +31971,1226 @@
       "specs": [],
       "cats": [
         "xiaomi"
+      ]
+    },
+    {
+      "id": "ray-ban-meta-wayfarer",
+      "brand": "Ray-Ban",
+      "name": "Ray-Ban Meta Wayfarer Gen 2",
+      "config": {
+        "hy": "RW4012",
+        "ru": "RW4012",
+        "en": "RW4012"
+      },
+      "price": 0,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "smart-glasses",
+      "image": "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__qt.png?width=1000",
+      "images": [
+        "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__qt.png?width=1000",
+        "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__fr.png?width=1000"
+      ],
+      "specs": [],
+      "cats": [
+        "smart-glasses"
+      ],
+      "priceSource": "pending-mystore",
+      "variants": [
+        {
+          "color": "Matte Black",
+          "size": "50 mm",
+          "lens": "Transitions Grey",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721377__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4012",
+                    "ru": "RW4012",
+                    "en": "RW4012"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "601S1Z",
+                    "ru": "601S1Z",
+                    "en": "601S1Z"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլատ սև",
+                    "ru": "Матовый чёрный",
+                    "en": "Matte Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions մոխրագույն",
+                    "ru": "Transitions серые",
+                    "en": "Transitions Grey"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "50 մմ",
+                    "ru": "50 мм",
+                    "en": "50 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "22 մմ",
+                    "ru": "22 мм",
+                    "en": "22 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "color": "Shiny Black",
+          "size": "50 mm",
+          "lens": "Transitions Graphite Green",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721292__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721292__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721292__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4012",
+                    "ru": "RW4012",
+                    "en": "RW4012"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "6011M",
+                    "ru": "6011M",
+                    "en": "6011M"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլուն սև",
+                    "ru": "Глянцевый чёрный",
+                    "en": "Shiny Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions գրաֆիտային կանաչ",
+                    "ru": "Transitions графитово-зелёные",
+                    "en": "Transitions Graphite Green"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "50 մմ",
+                    "ru": "50 мм",
+                    "en": "50 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "22 մմ",
+                    "ru": "22 мм",
+                    "en": "22 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "color": "Matte Black",
+          "size": "53 mm",
+          "lens": "Clear",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721407__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721407__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721407__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4012",
+                    "ru": "RW4012",
+                    "en": "RW4012"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "601SSB",
+                    "ru": "601SSB",
+                    "en": "601SSB"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլատ սև",
+                    "ru": "Матовый чёрный",
+                    "en": "Matte Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Թափանցիկ",
+                    "ru": "Прозрачные",
+                    "en": "Clear"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "53 մմ",
+                    "ru": "53 мм",
+                    "en": "53 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "22 մմ",
+                    "ru": "22 мм",
+                    "en": "22 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "155 մմ",
+                    "ru": "155 мм",
+                    "en": "155 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "color": "Shiny Black",
+          "size": "53 mm",
+          "lens": "Transitions Graphite Green",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721308__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721308__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721308__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4012",
+                    "ru": "RW4012",
+                    "en": "RW4012"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "6011M",
+                    "ru": "6011M",
+                    "en": "6011M"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլուն սև",
+                    "ru": "Глянцевый чёрный",
+                    "en": "Shiny Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions գրաֆիտային կանաչ",
+                    "ru": "Transitions графитово-зелёные",
+                    "en": "Transitions Graphite Green"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "53 մմ",
+                    "ru": "53 мм",
+                    "en": "53 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "22 մմ",
+                    "ru": "22 мм",
+                    "en": "22 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "155 մմ",
+                    "ru": "155 мм",
+                    "en": "155 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ray-ban-meta-headliner",
+      "brand": "Ray-Ban",
+      "name": "Ray-Ban Meta Headliner Gen 2",
+      "config": {
+        "hy": "RW4013",
+        "ru": "RW4013",
+        "en": "RW4013"
+      },
+      "price": 0,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "smart-glasses",
+      "image": "https://images.ray-ban.com/is/image/RayBan/8056262909805__STD__shad__qt.png?width=1000",
+      "images": [
+        "https://images.ray-ban.com/is/image/RayBan/8056262909805__STD__shad__qt.png?width=1000",
+        "https://images.ray-ban.com/is/image/RayBan/8056262909805__STD__shad__fr.png?width=1000"
+      ],
+      "specs": [],
+      "cats": [
+        "smart-glasses"
+      ],
+      "priceSource": "pending-mystore",
+      "variants": [
+        {
+          "color": "Matte Peach",
+          "size": "50 mm",
+          "lens": "Transitions Grey",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262909805__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262909805__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262909805__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4013",
+                    "ru": "RW4013",
+                    "en": "RW4013"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "68901Z",
+                    "ru": "68901Z",
+                    "en": "68901Z"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլատ դեղձագույն",
+                    "ru": "Матовый персиковый",
+                    "en": "Matte Peach"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions մոխրագույն",
+                    "ru": "Transitions серые",
+                    "en": "Transitions Grey"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "50 մմ",
+                    "ru": "50 мм",
+                    "en": "50 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "23 մմ",
+                    "ru": "23 мм",
+                    "en": "23 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "color": "Shiny Black",
+          "size": "50 mm",
+          "lens": "Transitions Graphite Green",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721278__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721278__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721278__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4013",
+                    "ru": "RW4013",
+                    "en": "RW4013"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "6011M",
+                    "ru": "6011M",
+                    "en": "6011M"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլուն սև",
+                    "ru": "Глянцевый чёрный",
+                    "en": "Shiny Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions գրաֆիտային կանաչ",
+                    "ru": "Transitions графитово-зелёные",
+                    "en": "Transitions Graphite Green"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "50 մմ",
+                    "ru": "50 мм",
+                    "en": "50 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "23 մմ",
+                    "ru": "23 мм",
+                    "en": "23 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ray-ban-meta-skyler",
+      "brand": "Ray-Ban",
+      "name": "Ray-Ban Meta Skyler Gen 2",
+      "config": {
+        "hy": "RW4014",
+        "ru": "RW4014",
+        "en": "RW4014"
+      },
+      "price": 0,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "smart-glasses",
+      "image": "https://images.ray-ban.com/is/image/RayBan/8056262721247__STD__shad__qt.png?width=1000",
+      "images": [
+        "https://images.ray-ban.com/is/image/RayBan/8056262721247__STD__shad__qt.png?width=1000",
+        "https://images.ray-ban.com/is/image/RayBan/8056262721247__STD__shad__fr.png?width=1000"
+      ],
+      "specs": [],
+      "cats": [
+        "smart-glasses"
+      ],
+      "priceSource": "pending-mystore",
+      "variants": [
+        {
+          "color": "Shiny Black",
+          "size": "52 mm",
+          "lens": "Transitions Amethyst",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721247__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721247__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721247__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4014",
+                    "ru": "RW4014",
+                    "en": "RW4014"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "601CH5",
+                    "ru": "601CH5",
+                    "en": "601CH5"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլուն սև",
+                    "ru": "Глянцевый чёрный",
+                    "en": "Shiny Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions ամեթիստ",
+                    "ru": "Transitions аметистовые",
+                    "en": "Transitions Amethyst"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "52 մմ",
+                    "ru": "52 мм",
+                    "en": "52 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "20 մմ",
+                    "ru": "20 мм",
+                    "en": "20 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "color": "Shiny Peach",
+          "size": "52 mm",
+          "lens": "Transitions Brown",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262909874__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262909874__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262909874__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4014",
+                    "ru": "RW4014",
+                    "en": "RW4014"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "6778M4",
+                    "ru": "6778M4",
+                    "en": "6778M4"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլուն դեղձագույն",
+                    "ru": "Глянцевый персиковый",
+                    "en": "Shiny Peach"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions շագանակագույն",
+                    "ru": "Transitions коричневые",
+                    "en": "Transitions Brown"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "52 մմ",
+                    "ru": "52 мм",
+                    "en": "52 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "20 մմ",
+                    "ru": "20 мм",
+                    "en": "20 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "color": "Shiny Black",
+          "size": "52 mm",
+          "lens": "Polarized Gradient Graphite",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://images.ray-ban.com/is/image/RayBan/8056262721254__STD__shad__qt.png?width=1000",
+          "images": [
+            "https://images.ray-ban.com/is/image/RayBan/8056262721254__STD__shad__qt.png?width=1000",
+            "https://images.ray-ban.com/is/image/RayBan/8056262721254__STD__shad__fr.png?width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "RW4014",
+                    "ru": "RW4014",
+                    "en": "RW4014"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "6013P",
+                    "ru": "6013P",
+                    "en": "6013P"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Փայլուն սև",
+                    "ru": "Глянцевый чёрный",
+                    "en": "Shiny Black"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Բևեռացված գրաֆիտային գրադիենտ",
+                    "ru": "Поляризованные, графитовый градиент",
+                    "en": "Polarized Gradient Graphite"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "52 մմ",
+                    "ru": "52 мм",
+                    "en": "52 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "20 մմ",
+                    "ru": "20 мм",
+                    "en": "20 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "150 մմ",
+                    "ru": "150 мм",
+                    "en": "150 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oakley-meta-hstn",
+      "brand": "Oakley",
+      "name": "Oakley Meta HSTN",
+      "config": {
+        "hy": "OW8002",
+        "ru": "OW8002",
+        "en": "OW8002"
+      },
+      "price": 0,
+      "creditPrice": null,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "in-stock",
+      "art": "smart-glasses",
+      "image": "https://assets2.oakley.com/prod-onecp-record-files/pieyewear/46199dd1-9cc1-48cf-9d0c-b3a1001f0a14/0OW8002__800205__P21__shad__al31.png?impolicy=OO_ratio&width=1000",
+      "images": [
+        "https://assets2.oakley.com/prod-onecp-record-files/pieyewear/46199dd1-9cc1-48cf-9d0c-b3a1001f0a14/0OW8002__800205__P21__shad__al31.png?impolicy=OO_ratio&width=1000"
+      ],
+      "specs": [],
+      "cats": [
+        "smart-glasses"
+      ],
+      "priceSource": "pending-mystore",
+      "variants": [
+        {
+          "color": "Clear",
+          "size": "51 mm",
+          "lens": "Transitions Grey",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 0,
+          "credit": null,
+          "image": "https://assets2.oakley.com/prod-onecp-record-files/pieyewear/46199dd1-9cc1-48cf-9d0c-b3a1001f0a14/0OW8002__800205__P21__shad__al31.png?impolicy=OO_ratio&width=1000",
+          "images": [
+            "https://assets2.oakley.com/prod-onecp-record-files/pieyewear/46199dd1-9cc1-48cf-9d0c-b3a1001f0a14/0OW8002__800205__P21__shad__al31.png?impolicy=OO_ratio&width=1000"
+          ],
+          "inStock": true,
+          "specs": [
+            {
+              "title": {
+                "hy": "Շրջանակ և ոսպնյակներ",
+                "ru": "Оправа и линзы",
+                "en": "Frame and lenses"
+              },
+              "attrs": [
+                {
+                  "label": {
+                    "hy": "Մոդել",
+                    "ru": "Модель",
+                    "en": "Model"
+                  },
+                  "value": {
+                    "hy": "OW8002",
+                    "ru": "OW8002",
+                    "en": "OW8002"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Գույնի կոդ",
+                    "ru": "Код цвета",
+                    "en": "Colour code"
+                  },
+                  "value": {
+                    "hy": "800205",
+                    "ru": "800205",
+                    "en": "800205"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Շրջանակ",
+                    "ru": "Оправа",
+                    "en": "Frame"
+                  },
+                  "value": {
+                    "hy": "Թափանցիկ",
+                    "ru": "Прозрачная",
+                    "en": "Clear"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակներ",
+                    "ru": "Линзы",
+                    "en": "Lenses"
+                  },
+                  "value": {
+                    "hy": "Transitions մոխրագույն",
+                    "ru": "Transitions серые",
+                    "en": "Transitions Grey"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Ոսպնյակի լայնություն",
+                    "ru": "Ширина линзы",
+                    "en": "Lens width"
+                  },
+                  "value": {
+                    "hy": "51 մմ",
+                    "ru": "51 мм",
+                    "en": "51 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Կամրջակի լայնություն",
+                    "ru": "Ширина моста",
+                    "en": "Bridge width"
+                  },
+                  "value": {
+                    "hy": "22 մմ",
+                    "ru": "22 мм",
+                    "en": "22 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "hy": "Քունքի երկարություն",
+                    "ru": "Длина дужки",
+                    "en": "Temple length"
+                  },
+                  "value": {
+                    "hy": "145 մմ",
+                    "ru": "145 мм",
+                    "en": "145 mm"
+                  }
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ]

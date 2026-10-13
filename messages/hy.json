@@ -22,7 +22,8 @@
     "dyson": "Dyson",
     "dji": "DJI",
     "camera": "Ֆոտո",
-    "accessories": "Աքսեսուարներ"
+    "accessories": "Աքսեսուարներ",
+    "smartGlasses": "Խելացի ակնոցներ"
   },
   "header": {
     "search": "Փնտրել",
@@ -78,7 +79,18 @@
     "models": "մոդել",
     "prevPhoto": "Նախորդ լուսանկարը",
     "nextPhoto": "Հաջորդ լուսանկարը",
-    "photo": "Լուսանկար"
+    "photo": "Լուսանկար",
+    "priceOnRequest": "Գինը ճշտեք",
+    "lenses": "Ոսպնյակներ",
+    "frameSize": "Ոսպնյակի լայնություն",
+    "lensNames": {
+      "TransitionsGrey": "Transitions մոխրագույն",
+      "TransitionsGraphiteGreen": "Transitions գրաֆիտային կանաչ",
+      "Clear": "Թափանցիկ",
+      "TransitionsAmethyst": "Transitions ամեթիստ",
+      "TransitionsBrown": "Transitions շագանակագույն",
+      "PolarizedGradientGraphite": "Բևեռացված գրաֆիտային գրադիենտ"
+    }
   },
   "category": {
     "backHome": "Գլխավոր էջ",

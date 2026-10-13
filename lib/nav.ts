@@ -11,5 +11,6 @@ export const navigation: { key: string; href: string }[] = [
   { key: "dyson", href: "/dyson" },
   { key: "dji", href: "/dji" },
   { key: "camera", href: "/camera" },
+  { key: "smartGlasses", href: "/smart-glasses" },
   { key: "accessories", href: "/accessories" },
 ];
