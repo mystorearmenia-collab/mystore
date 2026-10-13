@@ -17041,7 +17041,7 @@
         "ru": "128GB / 256GB · Wi-Fi + Cellular",
         "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 499000,
+      "price": 449000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -17232,7 +17232,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 548900,
+      "creditPrice": 493900,
       "cats": [
         "ipad"
       ],
@@ -17242,44 +17242,44 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQYjJyK0E0bWExcGdybmdreTYzVzdQSCtPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFxMkZsRjVZU3Fab0liSDQ5ZEp2NGc",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZEFHem9WK242WDAwUlJDN0t0ZkNCRmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkJ1c2M1VjI2MGxJWGVKVldiOHhJVWw",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQU1JUeVBoTGFscGwzTUkxNnpOZkV4YXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qyt3ZGVHY3RNekR0RmpTQW5Ic3FnUlI",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWktKdE93Uk8zMEkyMExSRFZ0S21ZVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytlV3ZxcnpJbjJtcUVOSlJKRFVhL0E",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
