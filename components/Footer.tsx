@@ -3,10 +3,14 @@ import { Link } from "@/i18n/navigation";
 import Logo from "./Logo";
 import { navigation, store, storeAddress } from "@/lib/catalog";
 import type { Locale } from "@/i18n/routing";
-import { PowerIcon, WhatsAppIcon } from "./icons";
+import { PowerIcon, WhatsAppIcon, TelegramIcon, FacebookIcon, InstagramIcon, TikTokIcon } from "./icons";
 
 const socials = [
   { label: "WhatsApp", icon: WhatsAppIcon, href: store.whatsapp },
+  { label: "Telegram", icon: TelegramIcon, href: store.telegram },
+  { label: "Facebook", icon: FacebookIcon, href: store.facebook },
+  { label: "Instagram", icon: InstagramIcon, href: store.instagram },
+  { label: "TikTok", icon: TikTokIcon, href: store.tiktok },
 ];
 
 export default function Footer() {
@@ -16,13 +20,13 @@ export default function Footer() {
   const serviceLinks = t.raw("serviceLinks") as string[];
   const infoLinks = t.raw("infoLinks") as string[];
   const productLinks = navigation
-    .filter((item) => item.key !== "home" && item.key !== "tradein" && item.key !== "accessories")
-    .map((item) => tNav(item.key));
+    .filter((item) => item.key !== "home" && item.key !== "tradein")
+    .map((item) => ({ label: tNav(item.key), href: item.href }));
 
   const columns = [
     { title: t("products"), links: productLinks },
-    { title: t("service"), links: serviceLinks },
-    { title: t("information"), links: infoLinks },
+    { title: t("service"), links: serviceLinks.flatMap((label, index) => index === 1 ? [] : [{ label, href: index === 0 ? "/warranty" : index === 2 ? "/trade-in" : index === 3 ? "/delivery" : index === 4 ? "/returns" : "/support" }]) },
+    { title: t("information"), links: infoLinks.map((label, index) => ({ label, href: index === 0 ? "/about" : index === 1 ? "/installments" : "/" })) },
   ];
 
   return (
@@ -34,14 +38,15 @@ export default function Footer() {
             <p className="mt-4 max-w-[30ch] text-[0.85rem] leading-relaxed text-muted">
               {t("tagline")}
             </p>
-            <div className="mt-6 flex gap-2">
+            <div className="mt-6 flex flex-wrap gap-2">
               {socials.map(({ label, icon: Icon, href }) => (
                 <a
                   key={label}
                   href={href}
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   aria-label={label}
+                  title={label}
                   className="grid h-10 w-10 place-items-center rounded-full border border-line text-muted transition-[color,border-color] duration-300 hover:border-[var(--orange-line)] hover:text-orange"
                 >
                   <Icon className="h-[18px] w-[18px]" />
@@ -57,12 +62,12 @@ export default function Footer() {
               </h3>
               <ul className="mt-5 space-y-3">
                 {column.links.map((link) => (
-                  <li key={link}>
+                  <li key={link.label}>
                     <Link
-                      href="/"
+                      href={link.href}
                       className="text-[0.875rem] text-muted transition-colors duration-250 hover:text-ink"
                     >
-                      {link}
+                      {link.label}
                     </Link>
                   </li>
                 ))}

@@ -28,6 +28,7 @@ export default function VariantPicker({
   const glasses = product.cats.includes("smart-glasses");
   const sizes = optionsOf(product, "size");
   const lenses = optionsOf(product, "lens");
+  const showOptions = showConfiguration || product.brand === "Samsung";
   const processors = optionsOf(product, "processor");
   const configuredProduct = selection.processor
     ? { ...product, variants: product.variants?.filter((v) => v.processor === selection.processor) }
@@ -76,7 +77,7 @@ export default function VariantPicker({
         locale === "ru" ? "Чип" : locale === "hy" ? "Չիպ" : "Chip",
         processors.map((p) => chip("processor", p, p)),
       )}
-      {colors.length > (showConfiguration || glasses ? 0 : 1) &&
+      {colors.length > (showOptions || glasses ? 0 : 1) &&
         group(
           t("color"),
           colors.map((c) => {
@@ -110,10 +111,10 @@ export default function VariantPicker({
       {glasses && lenses.length > 0 && group(t("lenses"), lenses.map((l) => chip("lens", l, t(`lensNames.${l.replaceAll(" ", "")}`))))}
       {glasses && sizes.length > 0 && group(t("frameSize"), sizes.map((s) => chip("size", s, s)))}
 
-      {storages.length > (showConfiguration ? 0 : 1) &&
+      {storages.length > (showOptions ? 0 : 1) &&
         group(showConfiguration ? "SSD" : t("storage"), storages.map((s) => chip("storage", s, s)))}
 
-      {rams.length > (showConfiguration ? 0 : 1) && group(t("ram"), rams.map((r) => chip("ram", r, r)))}
+      {rams.length > (showOptions ? 0 : 1) && group(t("ram"), rams.map((r) => chip("ram", r, r)))}
 
       {sims.length > 1 &&
         group(

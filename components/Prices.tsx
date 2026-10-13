@@ -8,9 +8,11 @@ import type { Locale } from "@/i18n/routing";
 export default function Prices({
   price,
   credit,
+  onRequest = false,
   size = "md",
 }: {
   price: number;
+  onRequest?: boolean;
   credit: number | null;
   size?: "md" | "lg";
 }) {
@@ -18,9 +20,7 @@ export default function Prices({
   const t = useTranslations("product");
   const main = size === "lg" ? "text-[1.3rem]" : "text-[1.15rem]";
 
-  if (price <= 0) {
-    return <p className={`${main} font-semibold`}>{t("priceOnRequest")}</p>;
-  }
+  if (onRequest || price <= 0) return <div className={`${main} font-semibold`}>{locale === "ru" ? "Уточнить цену" : locale === "hy" ? "Ճշտել գինը" : "Contact for price"}</div>;
 
   return (
     <div className="space-y-1.5">

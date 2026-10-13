@@ -106,9 +106,9 @@
   },
   "benefits": {
     "warrantyTitle": "Official warranty",
-    "warrantyText": "Up to 2 years, honoured in store on Komitas 9.",
+    "warrantyText": "1 year, honoured in store on Komitas 9.",
     "deliveryTitle": "Fast delivery",
-    "deliveryText": "Same-day across Yerevan, 1–2 days Armenia-wide.",
+    "deliveryText": "Within 1–2 days through HayPost or other delivery services.",
     "originalTitle": "Original products",
     "originalText": "Authorised stock only, every unit serial-checked.",
     "paymentTitle": "Secure payment",
@@ -180,5 +180,113 @@
     "waGreeting": "Hello! I would like to do a trade-in.",
     "waNew": "New device",
     "waOld": "Trading in"
+  },
+  "warranty": {
+    "lede": "MyStore provides a 1-year warranty on all devices.",
+    "visit": "Visit the MyStore shop at:",
+    "title": "Warranty terms",
+    "terms": [
+      "The warranty covers manufacturing defects in the product and faults of a manufacturing nature that arise during the warranty period.",
+      "The warranty period begins on the date the product is handed over to the buyer.",
+      "The warranty does not cover defects or damage that arise after the product is handed over to the buyer as a result of improper use, failure to follow storage requirements, mechanical damage, liquid entering the product, intervention by third parties, or force majeure.",
+      "For warranty service, the buyer must contact MyStore and present the product and proof of purchase.",
+      "Where necessary, whether a fault qualifies for warranty coverage is determined by inspecting or technically testing the product.",
+      "Warranty service may take up to 40 working days, depending on the nature of the fault, the diagnostics required, and the availability of spare parts, while complying with the requirements of the legislation of the Republic of Armenia.",
+      "If the product fails to conform during the warranty period, the consumer is entitled to the remedies provided by law free of charge. This warranty does not limit the consumer’s rights under the legislation of the Republic of Armenia."
+    ],
+    "voltage": "The warranty also does not cover damage caused by electrical voltage fluctuations.",
+    "cardRequired": "A warranty card is required for a warranty claim."
+  },
+  "catalogSearch": {
+    "title": "Search products",
+    "label": "Product name or brand",
+    "placeholder": "For example: iPhone 16, Samsung, AirTag",
+    "submit": "Search",
+    "hint": "Enter a model name or brand.",
+    "empty": "No products found. Try another name.",
+    "count": "Products found: {count}"
+  },
+  "account": {
+    "title": "My account",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "register": "Register",
+    "login": "Sign in",
+    "logout": "Sign out",
+    "welcome": "Your account",
+    "unavailable": "Registration is currently unavailable. Contact the shop at +374 93 80 80 11.",
+    "note": "We will email you a code to verify your address and sign in. No password is needed. Registration details will be shared with MyStore to create your account.",
+    "send": "Send code",
+    "code": "Email code",
+    "verify": "Verify",
+    "sent": "Enter the code sent to {email}.",
+    "busy": "Please wait…",
+    "resend": "Resend code",
+    "resendWait": "Retry in {seconds}s",
+    "changeEmail": "Change email",
+    "invalid": "Check your first name, last name and phone number with country code.",
+    "sendError": "Could not send the code. Check your email and try again later.",
+    "codeError": "Invalid or expired code. Check the code or request a new one."
+  },
+  "delivery": {
+    "title": "Delivery",
+    "lede": "We arrange delivery through HayPost or other delivery services.",
+    "details": "The delivery method and cost are agreed with the customer when the order is confirmed and depend on the address and the chosen service’s terms.",
+    "timeTitle": "Delivery time",
+    "timeText": "Delivery takes 1–2 days.",
+    "contact": "For delivery questions, contact MyStore:"
+  },
+  "returns": {
+    "title": "Returns",
+    "lede": "Returns and exchanges are handled in accordance with Armenian law. Goods of satisfactory quality may be returned or exchanged within 14 days of receipt.",
+    "terms": [
+      "The product must be unused, with its original appearance and consumer properties preserved and its seals and labels intact.",
+      "Bring the product, a payment document and evidence of purchase from MyStore.",
+      "For a return by delivery service, the deadline is met if the product is handed to a postal, courier or other delivery service within 14 days of receipt.",
+      "Exceptions for non-returnable goods provided by law apply."
+    ],
+    "rights": "These conditions apply to goods of satisfactory quality and do not limit the customer’s statutory rights regarding defective goods.",
+    "law": "Armenian Law on Consumer Rights Protection, Article 23",
+    "contactTitle": "How to contact us",
+    "contact": "For a return, contact MyStore or visit our store at:"
+  },
+  "support": {
+    "title": "Support",
+    "lede": "Contact MyStore with questions about products, orders, delivery, returns and warranty. Choose your preferred contact method or visit our store.",
+    "phone": "Phone",
+    "message": "Send a message →",
+    "visit": "Visit our store",
+    "hours": "Opening hours",
+    "monSat": "Monday — Saturday",
+    "sunday": "Sunday",
+    "warranty": "Warranty terms",
+    "delivery": "Delivery",
+    "returns": "Returns"
+  },
+  "about": {
+    "title": "About MyStore",
+    "lede": "MyStore is an electronics store at Komitas Avenue 9 in Yerevan. We help you choose technology for work, everyday life and leisure.",
+    "range": "Our range includes smartphones, tablets, computers, gaming devices, headphones, speakers, cameras, Dyson products, DJI devices and accessories.",
+    "warrantyText": "All devices come with a 1-year MyStore warranty. See our warranty page for the terms.",
+    "deliveryText": "We arrange delivery through HayPost or other delivery services within 1–2 days.",
+    "warranty": "Warranty terms",
+    "delivery": "Delivery",
+    "support": "Contact us"
+  },
+  "installments": {
+    "title": "Installments",
+    "lede": "At MyStore, you can purchase electronics in installments through IDBank / Idram Rocket Line, AEB, ACBA and Ameriabank.",
+    "term": "Up to 12 months",
+    "downPayment": "Down payment",
+    "annual": "Annual interest rate",
+    "service": "Service fee",
+    "rocketHow": "To pay with Rocket Line, use the Idram&IDBank app and your available credit limit.",
+    "otherBanks": "Other banks",
+    "otherTerms": "The term, down payment, interest rate and service fees for AEB, ACBA and Ameriabank plans are confirmed when arranging financing.",
+    "approval": "Installment purchases are subject to bank approval. The installment price, payment schedule and required documents are confirmed before financing is arranged.",
+    "contactTitle": "How to arrange installments",
+    "contact": "Choose a product and contact MyStore — we will help you check the available installment options."
   }
 }

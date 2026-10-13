@@ -51,7 +51,7 @@ export default function ProductCard({ product }: { product: Product }) {
           art={product.art}
           image={product.image}
           alt={`${product.brand} ${product.name}`}
-          className="stage-media h-[74%] w-auto"
+          className={product.image ? "stage-media absolute inset-[13%] h-[74%] w-[74%]" : "stage-media h-[74%] w-auto"}
         />
       </div>
 
@@ -67,7 +67,7 @@ export default function ProductCard({ product }: { product: Product }) {
         </div>
 
         <div className="mt-auto">
-          <Prices price={product.price} credit={product.creditPrice} />
+          <Prices price={product.price} credit={product.creditPrice} onRequest={product.priceOnRequest} />
 
           <div className="mt-3 flex items-center justify-between gap-2">
             <p className="flex items-center gap-2 text-[0.775rem] text-muted">
