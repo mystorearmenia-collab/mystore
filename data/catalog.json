@@ -2522,7 +2522,7 @@
         "ru": "128GB / 256GB · Wi-Fi",
         "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 199000,
+      "price": 188000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -2734,7 +2734,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 206800,
       "cats": [
         "ipad"
       ],
@@ -2744,90 +2744,99 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 199000,
-          "credit": null,
+          "price": 188000,
+          "credit": 206800,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 199000,
-          "credit": null,
+          "price": 188000,
+          "credit": 206800,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 199000,
-          "credit": null,
+          "price": 188000,
+          "credit": 206800,
           "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Yellow",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 199000,
-          "credit": null,
+          "price": 188000,
+          "credit": 206800,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Yellow",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "airpods-4",
@@ -4802,7 +4811,7 @@
         "ru": "128GB / 256GB · Wi-Fi + Cellular",
         "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 259000,
+      "price": 234000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -5014,7 +5023,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 257400,
       "cats": [
         "ipad"
       ],
@@ -5024,90 +5033,94 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-2025-11-0-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Yellow",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 234000,
+          "credit": 257400,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 299000,
+          "credit": 328900,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-10_silver_4.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 299000,
+          "credit": 328900,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-blue-wifi-select_result_1_1_3.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 299000,
+          "credit": 328900,
           "image": "https://yerevanmobile.am/media/catalog/product/u/n/untitled_1__1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Yellow",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 299000,
+          "credit": 328900,
           "image": "https://yerevanmobile.am/media/catalog/product/i/p/ipad-2022-hero-yellow-wifi-select_result_1_2_1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-mini-7",
@@ -5118,7 +5131,7 @@
         "ru": "128GB / 256GB · Wi-Fi",
         "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 224000,
+      "price": 219000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -5330,7 +5343,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 240900,
       "cats": [
         "ipad"
       ],
@@ -5340,90 +5353,98 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 224000,
-          "credit": null,
+          "price": 219000,
+          "credit": 240900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71yhrd0k2ul._ac_sl1500__1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 224000,
-          "credit": null,
+          "price": 219000,
+          "credit": 240900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80__1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 224000,
-          "credit": null,
+          "price": 219000,
+          "credit": 240900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500__1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 224000,
-          "credit": null,
+          "price": 219000,
+          "credit": 240900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71ey-9d8ydl._ac_uf1000_1000_ql80__3.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 289000,
-          "credit": null,
+          "price": 269000,
+          "credit": 295900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71yhrd0k2ul._ac_sl1500__1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 279000,
-          "credit": null,
+          "price": 269000,
+          "credit": 295900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71xavvhscdl._ac_uf1000_1000_ql80__1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 289000,
-          "credit": null,
+          "price": 269000,
+          "credit": 295900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71o6pxckkjl._ac_sl1500__1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 289000,
-          "credit": null,
+          "price": 269000,
+          "credit": 295900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71ey-9d8ydl._ac_uf1000_1000_ql80__3.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-mini-7.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "iphone-16-plus",
@@ -6943,7 +6964,7 @@
         "ru": "128GB / 256GB · Wi-Fi",
         "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 329000,
+      "price": 319000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -7134,7 +7155,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 350900,
       "cats": [
         "ipad"
       ],
@@ -7144,90 +7165,96 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 319000,
+          "credit": 350900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWFU0N1RjeHdyenY5U1BnMmlCT2FwYitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFNYjZVY05Sc1ZqSisyN3UwNWhSalc",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 319000,
+          "credit": 350900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWE5FL0E2Tm1WYVRteWtXVjllTmQrMWFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFZcm9JV2JsNE00L2VEL1djZXhjZVQ",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 319000,
+          "credit": 350900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVWtSRUR3V1RTblN3TXd3RE5HclJweXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytOREtHTVArQURQazJ5K25OVFhDNnM",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 319000,
+          "credit": 350900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWGFtQTR4eURwVEtjWkY3RWd1SXYwVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy90am5BT0NjdWJUMzQybC8zUUQ5Q2w",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWFU0N1RjeHdyenY5U1BnMmlCT2FwYitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFNYjZVY05Sc1ZqSisyN3UwNWhSalc",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWE5FL0E2Tm1WYVRteWtXVjllTmQrMWFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFZcm9JV2JsNE00L2VEL1djZXhjZVQ",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVWtSRUR3V1RTblN3TXd3RE5HclJweXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytOREtHTVArQURQazJ5K25OVFhDNnM",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWGFtQTR4eURwVEtjWkY3RWd1SXYwVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy90am5BT0NjdWJUMzQybC8zUUQ5Q2w",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-11-m4-wifi.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "airpods-max-2",
@@ -13826,7 +13853,7 @@
         "ru": "128GB / 256GB · Wi-Fi + Cellular",
         "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 329000,
+      "price": 369000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -14017,7 +14044,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 405900,
       "cats": [
         "ipad"
       ],
@@ -14027,91 +14054,91 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQV3NCSWtYQm84Vk1HTlV5YzhYQUNkbitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFwYWhaZEhHVWNXaHlpdUxCbUpab1g",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVDV5Yk5iZVIzN1R3Tk5tTWFucVc0RmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkNGWW9FMHpmZHNNdGZxc0Q1TThaSVc",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUWFuS1pmd3VkY1FGUHBiOHhoM0ZnT3laN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy9PY2RMaU51Ri9DTWh5SDkrV0hHTHo",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUTRlejdNZHFOcWljcEk4UnVSYWJ1d2owT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzhzVUZHSTFzeXA5S0taRWtvOHB5dW4",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 419000,
+          "credit": 460900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQV3NCSWtYQm84Vk1HTlV5YzhYQUNkbitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFwYWhaZEhHVWNXaHlpdUxCbUpab1g",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 419000,
+          "credit": 460900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQVDV5Yk5iZVIzN1R3Tk5tTWFucVc0RmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkNGWW9FMHpmZHNNdGZxc0Q1TThaSVc",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 419000,
+          "credit": 460900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUWFuS1pmd3VkY1FGUHBiOHhoM0ZnT3laN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qy9PY2RMaU51Ri9DTWh5SDkrV0hHTHo",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 329000,
-          "credit": null,
+          "price": 419000,
+          "credit": 460900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQUTRlejdNZHFOcWljcEk4UnVSYWJ1d2owT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzhzVUZHSTFzeXA5S0taRWtvOHB5dW4",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "ipad-air-13-m4-wifi",
@@ -14122,7 +14149,7 @@
         "ru": "128GB / 256GB · Wi-Fi",
         "hy": "128GB / 256GB · Wi-Fi"
       },
-      "price": 439000,
+      "price": 399000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -14313,7 +14340,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 438900,
       "cats": [
         "ipad"
       ],
@@ -14323,11 +14350,12 @@
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 439000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZitxSFh4MUxYZm8vRUU4K2k4TE1acitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXIzK0dOdjNyKytJcldtZW91dG0xL2Q",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
@@ -14335,78 +14363,83 @@
           "ram": null,
           "sim": null,
           "price": 399000,
-          "credit": null,
+          "credit": 438900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQY254Z2xqRW5BaFF4blNuL0dJWlM1WmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFyK1dvOFM3ZUk3MEJ4Uko2WU92bi8",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 439000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZCtoTEFxWnFEM09kTFpnSXFjL0NoMnlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytVcFhpZ3YzaUdJeHh5a1BSZXkyTkg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "128GB",
           "ram": null,
           "sim": null,
-          "price": 439000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZVkraGNLK1BDZUg1cjV2VFJlcHU5OGowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzlRMFZ2MmZaQmtMdVJaWC9WamwrcnA",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZitxSFh4MUxYZm8vRUU4K2k4TE1acitPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXIzK0dOdjNyKytJcldtZW91dG0xL2Q",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQY254Z2xqRW5BaFF4blNuL0dJWlM1WmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkFyK1dvOFM3ZUk3MEJ4Uko2WU92bi8",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZCtoTEFxWnFEM09kTFpnSXFjL0NoMnlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytVcFhpZ3YzaUdJeHh5a1BSZXkyTkg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZVkraGNLK1BDZUg1cjV2VFJlcHU5OGowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QzlRMFZ2MmZaQmtMdVJaWC9WamwrcnA",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-air-13-m4-wifi.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-tab-a11-wi-fi",
@@ -17008,7 +17041,7 @@
         "ru": "128GB / 256GB · Wi-Fi + Cellular",
         "hy": "128GB / 256GB · Wi-Fi + Cellular"
       },
-      "price": 399000,
+      "price": 499000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -17199,7 +17232,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 548900,
       "cats": [
         "ipad"
       ],
@@ -17253,47 +17286,47 @@
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 499000,
+          "credit": 548900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQYjJyK0E0bWExcGdybmdreTYzVzdQSCtPWGFLNk1GaGFmR2E1bUR3TXNrOXhxZ1ZZWHcyTUFGTS9hRk5FME1JTXNRUkRub2x2S3QvTjZFa2ZmMXdrcXFxMkZsRjVZU3Fab0liSDQ5ZEp2NGc",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 499000,
+          "credit": 548900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQZEFHem9WK242WDAwUlJDN0t0ZkNCRmFaMFBZMkZoYzhVTVpkZy9HOEpPLzdyTk5qSUFqOTJRNDRNazdIYVVHNksvWkJ5TW5IdW9XMHpwcXViQ1ArRkJ1c2M1VjI2MGxJWGVKVldiOHhJVWw",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 499000,
+          "credit": 548900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQU1JUeVBoTGFscGwzTUkxNnpOZkV4YXlaN3dpYVdvMVRYZk1RYUx5d0NialgyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5Qyt3ZGVHY3RNekR0RmpTQW5Ic3FnUlI",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Gray",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 399000,
-          "credit": null,
+          "price": 499000,
+          "credit": 548900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=MHJ3M044Wm5ySDVTUVJHY090MTFQWktKdE93Uk8zMEkyMExSRFZ0S21ZVWowT2NrckZsTWdDRUM0OUhBNnNMK1gyaWxBVG1PRTU2YzhCN2c2emhzWGt0RmgycTRGTHI3SUVxVFVFNFI5QytlV3ZxcnpJbjJtcUVOSlJKRFVhL0E",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "marshall-marshall-willen",
@@ -18272,7 +18305,7 @@
         "ru": "256GB / 512GB / 1TB · Wi-Fi",
         "hy": "256GB / 512GB / 1TB · Wi-Fi"
       },
-      "price": 479000,
+      "price": 449000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -18493,7 +18526,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 493900,
       "cats": [
         "ipad"
       ],
@@ -18503,68 +18536,72 @@
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 479000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_2.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 479000,
-          "credit": null,
+          "price": 449000,
+          "credit": 493900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 559000,
-          "credit": null,
+          "price": 519000,
+          "credit": 570900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_2.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 519000,
+          "credit": 570900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 779000,
+          "credit": 856900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_2.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 779000,
+          "credit": 856900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-pro-11-m5-cellular",
@@ -18575,7 +18612,7 @@
         "ru": "256GB / 512GB / 1TB · Wi-Fi + Cellular",
         "hy": "256GB / 512GB / 1TB · Wi-Fi + Cellular"
       },
-      "price": 559000,
+      "price": 529000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -18796,7 +18833,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 581900,
       "cats": [
         "ipad"
       ],
@@ -18806,68 +18843,71 @@
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 559000,
-          "credit": null,
+          "price": 529000,
+          "credit": 581900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_2.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 529000,
+          "credit": 581900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 599000,
+          "credit": 658900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_2.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 599000,
+          "credit": 658900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 799000,
-          "credit": null,
+          "price": 779000,
+          "credit": 856900,
           "image": "https://yerevanmobile.am/media/catalog/product/m/5/m5_blck_2.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-11-m5-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 499000,
-          "credit": null,
+          "price": 779000,
+          "credit": 856900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_3.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-pro-13",
@@ -18878,7 +18918,7 @@
         "ru": "256GB / 512GB / 1TB · Wi-Fi",
         "hy": "256GB / 512GB / 1TB · Wi-Fi"
       },
-      "price": 659000,
+      "price": 569000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -19066,7 +19106,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 625900,
       "cats": [
         "ipad"
       ],
@@ -19076,69 +19116,69 @@
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 569000,
+          "credit": 625900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/i/file_1_1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 569000,
+          "credit": 625900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/i/file_1_1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 879000,
+          "credit": 966900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/i/file_1_1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 879000,
+          "credit": 966900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "ipad-pro-13-m5-cellular",
@@ -19149,7 +19189,7 @@
         "ru": "256GB / 512GB / 1TB · Wi-Fi + Cellular",
         "hy": "256GB / 512GB / 1TB · Wi-Fi + Cellular"
       },
-      "price": 659000,
+      "price": 639000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -19337,7 +19377,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 702900,
       "cats": [
         "ipad"
       ],
@@ -19347,68 +19387,72 @@
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/i/file_1_1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "256GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 795000,
-          "credit": null,
+          "price": 709000,
+          "credit": 779900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/i/file_1_1_1.jpg",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-ipad-pro-13-m5-wifi-cellular.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "512GB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 709000,
+          "credit": 779900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 749000,
+          "credit": 823900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/i/file_1_1_1.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "1TB",
           "ram": null,
           "sim": null,
-          "price": 659000,
-          "credit": null,
+          "price": 749000,
+          "credit": 823900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71f5yomdt3l._ac_sl1500__1_6.jpg",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "keyboard-magic-ipad-pro-11-m4",
