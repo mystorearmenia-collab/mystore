@@ -2173,7 +2173,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 52000,
+      "price": 48600,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -2380,7 +2380,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 53460,
       "cats": [
         "samsung"
       ],
@@ -2390,128 +2390,138 @@
           "storage": "64GB",
           "ram": "4GB",
           "sim": null,
-          "price": 52000,
-          "credit": null,
+          "price": 48600,
+          "credit": 53460,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_4_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_4_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "64GB",
           "ram": "4GB",
           "sim": null,
-          "price": 52000,
-          "credit": null,
+          "price": 48600,
+          "credit": 53460,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_3_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_3_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "64GB",
           "ram": "4GB",
           "sim": null,
-          "price": 52000,
-          "credit": null,
+          "price": 48600,
+          "credit": 53460,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_2_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_2_3.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 58000,
-          "credit": null,
+          "price": 54000,
+          "credit": 59400,
           "image": "https://yerevanmobile.am/media/catalog/product/d/c/dchbl3xufg5tdkgocyayluoyetxmksmtgcpzj0at.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/d/c/dchbl3xufg5tdkgocyayluoyetxmksmtgcpzj0at.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 58000,
-          "credit": null,
+          "price": 54000,
+          "credit": 59400,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_3_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_3_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 58000,
-          "credit": null,
+          "price": 54000,
+          "credit": 59400,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_2_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 67000,
-          "credit": null,
+          "price": 62600,
+          "credit": 68860,
           "image": "https://yerevanmobile.am/media/catalog/product/d/c/dchbl3xufg5tdkgocyayluoyetxmksmtgcpzj0at_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/d/c/dchbl3xufg5tdkgocyayluoyetxmksmtgcpzj0at_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 67000,
-          "credit": null,
+          "price": 62600,
+          "credit": 68860,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_3_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_3_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 67000,
-          "credit": null,
+          "price": 62600,
+          "credit": 68860,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_2_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/large_samsung-galaxy-a07_2_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a07-4g.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-2025",
@@ -2910,7 +2920,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 72000,
+      "price": 65600,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -3117,7 +3127,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 72160,
       "cats": [
         "samsung"
       ],
@@ -3127,172 +3137,182 @@
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 72000,
-          "credit": null,
+          "price": 65600,
+          "credit": 72160,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 72000,
-          "credit": null,
+          "price": 65600,
+          "credit": 72160,
           "image": "https://yerevanmobile.am/media/catalog/product/w/q/wqpa9_sq1_0000000020_blue_slf_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/w/q/wqpa9_sq1_0000000020_blue_slf_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 72000,
-          "credit": null,
+          "price": 65600,
+          "credit": 72160,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_grat_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_grat_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 72000,
-          "credit": null,
+          "price": 65600,
+          "credit": 72160,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_light_blue.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_light_blue.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 79000,
-          "credit": null,
+          "price": 76600,
+          "credit": 84260,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_3.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 79000,
-          "credit": null,
+          "price": 76600,
+          "credit": 84260,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_grat_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_grat_3.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 99000,
-          "credit": null,
+          "price": 97000,
+          "credit": 106700,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_2.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 99000,
-          "credit": null,
+          "price": 97000,
+          "credit": 106700,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_grat_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_grat_2.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 99000,
-          "credit": null,
+          "price": 97000,
+          "credit": 106700,
           "image": "https://yerevanmobile.am/media/catalog/product/a/1/a17_light_blue_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/1/a17_light_blue_1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a17.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 79000,
-          "credit": null,
+          "price": 76600,
+          "credit": 84260,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4545.jpg",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 85000,
-          "credit": null,
+          "price": 82000,
+          "credit": 90200,
           "image": "https://admin.redstore.am/storage/products/58933/image/img-4542.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 85000,
-          "credit": null,
+          "price": 82000,
+          "credit": 90200,
           "image": "https://admin.redstore.am/storage/products/10049/image/e3q-montaznaia-oblast-1.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 85000,
-          "credit": null,
+          "price": 82000,
+          "credit": 90200,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4540.jpg",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "15t",
@@ -5974,7 +5994,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 109000,
+      "price": 108000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -6190,7 +6210,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 118800,
       "cats": [
         "samsung"
       ],
@@ -6200,33 +6220,33 @@
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://admin.redstore.am/storage/products/60760/image/b-montaznaia-oblast-1-2.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://admin.redstore.am/storage/products/61279/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Light Green",
           "storage": "128GB",
           "ram": "6GB",
           "sim": null,
-          "price": 109000,
-          "credit": null,
+          "price": 108000,
+          "credit": 118800,
           "image": "https://admin.redstore.am/storage/products/60761/image/k-montaznaia-oblast-1-1.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Black",
@@ -6234,10 +6254,10 @@
           "ram": "8GB",
           "sim": null,
           "price": 125000,
-          "credit": null,
+          "credit": 137500,
           "image": "https://admin.redstore.am/storage/products/60762/image/b-montaznaia-oblast-1-2.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
@@ -6245,10 +6265,10 @@
           "ram": "8GB",
           "sim": null,
           "price": 125000,
-          "credit": null,
+          "credit": 137500,
           "image": "https://admin.redstore.am/storage/products/60763/image/bl-montaznaia-oblast-1-1.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Light Green",
@@ -6256,10 +6276,10 @@
           "ram": "8GB",
           "sim": null,
           "price": 125000,
-          "credit": null,
+          "credit": 137500,
           "image": "https://admin.redstore.am/storage/products/60764/image/k-montaznaia-oblast-1-1.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
@@ -6267,13 +6287,13 @@
           "ram": "8GB",
           "sim": null,
           "price": 125000,
-          "credit": null,
+          "credit": 137500,
           "image": "https://admin.redstore.am/storage/products/60880/image/bezymiannyi-3.webp",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "airpods-pro-3",
@@ -6836,7 +6856,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 139700,
       "cats": [
         "samsung"
       ],
@@ -6847,13 +6867,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 127000,
-          "credit": null,
+          "credit": 139700,
           "image": "https://yerevanmobile.am/media/catalog/product/c/h/charcoal_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/c/h/charcoal_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "Green",
@@ -6861,13 +6882,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 127000,
-          "credit": null,
+          "credit": 139700,
           "image": "https://yerevanmobile.am/media/catalog/product/g/r/graygreen_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/g/r/graygreen_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
@@ -6875,13 +6897,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 127000,
-          "credit": null,
+          "credit": 139700,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/lavander_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/lavander_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
@@ -6889,13 +6912,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 127000,
-          "credit": null,
+          "credit": 139700,
           "image": "https://yerevanmobile.am/media/catalog/product/e/h/ehite_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/e/h/ehite_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
@@ -6903,13 +6927,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 144000,
-          "credit": null,
+          "credit": 158400,
           "image": "https://yerevanmobile.am/media/catalog/product/c/h/charcoal_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/c/h/charcoal_1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "Green",
@@ -6917,13 +6942,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 144000,
-          "credit": null,
+          "credit": 158400,
           "image": "https://yerevanmobile.am/media/catalog/product/g/r/graygreen_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/g/r/graygreen_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
@@ -6931,13 +6957,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 144000,
-          "credit": null,
+          "credit": 158400,
           "image": "https://yerevanmobile.am/media/catalog/product/l/a/lavander_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/l/a/lavander_1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
@@ -6945,15 +6972,17 @@
           "ram": "8GB",
           "sim": null,
           "price": 144000,
-          "credit": null,
+          "credit": 158400,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__3.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a37.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-air-11-m4-wifi",
@@ -7591,7 +7620,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 157300,
       "cats": [
         "samsung"
       ],
@@ -7602,13 +7631,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 143000,
-          "credit": null,
+          "credit": 157300,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Navy",
@@ -7616,13 +7646,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 143000,
-          "credit": null,
+          "credit": 157300,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
@@ -7630,13 +7661,14 @@
           "ram": "8GB",
           "sim": null,
           "price": 143000,
-          "credit": null,
+          "credit": 157300,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61mun0yntxl._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61mun0yntxl._ac_sl1500__1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
@@ -7644,69 +7676,74 @@
           "ram": "8GB",
           "sim": null,
           "price": 143000,
-          "credit": null,
+          "credit": 157300,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 167000,
-          "credit": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__2.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Navy",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 167000,
-          "credit": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__2.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 167000,
-          "credit": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61mun0yntxl._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61mun0yntxl._ac_sl1500__1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 167000,
-          "credit": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__2.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
@@ -7714,13 +7751,14 @@
           "ram": "12GB",
           "sim": null,
           "price": 189000,
-          "credit": null,
+          "credit": 207900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__3.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Navy",
@@ -7728,13 +7766,14 @@
           "ram": "12GB",
           "sim": null,
           "price": 189000,
-          "credit": null,
+          "credit": 207900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__3.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
@@ -7742,13 +7781,14 @@
           "ram": "12GB",
           "sim": null,
           "price": 189000,
-          "credit": null,
+          "credit": 207900,
           "image": "https://yerevanmobile.am/media/catalog/product/a/5/a57_iudhuahdreygrfeswyrfge_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/a/5/a57_iudhuahdreygrfeswyrfge_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
@@ -7756,13 +7796,14 @@
           "ram": "12GB",
           "sim": null,
           "price": 189000,
-          "credit": null,
+          "credit": 207900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
@@ -7770,13 +7811,14 @@
           "ram": "12GB",
           "sim": null,
           "price": 199000,
-          "credit": null,
+          "credit": 218900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61ouqajpzll._ac_sl1500__1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Navy",
@@ -7784,13 +7826,14 @@
           "ram": "12GB",
           "sim": null,
           "price": 199000,
-          "credit": null,
+          "credit": 218900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61l3b3ju1ql._ac_sl1500__1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
@@ -7798,15 +7841,17 @@
           "ram": "12GB",
           "sim": null,
           "price": 199000,
-          "credit": null,
+          "credit": 218900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61h7_n1ldql._ac_sl1500__2_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-a57.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "iphone-17",
@@ -8537,7 +8582,7 @@
         "ru": "6.2 inch",
         "en": "6.2 inch"
       },
-      "price": 259000,
+      "price": 235000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -8744,7 +8789,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 258500,
       "cats": [
         "samsung"
       ],
@@ -8754,126 +8799,120 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 257000,
+          "credit": 282700,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51nmtmjkfll._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51nmtmjkfll._ac_sl1500__1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
-        },
-        {
-          "color": "Mint",
-          "storage": "256GB",
-          "ram": "8GB",
-          "sim": null,
-          "price": 259000,
-          "credit": null,
-          "image": "https://yerevanmobile.am/media/catalog/product/2/5/25_10_1.jpg",
-          "images": [
-            "https://yerevanmobile.am/media/catalog/product/2/5/25_10_1.jpg"
-          ],
-          "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Navy",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 257000,
+          "credit": 282700,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s25_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s25_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver Shadow",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 257000,
+          "credit": 282700,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Icyblue",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 235000,
+          "credit": 258500,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51nmtmjkfll._ac_sl1500_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51nmtmjkfll._ac_sl1500_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Mint",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 235000,
+          "credit": 258500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/6101p9g3gsl._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/6101p9g3gsl._ac_sl1500__1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Navy",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 235000,
+          "credit": 258500,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s25_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s25_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Pinkgold",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 235000,
+          "credit": 258500,
           "image": "https://yerevanmobile.am/media/catalog/product/w/d/wdwqewedwadwasw_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/w/d/wdwqewedwadwasw_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Silver Shadow",
           "storage": "128GB",
           "ram": "12GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 235000,
+          "credit": 258500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25.html",
+          "priceOnRequest": false
         },
         {
           "color": "Icyblue",
@@ -8894,13 +8933,14 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 259000,
-          "credit": null,
+          "price": 257000,
+          "credit": 282700,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5056.jpg",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "airpods-4-anc",
@@ -9767,7 +9807,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 339000,
+      "price": 335000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -9974,7 +10014,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 368500,
       "cats": [
         "samsung"
       ],
@@ -9984,126 +10024,135 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 339000,
-          "credit": null,
+          "price": 335000,
+          "credit": 368500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61n0lmxp5-l._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61n0lmxp5-l._ac_sl1500__2.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Grey",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 339000,
-          "credit": null,
+          "price": 335000,
+          "credit": 368500,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71ywgw1hzfl._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/71ywgw1hzfl._ac_sl1500__1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Jadegreen",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 339000,
-          "credit": null,
+          "price": 335000,
+          "credit": 368500,
           "image": "https://yerevanmobile.am/media/catalog/product/e/f/efd07f17007dcb02c96430345b6c7b55-hi_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/e/f/efd07f17007dcb02c96430345b6c7b55-hi_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Jetblack",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 339000,
-          "credit": null,
+          "price": 335000,
+          "credit": 368500,
           "image": "https://yerevanmobile.am/media/catalog/product/7/8/7859632_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/8/7859632_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Silverblue",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 339000,
-          "credit": null,
+          "price": 335000,
+          "credit": 368500,
           "image": "https://yerevanmobile.am/media/catalog/product/2/5/25_ultrq_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/5/25_ultrq_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Whitesilver",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 339000,
-          "credit": null,
+          "price": 335000,
+          "credit": 368500,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61qvragan9l._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61qvragan9l._ac_sl1500__1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Grey",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 428000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71ywgw1hzfl._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/71ywgw1hzfl._ac_sl1500__1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Whitesilver",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 428000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61qvragan9l._ac_sl1500__1_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61qvragan9l._ac_sl1500__1_1_1.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Silverblue",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 475000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://yerevanmobile.am/media/catalog/product/k/l/klajsmnikdbsjkfnjskdfnd_qa_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/k/l/klajsmnikdbsjkfnjskdfnd_qa_.jpg"
           ],
           "inStock": true,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s25-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Grey",
@@ -10138,13 +10187,14 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 409000,
-          "credit": null,
+          "price": 399000,
+          "credit": 438900,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5078.jpg",
           "inStock": true,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "17-pro-max",
@@ -10398,7 +10448,7 @@
         "ru": "256GB · 6.7 inch",
         "en": "256GB · 6.7 inch"
       },
-      "price": 289000,
+      "price": 265000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -10602,7 +10652,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 291500,
       "cats": [
         "samsung"
       ],
@@ -10612,71 +10662,73 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 289000,
-          "credit": null,
+          "price": 285000,
+          "credit": 313500,
           "image": "https://yerevanmobile.am/media/catalog/product/2/6/26fe_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/6/26fe_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-fe.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-fe.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blueberry",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 265000,
+          "credit": 291500,
           "image": "https://admin.redstore.am/storage/products/61696/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 265000,
+          "credit": 291500,
           "image": "https://admin.redstore.am/storage/products/61695/image/3-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Pistachio",
           "storage": "128GB",
           "ram": "8GB",
           "sim": null,
-          "price": 269000,
-          "credit": null,
+          "price": 265000,
+          "credit": 291500,
           "image": "https://admin.redstore.am/storage/products/61697/image/4-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Blueberry",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 289000,
-          "credit": null,
+          "price": 285000,
+          "credit": 313500,
           "image": "https://admin.redstore.am/storage/products/61579/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Pistachio",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 289000,
-          "credit": null,
+          "price": 285000,
+          "credit": 313500,
           "image": "https://admin.redstore.am/storage/products/61580/image/4-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-s26",
@@ -10687,7 +10739,7 @@
         "ru": "6.3 inch",
         "en": "6.3 inch"
       },
-      "price": 319000,
+      "price": 279000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -10903,7 +10955,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 306900,
       "cats": [
         "samsung"
       ],
@@ -10913,114 +10965,123 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 279000,
+          "credit": 306900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 279000,
+          "credit": 306900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 279000,
+          "credit": 306900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 319000,
-          "credit": null,
+          "price": 279000,
+          "credit": 306900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 359000,
-          "credit": null,
+          "price": 339000,
+          "credit": 372900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 359000,
-          "credit": null,
+          "price": 339000,
+          "credit": 372900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_3.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 359000,
-          "credit": null,
+          "price": 339000,
+          "credit": 372900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_3.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 359000,
-          "credit": null,
+          "price": 339000,
+          "credit": 372900,
           "image": "https://yerevanmobile.am/media/catalog/product/g/0/g0h9uztq988lp3ogt314dciheok9bhsj.png",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/g/0/g0h9uztq988lp3ogt314dciheok9bhsj.png"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "17-ultra",
@@ -11274,7 +11335,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 349000,
+      "price": 339600,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -11481,7 +11542,7 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 373560,
       "cats": [
         "samsung"
       ],
@@ -11491,114 +11552,123 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 349000,
-          "credit": null,
+          "price": 339600,
+          "credit": 373560,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 349000,
-          "credit": null,
+          "price": 339600,
+          "credit": 373560,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 349000,
-          "credit": null,
+          "price": 339600,
+          "credit": 373560,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 349000,
-          "credit": null,
+          "price": 339600,
+          "credit": 373560,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 409000,
-          "credit": null,
+          "price": 389600,
+          "credit": 428560,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 409000,
-          "credit": null,
+          "price": 389600,
+          "credit": 428560,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 409000,
-          "credit": null,
+          "price": 389600,
+          "credit": 428560,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61hlbcfqv_l._ac_uf894_1000_ql80_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61hlbcfqv_l._ac_uf894_1000_ql80_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 409000,
-          "credit": null,
+          "price": 389600,
+          "credit": 428560,
           "image": "https://yerevanmobile.am/media/catalog/product/2/6/26_pluyssoak.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/6/26_pluyssoak.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-plus.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "watch-ultra-3",
@@ -12876,7 +12946,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 389000,
+      "price": 375000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -13083,7 +13153,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 412500,
       "cats": [
         "samsung"
       ],
@@ -13093,140 +13163,150 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 389000,
-          "credit": null,
+          "price": 375000,
+          "credit": 412500,
           "image": "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 389000,
-          "credit": null,
+          "price": 375000,
+          "credit": 412500,
           "image": "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 389000,
-          "credit": null,
+          "price": 375000,
+          "credit": 412500,
           "image": "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 389000,
-          "credit": null,
+          "price": 375000,
+          "credit": 412500,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 469000,
-          "credit": null,
+          "price": 459000,
+          "credit": 504900,
           "image": "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 469000,
-          "credit": null,
+          "price": 459000,
+          "credit": 504900,
           "image": "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 469000,
-          "credit": null,
+          "price": 459000,
+          "credit": 504900,
           "image": "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 469000,
-          "credit": null,
+          "price": 459000,
+          "credit": 504900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 629000,
-          "credit": null,
+          "price": 619000,
+          "credit": 680900,
           "image": "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_3.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cobalt Violet",
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 629000,
-          "credit": null,
+          "price": 619000,
+          "credit": 680900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/4/34724340.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/4/34724340.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-s26-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
@@ -13239,7 +13319,8 @@
           "inStock": false,
           "priceOnRequest": true
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-z-flip-8",
@@ -13250,10 +13331,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 445000,
+      "price": 429000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 471900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61316/image/2-montaznaia-oblast-1.webp",
@@ -13273,91 +13354,96 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 445000,
-          "credit": null,
+          "price": 429000,
+          "credit": 471900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61nsuq4yrvl.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61nsuq4yrvl.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 445000,
-          "credit": null,
+          "price": 429000,
+          "credit": 471900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/l/fli_8_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/l/fli_8_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 445000,
-          "credit": null,
+          "price": 429000,
+          "credit": 471900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/0/30792.jpg_w800_h800_resize.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/0/30792.jpg_w800_h800_resize.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 539000,
-          "credit": null,
+          "price": 525000,
+          "credit": 577500,
           "image": "https://yerevanmobile.am/media/catalog/product/f/l/fli_8.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/l/fli_8.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-flip8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 569000,
-          "credit": null,
+          "price": 525000,
+          "credit": 577500,
           "image": "https://admin.redstore.am/storage/products/60848/image/55-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Mint",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 569000,
-          "credit": null,
+          "price": 525000,
+          "credit": 577500,
           "image": "https://admin.redstore.am/storage/products/60851/image/oo-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Pink",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 569000,
-          "credit": null,
+          "price": 525000,
+          "credit": 577500,
           "image": "https://admin.redstore.am/storage/products/60849/image/555-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ps5-pro",
@@ -13474,10 +13560,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 619000,
+      "price": 599000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 658900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61318/image/1-montaznaia-oblast-1.webp",
@@ -13497,84 +13583,90 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 619000,
-          "credit": null,
+          "price": 599000,
+          "credit": 658900,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51vifw_k92l.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51vifw_k92l.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 619000,
-          "credit": null,
+          "price": 599000,
+          "credit": 658900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/o/fold_8.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/o/fold_8.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 619000,
-          "credit": null,
+          "price": 599000,
+          "credit": 658900,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51ojen9iubl.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51ojen9iubl.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/s/m/sm_f971_zfold8_openback_cream_260514.png",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/m/sm_f971_zfold8_openback_cream_260514.png"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/f/o/fold_8_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/o/fold_8_2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 639000,
+          "credit": 702900,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_9_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_9_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold-8.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
@@ -13609,7 +13701,8 @@
           "inStock": false,
           "priceOnRequest": true
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-z-fold-8-ultra",
@@ -13620,10 +13713,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 655000,
+      "price": 635000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 698500,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61274/image/bezymiannyi-1-montaznaia-oblast-1.webp",
@@ -13643,84 +13736,90 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 635000,
+          "credit": 698500,
           "image": "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 635000,
+          "credit": 698500,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80__2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 635000,
+          "credit": 698500,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Beige",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 775000,
-          "credit": null,
+          "price": 725000,
+          "credit": 797500,
           "image": "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 775000,
-          "credit": null,
+          "price": 725000,
+          "credit": 797500,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 775000,
-          "credit": null,
+          "price": 725000,
+          "credit": 797500,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Graphite",
@@ -13728,13 +13827,14 @@
           "ram": "16GB",
           "sim": null,
           "price": 1039000,
-          "credit": null,
+          "credit": 1142900,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_1__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_1__2.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Lavender",
@@ -13742,27 +13842,28 @@
           "ram": "16GB",
           "sim": null,
           "price": 1039000,
-          "credit": null,
+          "credit": 1142900,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html"
+          "priceSource": "https://www.yerevanmobile.am/en/samsung-galaxy-z-fold8-ultra.html",
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 635000,
+          "credit": 698500,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__191_1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__191_1_1.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -13770,14 +13871,14 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 655000,
-          "credit": null,
+          "price": 725000,
+          "credit": 797500,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__191_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__191_2.jpg"
           ],
           "inStock": false,
-          "priceOnRequest": true,
+          "priceOnRequest": false,
           "priceSource": null
         },
         {
@@ -13786,12 +13887,13 @@
           "ram": "16GB",
           "sim": null,
           "price": 1039000,
-          "credit": null,
+          "credit": 1142900,
           "image": "https://admin.redstore.am/storage/products/60840/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "portal",
