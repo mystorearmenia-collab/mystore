@@ -16071,10 +16071,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 39000,
+      "price": 37000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 40700,
       "availability": "on-request",
       "art": "earbuds",
       "specs": [],
@@ -16085,7 +16085,8 @@
       "image": "https://yerevanmobile.am/media/catalog/product/f/d/fd5e9383bb120b2d0f88970cb59ec670_1.jpg",
       "images": [
         "https://yerevanmobile.am/media/catalog/product/f/d/fd5e9383bb120b2d0f88970cb59ec670_1.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-a7",
@@ -17280,10 +17281,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 46900,
+      "price": 45000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 49500,
       "availability": "in-stock",
       "art": "headphones",
       "image": "https://yerevanmobile.am/media/catalog/product/m/a/major_852_1.jpg",
@@ -17299,7 +17300,8 @@
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/m/a/major_852_1.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-air-13",
@@ -17606,10 +17608,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 59000,
+      "price": 52000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 57200,
       "availability": "in-stock",
       "art": "speaker",
       "image": "https://yerevanmobile.am/media/catalog/product/w/i/willen.jpg",
@@ -17629,25 +17631,28 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 59000,
-          "credit": null,
+          "price": 52000,
+          "credit": 57200,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8490.jpeg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 59000,
-          "credit": null,
+          "price": 52000,
+          "credit": 57200,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/26/img-8489.jpeg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/w/i/willen.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "marshall-marshall-willen-ii",
@@ -17661,7 +17666,7 @@
       "price": 59000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 64900,
       "availability": "in-stock",
       "art": "speaker",
       "image": "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg",
@@ -17682,12 +17687,13 @@
           "ram": null,
           "sim": null,
           "price": 59000,
-          "credit": null,
+          "credit": 64900,
           "image": "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg",
           "inStock": true,
           "images": [
             "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Cream",
@@ -17695,17 +17701,19 @@
           "ram": null,
           "sim": null,
           "price": 59000,
-          "credit": null,
+          "credit": 64900,
           "image": "https://yerevanmobile.am/media/catalog/product/8/1/81d1qs5afpl._ac_sl1500__1.jpg",
           "inStock": true,
           "images": [
             "https://yerevanmobile.am/media/catalog/product/8/1/81d1qs5afpl._ac_sl1500__1.jpg"
-          ]
+          ],
+          "priceOnRequest": false
         }
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/8/1/81yijwaa7fl._ac_sl1500__1.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-17-4g",
@@ -17971,10 +17979,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 106900,
+      "price": 77000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 84700,
       "availability": "in-stock",
       "art": "speaker",
       "image": "/products/emberton-iii-white.png",
@@ -17990,7 +17998,8 @@
       ],
       "images": [
         "/products/emberton-iii-white.png"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-note-15-4g",
@@ -18582,10 +18591,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 109900,
+      "price": 124000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 136400,
       "availability": "in-stock",
       "art": "speaker",
       "image": "https://yerevanmobile.am/media/catalog/product/1/-/1-61.jpg",
@@ -18604,7 +18613,8 @@
         "https://yerevanmobile.am/media/catalog/product/7/1/71ffc422430d41cd02558c5e55e80b320fb51b53_s000462676_3.jpg",
         "https://yerevanmobile.am/media/catalog/product/e/f/ef7a778a166512b3a8f843b0de8cdc47704cebe8_815agw4a0ll._sl1500_.jpg",
         "https://yerevanmobile.am/media/catalog/product/s/t/stockwell-ii-1.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-pro-11",
@@ -20692,10 +20702,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 154900,
+      "price": 152000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 167200,
       "availability": "in-stock",
       "art": "speaker",
       "image": "https://yerevanmobile.am/media/catalog/product/8/1/81kkwbrgd2l._ac_uf1000_1000_ql80__1.jpg",
@@ -20711,7 +20721,8 @@
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/8/1/81kkwbrgd2l._ac_uf1000_1000_ql80__1.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "watch-series-11-46mm",
@@ -22065,10 +22076,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 159000,
+      "price": 137000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 150700,
       "availability": "in-stock",
       "art": "speaker",
       "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
@@ -22088,12 +22099,14 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 137000,
+          "credit": 150700,
           "image": "https://admin.redstore.am/storage/products/60924/image/bezymiannyi-1-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "marshall-tufton",
@@ -22740,10 +22753,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 189000,
+      "price": 187000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 205700,
       "availability": "in-stock",
       "art": "speaker",
       "image": "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg",
@@ -22763,31 +22776,34 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 189000,
-          "credit": null,
+          "price": 187000,
+          "credit": 205700,
           "image": "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg",
           "inStock": true,
           "images": [
             "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Brown",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 189000,
-          "credit": null,
+          "price": 187000,
+          "credit": 205700,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61tajircszl._ac_uf1000_1000_ql80_.jpg",
           "inStock": true,
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61tajircszl._ac_uf1000_1000_ql80_.jpg"
-          ]
+          ],
+          "priceOnRequest": false
         }
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/w/a/waburn_iii_1.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-wave-200tws",
