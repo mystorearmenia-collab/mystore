@@ -3800,7 +3800,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 328900,
       "cats": [
         "xiaomi"
       ],
@@ -3811,9 +3811,10 @@
           "ram": "12GB",
           "sim": null,
           "price": 299000,
-          "credit": null,
+          "credit": 328900,
           "image": "https://admin.redstore.am/storage/products/60236/image/w-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Black",
@@ -3821,21 +3822,24 @@
           "ram": "12GB",
           "sim": null,
           "price": 319000,
-          "credit": null,
+          "credit": 350900,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/16/4567uv-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 299000,
-          "credit": null,
+          "price": 319000,
+          "credit": 350900,
           "image": "https://admin.redstore.am/storage/products/60341/image/sdrftyujk-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ht01-airstrait-straightener",
@@ -8533,10 +8537,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 375000,
+      "price": 369000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 405900,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/60367/image/we-montaznaia-oblast-1.webp",
@@ -8556,22 +8560,25 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 375000,
-          "credit": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://admin.redstore.am/storage/products/60367/image/we-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "512GB",
           "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 375000,
-          "credit": null,
+          "sim": null,
+          "price": 369000,
+          "credit": 405900,
           "image": "https://admin.redstore.am/storage/products/60366/image/aswe-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-s25",
@@ -10423,7 +10430,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 614900,
       "cats": [
         "xiaomi"
       ],
@@ -10432,23 +10439,26 @@
           "color": "Black",
           "storage": "512GB",
           "ram": "16GB",
-          "sim": "sim-esim",
+          "sim": null,
           "price": 559000,
-          "credit": null,
+          "credit": 614900,
           "image": "https://admin.redstore.am/storage/products/58700/image/gtdop-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "512GB",
           "ram": "16GB",
-          "sim": "sim-esim",
+          "sim": null,
           "price": 559000,
-          "credit": null,
+          "credit": 614900,
           "image": "https://admin.redstore.am/storage/products/60342/image/err-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-s26-fe",
@@ -11310,7 +11320,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 632500,
       "cats": [
         "xiaomi"
       ],
@@ -11321,9 +11331,10 @@
           "ram": "16GB",
           "sim": null,
           "price": 575000,
-          "credit": null,
+          "credit": 632500,
           "image": "https://admin.redstore.am/storage/products/60580/image/tw-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "White",
@@ -11331,11 +11342,13 @@
           "ram": "16GB",
           "sim": null,
           "price": 575000,
-          "credit": null,
+          "credit": 632500,
           "image": "https://admin.redstore.am/storage/products/60581/image/waw-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-s26-plus",
@@ -11872,7 +11885,7 @@
         "ru": "6.59 inch",
         "en": "6.59 inch"
       },
-      "price": 262700,
+      "price": 247000,
       "oldPrice": null,
       "monthly": 5400,
       "availability": "in-stock",
@@ -12078,10 +12091,24 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 271700,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "12GB",
+          "storage": "512GB",
+          "sim": null,
+          "price": 247000,
+          "credit": 271700,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/x/i/xiaomi-17t-12-256gb-blue-ua-386184.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "17t-pro",
@@ -12299,7 +12326,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 350900,
       "cats": [
         "xiaomi"
       ],
@@ -12310,9 +12337,10 @@
           "ram": "12GB",
           "sim": null,
           "price": 319000,
-          "credit": null,
+          "credit": 350900,
           "image": "https://admin.redstore.am/storage/products/60529/image/dw-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Deep Blue",
@@ -12320,9 +12348,10 @@
           "ram": "12GB",
           "sim": null,
           "price": 319000,
-          "credit": null,
+          "credit": 350900,
           "image": "https://admin.redstore.am/storage/products/60575/image/asvoedzph-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Deep Violet",
@@ -12330,11 +12359,13 @@
           "ram": "12GB",
           "sim": null,
           "price": 319000,
-          "credit": null,
+          "credit": 350900,
           "image": "https://admin.redstore.am/storage/products/60576/image/sew2e-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "iphone-17-pro-max",
@@ -17205,10 +17236,24 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 58300,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "4GB",
+          "storage": "128GB",
+          "sim": null,
+          "price": 53000,
+          "credit": 58300,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/a/7/a7_black.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "marshall-marshall-major-v-on-ear-headphone",
@@ -17871,10 +17916,35 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 75900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "4GB",
+          "storage": "128GB",
+          "sim": null,
+          "price": 69000,
+          "credit": 75900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/1/7/17black.jpg",
+          "inStock": false
+        },
+        {
+          "color": null,
+          "ram": "4GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 84000,
+          "credit": 92400,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/1/7/17black.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "marshall-marshall-emberton-iii-compact",
@@ -18122,10 +18192,24 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 103400,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 94000,
+          "credit": 103400,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/_/2/_2026-01-09_135035.png",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "logitech-g29",
@@ -20169,7 +20253,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 174900,
       "cats": [
         "xiaomi"
       ],
@@ -20178,11 +20262,12 @@
           "color": "Mist Purple",
           "storage": "256GB",
           "ram": "12GB",
-          "sim": "sim-esim",
+          "sim": null,
           "price": 159000,
-          "credit": null,
+          "credit": 174900,
           "image": "https://admin.redstore.am/storage/products/59589/image/nhy-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Black",
@@ -20204,7 +20289,8 @@
           "image": "https://admin.redstore.am/storage/products/59596/image/njik-montaznaia-oblast-1.jpg",
           "inStock": true
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-note-15-pro-plus-5g",
@@ -20431,10 +20517,24 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 196900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "12GB",
+          "storage": "512GB",
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/8/1/815_c1traal._ac_sl1500_.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "marshall-marshall-stanmore-iii",
@@ -20745,7 +20845,7 @@
         "ru": "6.99 inch",
         "en": "6.99 inch"
       },
-      "price": 179000,
+      "price": 96000,
       "oldPrice": null,
       "monthly": 3730,
       "availability": "on-request",
@@ -20960,10 +21060,35 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 105600,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "6GB",
+          "storage": "128GB",
+          "sim": null,
+          "price": 96000,
+          "credit": 105600,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/a/6a8c58415b256.jpg",
+          "inStock": false
+        },
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 114000,
+          "credit": 125400,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/a/6a8c58415b256.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-note-17-pro",
@@ -20974,7 +21099,7 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 94000,
+      "price": 149000,
       "oldPrice": null,
       "monthly": 1960,
       "availability": "on-request",
@@ -21189,10 +21314,35 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 163900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 149000,
+          "credit": 163900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/7/5772457625.jpg",
+          "inStock": false
+        },
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "512GB",
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/7/5772457625.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-note-17-pro-max",
@@ -21203,7 +21353,7 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 191000,
+      "price": 173000,
       "oldPrice": null,
       "monthly": 1960,
       "availability": "on-request",
@@ -21404,7 +21554,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 190300,
       "cats": [
         "xiaomi"
       ],
@@ -21414,42 +21564,47 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 191000,
-          "credit": null,
+          "price": 173000,
+          "credit": 190300,
           "image": "https://admin.redstore.am/storage/products/61560/image/10-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Cloud Blush",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 191000,
-          "credit": null,
+          "price": 173000,
+          "credit": 190300,
           "image": "https://admin.redstore.am/storage/products/61573/image/5-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 191000,
-          "credit": null,
+          "price": 173000,
+          "credit": 190300,
           "image": "https://admin.redstore.am/storage/products/61574/image/3-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 191000,
-          "credit": null,
+          "price": 173000,
+          "credit": 190300,
           "image": "https://admin.redstore.am/storage/products/61572/image/002-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "watch-series-12-42mm",
@@ -21956,7 +22111,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 58700,
+      "price": 58000,
       "oldPrice": null,
       "monthly": 1000,
       "availability": "in-stock",
@@ -22172,10 +22327,35 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 63800,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "4GB",
+          "storage": "128GB",
+          "sim": null,
+          "price": 58000,
+          "credit": 63800,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro_1.jpg",
+          "inStock": false
+        },
+        {
+          "color": null,
+          "ram": "4GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 67000,
+          "credit": 73700,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/c/8/c81_pro_1.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-tab-a11-x135-wifi-5g",
@@ -23274,10 +23454,35 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 119900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 109000,
+          "credit": 119900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71etpl4aofl._ac_sl1500_.jpg",
+          "inStock": false
+        },
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "512GB",
+          "sim": null,
+          "price": 129000,
+          "credit": 141900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71etpl4aofl._ac_sl1500_.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-tune-520bt",
@@ -23371,7 +23576,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 102700,
+      "price": 99000,
       "oldPrice": null,
       "monthly": null,
       "creditPrice": 108900,
@@ -23387,7 +23592,21 @@
       "specs": [],
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "8GB",
+          "storage": "256GB",
+          "sim": null,
+          "price": 99000,
+          "credit": 108900,
+          "priceOnRequest": false,
+          "image": "https://allsell.am/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/n/e/new_project_6__32_1.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-wave-300tws",
@@ -23866,7 +24085,7 @@
         "ru": "6.83 inch",
         "en": "6.83 inch"
       },
-      "price": 159000,
+      "price": 158000,
       "oldPrice": null,
       "monthly": 3320,
       "availability": "in-stock",
@@ -24082,7 +24301,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 173800,
       "cats": [
         "xiaomi"
       ],
@@ -24092,32 +24311,36 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 158000,
+          "credit": 173800,
           "image": "https://admin.redstore.am/storage/products/59907/image/asdfgh43-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 158000,
+          "credit": 173800,
           "image": "https://admin.redstore.am/storage/products/59908/image/q2w3er-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Silver",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 158000,
+          "credit": 173800,
           "image": "https://admin.redstore.am/storage/products/59909/image/e34-montaznaia-oblast-1-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-tab-s11-wi-fi-cellular",
@@ -24863,7 +25086,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 174900,
       "cats": [
         "xiaomi"
       ],
@@ -24872,73 +25095,81 @@
           "color": "Mint Green",
           "storage": "256GB",
           "ram": "8GB",
-          "sim": "sim-esim",
+          "sim": null,
           "price": 159000,
-          "credit": null,
+          "credit": 174900,
           "image": "https://admin.redstore.am/storage/products/60338/image/bezymiannyi-1gtd-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "256GB",
           "ram": "8GB",
-          "sim": "sim-esim",
+          "sim": null,
           "price": 159000,
-          "credit": null,
+          "credit": 174900,
           "image": "https://admin.redstore.am/storage/products/60339/image/pro-x8jpg2-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "512GB",
           "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 174000,
-          "credit": null,
+          "sim": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://admin.redstore.am/storage/products/60139/image/esrw-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Mint Green",
           "storage": "512GB",
           "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 189000,
-          "credit": null,
+          "sim": null,
+          "price": 183000,
+          "credit": 201300,
           "image": "https://admin.redstore.am/storage/products/60264/image/dr5-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Mint Green",
           "storage": "512GB",
           "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 174000,
-          "credit": null,
+          "sim": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://admin.redstore.am/storage/products/60140/image/dwq-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "512GB",
           "ram": "12GB",
-          "sim": "sim-esim",
-          "price": 189000,
-          "credit": null,
+          "sim": null,
+          "price": 183000,
+          "credit": 201300,
           "image": "https://admin.redstore.am/storage/products/60234/image/22-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "White",
           "storage": "512GB",
           "ram": "8GB",
-          "sim": "sim-esim",
-          "price": 174000,
-          "credit": null,
+          "sim": null,
+          "price": 165000,
+          "credit": 181500,
           "image": "https://admin.redstore.am/storage/products/60141/image/dr322-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "keyboard-magic-nomeric-with-touch-id",
@@ -25211,7 +25442,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 229900,
       "cats": [
         "xiaomi"
       ],
@@ -25222,21 +25453,24 @@
           "ram": "12GB",
           "sim": null,
           "price": 209000,
-          "credit": null,
+          "credit": 229900,
           "image": "https://admin.redstore.am/storage/products/60464/image/100-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": "256GB",
           "ram": "12GB",
-          "sim": "sim-esim",
+          "sim": null,
           "price": 209000,
-          "credit": null,
+          "credit": 229900,
           "image": "https://admin.redstore.am/storage/products/60369/image/cuk-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-s11-ultra-x930-wifi",
@@ -25773,7 +26007,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 306900,
       "cats": [
         "xiaomi"
       ],
@@ -25784,9 +26018,10 @@
           "ram": "12GB",
           "sim": null,
           "price": 279000,
-          "credit": null,
+          "credit": 306900,
           "image": "https://admin.redstore.am/storage/products/59047/image/zx98-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
@@ -25794,9 +26029,10 @@
           "ram": "12GB",
           "sim": null,
           "price": 279000,
-          "credit": null,
+          "credit": 306900,
           "image": "https://admin.redstore.am/storage/products/59048/image/zadfe-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Titanium Silver",
@@ -25804,11 +26040,13 @@
           "ram": "12GB",
           "sim": null,
           "price": 279000,
-          "credit": null,
+          "credit": 306900,
           "image": "https://admin.redstore.am/storage/products/59049/image/zsawe-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-clip-5",
@@ -25851,7 +26089,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 369000,
+      "price": 349000,
       "oldPrice": null,
       "monthly": 6230,
       "availability": "in-stock",
@@ -26058,7 +26296,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 383900,
       "cats": [
         "xiaomi"
       ],
@@ -26067,23 +26305,26 @@
           "color": "Black",
           "storage": "512GB",
           "ram": "16GB",
-          "sim": "sim-esim",
-          "price": 369000,
-          "credit": null,
+          "sim": null,
+          "price": 349000,
+          "credit": 383900,
           "image": "https://admin.redstore.am/storage/products/60235/image/sdw-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": "512GB",
           "ram": "16GB",
-          "sim": "sim-esim",
-          "price": 369000,
-          "credit": null,
+          "sim": null,
+          "price": 349000,
+          "credit": 383900,
           "image": "https://admin.redstore.am/storage/products/60291/image/wew-montaznaia-oblast-1.webp",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "poco-f9-pro",
@@ -26094,7 +26335,7 @@
         "ru": "6.59 inch",
         "en": "6.59 inch"
       },
-      "price": 279000,
+      "price": 349000,
       "oldPrice": null,
       "monthly": 5820,
       "availability": "on-request",
@@ -26309,10 +26550,24 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 383900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "12GB",
+          "storage": "512GB",
+          "sim": null,
+          "price": 349000,
+          "credit": 383900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/2/-/2-800x800_1_.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "watch-se-2-44mm",
@@ -26500,7 +26755,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 159000,
+      "price": 419000,
       "oldPrice": null,
       "monthly": 3320,
       "availability": "on-request",
@@ -26714,10 +26969,24 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 460900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "ram": "16GB",
+          "storage": "512GB",
+          "sim": null,
+          "price": 419000,
+          "credit": 460900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/2/-/2-800x800.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-jbl-go5",

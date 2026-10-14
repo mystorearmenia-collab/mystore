@@ -28,7 +28,7 @@ export default function VariantPicker({
   const glasses = product.cats.includes("smart-glasses");
   const sizes = optionsOf(product, "size");
   const lenses = optionsOf(product, "lens");
-  const showOptions = showConfiguration || product.brand === "Samsung";
+  const showOptions = showConfiguration || product.brand === "Samsung" || product.brand === "Xiaomi";
   const processors = optionsOf(product, "processor");
   const configuredProduct = selection.processor
     ? { ...product, variants: product.variants?.filter((v) => v.processor === selection.processor) }
