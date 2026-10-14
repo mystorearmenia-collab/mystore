@@ -3556,8 +3556,8 @@
         "ru": "825 GB · White",
         "en": "825 GB · White"
       },
-      "price": 289000,
-      "creditPrice": null,
+      "price": 275000,
+      "creditPrice": 302500,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -3574,7 +3574,8 @@
           "en": "PlayStation subscription for 1 year + 700 games"
         },
         "price": 30000
-      }
+      },
+      "priceOnRequest": false
     },
     {
       "id": "15t-pro",
@@ -4777,8 +4778,8 @@
         "ru": "1 TB · White",
         "en": "1 TB · White"
       },
-      "price": 299000,
-      "creditPrice": null,
+      "price": 279000,
+      "creditPrice": 306900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -4795,7 +4796,8 @@
           "en": "PlayStation subscription for 1 year + 700 games"
         },
         "price": 30000
-      }
+      },
+      "priceOnRequest": false
     },
     {
       "id": "airpods-5",
@@ -11856,8 +11858,8 @@
         "ru": "1 TB · 1 DualSense · White",
         "en": "1 TB · 1 DualSense · White"
       },
-      "price": 339000,
-      "creditPrice": null,
+      "price": 299000,
+      "creditPrice": 328900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -11874,7 +11876,8 @@
           "en": "PlayStation subscription for 1 year + 700 games"
         },
         "price": 30000
-      }
+      },
+      "priceOnRequest": false
     },
     {
       "id": "17t",
@@ -12983,8 +12986,8 @@
         "ru": "1 TB · White",
         "en": "1 TB · White"
       },
-      "price": 0,
-      "creditPrice": null,
+      "price": 329000,
+      "creditPrice": 361900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -12994,7 +12997,7 @@
       "cats": [
         "gaming"
       ],
-      "priceOnRequest": true,
+      "priceOnRequest": false,
       "addOn": {
         "label": {
           "ru": "Подписка PlayStation на 1 год + 700 игр",
@@ -13521,7 +13524,7 @@
         "ru": "2 TB · Белый",
         "en": "2 TB · White"
       },
-      "price": 579000,
+      "price": 539000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -13590,7 +13593,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 599000,
+      "creditPrice": 592900,
       "cats": [
         "gaming"
       ],
@@ -13600,10 +13603,11 @@
           "storage": "2TB",
           "ram": null,
           "sim": null,
-          "price": 579000,
-          "credit": 599000,
+          "price": 539000,
+          "credit": 592900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/4/345db296967988d5ed051720f53a407d66c156a4.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
       ],
       "images": [
@@ -13616,7 +13620,8 @@
           "en": "PlayStation subscription for 1 year + 700 games"
         },
         "price": 30000
-      }
+      },
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-z-fold-8",
@@ -13971,8 +13976,8 @@
         "ru": "White / Black",
         "en": "White / Black"
       },
-      "price": 125000,
-      "creditPrice": null,
+      "price": 119000,
+      "creditPrice": 130900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -13988,30 +13993,33 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 125000,
-          "credit": null,
+          "price": 119000,
+          "credit": 130900,
           "image": "https://yerevanmobile.am/media/catalog/product/p/o/portal_4_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/p/o/portal_4_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-portal.html"
+          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-portal.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 125000,
-          "credit": null,
+          "price": 119000,
+          "credit": 130900,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61tsnzye7ql_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61tsnzye7ql_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-portal.html"
+          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-portal.html",
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-air-11",
@@ -15634,7 +15642,7 @@
         "ru": "Белый",
         "en": "White"
       },
-      "price": 224900,
+      "price": 219000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -15693,10 +15701,11 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 240900,
       "cats": [
         "gaming"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-tab-a11-x133-wifi",
@@ -18220,8 +18229,8 @@
         "ru": "PlayStation / PC",
         "en": "PlayStation / PC"
       },
-      "price": 119000,
-      "creditPrice": null,
+      "price": 114000,
+      "creditPrice": 125400,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -18234,7 +18243,8 @@
       "images": [
         "https://yerevanmobile.am/media/catalog/product/6/1/61iyyoz66vl._ac_uf894_1000_ql80_.jpg",
         "https://yerevanmobile.am/media/catalog/product/1/-/1-800x800.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "logitech-g923",
@@ -18245,8 +18255,8 @@
         "ru": "PlayStation / PC",
         "en": "PlayStation / PC"
       },
-      "price": 147000,
-      "creditPrice": null,
+      "price": 139000,
+      "creditPrice": 152900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -18258,7 +18268,8 @@
       ],
       "images": [
         "https://yerevanmobile.am/media/catalog/product/7/1/715wkz4c_bl._sl1500_.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "xiaomi-redmi-note-15-pro",
@@ -24624,7 +24635,7 @@
         "ru": "Белый",
         "en": "White"
       },
-      "price": 23900,
+      "price": 21000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -24661,10 +24672,11 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 23100,
       "cats": [
         "gaming"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ps5-holder",
@@ -24675,8 +24687,8 @@
         "ru": "Vertical Stand",
         "en": "Vertical Stand"
       },
-      "price": 29000,
-      "creditPrice": null,
+      "price": 24000,
+      "creditPrice": 26400,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -24689,7 +24701,8 @@
       "images": [
         "https://yerevanmobile.am/media/catalog/product/1/2/1236589.jpg",
         "https://yerevanmobile.am/media/catalog/product/3/2/3216413.jpg"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ps5-dualsense",
@@ -24700,8 +24713,8 @@
         "ru": "White / Black / Red / Gray Camouflage / Sterling Silver",
         "en": "White / Black / Red / Gray Camouflage / Sterling Silver"
       },
-      "price": 37000,
-      "creditPrice": null,
+      "price": 34000,
+      "creditPrice": 37400,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -24717,69 +24730,74 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 37000,
-          "credit": null,
+          "price": 34000,
+          "credit": 37400,
           "image": "https://yerevanmobile.am/media/catalog/product/j/o/joystick_01_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/j/o/joystick_01_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html"
+          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html",
+          "priceOnRequest": false
         },
         {
           "color": "Black",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 37000,
-          "credit": null,
+          "price": 34000,
+          "credit": 37400,
           "image": "https://yerevanmobile.am/media/catalog/product/d/s/dsc_2105a_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/d/s/dsc_2105a_1.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html"
+          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html",
+          "priceOnRequest": false
         },
         {
           "color": "Red",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 37000,
-          "credit": null,
+          "price": 34000,
+          "credit": 37400,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61av8vrdgel._ac_sl1500_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61av8vrdgel._ac_sl1500_.jpg"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html"
+          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html",
+          "priceOnRequest": false
         },
         {
           "color": "Gray Camouflage",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 37000,
-          "credit": null,
+          "price": 34000,
+          "credit": 37400,
           "image": "https://yerevanmobile.am/media/catalog/product/d/u/dualsense_8_1_1.png",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/d/u/dualsense_8_1_1.png"
           ],
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html"
+          "priceSource": "https://www.yerevanmobile.am/en/sony-playstation-5-dualsense.html",
+          "priceOnRequest": false
         },
         {
           "color": "Sterling Silver",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 0,
-          "priceOnRequest": true,
-          "credit": null,
+          "price": 34000,
+          "priceOnRequest": false,
+          "credit": 37400,
           "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-sterling-silver-screenshot-01-en-04sep23?$800px$",
           "inStock": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-tab-s11-x736-wifi-5g",
