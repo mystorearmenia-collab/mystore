@@ -27219,7 +27219,7 @@
         "ru": "11.2 inch",
         "en": "11.2 inch"
       },
-      "price": 159000,
+      "price": 157000,
       "oldPrice": null,
       "monthly": 3320,
       "availability": "in-stock",
@@ -27434,7 +27434,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 172700,
       "cats": [
         "xiaomi"
       ],
@@ -27444,22 +27444,25 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 157000,
+          "credit": 172700,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5729.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Green",
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 159000,
-          "credit": null,
+          "price": 157000,
+          "credit": 172700,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5730.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-tab-s11-ultra-wi-fi-5g",
@@ -27993,7 +27996,7 @@
         "ru": "11.2 inch",
         "en": "11.2 inch"
       },
-      "price": 234000,
+      "price": 233000,
       "oldPrice": null,
       "monthly": 4880,
       "availability": "in-stock",
@@ -28208,7 +28211,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 256300,
       "cats": [
         "xiaomi"
       ],
@@ -28218,22 +28221,25 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 234000,
-          "credit": null,
+          "price": 233000,
+          "credit": 256300,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/03/img-5729.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         },
         {
           "color": "Grey",
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 234000,
-          "credit": null,
+          "price": 233000,
+          "credit": 256300,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/30/img-5728.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "jbl-partybox-encore-2-with-microphone",
@@ -28422,7 +28428,7 @@
         "ru": "11 inch",
         "en": "11 inch"
       },
-      "price": 99000,
+      "price": 88000,
       "oldPrice": null,
       "monthly": 4150,
       "availability": "on-request",
@@ -28637,7 +28643,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 96800,
       "cats": [
         "xiaomi"
       ],
@@ -28647,12 +28653,14 @@
           "storage": "128GB",
           "ram": "4GB",
           "sim": null,
-          "price": 99000,
-          "credit": null,
+          "price": 88000,
+          "credit": 96800,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/25/tgft-montaznaia-oblast-1.jpg",
-          "inStock": true
+          "inStock": true,
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-buds-4-pro-r640",
@@ -29297,10 +29305,24 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 141900,
       "cats": [
         "xiaomi"
-      ]
+      ],
+      "variants": [
+        {
+          "color": null,
+          "storage": "256GB",
+          "ram": "8GB",
+          "sim": null,
+          "price": 129000,
+          "credit": 141900,
+          "priceOnRequest": false,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/1/71jsegoazcl._ac_sl1500_.jpg",
+          "inStock": false
+        }
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "samsung-galaxy-watch-8-classic",
