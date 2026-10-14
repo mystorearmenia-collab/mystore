@@ -2857,7 +2857,7 @@
         "ru": "Белый",
         "en": "White"
       },
-      "price": 52000,
+      "price": 49000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -2906,10 +2906,11 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 53900,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-a17",
@@ -4808,7 +4809,7 @@
         "hy": "Սպիտակ · USB-C լիցքավորման պատյան",
         "en": "White · USB-C charging case"
       },
-      "price": 79900,
+      "price": 74000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -4823,10 +4824,11 @@
       },
       "specs": [],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 81400,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "ipad-2025-wi-fi-cellular",
@@ -6310,7 +6312,7 @@
         "ru": "Белый",
         "en": "White"
       },
-      "price": 99000,
+      "price": 97000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -6358,10 +6360,11 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 106700,
       "cats": [
         "audio"
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "iphone-17e",
@@ -7300,7 +7303,7 @@
         "ru": "Midnight / Starlight / Blue / Purple / Orange",
         "en": "Midnight / Starlight / Blue / Purple / Orange"
       },
-      "price": 239000,
+      "price": 229000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -7339,7 +7342,7 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 251900,
       "cats": [
         "audio"
       ],
@@ -7349,57 +7352,61 @@
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 239000,
-          "credit": null,
+          "price": 229000,
+          "credit": 251900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html",
+          "priceOnRequest": false
         },
         {
           "color": "Starlight",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 239000,
-          "credit": null,
+          "price": 229000,
+          "credit": 251900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdWd1NjlYUXFPTDZEK2xySGJScW1PS1Rpbjg5MjlaRWkwN0JTZEtNR2p3b2dmcFJCOTlLWlREUEJzL3lTN2VnL0cvVnNUQWxFNHNrME94a1pxdUNOU29FM01jakdGSHhMVXhHQ21YeXBIKzU",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html",
+          "priceOnRequest": false
         },
         {
           "color": "Blue",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 0,
-          "credit": null,
+          "price": 229000,
+          "credit": 251900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmaVZsckZUTTZZd1pFb3lRTGNlYkF0Yy9BSXRGSWdwVEs0NXdLd3JPRVQ3TGROL2hTdHRlcnVBMFhCNlFSVHgrS01jL2RQeWJYZ1FmWXUzRFBMSzJrTlJTZy9JeUNjV2pzbzd6anYzTldHVWw",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         },
         {
           "color": "Purple",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 239000,
-          "credit": null,
+          "price": 229000,
+          "credit": 251900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdEFZMGtjOXNTYXJEaHFYa1lFVzIyUnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnhzQVNZV1grZHBseDduSWhqSlA3QUE",
           "inStock": false,
-          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html"
+          "priceSource": "https://www.yerevanmobile.am/en/apple-airpods-max-2.html",
+          "priceOnRequest": false
         },
         {
           "color": "Orange",
           "storage": null,
           "ram": null,
           "sim": null,
-          "price": 0,
-          "credit": null,
+          "price": 229000,
+          "credit": 251900,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmbVl3dU4zNmtlQ1czYnJUSEJUcWowRnJHdFc3SWNOdWRSclF6WTRFc2h1eFJnYUxCQWt1UDJiRlJNZVhPYkVVc2hXdERnUW81QWI5aTlucjZuTWh1dnk3Zm5tZm5FR0tlWnFHbkRhQU5lZmc",
           "inStock": false,
-          "priceOnRequest": true
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-a57",
@@ -8960,7 +8967,7 @@
         "hy": "Սպիտակ · Ակտիվ աղմուկի չեղարկում",
         "en": "White · Active Noise Cancellation"
       },
-      "price": 0,
+      "price": 74000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -9008,11 +9015,11 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 81400,
       "cats": [
         "audio"
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-s25-plus",
@@ -9798,7 +9805,7 @@
         "hy": "Սպիտակ · Անլար լիցքավորման պատյան",
         "en": "White · Wireless charging case"
       },
-      "price": 0,
+      "price": 84000,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -9812,11 +9819,11 @@
       },
       "specs": [],
       "priceSource": "allsell",
-      "creditPrice": null,
+      "creditPrice": 92400,
       "cats": [
         "audio"
       ],
-      "priceOnRequest": true
+      "priceOnRequest": false
     },
     {
       "id": "galaxy-s25-ultra",
