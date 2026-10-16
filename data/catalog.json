@@ -2,7 +2,7 @@
   "meta": {
     "generated_from": "allsell.am + yerevanmobile.am (facts only: model names, specifications, prices)",
     "warning": "Prices are market prices copied from third-party shops — confirm before launch.",
-    "product_count": 195
+    "product_count": 196
   },
   "categories": [
     {
@@ -26611,29 +26611,24 @@
       "priceOnRequest": false
     },
     {
-      "id": "watch-se-2-44mm",
+      "id": "watch-se-3-40mm",
       "brand": "Apple",
-      "name": "Watch SE 2 44mm",
+      "name": "Watch SE 3 40mm",
       "config": {
-        "hy": "32GB · 1.78 inch",
-        "ru": "32GB · 1.78 inch",
-        "en": "32GB · 1.78 inch"
+        "hy": "40 mm · 64GB",
+        "ru": "40 mm · 64GB",
+        "en": "40 mm · 64GB"
       },
-      "price": 94000,
+      "price": 0,
+      "priceOnRequest": true,
       "oldPrice": null,
-      "monthly": 1960,
-      "availability": "in-stock",
+      "monthly": null,
+      "availability": "on-request",
       "art": "watch",
-      "image": null,
-      "sourceRef": {
-        "sku": "5828_1",
-        "imageUrls": [
-          "https://yerevanmobile.am/media/catalog/product/6/0/600284844060_1_2.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/0/600284844061_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/6/0/600284844062_1_1.jpg",
-          "https://yerevanmobile.am/media/catalog/product/m/p/mplv3ref_vw_34fr_watch-44-alum-starlight-nc-se_vw_34fr_wf_co_1.jpg"
-        ]
-      },
+      "image": "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg",
+      "images": [
+        "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg"
+      ],
       "specs": [
         {
           "title": {
@@ -26644,47 +26639,86 @@
           "attrs": [
             {
               "label": {
-                "hy": "Հայտարարման տարին",
-                "ru": "Год выхода",
-                "en": "Year announced"
+                "hy": "Մոդել",
+                "ru": "Модель",
+                "en": "Model"
               },
               "value": {
-                "hy": "2022",
-                "ru": "2022",
-                "en": "2022"
+                "hy": "Apple Watch SE 3 40mm",
+                "ru": "Apple Watch SE 3 40mm",
+                "en": "Apple Watch SE 3 40mm"
+              }
+            },
+            {
+              "label": {
+                "hy": "Կորպուսի չափը",
+                "ru": "Размер корпуса",
+                "en": "Case size"
+              },
+              "value": {
+                "hy": "40 mm",
+                "ru": "40 mm",
+                "en": "40 mm"
               }
             },
             {
               "label": {
                 "hy": "Հիշողություն",
                 "ru": "Память",
-                "en": "Memory"
+                "en": "Storage"
               },
               "value": {
-                "hy": "32GB",
-                "ru": "32GB",
-                "en": "32GB"
+                "hy": "64GB",
+                "ru": "64GB",
+                "en": "64GB"
               }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Ընդհանուր բնութագրեր",
-            "ru": "Общие характеристики",
-            "en": "General"
-          },
-          "attrs": [
+            },
             {
               "label": {
-                "hy": "Մարտկոցի տեսակ",
-                "ru": "Тип аккумулятора",
-                "en": "Battery type"
+                "hy": "Չիպ",
+                "ru": "Чип",
+                "en": "Chip"
               },
               "value": {
-                "hy": "Li-Ion",
-                "ru": "Li-Ion",
-                "en": "Li-Ion"
+                "hy": "S10",
+                "ru": "S10",
+                "en": "S10"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրան",
+                "ru": "Экран",
+                "en": "Display"
+              },
+              "value": {
+                "hy": "Always-On Retina LTPO OLED",
+                "ru": "Always-On Retina LTPO OLED",
+                "en": "Always-On Retina LTPO OLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение экрана",
+                "en": "Display resolution"
+              },
+              "value": {
+                "hy": "324 × 394",
+                "ru": "324 × 394",
+                "en": "324 × 394"
+              }
+            },
+            {
+              "label": {
+                "hy": "Մարտկոցի աշխատանք",
+                "ru": "Время работы",
+                "en": "Battery life"
+              },
+              "value": {
+                "hy": "Մինչև 18 ժամ",
+                "ru": "До 18 часов",
+                "en": "Up to 18 hours"
               }
             },
             {
@@ -26695,95 +26729,154 @@
               },
               "value": {
                 "hy": "12 ամիս",
-                "ru": "12 мес.",
+                "ru": "12 месяцев",
                 "en": "12 months"
-              }
-            },
-            {
-              "label": {
-                "hy": "Մարտկոցի հզորություն",
-                "ru": "Ёмкость аккумулятора",
-                "en": "Battery capacity"
-              },
-              "value": {
-                "hy": "296 mAh",
-                "ru": "296 mAh",
-                "en": "296 mAh"
-              }
-            },
-            {
-              "label": {
-                "hy": "Պրոցեսորի տեսակ",
-                "ru": "Тип процессора",
-                "en": "Processor type"
-              },
-              "value": {
-                "hy": "DUAL-CORE",
-                "ru": "DUAL-CORE",
-                "en": "DUAL-CORE"
-              }
-            },
-            {
-              "label": {
-                "hy": "Օպերացիոն համակարգ",
-                "ru": "Операционная система",
-                "en": "Operating system"
-              },
-              "value": {
-                "hy": "WatchOS 9.0",
-                "ru": "WatchOS 9.0",
-                "en": "WatchOS 9.0"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "hy": "Էկրան",
-            "ru": "Экран",
-            "en": "Display"
-          },
-          "attrs": [
-            {
-              "label": {
-                "hy": "Էկրանի բանաձև",
-                "ru": "Разрешение",
-                "en": "Resolution"
-              },
-              "value": {
-                "hy": "448 x 368",
-                "ru": "448 x 368",
-                "en": "448 x 368"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի չափը",
-                "ru": "Размер экрана",
-                "en": "Screen size"
-              },
-              "value": {
-                "hy": "1.78 inch",
-                "ru": "1.78 inch",
-                "en": "1.78 inch"
-              }
-            },
-            {
-              "label": {
-                "hy": "Էկրանի տեսակ",
-                "ru": "Тип экрана",
-                "en": "Screen type"
-              },
-              "value": {
-                "hy": "Retina LTPO OLED",
-                "ru": "Retina LTPO OLED",
-                "en": "Retina LTPO OLED"
               }
             }
           ]
         }
       ],
-      "priceSource": "yerevanmobile",
+      "sourceRef": {
+        "url": "https://www.apple.com/apple-watch-se-3/specs/",
+        "imageUrls": [
+          "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg"
+        ]
+      },
+      "creditPrice": null,
+      "cats": []
+    },
+    {
+      "id": "watch-se-3-44mm",
+      "brand": "Apple",
+      "name": "Watch SE 3 44mm",
+      "config": {
+        "hy": "44 mm · 64GB",
+        "ru": "44 mm · 64GB",
+        "en": "44 mm · 64GB"
+      },
+      "price": 0,
+      "priceOnRequest": true,
+      "oldPrice": null,
+      "monthly": null,
+      "availability": "on-request",
+      "art": "watch",
+      "image": "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg",
+      "images": [
+        "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg"
+      ],
+      "specs": [
+        {
+          "title": {
+            "hy": "Ապրանքի մանրամասներ",
+            "ru": "О товаре",
+            "en": "Product details"
+          },
+          "attrs": [
+            {
+              "label": {
+                "hy": "Մոդել",
+                "ru": "Модель",
+                "en": "Model"
+              },
+              "value": {
+                "hy": "Apple Watch SE 3 44mm",
+                "ru": "Apple Watch SE 3 44mm",
+                "en": "Apple Watch SE 3 44mm"
+              }
+            },
+            {
+              "label": {
+                "hy": "Կորպուսի չափը",
+                "ru": "Размер корпуса",
+                "en": "Case size"
+              },
+              "value": {
+                "hy": "44 mm",
+                "ru": "44 mm",
+                "en": "44 mm"
+              }
+            },
+            {
+              "label": {
+                "hy": "Հիշողություն",
+                "ru": "Память",
+                "en": "Storage"
+              },
+              "value": {
+                "hy": "64GB",
+                "ru": "64GB",
+                "en": "64GB"
+              }
+            },
+            {
+              "label": {
+                "hy": "Չիպ",
+                "ru": "Чип",
+                "en": "Chip"
+              },
+              "value": {
+                "hy": "S10",
+                "ru": "S10",
+                "en": "S10"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրան",
+                "ru": "Экран",
+                "en": "Display"
+              },
+              "value": {
+                "hy": "Always-On Retina LTPO OLED",
+                "ru": "Always-On Retina LTPO OLED",
+                "en": "Always-On Retina LTPO OLED"
+              }
+            },
+            {
+              "label": {
+                "hy": "Էկրանի բանաձև",
+                "ru": "Разрешение экрана",
+                "en": "Display resolution"
+              },
+              "value": {
+                "hy": "368 × 448",
+                "ru": "368 × 448",
+                "en": "368 × 448"
+              }
+            },
+            {
+              "label": {
+                "hy": "Մարտկոցի աշխատանք",
+                "ru": "Время работы",
+                "en": "Battery life"
+              },
+              "value": {
+                "hy": "Մինչև 18 ժամ",
+                "ru": "До 18 часов",
+                "en": "Up to 18 hours"
+              }
+            },
+            {
+              "label": {
+                "hy": "Երաշխիք",
+                "ru": "Гарантия",
+                "en": "Warranty"
+              },
+              "value": {
+                "hy": "12 ամիս",
+                "ru": "12 месяцев",
+                "en": "12 months"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceRef": {
+        "url": "https://www.apple.com/apple-watch-se-3/specs/",
+        "imageUrls": [
+          "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg"
+        ]
+      },
       "creditPrice": null,
       "cats": []
     },
