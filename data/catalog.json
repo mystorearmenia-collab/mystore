@@ -18473,7 +18473,7 @@
         "ru": "M4",
         "en": "M4"
       },
-      "price": 209000,
+      "price": 179000,
       "oldPrice": null,
       "monthly": 3940,
       "availability": "on-request",
@@ -18512,7 +18512,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 196900,
       "cats": [
         "accessories"
       ],
@@ -18532,7 +18532,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 209000,
+      "price": 189000,
       "oldPrice": null,
       "monthly": 4360,
       "availability": "in-stock",
@@ -18571,7 +18571,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 207900,
       "cats": [
         "accessories"
       ],
@@ -19783,7 +19783,7 @@
         "ru": "Black",
         "en": "Black"
       },
-      "price": 189000,
+      "price": 169000,
       "oldPrice": null,
       "monthly": 3940,
       "availability": "in-stock",
@@ -19834,7 +19834,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 185900,
       "cats": [
         "accessories"
       ],
@@ -20682,7 +20682,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 185900,
       "cats": [
         "accessories"
       ],
@@ -25221,7 +25221,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 108000,
+      "price": 98000,
       "oldPrice": null,
       "monthly": 2250,
       "availability": "in-stock",
@@ -25258,7 +25258,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 107800,
       "cats": [
         "accessories"
       ],
@@ -27173,7 +27173,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 86900,
       "cats": [
         "accessories"
       ],
@@ -28019,7 +28019,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 64900,
       "cats": [
         "accessories"
       ],
@@ -28359,7 +28359,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 62700,
       "cats": [
         "accessories"
       ],
@@ -28986,7 +28986,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 55000,
       "cats": [
         "accessories"
       ],
@@ -29489,7 +29489,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": null,
+      "creditPrice": 49500,
       "cats": [
         "accessories"
       ],
@@ -29500,7 +29500,7 @@
           "ram": null,
           "sim": null,
           "price": 45000,
-          "credit": null,
+          "credit": 49500,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/12/tedw4667-montaznaia-oblast-1.jpg",
           "inStock": true
         },
@@ -29510,7 +29510,7 @@
           "ram": null,
           "sim": null,
           "price": 45000,
-          "credit": null,
+          "credit": 49500,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/12/2214-montaznaia-oblast-1.jpg",
           "inStock": true
         }
@@ -29566,7 +29566,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 49500,
       "cats": [
         "accessories"
       ],
@@ -29734,7 +29734,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 32000,
+      "price": 39000,
       "oldPrice": null,
       "monthly": 670,
       "availability": "on-request",
@@ -29773,7 +29773,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 42900,
       "cats": [
         "accessories"
       ],
@@ -29843,7 +29843,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 31900,
       "cats": [
         "accessories"
       ],
@@ -29958,7 +29958,7 @@
         "ru": "Белый",
         "en": "White"
       },
-      "price": 15000,
+      "price": 13000,
       "oldPrice": null,
       "monthly": 320,
       "availability": "in-stock",
@@ -30007,7 +30007,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 14300,
       "cats": [
         "accessories"
       ],
@@ -30025,7 +30025,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 13000,
+      "price": 12000,
       "oldPrice": null,
       "monthly": 280,
       "availability": "in-stock",
@@ -30063,7 +30063,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 13200,
       "cats": [
         "accessories"
       ],
@@ -30118,7 +30118,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 14300,
       "cats": [
         "accessories"
       ],
@@ -30265,9 +30265,9 @@
         "ru": "1 шт.",
         "en": "1 pcs"
       },
-      "price": 0,
-      "priceOnRequest": true,
-      "creditPrice": null,
+      "price": 15000,
+      "priceOnRequest": false,
+      "creditPrice": 16500,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -30325,9 +30325,9 @@
         "ru": "4 шт.",
         "en": "4 pcs"
       },
-      "price": 0,
-      "priceOnRequest": true,
-      "creditPrice": null,
+      "price": 42000,
+      "priceOnRequest": false,
+      "creditPrice": 46200,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
