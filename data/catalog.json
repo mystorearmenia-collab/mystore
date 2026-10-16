@@ -147,9 +147,9 @@
       "brand": "DJI",
       "name": "Mic Mini",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "en": "2 RX + 1 TX + Charging Case",
+        "ru": "2 RX + 1 TX + зарядный кейс",
+        "hy": "2 RX + 1 TX + Charging Case"
       },
       "price": 59000,
       "oldPrice": null,
@@ -164,7 +164,7 @@
       },
       "specs": [],
       "priceSource": "mystore",
-      "creditPrice": null,
+      "creditPrice": 64900,
       "cats": [
         "dji"
       ]
@@ -174,9 +174,9 @@
       "brand": "DJI",
       "name": "Mic Mini 2",
       "config": {
-        "hy": "",
-        "ru": "",
-        "en": ""
+        "en": "2 RX + 1 TX + Charging Case",
+        "ru": "2 RX + 1 TX + зарядный кейс",
+        "hy": "2 RX + 1 TX + Charging Case"
       },
       "price": 69000,
       "oldPrice": null,
@@ -191,7 +191,7 @@
       },
       "specs": [],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 75900,
       "cats": [
         "dji"
       ]
@@ -205,7 +205,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 279000,
+      "price": 259000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -240,7 +240,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 284900,
       "cats": [
         "dji"
       ]
@@ -289,7 +289,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 361900,
       "cats": [
         "dji"
       ]
@@ -303,7 +303,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 379000,
+      "price": 349000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -338,7 +338,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 383900,
       "cats": [
         "dji"
       ]
@@ -352,7 +352,7 @@
         "ru": "",
         "en": ""
       },
-      "price": 419000,
+      "price": 418000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -387,7 +387,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 459800,
       "cats": [
         "dji"
       ]
@@ -401,7 +401,7 @@
         "ru": "5.5 inch · 36 мин",
         "en": "5.5 inch · 36 min"
       },
-      "price": 538000,
+      "price": 529000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -496,7 +496,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 581900,
       "cats": [
         "dji"
       ]
