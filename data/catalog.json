@@ -61,6 +61,17 @@
       "count": 11
     },
     {
+      "id": "apple-watch",
+      "name": {
+        "hy": "Apple Watch",
+        "ru": "Apple Watch",
+        "en": "Apple Watch"
+      },
+      "href": "/apple-watch",
+      "art": "watch",
+      "count": 7
+    },
+    {
       "id": "gaming",
       "name": {
         "hy": "PlayStation",
@@ -11854,7 +11865,9 @@
       ],
       "priceSource": "allsell",
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "ps5-slim",
@@ -20863,7 +20876,9 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "redmi-note-17",
@@ -21772,7 +21787,9 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "watch-series-12-46mm",
@@ -21912,7 +21929,9 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "watch-series-11-42mm",
@@ -22065,7 +22084,9 @@
       ],
       "priceSource": "yerevanmobile",
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "marshall-marshall-acton-iv",
@@ -26743,7 +26764,9 @@
         ]
       },
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "watch-se-3-44mm",
@@ -26878,7 +26901,9 @@
         ]
       },
       "creditPrice": null,
-      "cats": []
+      "cats": [
+        "apple-watch"
+      ]
     },
     {
       "id": "poco-f9-ultra",

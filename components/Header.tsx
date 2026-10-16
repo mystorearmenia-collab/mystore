@@ -69,7 +69,7 @@ export default function Header() {
             <Logo className="text-[1.35rem]" />
           </Link>
 
-          <nav className="hidden items-center gap-4 2xl:gap-6 xl:flex">
+          <nav className="hidden min-w-0 flex-1 items-center gap-4 overflow-x-auto py-3 2xl:gap-6 xl:flex">
             {navigation.map((item, index) => (
               <Link
                 key={item.href}
@@ -82,7 +82,7 @@ export default function Header() {
             ))}
           </nav>
 
-          <div className="flex items-center gap-1">
+          <div className="flex shrink-0 items-center gap-1">
             <LocaleSwitch className="mr-1 hidden sm:flex" />
             <Link href="/search" className="icon-button" aria-label={t("header.search")}>
               <SearchIcon className="h-5 w-5" />

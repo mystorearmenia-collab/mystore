@@ -6,6 +6,7 @@ export const navigation: { key: string; href: string }[] = [
   { key: "xiaomi", href: "/xiaomi" },
   { key: "mac", href: "/mac" },
   { key: "ipad", href: "/ipad" },
+  { key: "appleWatch", href: "/apple-watch" },
   { key: "gaming", href: "/gaming" },
   { key: "audio", href: "/audio" },
   { key: "dyson", href: "/dyson" },
