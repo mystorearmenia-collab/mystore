@@ -11723,8 +11723,8 @@
         "ru": "49 mm · 64GB · GPS + Cellular",
         "en": "49 mm · 64GB · GPS + Cellular"
       },
-      "price": 0,
-      "priceOnRequest": true,
+      "price": 378000,
+      "priceOnRequest": false,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -11870,7 +11870,7 @@
           ]
         }
       ],
-      "creditPrice": null,
+      "creditPrice": 415800,
       "cats": [
         "apple-watch"
       ]
@@ -20881,7 +20881,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 181500,
       "cats": [
         "apple-watch"
       ]
@@ -21665,7 +21665,7 @@
         "ru": "64GB · 1.96 inch",
         "en": "64GB · 1.96 inch"
       },
-      "price": 155000,
+      "price": 194000,
       "oldPrice": null,
       "monthly": 3230,
       "availability": "on-request",
@@ -21792,7 +21792,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 213400,
       "cats": [
         "apple-watch"
       ]
@@ -21806,7 +21806,7 @@
         "ru": "64GB · 1.96 inch",
         "en": "64GB · 1.96 inch"
       },
-      "price": 155000,
+      "price": 214000,
       "oldPrice": null,
       "monthly": 3230,
       "availability": "on-request",
@@ -21934,7 +21934,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 235400,
       "cats": [
         "apple-watch"
       ]
@@ -22089,7 +22089,7 @@
         }
       ],
       "priceSource": "yerevanmobile",
-      "creditPrice": null,
+      "creditPrice": 170500,
       "cats": [
         "apple-watch"
       ]
@@ -26646,8 +26646,8 @@
         "ru": "40 mm · 64GB",
         "en": "40 mm · 64GB"
       },
-      "price": 0,
-      "priceOnRequest": true,
+      "price": 109000,
+      "priceOnRequest": false,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -26769,7 +26769,7 @@
           "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg"
         ]
       },
-      "creditPrice": null,
+      "creditPrice": 119900,
       "cats": [
         "apple-watch"
       ]
@@ -26783,8 +26783,8 @@
         "ru": "44 mm · 64GB",
         "en": "44 mm · 64GB"
       },
-      "price": 0,
-      "priceOnRequest": true,
+      "price": 119000,
+      "priceOnRequest": false,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -26906,7 +26906,7 @@
           "https://www.apple.com/v/apple-watch-se-3/d/images/specs/materials_and_finish__bc7ggddoo7vm_large_2x.jpg"
         ]
       },
-      "creditPrice": null,
+      "creditPrice": 130900,
       "cats": [
         "apple-watch"
       ]
