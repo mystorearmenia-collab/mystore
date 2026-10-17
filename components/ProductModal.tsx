@@ -38,6 +38,7 @@ export function ProductModalProvider({ children }: { children: ReactNode }) {
     setSelection(
       first
         ? {
+            ...(first.packaging ? { packaging: first.packaging } : {}),
             ...(first.size ? { size: first.size } : {}),
             ...(first.lens ? { lens: first.lens } : {}),
             ...(first.processor ? { processor: first.processor } : {}),

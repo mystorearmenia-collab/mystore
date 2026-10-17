@@ -28,6 +28,7 @@ export default function VariantPicker({
   const glasses = product.cats.includes("smart-glasses");
   const sizes = optionsOf(product, "size");
   const lenses = optionsOf(product, "lens");
+  const packaging = optionsOf(product, "packaging");
   const showOptions = showConfiguration || product.brand === "Samsung" || product.brand === "Xiaomi";
   const processors = optionsOf(product, "processor");
   const configuredProduct = selection.processor
@@ -108,6 +109,13 @@ export default function VariantPicker({
           selection.color ? colorInfo(selection.color).label(locale) : undefined,
         )}
 
+      {packaging.length > 1 && group(
+        locale === "ru" ? "Упаковка" : locale === "hy" ? "Փաթեթավորում" : "Packaging",
+        packaging.map((value) => chip("packaging", value,
+          value === "dyson-box"
+            ? locale === "ru" ? "С коробкой Dyson" : locale === "hy" ? "Dyson տուփով" : "With Dyson box"
+            : locale === "ru" ? "Без коробки Dyson" : locale === "hy" ? "Առանց Dyson տուփի" : "Without Dyson box")),
+      )}
       {glasses && lenses.length > 0 && group(t("lenses"), lenses.map((l) => chip("lens", l, t(`lensNames.${l.replaceAll(" ", "")}`))))}
       {sizes.length > 0 && group(glasses ? t("frameSize") : locale === "ru" ? "Размер" : locale === "hy" ? "Չափ" : "Size", sizes.map((s) => chip("size", s, s)))}
 

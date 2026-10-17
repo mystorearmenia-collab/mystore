@@ -4,6 +4,7 @@ export type Variant = {
   processor?: string;
   size?: string;
   lens?: string;
+  packaging?: "without-box" | "dyson-box";
   specs?: import("./catalog").ProductSpecSection[];
   color: string | null;
   storage: string | null;
@@ -18,12 +19,12 @@ export type Variant = {
   inStock: boolean;
 };
 
-export type Selection = Partial<Record<"color" | "storage" | "ram" | "sim" | "processor" | "size" | "lens", string>>;
+export type Selection = Partial<Record<"color" | "storage" | "ram" | "sim" | "processor" | "size" | "lens" | "packaging", string>>;
 export type OptionKey = keyof Selection;
 
 type WithVariants = { variants?: Variant[] };
 
-const KEYS: OptionKey[] = ["color", "storage", "ram", "sim", "processor", "size", "lens"];
+const KEYS: OptionKey[] = ["color", "storage", "ram", "sim", "processor", "size", "lens", "packaging"];
 
 /** Distinct values per option, in first-seen order (variants arrive sorted by storage). */
 export function optionsOf(p: WithVariants, key: OptionKey): string[] {

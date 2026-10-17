@@ -3923,7 +3923,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Prussian Blue",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/1/51beexpp2nl_3.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Ceramic Pink",
@@ -3933,7 +3945,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/s/a/sas_2_1.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Ceramic Pink",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/s/a/sas_2_1.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Nickel/Copper",
@@ -3943,7 +3967,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/7/9/797034.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Nickel/Copper",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/7/9/797034.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Sakura Cherry",
@@ -3953,7 +3989,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/k/a/kanzas_pink.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Sakura Cherry",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/k/a/kanzas_pink.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Apricot/Topaz",
@@ -3963,7 +4011,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/5/3/53f1b7774d403d948854eed3a1ea00a3-hi.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Apricot/Topaz",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/5/3/53f1b7774d403d948854eed3a1ea00a3-hi.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Jasper Plum",
@@ -3973,7 +4033,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/619tbixu1hl._sl1500_.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Jasper Plum",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/6/1/619tbixu1hl._sl1500_.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Amber Silk",
@@ -3983,7 +4055,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/h/t/ht01_amber.png",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Amber Silk",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/h/t/ht01_amber.png",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Strawberry Bronze",
@@ -3993,7 +4077,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://yerevanmobile.am/media/catalog/product/s/t/strawberry_bronze_1.jpg",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Strawberry Bronze",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://yerevanmobile.am/media/catalog/product/s/t/strawberry_bronze_1.jpg",
+          "inStock": true,
+          "packaging": "dyson-box"
         },
         {
           "color": "Onyx Gold",
@@ -4003,7 +4099,19 @@
           "price": 156000,
           "credit": 171600,
           "image": "https://admin.redstore.am/storage/products/7396/image/img-0431.webp",
-          "inStock": true
+          "inStock": true,
+          "packaging": "without-box"
+        },
+        {
+          "color": "Onyx Gold",
+          "storage": null,
+          "ram": null,
+          "sim": null,
+          "price": 179000,
+          "credit": 196900,
+          "image": "https://admin.redstore.am/storage/products/7396/image/img-0431.webp",
+          "inStock": true,
+          "packaging": "dyson-box"
         }
       ]
     },
