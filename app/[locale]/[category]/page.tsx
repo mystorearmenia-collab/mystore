@@ -1,3 +1,4 @@
+import { pageMetadata } from "@/lib/seo";
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -27,7 +28,7 @@ export async function generateMetadata({
 
   const name = pick(category.name, locale as Locale);
   const t = await getTranslations({ locale, namespace: "meta" });
-  return { title: `${name} — MyStore`, description: t("description") };
+  return pageMetadata(locale, `/${categoryId}`, `${name} — MyStore Armenia`, t("description"));
 }
 
 export default async function CategoryPage({

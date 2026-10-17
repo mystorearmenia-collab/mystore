@@ -1,3 +1,5 @@
+import type { Metadata } from "next";
+import { pageMetadata, storeStructuredData } from "@/lib/seo";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
@@ -16,6 +18,12 @@ import { ProductModalProvider } from "@/components/ProductModal";
 import { categories, featuredProducts } from "@/lib/catalog";
 import { routing, type Locale } from "@/i18n/routing";
 
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "meta" });
+  return pageMetadata(locale, "/", t("title"), t("description"));
+}
+
 export default async function HomePage({
   params,
 }: {
@@ -31,6 +39,7 @@ export default async function HomePage({
     <ProductModalProvider>
       <Header />
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(storeStructuredData).replace(/</g, "\\u003c") }} />
       <main>
         <Hero />
         <BrandStrip />

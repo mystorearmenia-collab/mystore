@@ -1,3 +1,4 @@
+import { siteOrigin } from "@/lib/seo";
 import type { Metadata, Viewport } from "next";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
@@ -16,7 +17,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
-  return { title: t("title"), description: t("description") };
+  return { metadataBase: new URL(siteOrigin), title: t("title"), description: t("description") };
 }
 
 export const viewport: Viewport = {

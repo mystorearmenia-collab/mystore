@@ -1,3 +1,4 @@
+import { pageMetadata } from "@/lib/seo";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -16,7 +17,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "support" });
-  return { title: `${t("title")} — MyStore`, description: t("lede") };
+  return pageMetadata(locale, "/support", `${t("title")} — MyStore Armenia`, t("lede"));
 }
 
 export default async function SupportPage({ params }: PageProps) {

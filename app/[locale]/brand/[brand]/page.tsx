@@ -1,3 +1,4 @@
+import { pageMetadata } from "@/lib/seo";
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -27,7 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const brand = findBrand(slug);
   if (!brand) return {};
   const t = await getTranslations({ locale, namespace: "meta" });
-  return { title: `${brand} — MyStore`, description: t("description") };
+  return pageMetadata(locale, `/brand/${encodeURIComponent(brand.toLowerCase())}`, `${brand} — MyStore Armenia`, t("description"));
 }
 
 export default async function BrandPage({ params }: PageProps) {

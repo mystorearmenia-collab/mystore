@@ -1,3 +1,4 @@
+import { pageMetadata } from "@/lib/seo";
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -20,7 +21,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "tradeIn" });
-  return { title: `${t("title")} — MyStore`, description: t("lede") };
+  return pageMetadata(locale, "/trade-in", `${t("title")} — MyStore Armenia`, t("lede"));
 }
 
 export default async function TradeInPage({ params }: { params: Promise<{ locale: string }> }) {
