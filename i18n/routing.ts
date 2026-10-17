@@ -7,6 +7,8 @@ import { defineRouting } from "next-intl/routing";
 export const routing = defineRouting({
   locales: ["hy", "ru", "en"],
   defaultLocale: "hy",
+  // Always open unprefixed URLs in Armenian, regardless of browser language or locale cookie.
+  localeDetection: false,
   localePrefix: "as-needed",
 });
 
