@@ -15031,7 +15031,7 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 574000,
+      "price": 554000,
       "oldPrice": null,
       "monthly": 17690,
       "availability": "in-stock",
@@ -15247,7 +15247,7 @@
         }
       ],
       "priceSource": "mystore",
-      "creditPrice": 631400,
+      "creditPrice": 599000,
       "cats": [
         "iphone"
       ],
@@ -15257,8 +15257,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 574000,
-          "credit": 631400,
+          "price": 554000,
+          "credit": 599000,
           "image": "https://admin.redstore.am/storage/products/61583/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15273,8 +15273,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 574000,
-          "credit": 631400,
+          "price": 554000,
+          "credit": 599000,
           "image": "https://admin.redstore.am/storage/products/61585/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15289,8 +15289,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 574000,
-          "credit": 631400,
+          "price": 554000,
+          "credit": 599000,
           "image": "https://admin.redstore.am/storage/products/61584/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15305,8 +15305,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 574000,
-          "credit": 631400,
+          "price": 554000,
+          "credit": 599000,
           "image": "https://admin.redstore.am/storage/products/61582/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
