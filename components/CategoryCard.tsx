@@ -16,7 +16,10 @@ export default function CategoryCard({ category }: { category: Category }) {
           art={category.art}
           image={category.image}
           alt={pick(category.name, locale)}
-          className="stage-media h-[72%] w-auto"
+          className={category.id === "iphone"
+            ? "stage-media absolute inset-0 h-full w-full"
+            : "stage-media h-[72%] w-auto"}
+          style={category.id === "iphone" ? { objectFit: "cover", objectPosition: "center" } : undefined}
         />
       </div>
 
