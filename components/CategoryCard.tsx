@@ -8,6 +8,7 @@ import type { Locale } from "@/i18n/routing";
 export default function CategoryCard({ category }: { category: Category }) {
   const locale = useLocale() as Locale;
   const t = useTranslations("product");
+  const fullCover = category.id === "iphone" || category.id === "samsung";
 
   return (
     <Link href={category.href} className="group card card-lift overflow-hidden">
@@ -15,12 +16,12 @@ export default function CategoryCard({ category }: { category: Category }) {
         <ProductVisual
           art={category.art}
           image={category.image}
-          loading={category.id === "iphone" ? "eager" : "lazy"}
+          loading={fullCover ? "eager" : "lazy"}
           alt={pick(category.name, locale)}
-          className={category.id === "iphone"
+          className={fullCover
             ? "stage-media absolute inset-0 h-full w-full"
             : "stage-media h-[72%] w-auto"}
-          style={category.id === "iphone" ? { objectFit: "cover", objectPosition: "center" } : undefined}
+          style={fullCover ? { objectFit: "cover", objectPosition: "center" } : undefined}
         />
       </div>
 

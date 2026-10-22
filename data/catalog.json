@@ -26,7 +26,8 @@
       },
       "href": "/samsung",
       "art": "galaxy",
-      "count": 37
+      "count": 37,
+      "image": "/images/categories/samsung-fold-lineup.webp"
     },
     {
       "id": "xiaomi",
