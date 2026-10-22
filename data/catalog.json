@@ -50,7 +50,8 @@
       },
       "href": "/mac",
       "art": "macbook",
-      "count": 5
+      "count": 5,
+      "image": "/images/categories/mac-lineup.webp"
     },
     {
       "id": "ipad",
