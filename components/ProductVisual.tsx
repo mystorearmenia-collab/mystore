@@ -23,6 +23,7 @@ type Props = {
   alt: string;
   className?: string;
   style?: CSSProperties;
+  loading?: "lazy" | "eager";
 };
 
 const BODY = "#17171a";
@@ -43,6 +44,7 @@ export default function ProductVisual({
   alt,
   className = "",
   style,
+  loading = "lazy",
 }: Props) {
   if (image) {
     return (
@@ -52,7 +54,7 @@ export default function ProductVisual({
         alt={alt}
         className={`${className} object-contain`}
         style={{ mixBlendMode: "multiply", ...style }}
-        loading="lazy"
+        loading={loading}
         referrerPolicy="no-referrer"
       />
     );

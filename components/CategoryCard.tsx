@@ -15,6 +15,7 @@ export default function CategoryCard({ category }: { category: Category }) {
         <ProductVisual
           art={category.art}
           image={category.image}
+          loading={category.id === "iphone" ? "eager" : "lazy"}
           alt={pick(category.name, locale)}
           className={category.id === "iphone"
             ? "stage-media absolute inset-0 h-full w-full"
