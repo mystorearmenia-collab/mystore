@@ -38,7 +38,8 @@
       },
       "href": "/xiaomi",
       "art": "galaxy",
-      "count": 32
+      "count": 32,
+      "image": "/images/categories/xiaomi-lineup.webp"
     },
     {
       "id": "mac",

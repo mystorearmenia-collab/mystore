@@ -8,7 +8,7 @@ import type { Locale } from "@/i18n/routing";
 export default function CategoryCard({ category }: { category: Category }) {
   const locale = useLocale() as Locale;
   const t = useTranslations("product");
-  const fullCover = category.id === "iphone" || category.id === "samsung";
+  const fullCover = ["iphone", "samsung", "xiaomi"].includes(category.id);
 
   return (
     <Link href={category.href} className="group card card-lift overflow-hidden">
