@@ -74,7 +74,8 @@
       },
       "href": "/apple-watch",
       "art": "watch",
-      "count": 7
+      "count": 7,
+      "image": "/images/categories/apple-watch-lineup.webp"
     },
     {
       "id": "gaming",
