@@ -90,6 +90,8 @@ export function isAvailable(p: WithVariants, sel: Selection, key: OptionKey, val
 type ColorInfo = { hex: string; ru?: string; hy?: string };
 
 const COLORS: Record<string, ColorInfo> = {
+  "night sky": { hex: "#242832", ru: "Ночное небо", hy: "Գիշերային երկինք" },
+  "star white": { hex: "#f3f1eb", ru: "Звёздный белый", hy: "Աստղային սպիտակ" },
   "matte black": { hex: "#161616", ru: "Матовый чёрный", hy: "Փայլատ սև" },
   "shiny black": { hex: "#303030", ru: "Глянцевый чёрный", hy: "Փայլուն սև" },
   "matte peach": { hex: "#e7b49d", ru: "Матовый персиковый", hy: "Փայլատ դեղձագույն" },
