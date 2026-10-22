@@ -62,7 +62,8 @@
       },
       "href": "/ipad",
       "art": "ipad",
-      "count": 11
+      "count": 11,
+      "image": "/images/categories/ipad-lineup.webp"
     },
     {
       "id": "apple-watch",
