@@ -277,17 +277,67 @@
     "support": "Contact us"
   },
   "installments": {
-    "title": "Installments",
-    "lede": "At MyStore, you can purchase electronics in installments through IDBank / Idram Rocket Line, AEB, ACBA and Ameriabank.",
-    "term": "Up to 12 months",
-    "downPayment": "Down payment",
-    "annual": "Annual interest rate",
-    "service": "Service fee",
-    "rocketHow": "To pay with Rocket Line, use the Idram&IDBank app and your available credit limit.",
-    "otherBanks": "Other banks",
-    "otherTerms": "The term, down payment, interest rate and service fees for AEB, ACBA and Ameriabank plans are confirmed when arranging financing.",
-    "approval": "Installment purchases are subject to bank approval. The installment price, payment schedule and required documents are confirmed before financing is arranged.",
-    "contactTitle": "How to arrange installments",
-    "contact": "Choose a product and contact MyStore — we will help you check the available installment options."
+    "title": "Installment terms",
+    "lede": "At MyStore Armenia, you can purchase your chosen product in installments by applying in-store or online without visiting the store.",
+    "sections": [
+      {
+        "title": "Who can apply",
+        "items": [
+          "Individuals aged 18–70, subject to the selected bank’s age requirements.",
+          "Officially employed individuals or those with a positive credit history.",
+          "Eligibility and required documents for foreign citizens depend on the selected bank’s terms."
+        ]
+      },
+      {
+        "title": "Required documents",
+        "items": [
+          "Passport and social security card, or an identity card (ID card).",
+          "The bank may request additional documents or information if needed."
+        ]
+      },
+      {
+        "title": "Main terms",
+        "items": [
+          "Loan currency: Armenian dram (AMD).",
+          "Down payment: from 0%.",
+          "Repayment term: 3–48 months, depending on the bank and loan program.",
+          "Available loan amount, interest rate, service fees and monthly payments depend on the bank’s terms and the customer’s credit assessment.",
+          "Cash and installment prices may differ. Relevant prices are shown on the product page or confirmed in-store."
+        ]
+      }
+    ],
+    "banksTitle": "Partner banks",
+    "banks": [
+      "Inecobank",
+      "Ameriabank",
+      "ACBA Bank",
+      "Armeconombank (AEB)"
+    ],
+    "banksNote": "Available programs, repayment terms and individual conditions for each bank are provided during the application inquiry.",
+    "storeTitle": "Applying in-store",
+    "storeText": "Visit MyStore Armenia with the required documents, choose your product and submit an application. Our staff will help send the inquiry and explain the bank’s offered terms.",
+    "reviewText": "Review time depends on the selected bank and any additional checks required.",
+    "onlineTitle": "Applying online",
+    "onlineText": "You can also apply remotely by sending the following to our WhatsApp at 093 80 80 11:",
+    "onlineItems": [
+      "Photos or scans of your passport and social security card, or photos of both sides of your ID card.",
+      "Phone number.",
+      "Email address.",
+      "The model and configuration of the product you are interested in."
+    ],
+    "onlineNote": "Document details must be clear and legible. Our staff will contact you with application updates and next steps.",
+    "approvalTitle": "Application approval and final terms",
+    "approvalItems": [
+      "The bank decides whether to approve or reject an application. Applying does not guarantee loan approval.",
+      "Before signing the agreement, the customer is provided with the annual nominal and effective interest rates, payment schedule, applicable fees and other terms.",
+      "Early repayment, late payment and potential penalty terms are set out in the bank’s loan agreement."
+    ],
+    "contactTitle": "Contact us",
+    "address": "9 Komitas Avenue, Yerevan, MyStore Armenia",
+    "hoursTitle": "Opening hours",
+    "hours": [
+      "Monday–Saturday: 10:00–21:00",
+      "Sunday: 11:00–20:00"
+    ]
   }
 }

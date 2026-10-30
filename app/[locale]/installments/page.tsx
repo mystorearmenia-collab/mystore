@@ -26,6 +26,12 @@ export default async function InstallmentsPage({ params }: PageProps) {
   setRequestLocale(locale);
   const t = await getTranslations("installments");
   const tCategory = await getTranslations("category");
+  const sections = t.raw("sections") as { title: string; items: string[] }[];
+  const list = (items: string[]) => (
+    <ul className="mt-4 list-disc space-y-3 pl-5 leading-relaxed text-muted">
+      {items.map((item) => <li key={item}>{item}</li>)}
+    </ul>
+  );
   return (
     <>
       <Header />
@@ -36,27 +42,49 @@ export default async function InstallmentsPage({ params }: PageProps) {
             <p className="eyebrow mb-3">MyStore</p>
             <h1 className="h2">{t("title")}</h1>
             <p className="lede mt-5">{t("lede")}</p>
-            <section className="mt-8 rounded-2xl border border-line bg-surface p-6 sm:p-8">
-              <h2 className="text-xl font-semibold">IDBank / Idram Rocket Line 0%</h2>
-              <p className="mt-3 text-muted">{t("term")}</p>
-              <dl className="mt-6 grid gap-4 sm:grid-cols-3">
-                {["downPayment", "annual", "service"].map((key) => <div key={key}><dt className="text-sm text-muted">{t(key)}</dt><dd className="mt-2 text-3xl font-semibold text-orange">0%</dd></div>)}
-              </dl>
-              <p className="mt-6 leading-relaxed text-muted">{t("rocketHow")}</p>
+            {sections.map((section) => (
+              <section key={section.title} className="mt-8 rounded-2xl border border-line bg-surface p-6 sm:p-8">
+                <h2 className="text-xl font-semibold">{section.title}</h2>
+                {list(section.items)}
+              </section>
+            ))}
+            <section className="mt-10">
+              <h2 className="text-xl font-semibold">{t("banksTitle")}</h2>
+              <ul className="mt-5 grid gap-3 sm:grid-cols-2">
+                {(t.raw("banks") as string[]).map((bank) => (
+                  <li key={bank} className="rounded-xl border border-line bg-surface p-5 text-lg font-medium">{bank}</li>
+                ))}
+              </ul>
+              <p className="mt-4 leading-relaxed text-muted">{t("banksNote")}</p>
             </section>
-            <section className="mt-8">
-              <h2 className="text-xl font-semibold">{t("otherBanks")}</h2>
-              <p className="mt-4 text-lg">AEB · ACBA · Ameriabank</p>
-              <p className="mt-3 leading-relaxed text-muted">{t("otherTerms")}</p>
+            <section className="mt-10">
+              <h2 className="text-xl font-semibold">{t("storeTitle")}</h2>
+              <p className="mt-4 leading-relaxed text-muted">{t("storeText")}</p>
+              <p className="mt-3 leading-relaxed text-muted">{t("reviewText")}</p>
             </section>
-            <p className="mt-6 leading-relaxed text-muted">{t("approval")}</p>
-            <section className="mt-8 rounded-2xl border border-line bg-surface p-6 sm:p-8">
+            <section className="mt-10 rounded-2xl border border-line bg-surface p-6 sm:p-8">
+              <h2 className="text-xl font-semibold">{t("onlineTitle")}</h2>
+              <p className="mt-4 leading-relaxed text-muted">{t("onlineText")}</p>
+              {list(t.raw("onlineItems") as string[])}
+              <p className="mt-4 leading-relaxed text-muted">{t("onlineNote")}</p>
+              <a href={store.whatsapp} target="_blank" rel="noopener noreferrer" className="btn btn-primary mt-6">WhatsApp · 093 80 80 11</a>
+            </section>
+            <section className="mt-10">
+              <h2 className="text-xl font-semibold">{t("approvalTitle")}</h2>
+              {list(t.raw("approvalItems") as string[])}
+            </section>
+            <section className="mt-10 rounded-2xl border border-line bg-surface p-6 sm:p-8">
               <h2 className="text-xl font-semibold">{t("contactTitle")}</h2>
-              <p className="mt-3 text-muted">{t("contact")}</p>
-              <div className="mt-5 flex flex-wrap gap-4">
+              <p className="mt-4 text-muted">{t("address")}</p>
+              <div className="mt-4 flex flex-wrap gap-4">
                 <a href={`tel:${store.phone.replace(/\s/g, "")}`} className="text-orange hover:underline">{store.phone}</a>
                 <a href={store.whatsapp} target="_blank" rel="noopener noreferrer" className="text-orange hover:underline">WhatsApp</a>
+                <Link href="/" className="text-orange hover:underline">mystorearmenia.am</Link>
               </div>
+              <h3 className="mt-6 font-medium">{t("hoursTitle")}</h3>
+              <ul className="mt-2 space-y-1 text-muted">
+                {(t.raw("hours") as string[]).map((hours) => <li key={hours}>{hours}</li>)}
+              </ul>
             </section>
           </div>
         </div>
