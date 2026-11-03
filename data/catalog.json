@@ -3575,8 +3575,8 @@
         "ru": "825 GB · White",
         "en": "825 GB · White"
       },
-      "price": 275000,
-      "creditPrice": 302500,
+      "price": 279000,
+      "creditPrice": 306900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -4905,8 +4905,8 @@
         "ru": "1 TB · White",
         "en": "1 TB · White"
       },
-      "price": 279000,
-      "creditPrice": 306900,
+      "price": 299000,
+      "creditPrice": 328900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -11999,8 +11999,8 @@
         "ru": "1 TB · 1 DualSense · White",
         "en": "1 TB · 1 DualSense · White"
       },
-      "price": 299000,
-      "creditPrice": 328900,
+      "price": 329000,
+      "creditPrice": 361900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -13127,8 +13127,8 @@
         "ru": "1 TB · White",
         "en": "1 TB · White"
       },
-      "price": 329000,
-      "creditPrice": 361900,
+      "price": 369000,
+      "creditPrice": 405900,
       "oldPrice": null,
       "monthly": null,
       "availability": "on-request",
@@ -13665,7 +13665,7 @@
         "ru": "2 TB · Белый",
         "en": "2 TB · White"
       },
-      "price": 539000,
+      "price": 599000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -13734,7 +13734,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 592900,
+      "creditPrice": 658900,
       "cats": [
         "gaming"
       ],
@@ -13744,8 +13744,8 @@
           "storage": "2TB",
           "ram": null,
           "sim": null,
-          "price": 539000,
-          "credit": 592900,
+          "price": 599000,
+          "credit": 658900,
           "image": "https://yerevanmobile.am/media/catalog/product/3/4/345db296967988d5ed051720f53a407d66c156a4.jpg",
           "inStock": true,
           "priceOnRequest": false
