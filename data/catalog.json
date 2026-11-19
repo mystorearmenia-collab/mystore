@@ -16691,10 +16691,10 @@
         "ru": "Складной · 7.6″ / 5.4″",
         "en": "Foldable · 7.6″ / 5.4″"
       },
-      "price": 1159000,
+      "price": 1024000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": null,
+      "creditPrice": 1189000,
       "availability": "on-request",
       "art": "iphone",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
@@ -16712,45 +16712,48 @@
           "storage": "256GB",
           "ram": null,
           "sim": "esim",
-          "price": 1159000,
-          "credit": null,
+          "price": 1024000,
+          "credit": 1189000,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTzRPY0l5QVNzbnFIeGZoVWFkV1ZNY2JoOGtwUWZDU1NHU2ZTc1UzcnZnaE5lVUN5anBMYXArdTZxQXVZNFlaRkZwWVRGQ1dzcnRpTzJCdEZVUm1lQ05mbW94YnYxc1YvNXZ4emJGL0IxNFp3",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTklnaEtBS1ZhdkFMZVF3RldYNisreGRxYTBpUDU4UnFLbWI3Rmw4QmdkTGI2TGhYaGhMVkJpQ2RGWWVURTZNbXdMS2JsVk9oSFZOTGNUZE5xdjBlNnI"
           ],
-          "inStock": false
+          "inStock": false,
+          "priceOnRequest": false
         },
         {
           "color": "Night Sky",
           "storage": "512GB",
           "ram": null,
           "sim": "esim",
-          "price": 1399000,
-          "credit": null,
+          "price": 1114000,
+          "credit": 1299000,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTzRPY0l5QVNzbnFIeGZoVWFkV1ZNY2JoOGtwUWZDU1NHU2ZTc1UzcnZnaE5lVUN5anBMYXArdTZxQXVZNFlaRkZwWVRGQ1dzcnRpTzJCdEZVUm1lQ05mbW94YnYxc1YvNXZ4emJGL0IxNFp3",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTklnaEtBS1ZhdkFMZVF3RldYNisreGRxYTBpUDU4UnFLbWI3Rmw4QmdkTGI2TGhYaGhMVkJpQ2RGWWVURTZNbXdMS2JsVk9oSFZOTGNUZE5xdjBlNnI"
           ],
-          "inStock": false
+          "inStock": false,
+          "priceOnRequest": false
         },
         {
           "color": "Night Sky",
           "storage": "1TB",
           "ram": null,
           "sim": "esim",
-          "price": 1599000,
-          "credit": null,
+          "price": 1384000,
+          "credit": 1609000,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTzRPY0l5QVNzbnFIeGZoVWFkV1ZNY2JoOGtwUWZDU1NHU2ZTc1UzcnZnaE5lVUN5anBMYXArdTZxQXVZNFlaRkZwWVRGQ1dzcnRpTzJCdEZVUm1lQ05mbW94YnYxc1YvNXZ4emJGL0IxNFp3",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTklnaEtBS1ZhdkFMZVF3RldYNisreGRxYTBpUDU4UnFLbWI3Rmw4QmdkTGI2TGhYaGhMVkJpQ2RGWWVURTZNbXdMS2JsVk9oSFZOTGNUZE5xdjBlNnI"
           ],
-          "inStock": false
+          "inStock": false,
+          "priceOnRequest": false
         },
         {
           "color": "Night Sky",
@@ -16772,45 +16775,48 @@
           "storage": "256GB",
           "ram": null,
           "sim": "esim",
-          "price": 1159000,
-          "credit": null,
+          "price": 1024000,
+          "credit": 1189000,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwWDQyMkp3ajFERU1EdEpnTkVrNzFmMHFJdkJPZTFIVklMRHF5Qjlvcy9ObW14YXJFQWFnVmkrMkUzQ3k2TDVtN0dZeVdXc0RpQ01aMHg0Q2tCOVExRGh1YmZQMXFXa2w0U3RUanhYSTV4Z29R",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVmd1RGp0ZkhQOTVvK0lDdUQxZXNjakViM2VpL0lFSzVCUUtMUjhUTUtHZU5lVUN5anBMYXArdTZxQXVZNFlaRkVWUXgzb0NNZ2MwcUgxQWFSMG5YMVVmbW94YnYxc1YvNXZ4emJGL0IxNFp3"
           ],
-          "inStock": false
+          "inStock": false,
+          "priceOnRequest": false
         },
         {
           "color": "Star White",
           "storage": "512GB",
           "ram": null,
           "sim": "esim",
-          "price": 1399000,
-          "credit": null,
+          "price": 1114000,
+          "credit": 1299000,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwWDQyMkp3ajFERU1EdEpnTkVrNzFmMHFJdkJPZTFIVklMRHF5Qjlvcy9ObW14YXJFQWFnVmkrMkUzQ3k2TDVtN0dZeVdXc0RpQ01aMHg0Q2tCOVExRGh1YmZQMXFXa2w0U3RUanhYSTV4Z29R",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVmd1RGp0ZkhQOTVvK0lDdUQxZXNjakViM2VpL0lFSzVCUUtMUjhUTUtHZU5lVUN5anBMYXArdTZxQXVZNFlaRkVWUXgzb0NNZ2MwcUgxQWFSMG5YMVVmbW94YnYxc1YvNXZ4emJGL0IxNFp3"
           ],
-          "inStock": false
+          "inStock": false,
+          "priceOnRequest": false
         },
         {
           "color": "Star White",
           "storage": "1TB",
           "ram": null,
           "sim": "esim",
-          "price": 1599000,
-          "credit": null,
+          "price": 1384000,
+          "credit": 1609000,
           "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwWDQyMkp3ajFERU1EdEpnTkVrNzFmMHFJdkJPZTFIVklMRHF5Qjlvcy9ObW14YXJFQWFnVmkrMkUzQ3k2TDVtN0dZeVdXc0RpQ01aMHg0Q2tCOVExRGh1YmZQMXFXa2w0U3RUanhYSTV4Z29R",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV3?wid=1246&hei=518&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVmd1RGp0ZkhQOTVvK0lDdUQxZXNjakViM2VpL0lFSzVCUUtMUjhUTUtHZU5lVUN5anBMYXArdTZxQXVZNFlaRkVWUXgzb0NNZ2MwcUgxQWFSMG5YMVVmbW94YnYxc1YvNXZ4emJGL0IxNFp3"
           ],
-          "inStock": false
+          "inStock": false,
+          "priceOnRequest": false
         },
         {
           "color": "Star White",
@@ -16922,7 +16928,8 @@
             }
           ]
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "redmi-a7-pro-4g",
