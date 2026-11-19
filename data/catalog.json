@@ -7776,7 +7776,7 @@
         "ru": "6.5 inch",
         "en": "6.5 inch"
       },
-      "price": 369000,
+      "price": 374000,
       "oldPrice": null,
       "monthly": 8530,
       "availability": "in-stock",
@@ -7983,7 +7983,7 @@
         }
       ],
       "priceSource": "mystore",
-      "creditPrice": 413000,
+      "creditPrice": 399000,
       "cats": [
         "iphone"
       ],
@@ -7993,122 +7993,195 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 369000,
-          "credit": 413000,
+          "price": 374000,
+          "credit": 399000,
           "image": "https://admin.redstore.am/storage/products/40157/image/img-4496.webp",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Light Gold",
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 369000,
-          "credit": 413000,
+          "price": 374000,
+          "credit": 399000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4494.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 369000,
-          "credit": 413000,
+          "price": 374000,
+          "credit": 399000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4686.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 369000,
-          "credit": 413000,
+          "price": 374000,
+          "credit": 399000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4489.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Cloud White",
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 439000,
-          "credit": 492000,
+          "price": 424000,
+          "credit": 459000,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4496.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Light Gold",
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 439000,
-          "credit": 492000,
+          "price": 424000,
+          "credit": 459000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/21155-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Sky Blue",
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 439000,
-          "credit": 492000,
+          "price": 424000,
+          "credit": 459000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4686.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
         },
         {
           "color": "Space Black",
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 439000,
-          "credit": 492000,
+          "price": 424000,
+          "credit": 459000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/1111-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
             "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
-          ]
+          ],
+          "priceOnRequest": false
+        },
+        {
+          "color": "Cloud White",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 544000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4496.jpg",
+          "inStock": false,
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-cloudwhite_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "priceOnRequest": false
+        },
+        {
+          "color": "Light Gold",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 544000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/21155-montaznaia-oblast-1.jpg",
+          "inStock": false,
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-lightgold_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "priceOnRequest": false
+        },
+        {
+          "color": "Sky Blue",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 544000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4686.jpg",
+          "inStock": false,
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-skyblue_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "priceOnRequest": false
+        },
+        {
+          "color": "Space Black",
+          "storage": "1TB",
+          "ram": "12GB",
+          "sim": "esim",
+          "price": 544000,
+          "credit": 579000,
+          "image": "https://admin.redstore.am/storage/uploads/2025/11/07/1111-montaznaia-oblast-1.jpg",
+          "inStock": false,
+          "images": [
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack_AV1?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1",
+            "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack_AV2?wid=1000&hei=1000&fmt=png-alpha&cropN=0.21875,0,0.5625,1"
+          ],
+          "priceOnRequest": false
         }
-      ]
+      ],
+      "priceOnRequest": false
     },
     {
       "id": "xiaomi-17",
@@ -8388,8 +8461,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 257000,
-          "credit": 282700,
+          "price": 254000,
+          "credit": 289000,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51nmtmjkfll._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51nmtmjkfll._ac_sl1500__1.jpg"
@@ -8403,8 +8476,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 257000,
-          "credit": 282700,
+          "price": 254000,
+          "credit": 289000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s25_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s25_1.jpg"
@@ -8418,8 +8491,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 257000,
-          "credit": 282700,
+          "price": 254000,
+          "credit": 289000,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61fmhldkknl._ac_sl1500__1_1.jpg"
@@ -8522,8 +8595,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 257000,
-          "credit": 282700,
+          "price": 254000,
+          "credit": 289000,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-5056.jpg",
           "inStock": true,
           "priceOnRequest": false
@@ -8995,7 +9068,7 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 460000,
+      "price": 444000,
       "oldPrice": null,
       "monthly": 11030,
       "availability": "in-stock",
@@ -9201,7 +9274,7 @@
         }
       ],
       "priceSource": "mystore",
-      "creditPrice": 506000,
+      "creditPrice": 479000,
       "cats": [
         "iphone"
       ],
@@ -9211,8 +9284,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 460000,
-          "credit": 506000,
+          "price": 444000,
+          "credit": 479000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vvvvv-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -9227,8 +9300,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 484000,
-          "credit": 532400,
+          "price": 474000,
+          "credit": 499000,
           "image": "https://admin.redstore.am/storage/products/10311/image/img-4500.webp",
           "inStock": false,
           "images": [
@@ -9243,8 +9316,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 598400,
+          "price": 524000,
+          "credit": 559000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vvvvv-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -9259,8 +9332,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 598400,
+          "price": 524000,
+          "credit": 559000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -9275,8 +9348,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 598400,
+          "price": 524000,
+          "credit": 559000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vcfyuj-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -9291,8 +9364,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 564000,
-          "credit": 620400,
+          "price": 544000,
+          "credit": 579000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/13/img-4502.jpg",
           "inStock": false,
           "images": [
@@ -9307,8 +9380,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 564000,
-          "credit": 620400,
+          "price": 544000,
+          "credit": 579000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/13/img-4503.jpg",
           "inStock": false,
           "images": [
@@ -9323,8 +9396,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 564000,
-          "credit": 620400,
+          "price": 544000,
+          "credit": 579000,
           "image": "https://admin.redstore.am/storage/products/58470/image/img-4500.webp",
           "inStock": false,
           "images": [
@@ -9339,8 +9412,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 634000,
-          "credit": 697400,
+          "price": 614000,
+          "credit": 649000,
           "image": "https://admin.redstore.am/storage/products/58718/image/img-4500.webp",
           "inStock": false,
           "images": [
@@ -9355,8 +9428,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 674000,
-          "credit": 741400,
+          "price": 634000,
+          "credit": 669000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -9407,7 +9480,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 335000,
+      "price": 334000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -9614,7 +9687,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 368500,
+      "creditPrice": 369000,
       "cats": [
         "samsung"
       ],
@@ -9624,8 +9697,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 335000,
-          "credit": 368500,
+          "price": 334000,
+          "credit": 369000,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61n0lmxp5-l._ac_sl1500__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61n0lmxp5-l._ac_sl1500__2.jpg"
@@ -9639,8 +9712,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 335000,
-          "credit": 368500,
+          "price": 334000,
+          "credit": 369000,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/71ywgw1hzfl._ac_sl1500__1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/71ywgw1hzfl._ac_sl1500__1.jpg"
@@ -9654,8 +9727,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 335000,
-          "credit": 368500,
+          "price": 334000,
+          "credit": 369000,
           "image": "https://yerevanmobile.am/media/catalog/product/e/f/efd07f17007dcb02c96430345b6c7b55-hi_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/e/f/efd07f17007dcb02c96430345b6c7b55-hi_1.jpg"
@@ -9669,8 +9742,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 335000,
-          "credit": 368500,
+          "price": 334000,
+          "credit": 369000,
           "image": "https://yerevanmobile.am/media/catalog/product/7/8/7859632_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/8/7859632_1.jpg"
@@ -9684,8 +9757,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 335000,
-          "credit": 368500,
+          "price": 334000,
+          "credit": 369000,
           "image": "https://yerevanmobile.am/media/catalog/product/2/5/25_ultrq_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/5/25_ultrq_1.jpg"
@@ -9699,8 +9772,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 335000,
-          "credit": 368500,
+          "price": 334000,
+          "credit": 369000,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61qvragan9l._ac_sl1500__1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61qvragan9l._ac_sl1500__1_1.jpg"
@@ -10051,7 +10124,7 @@
         "ru": "256GB · 6.7 inch",
         "en": "256GB · 6.7 inch"
       },
-      "price": 265000,
+      "price": 234000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -10255,7 +10328,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 291500,
+      "creditPrice": 269000,
       "cats": [
         "samsung"
       ],
@@ -10265,8 +10338,8 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 285000,
-          "credit": 313500,
+          "price": 234000,
+          "credit": 269000,
           "image": "https://yerevanmobile.am/media/catalog/product/2/6/26fe_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/6/26fe_1.jpg"
@@ -10313,8 +10386,8 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 285000,
-          "credit": 313500,
+          "price": 234000,
+          "credit": 269000,
           "image": "https://admin.redstore.am/storage/products/61579/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "priceOnRequest": false
@@ -10324,8 +10397,8 @@
           "storage": "256GB",
           "ram": "8GB",
           "sim": null,
-          "price": 285000,
-          "credit": 313500,
+          "price": 234000,
+          "credit": 269000,
           "image": "https://admin.redstore.am/storage/products/61580/image/4-montaznaia-oblast-1.webp",
           "inStock": false,
           "priceOnRequest": false
@@ -10342,7 +10415,7 @@
         "ru": "6.3 inch",
         "en": "6.3 inch"
       },
-      "price": 309000,
+      "price": 294000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -10558,7 +10631,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 339900,
+      "creditPrice": 319000,
       "cats": [
         "samsung"
       ],
@@ -10568,8 +10641,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 309000,
-          "credit": 339900,
+          "price": 294000,
+          "credit": 319000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_1.jpg"
@@ -10583,8 +10656,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 309000,
-          "credit": 339900,
+          "price": 294000,
+          "credit": 319000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1.jpg"
@@ -10598,8 +10671,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 309000,
-          "credit": 339900,
+          "price": 294000,
+          "credit": 319000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_1.jpg"
@@ -10613,8 +10686,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 309000,
-          "credit": 339900,
+          "price": 294000,
+          "credit": 319000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_1.jpg"
@@ -10628,8 +10701,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 355000,
-          "credit": 390500,
+          "price": 340000,
+          "credit": 375000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_1_1_.jpg"
@@ -10643,8 +10716,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 355000,
-          "credit": 390500,
+          "price": 340000,
+          "credit": 375000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_3.jpg"
@@ -10658,8 +10731,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 355000,
-          "credit": 390500,
+          "price": 340000,
+          "credit": 375000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_3.jpg"
@@ -10673,8 +10746,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 355000,
-          "credit": 390500,
+          "price": 340000,
+          "credit": 375000,
           "image": "https://yerevanmobile.am/media/catalog/product/g/0/g0h9uztq988lp3ogt314dciheok9bhsj.png",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/g/0/g0h9uztq988lp3ogt314dciheok9bhsj.png"
@@ -10941,7 +11014,7 @@
         "ru": "6.7 inch",
         "en": "6.7 inch"
       },
-      "price": 345000,
+      "price": 329000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -11148,7 +11221,7 @@
         }
       ],
       "priceSource": "allsell",
-      "creditPrice": 379500,
+      "creditPrice": 364000,
       "cats": [
         "samsung"
       ],
@@ -11158,8 +11231,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 345000,
-          "credit": 379500,
+          "price": 329000,
+          "credit": 364000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1.jpg"
@@ -11173,8 +11246,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 345000,
-          "credit": 379500,
+          "price": 329000,
+          "credit": 364000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_1_.jpg"
@@ -11188,8 +11261,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 345000,
-          "credit": 379500,
+          "price": 329000,
+          "credit": 364000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26_1_2.jpg"
@@ -11203,8 +11276,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 345000,
-          "credit": 379500,
+          "price": 329000,
+          "credit": 364000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg1_2_2.jpg"
@@ -11218,8 +11291,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399000,
-          "credit": 438900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg2_2_1_1.jpg"
@@ -11233,8 +11306,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399000,
-          "credit": 438900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/2/s26.jpg3_1_2.jpg"
@@ -11248,8 +11321,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399000,
-          "credit": 438900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61hlbcfqv_l._ac_uf894_1000_ql80_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61hlbcfqv_l._ac_uf894_1000_ql80_.jpg"
@@ -11263,8 +11336,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 399000,
-          "credit": 438900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/2/6/26_pluyssoak.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/6/26_pluyssoak.jpg"
@@ -11967,7 +12040,7 @@
         "ru": "eSIM",
         "en": "eSIM"
       },
-      "price": 494000,
+      "price": 484000,
       "oldPrice": null,
       "monthly": 11230,
       "availability": "in-stock",
@@ -12173,7 +12246,7 @@
         }
       ],
       "priceSource": "mystore",
-      "creditPrice": 543400,
+      "creditPrice": 509000,
       "cats": [
         "iphone"
       ],
@@ -12183,8 +12256,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 494000,
-          "credit": 543400,
+          "price": 484000,
+          "credit": 509000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/14/img-4502.jpg",
           "inStock": false,
           "images": [
@@ -12199,8 +12272,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 494000,
-          "credit": 543400,
+          "price": 484000,
+          "credit": 509000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/14/img-4503.jpg",
           "inStock": false,
           "images": [
@@ -12215,8 +12288,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 494000,
-          "credit": 543400,
+          "price": 484000,
+          "credit": 509000,
           "image": "https://admin.redstore.am/storage/products/55110/image/swdf-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -12231,8 +12304,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 534000,
-          "credit": 587400,
+          "price": 524000,
+          "credit": 549000,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/26/img-4502.jpg",
           "inStock": false,
           "images": [
@@ -12247,8 +12320,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 534000,
-          "credit": 587400,
+          "price": 524000,
+          "credit": 549000,
           "image": "https://admin.redstore.am/storage/products/10314/image/img-4503-1.webp",
           "inStock": false,
           "images": [
@@ -12263,8 +12336,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 534000,
-          "credit": 587400,
+          "price": 524000,
+          "credit": 549000,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/26/img-4500.jpg",
           "inStock": false,
           "images": [
@@ -12279,8 +12352,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 594000,
-          "credit": 653400,
+          "price": 554000,
+          "credit": 579000,
           "image": "https://admin.redstore.am/storage/uploads/2025/10/01/img-4502.jpg",
           "inStock": false,
           "images": [
@@ -12295,8 +12368,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 594000,
-          "credit": 653400,
+          "price": 554000,
+          "credit": 579000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12311,8 +12384,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 594000,
-          "credit": 653400,
+          "price": 554000,
+          "credit": 579000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vcfyuj-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12327,8 +12400,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 624000,
-          "credit": 686400,
+          "price": 584000,
+          "credit": 609000,
           "image": "https://admin.redstore.am/storage/uploads/2025/09/28/img-4502.jpg",
           "inStock": false,
           "images": [
@@ -12343,8 +12416,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 624000,
-          "credit": 686400,
+          "price": 584000,
+          "credit": 609000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vbbvv-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12359,8 +12432,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 624000,
-          "credit": 686400,
+          "price": 584000,
+          "credit": 609000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/07/vcfyuj-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12375,8 +12448,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 708400,
+          "price": 604000,
+          "credit": 639000,
           "image": "https://admin.redstore.am/storage/products/58601/image/85666-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12391,8 +12464,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 708400,
+          "price": 604000,
+          "credit": 639000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4503.jpg",
           "inStock": false,
           "images": [
@@ -12407,8 +12480,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 708400,
+          "price": 604000,
+          "credit": 639000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4500.jpg",
           "inStock": false,
           "images": [
@@ -12471,8 +12544,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 744000,
-          "credit": 818400,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/12/img-4502.jpg",
           "inStock": false,
           "images": [
@@ -12487,8 +12560,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 744000,
-          "credit": 818400,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/24/8uh-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12503,8 +12576,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 744000,
-          "credit": 818400,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/24/8iu8-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12519,8 +12592,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 814000,
-          "credit": 895400,
+          "price": 794000,
+          "credit": 829000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/24/7uy7-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12535,8 +12608,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 814000,
-          "credit": 895400,
+          "price": 794000,
+          "credit": 829000,
           "image": "https://admin.redstore.am/storage/uploads/2025/11/24/8uh-montaznaia-oblast-1.jpg",
           "inStock": false,
           "images": [
@@ -12551,8 +12624,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 814000,
-          "credit": 895400,
+          "price": 794000,
+          "credit": 829000,
           "image": "https://admin.redstore.am/storage/products/59621/image/36f97bbf-3906-43cb-941a-d04419d0a31f.webp",
           "inStock": false,
           "images": [
@@ -12604,7 +12677,7 @@
         "ru": "6.9 inch",
         "en": "6.9 inch"
       },
-      "price": 375000,
+      "price": 394000,
       "oldPrice": null,
       "monthly": null,
       "availability": "in-stock",
@@ -12811,7 +12884,7 @@
         }
       ],
       "priceSource": "redstore",
-      "creditPrice": 412500,
+      "creditPrice": 419000,
       "cats": [
         "samsung"
       ],
@@ -12821,8 +12894,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 375000,
-          "credit": 412500,
+          "price": 394000,
+          "credit": 419000,
           "image": "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_1.jpg"
@@ -12836,8 +12909,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 375000,
-          "credit": 412500,
+          "price": 394000,
+          "credit": 419000,
           "image": "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_1.jpg"
@@ -12851,8 +12924,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 375000,
-          "credit": 412500,
+          "price": 394000,
+          "credit": 419000,
           "image": "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_1.jpg"
@@ -12866,8 +12939,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 375000,
-          "credit": 412500,
+          "price": 394000,
+          "credit": 419000,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1.jpg"
@@ -12881,8 +12954,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 459000,
-          "credit": 504900,
+          "price": 464000,
+          "credit": 489000,
           "image": "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_2.jpg"
@@ -12896,8 +12969,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 459000,
-          "credit": 504900,
+          "price": 464000,
+          "credit": 489000,
           "image": "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/2/_/2_37_10_2.jpg"
@@ -12911,8 +12984,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 459000,
-          "credit": 504900,
+          "price": 464000,
+          "credit": 489000,
           "image": "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/u/_/u_tra_2.jpg"
@@ -12926,8 +12999,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 459000,
-          "credit": 504900,
+          "price": 464000,
+          "credit": 489000,
           "image": "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/_/3_31_3_1_1.jpg"
@@ -12941,8 +13014,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 619000,
-          "credit": 680900,
+          "price": 634000,
+          "credit": 659000,
           "image": "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_3.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/1/_/1_39_3_3.jpg"
@@ -12956,8 +13029,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 619000,
-          "credit": 680900,
+          "price": 634000,
+          "credit": 659000,
           "image": "https://yerevanmobile.am/media/catalog/product/3/4/34724340.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/4/34724340.jpg"
@@ -12989,10 +13062,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 429000,
+      "price": 394000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 471900,
+      "creditPrice": 429000,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61316/image/2-montaznaia-oblast-1.webp",
@@ -13012,8 +13085,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 429000,
-          "credit": 471900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/6/1/61nsuq4yrvl.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/6/1/61nsuq4yrvl.jpg"
@@ -13027,8 +13100,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 429000,
-          "credit": 471900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/f/l/fli_8_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/l/fli_8_1.jpg"
@@ -13042,8 +13115,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 429000,
-          "credit": 471900,
+          "price": 394000,
+          "credit": 429000,
           "image": "https://yerevanmobile.am/media/catalog/product/3/0/30792.jpg_w800_h800_resize.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/3/0/30792.jpg_w800_h800_resize.jpg"
@@ -13057,8 +13130,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 525000,
-          "credit": 577500,
+          "price": 444000,
+          "credit": 479000,
           "image": "https://yerevanmobile.am/media/catalog/product/f/l/fli_8.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/l/fli_8.jpg"
@@ -13072,8 +13145,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 525000,
-          "credit": 577500,
+          "price": 444000,
+          "credit": 479000,
           "image": "https://admin.redstore.am/storage/products/60848/image/55-montaznaia-oblast-1.webp",
           "inStock": false,
           "priceOnRequest": false
@@ -13083,8 +13156,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 525000,
-          "credit": 577500,
+          "price": 444000,
+          "credit": 479000,
           "image": "https://admin.redstore.am/storage/products/60851/image/oo-montaznaia-oblast-1.webp",
           "inStock": false,
           "priceOnRequest": false
@@ -13094,8 +13167,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 525000,
-          "credit": 577500,
+          "price": 444000,
+          "credit": 479000,
           "image": "https://admin.redstore.am/storage/products/60849/image/555-montaznaia-oblast-1.webp",
           "inStock": false,
           "priceOnRequest": false
@@ -13220,10 +13293,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 599000,
+      "price": 584000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 658900,
+      "creditPrice": 619000,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61318/image/1-montaznaia-oblast-1.webp",
@@ -13243,8 +13316,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 599000,
-          "credit": 658900,
+          "price": 584000,
+          "credit": 619000,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51vifw_k92l.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51vifw_k92l.jpg"
@@ -13258,8 +13331,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 599000,
-          "credit": 658900,
+          "price": 584000,
+          "credit": 619000,
           "image": "https://yerevanmobile.am/media/catalog/product/f/o/fold_8.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/o/fold_8.jpg"
@@ -13273,8 +13346,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 599000,
-          "credit": 658900,
+          "price": 584000,
+          "credit": 619000,
           "image": "https://yerevanmobile.am/media/catalog/product/5/1/51ojen9iubl.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/5/1/51ojen9iubl.jpg"
@@ -13288,8 +13361,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 639000,
-          "credit": 702900,
+          "price": 620000,
+          "credit": 655000,
           "image": "https://yerevanmobile.am/media/catalog/product/s/m/sm_f971_zfold8_openback_cream_260514.png",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/s/m/sm_f971_zfold8_openback_cream_260514.png"
@@ -13303,8 +13376,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 639000,
-          "credit": 702900,
+          "price": 620000,
+          "credit": 655000,
           "image": "https://yerevanmobile.am/media/catalog/product/f/o/fold_8_2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/o/fold_8_2.jpg"
@@ -13318,8 +13391,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 639000,
-          "credit": 702900,
+          "price": 620000,
+          "credit": 655000,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_9_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_9_.jpg"
@@ -13373,10 +13446,10 @@
         "ru": "",
         "en": ""
       },
-      "price": 635000,
+      "price": 624000,
       "oldPrice": null,
       "monthly": null,
-      "creditPrice": 698500,
+      "creditPrice": 659000,
       "availability": "in-stock",
       "art": "accessory",
       "image": "https://admin.redstore.am/storage/products/61274/image/bezymiannyi-1-montaznaia-oblast-1.webp",
@@ -13396,8 +13469,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 635000,
-          "credit": 698500,
+          "price": 624000,
+          "credit": 659000,
           "image": "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b_1.jpg"
@@ -13411,8 +13484,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 635000,
-          "credit": 698500,
+          "price": 624000,
+          "credit": 659000,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80__2.jpg"
@@ -13426,8 +13499,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 635000,
-          "credit": 698500,
+          "price": 624000,
+          "credit": 659000,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_1_1.jpg"
@@ -13441,8 +13514,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 725000,
-          "credit": 797500,
+          "price": 724000,
+          "credit": 759000,
           "image": "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/f/2/f272a6bd9518f8dba8042ad956187b9b.jpg"
@@ -13456,8 +13529,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 725000,
-          "credit": 797500,
+          "price": 724000,
+          "credit": 759000,
           "image": "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80_.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/7/1/716nk3ikynl._ac_uf1000_1000_ql80_.jpg"
@@ -13471,8 +13544,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 725000,
-          "credit": 797500,
+          "price": 724000,
+          "credit": 759000,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1.jpg"
@@ -13486,8 +13559,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 1039000,
-          "credit": 1142900,
+          "price": 1024000,
+          "credit": 1059000,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_1__2.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_1__2.jpg"
@@ -13501,8 +13574,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 1039000,
-          "credit": 1142900,
+          "price": 1024000,
+          "credit": 1059000,
           "image": "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1_1.jpg",
           "images": [
             "https://yerevanmobile.am/media/catalog/product/i/m/images_2_1_1.jpg"
@@ -13516,8 +13589,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": null,
-          "price": 635000,
-          "credit": 698500,
+          "price": 624000,
+          "credit": 659000,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__191_1_1.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__191_1_1.jpg"
@@ -13531,8 +13604,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": null,
-          "price": 725000,
-          "credit": 797500,
+          "price": 724000,
+          "credit": 759000,
           "image": "https://allsell.am/media/catalog/product/n/e/new_project_1__191_2.jpg",
           "images": [
             "https://allsell.am/media/catalog/product/n/e/new_project_1__191_2.jpg"
@@ -13546,8 +13619,8 @@
           "storage": "1TB",
           "ram": "16GB",
           "sim": null,
-          "price": 1039000,
-          "credit": 1142900,
+          "price": 1024000,
+          "credit": 1059000,
           "image": "https://admin.redstore.am/storage/products/60840/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "priceOnRequest": false
@@ -14485,7 +14558,7 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 544000,
+      "price": 534000,
       "oldPrice": null,
       "monthly": 17690,
       "availability": "in-stock",
@@ -14701,7 +14774,7 @@
         }
       ],
       "priceSource": "mystore",
-      "creditPrice": 579000,
+      "creditPrice": 569000,
       "cats": [
         "iphone"
       ],
@@ -14711,8 +14784,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 579000,
+          "price": 534000,
+          "credit": 569000,
           "image": "https://admin.redstore.am/storage/products/61583/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14727,8 +14800,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 579000,
+          "price": 534000,
+          "credit": 569000,
           "image": "https://admin.redstore.am/storage/products/61585/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14743,8 +14816,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 579000,
+          "price": 534000,
+          "credit": 569000,
           "image": "https://admin.redstore.am/storage/products/61584/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14759,8 +14832,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 544000,
-          "credit": 579000,
+          "price": 534000,
+          "credit": 569000,
           "image": "https://admin.redstore.am/storage/products/61582/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14775,8 +14848,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 574000,
-          "credit": 599000,
+          "price": 564000,
+          "credit": 589000,
           "image": "https://admin.redstore.am/storage/products/61599/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14791,8 +14864,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 574000,
-          "credit": 599000,
+          "price": 564000,
+          "credit": 589000,
           "image": "https://admin.redstore.am/storage/products/61601/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14807,8 +14880,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 574000,
-          "credit": 599000,
+          "price": 564000,
+          "credit": 589000,
           "image": "https://admin.redstore.am/storage/products/61600/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14823,8 +14896,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 574000,
-          "credit": 599000,
+          "price": 564000,
+          "credit": 589000,
           "image": "https://admin.redstore.am/storage/products/61598/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14839,8 +14912,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 669000,
+          "price": 634000,
+          "credit": 659000,
           "image": "https://admin.redstore.am/storage/products/61587/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14855,8 +14928,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 669000,
+          "price": 634000,
+          "credit": 659000,
           "image": "https://admin.redstore.am/storage/products/61589/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14871,8 +14944,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 669000,
+          "price": 634000,
+          "credit": 659000,
           "image": "https://admin.redstore.am/storage/products/61588/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14887,8 +14960,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 644000,
-          "credit": 669000,
+          "price": 634000,
+          "credit": 659000,
           "image": "https://admin.redstore.am/storage/products/61586/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14903,8 +14976,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 664000,
-          "credit": 689000,
+          "price": 654000,
+          "credit": 679000,
           "image": "https://admin.redstore.am/storage/products/61603/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14919,8 +14992,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 664000,
-          "credit": 689000,
+          "price": 654000,
+          "credit": 679000,
           "image": "https://admin.redstore.am/storage/products/61605/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14935,8 +15008,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 664000,
-          "credit": 689000,
+          "price": 654000,
+          "credit": 679000,
           "image": "https://admin.redstore.am/storage/products/61604/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14951,8 +15024,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 664000,
-          "credit": 689000,
+          "price": 654000,
+          "credit": 679000,
           "image": "https://admin.redstore.am/storage/products/61602/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14967,8 +15040,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 844000,
-          "credit": 879000,
+          "price": 834000,
+          "credit": 859000,
           "image": "https://admin.redstore.am/storage/products/61591/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14983,8 +15056,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 844000,
-          "credit": 879000,
+          "price": 834000,
+          "credit": 859000,
           "image": "https://admin.redstore.am/storage/products/61593/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -14999,8 +15072,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 844000,
-          "credit": 879000,
+          "price": 834000,
+          "credit": 859000,
           "image": "https://admin.redstore.am/storage/products/61592/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15015,8 +15088,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 844000,
-          "credit": 879000,
+          "price": 834000,
+          "credit": 859000,
           "image": "https://admin.redstore.am/storage/products/61590/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15031,8 +15104,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 864000,
-          "credit": 899000,
+          "price": 854000,
+          "credit": 879000,
           "image": "https://admin.redstore.am/storage/products/61607/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15047,8 +15120,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 864000,
-          "credit": 899000,
+          "price": 854000,
+          "credit": 879000,
           "image": "https://admin.redstore.am/storage/products/61609/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15063,8 +15136,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 864000,
-          "credit": 899000,
+          "price": 854000,
+          "credit": 879000,
           "image": "https://admin.redstore.am/storage/products/61608/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15079,8 +15152,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 864000,
-          "credit": 899000,
+          "price": 854000,
+          "credit": 879000,
           "image": "https://admin.redstore.am/storage/products/61606/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15095,8 +15168,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1084000,
-          "credit": 1109000,
+          "price": 1074000,
+          "credit": 1099000,
           "image": "https://admin.redstore.am/storage/products/61595/image/101-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15111,8 +15184,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1084000,
-          "credit": 1109000,
+          "price": 1074000,
+          "credit": 1099000,
           "image": "https://admin.redstore.am/storage/products/61597/image/88-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15127,8 +15200,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1084000,
-          "credit": 1109000,
+          "price": 1074000,
+          "credit": 1099000,
           "image": "https://admin.redstore.am/storage/products/61596/image/99-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15143,8 +15216,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1084000,
-          "credit": 1109000,
+          "price": 1074000,
+          "credit": 1099000,
           "image": "https://admin.redstore.am/storage/products/61594/image/100-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15160,7 +15233,7 @@
           "ram": "12GB",
           "sim": "sim-esim",
           "price": 1144000,
-          "credit": 1179000,
+          "credit": 1169000,
           "image": "https://admin.redstore.am/storage/products/61611/image/100-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15176,7 +15249,7 @@
           "ram": "12GB",
           "sim": "sim-esim",
           "price": 1144000,
-          "credit": 1179000,
+          "credit": 1169000,
           "image": "https://admin.redstore.am/storage/products/61613/image/88-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15192,7 +15265,7 @@
           "ram": "12GB",
           "sim": "sim-esim",
           "price": 1144000,
-          "credit": 1179000,
+          "credit": 1169000,
           "image": "https://admin.redstore.am/storage/products/61612/image/99-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15208,7 +15281,7 @@
           "ram": "12GB",
           "sim": "sim-esim",
           "price": 1144000,
-          "credit": 1179000,
+          "credit": 1169000,
           "image": "https://admin.redstore.am/storage/products/61610/image/101-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -15898,7 +15971,7 @@
         "ru": "Nano-SIM",
         "en": "Nano-SIM"
       },
-      "price": 624000,
+      "price": 614000,
       "oldPrice": null,
       "monthly": 19780,
       "availability": "in-stock",
@@ -16105,7 +16178,7 @@
         }
       ],
       "priceSource": "mystore",
-      "creditPrice": 659000,
+      "creditPrice": 649000,
       "cats": [
         "iphone"
       ],
@@ -16115,8 +16188,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 624000,
-          "credit": 659000,
+          "price": 614000,
+          "credit": 649000,
           "image": "https://admin.redstore.am/storage/products/61615/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16131,8 +16204,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 624000,
-          "credit": 659000,
+          "price": 614000,
+          "credit": 649000,
           "image": "https://admin.redstore.am/storage/products/61617/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16147,8 +16220,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 624000,
-          "credit": 659000,
+          "price": 614000,
+          "credit": 649000,
           "image": "https://admin.redstore.am/storage/products/61616/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16163,8 +16236,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 624000,
-          "credit": 659000,
+          "price": 614000,
+          "credit": 649000,
           "image": "https://admin.redstore.am/storage/products/61614/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16179,8 +16252,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 654000,
-          "credit": 679000,
+          "price": 644000,
+          "credit": 669000,
           "image": "https://admin.redstore.am/storage/products/61631/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16195,8 +16268,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 654000,
-          "credit": 679000,
+          "price": 644000,
+          "credit": 669000,
           "image": "https://admin.redstore.am/storage/products/61633/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16211,8 +16284,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 654000,
-          "credit": 679000,
+          "price": 644000,
+          "credit": 669000,
           "image": "https://admin.redstore.am/storage/products/61632/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16227,8 +16300,8 @@
           "storage": "256GB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 654000,
-          "credit": 679000,
+          "price": 644000,
+          "credit": 669000,
           "image": "https://admin.redstore.am/storage/products/61630/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16243,8 +16316,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 724000,
-          "credit": 759000,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/products/61619/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16259,8 +16332,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 724000,
-          "credit": 759000,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/products/61621/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16275,8 +16348,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 724000,
-          "credit": 759000,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/products/61620/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16291,8 +16364,8 @@
           "storage": "512GB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 724000,
-          "credit": 759000,
+          "price": 714000,
+          "credit": 749000,
           "image": "https://admin.redstore.am/storage/products/61618/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16371,8 +16444,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 894000,
-          "credit": 929000,
+          "price": 884000,
+          "credit": 919000,
           "image": "https://admin.redstore.am/storage/products/61623/image/2-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16387,8 +16460,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 894000,
-          "credit": 929000,
+          "price": 884000,
+          "credit": 919000,
           "image": "https://admin.redstore.am/storage/products/61625/image/15-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16403,8 +16476,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 894000,
-          "credit": 929000,
+          "price": 884000,
+          "credit": 919000,
           "image": "https://admin.redstore.am/storage/products/61624/image/102-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16419,8 +16492,8 @@
           "storage": "1TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 894000,
-          "credit": 929000,
+          "price": 884000,
+          "credit": 919000,
           "image": "https://admin.redstore.am/storage/products/61622/image/bezymiannyi-1-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16499,8 +16572,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1164000,
-          "credit": 1199000,
+          "price": 1154000,
+          "credit": 1189000,
           "image": "https://admin.redstore.am/storage/products/61629/image/88-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16515,8 +16588,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1164000,
-          "credit": 1199000,
+          "price": 1154000,
+          "credit": 1189000,
           "image": "https://admin.redstore.am/storage/products/61628/image/99-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16531,8 +16604,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "esim",
-          "price": 1164000,
-          "credit": 1199000,
+          "price": 1154000,
+          "credit": 1189000,
           "image": "https://admin.redstore.am/storage/products/61626/image/100-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16547,8 +16620,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 1234000,
-          "credit": 1269000,
+          "price": 1224000,
+          "credit": 1259000,
           "image": "https://admin.redstore.am/storage/products/61643/image/101-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16563,8 +16636,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 1234000,
-          "credit": 1269000,
+          "price": 1224000,
+          "credit": 1259000,
           "image": "https://admin.redstore.am/storage/products/61645/image/88-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16579,8 +16652,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 1234000,
-          "credit": 1269000,
+          "price": 1224000,
+          "credit": 1259000,
           "image": "https://admin.redstore.am/storage/products/61644/image/99-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
@@ -16595,8 +16668,8 @@
           "storage": "2TB",
           "ram": "12GB",
           "sim": "sim-esim",
-          "price": 1234000,
-          "credit": 1269000,
+          "price": 1224000,
+          "credit": 1259000,
           "image": "https://admin.redstore.am/storage/products/61642/image/100-montaznaia-oblast-1.webp",
           "inStock": false,
           "images": [
